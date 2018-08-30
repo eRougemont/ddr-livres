@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Ernest <hi rend="sc">Seillière</hi>, <hi rend="i">Alexandre Vinet, historien de la pensée française</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, octobre 1925, p. 1197-1198.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="1197" xml:id="p1197"/> Peut être n’est-il pas trop tard pour parler du Vinet de M. Seillière, de ce nouveau chapitre qu’il vient d’ajouter à sa grande étude sur les rapports du christianisme et du romantisme. M. Seillière cherchait dans l’époque romantique un témoin dont le jugement eût « l’autorité d’un verdict essentiellement chrétien sur le mysticisme naturiste ». Il ne pouvait trouver mieux que Vinet. Et j’imagine son étonnement à découvrir dans l’œuvre du penseur vaudois la substance originale de la plupart des idées dont lui-même s’est fait le moderne champion. Pour ce qui concerne le Vinet juge des romantiques, il n’a pas eu trop de peine à l’annexer à son propre corps de doctrines critiques. Dirai-je pourtant que je crains qu’il n’ait été incité parfois, et presque inconsciemment, à gauchir légèrement la pensée de Vinet pour lui ajuster sa terminologie particulière ? Mais par ailleurs Vinet déborde le « sellièrisme » de tout son mysticisme <hi rend="i">protestant</hi>. Et cela n’est pas sans gêner M. Seillière. C’est peut-être pourquoi il insiste sur le fait que Vinet se déclarait « un chrétien sans épithète ». Croit-il éluder <pb n="1198" xml:id="p1198"/><pb n=""/> ainsi <seg rend="endnotecharacters"><note place="end"><seg rend="endnotecharacters"/> Texte original : « croit-il éluder par ainsi ».</note></seg> le protestantisme de Vinet ? Ne voit-il pas que rien n’est plus protestant qu’une telle attitude ?</p>
+      <p>Mais ces réserves sont de peu d’importance si l’on songe au service que M. Seillière nous rend en réintroduisant dans l’actualité la plus brûlante les richesses intellectuelles et morales du grand vaudois. Vraiment, tout ce qui semble viable et humain dans la critique moderne du romantisme, Vinet l’avait trouvé. Mais sa position purement chrétienne<hi rend="i"> —</hi> un mysticisme de cadre solidement moral, c’est-à-dire rationnel, dit M. Seillière<hi rend="i"> —</hi> me paraît infiniment plus forte que celle d’un Maurras ou que celle d’un Maritain. Son unité est plus réellement profonde, son point d’appui plus central. Pour notre époque déchirée entre un thomisme et un nihilisme exaspérés, pour notre nouveau mal du siècle, il n’est peut-être pas de pensée plus vivante, ni de plus tonique que celle de ce « Pascal protestant ».</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Otto <hi rend="sc">Flake</hi> <seg rend="endnotecharacters"><note place="end">Texte original : « Flasce ».</note></seg>, <hi rend="i">Der Gute Weg</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, septembre 1925, p. 1163.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="1163" xml:id="p1163"/><pb n=""/> Dans l’atmosphère trouble où s’agite l’Allemagne nouvelle<hi rend="i"> —</hi> et peut-être parce qu’il sait en sortir parfois<hi rend="i"> —</hi> M. Otto Flake a gardé son bon sens et son sang-froid. Et si l’on a pu reprocher à ses tableaux de l’Europe qu’il vient de parcourir quelque superficialité, du moins faut-il le louer d’avoir conservé une vision générale de notre temps et un évident besoin d’impartialité.</p>
+      <p>Son art bénéficie de cette vision. Je ne saurais résumer les nombreuses péripéties de son dernier roman sans exposer et discuter toutes les idées qu’elles illustrent. Les personnages discutent certes, mais leurs actions sont les meilleurs arguments. Et peu à peu surgissent d’une accumulation de petites touches précises des types d’après-guerre d’une étrange vérité. Aux prises avec les problèmes sociaux et le luxe le moins apaisant, tournés vers la Russie, vers le passé, vers l’Orient, tentant des amours nouvelles et les fuites les plus folles hors de la réalité, ils forment un cortège pittoresque et désolant à celui qui, revenu de l’étranger dans le désordre de son pays, suivra obstinément le « bon chemin » de la santé et de la raison. C’est à lui que va la sympathie de l’auteur et la nôtre.</p>
+    </body>
+  </text>
+</TEI>

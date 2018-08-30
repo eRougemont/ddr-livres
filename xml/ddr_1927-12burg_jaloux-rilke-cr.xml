@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Edmond <hi rend="sc">Jaloux</hi>, <hi rend="i">Rainer Maria Rilke</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, décembre 1927, p. 787-788.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="787" xml:id="p787"/> À ceux qui se contentent du mot <hi rend="i">fumeux</hi> pour caractériser tout lyrisme germanique, il faudra opposer l’excellent petit livre d’Edmond Jaloux. C’est un recueil de divers articles et essais, dont certains<hi rend="i"> —</hi> le <hi rend="i">Message de Rilke —</hi> sont du meilleur Jaloux, de ce Jaloux qui sait parler mieux que personne des poètes scandinaves et des romantiques allemands parce qu’il partage avec eux ce goût du rêve préféré à la vie,<hi rend="i"> —</hi> à ce qu’on appelle la vie. Jaloux, qui a rencontré plusieurs fois Rilke, trace de lui un portrait qu’on dirait, en peinture, très « interprété ». Non pas une photographie morale, mais une sorte de synthèse de l’homme et de l’homme dans son œuvre, qui est peut-être plus vraie que le vrai, je veux dire, plus rilkienne que ne fut Rilke. Rilke y apparaît comme une de ces âmes mystiques et raffinées telles qu’on en découvre chez certaines femmes et l’on y voit une préciosité sentimentale qui touche à la névrose ou bien simplement une clairvoyance exceptionnelle, suivant que l’on juge au nom d’une science ou au nom de l’esprit.</p>
+      <p>« Pour moi qui aime plus que tout la poésie, écrit Jaloux, aussitôt que je vis Rilke, je compris que cet univers dont je rêvais n’était pas un objet de songe mais d’expérience ». Mais une telle « expérience », je crois, ne peut être sensible qu’à des êtres pour qui elle est en somme inutile : parce qu’ils possèdent déjà, au moins obscurément, le sens des réalités sur lesquelles s’opère l’expérience. On ne prouve la religion qu’aux convertis<hi rend="i"> —</hi> qui n’ont plus besoin de preuves. Il reste qu’un livre comme celui-ci tend un merveilleux piège sentimental à la raison raisonnante. Et qu’il nous mène un peu plus loin que la sempiternelle « stratégie littéraire », de gazetiers ; au cœur de ces sujets qui paraît-il, ne sont pas d’actualité : la solitude, la maladie, la peur.</p>
+    </body>
+  </text>
+</TEI>

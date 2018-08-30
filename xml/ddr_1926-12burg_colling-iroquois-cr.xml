@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Alfred <hi rend="sc">Colling</hi>, <hi rend="i">L’Iroquois</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, décembre 1926, p. 810-811. </title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="810" xml:id="p810"/> Ce roman a le charme d’un automne, une amertume enveloppée, une atmosphère trop claire où les cris se font un peu aigres et les couleurs fluides. Toute la tendresse que ranime un soleil lointain va tourner en cruelle mélancolie.</p>
+      <p>Pourquoi, Henri de Closain, quitter le domaine enchanté où des <pb n="811" xml:id="p811"/> amis très fins, précieux poètes, dissertent sur leurs fantaisies ? Ç’aurait été si délicieusement invraisemblable… Mais ce cœur fatigué se reprend à souffrir, il ne sait plus de quels souvenirs ; jusqu’au soir où la douleur nette d’un amour réveillé l’envahit. Et Closain rencontre, dans l’inévitable bar, le couple de juifs espagnols qui va l’entraîner avec son mauvais cœur, dans une aventure incertaine et douloureuse ; enfin Orpha, sa maîtresse, le fuit, parce que son silence devient insupportable : « Orpha ne comprenait pas comment on pouvait tant souffrir et ne plus aimer ». Closain se tue pour finir le livre. Livre charmant et bizarre, où la sentimentalité moderne trouve l’expression ironique qui lui convient, mais ici mêlée à une émotion plus grave, qui transparaît parfois et nous fait regretter que l’auteur ne se soit pas mieux abandonné à son sujet, d’un pathétique assez neuf.</p>
+    </body>
+  </text>
+</TEI>

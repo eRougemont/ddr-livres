@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« <hi rend="i">Manifeste au service du personnalisme</hi> par Emmanuel Mounier (Ed. Montaigne) », <hi rend="i">L’Ordre nouveau</hi>, 4<hi rend="sup">e</hi> année, n° 34, octobre 1936, p. 64</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="64" xml:id="p64"/> Ce texte marquera un moment important dans l’évolution du personnalisme : le moment du regroupement doctrinal, après quelques années de recherches « pluralistes », forcément tâtonnantes, et au seuil d’une action plus vivement <hi rend="i">engagée</hi>, que tout nous porte à souhaiter commune.</p>
+      <p>Quelle que soit notre méfiance à l’endroit des synthèses tactiques ou doctrinales, nous ne pouvons formuler ici que des réserves provisoires : les passages sur le travail « obligation universelle », sur le rôle de l’état, — en quoi Mounier voit le « garant » du statut de la personne ! — et l’emploi équivoque de termes tels que « décentralisation » ou « région » doivent être considérés, croyons-nous, comme de simples inconséquences, si nous comprenons le contexte. (Il faudrait prendre garde de cultiver certain pluralisme de vocabulaire, dans le seul domaine où l’unité serait sans doute une garantie d’efficacité.) Mais ce qui nous importe, avant tout, c’est de retrouver intégrées à la position d’<hi rend="i">Esprit</hi> les notions de minimum vital intérieur et européen, de service civil (appelé ici service public), d’entreprise (et non pas de corporation !), de Conseil suprême enfin, et la distinction entre autorité et pouvoir.</p>
+      <p>Nous voulions simplement, à la dernière minute, souligner des promesses d’accord aussi solides.</p>
+    </body>
+  </text>
+</TEI>

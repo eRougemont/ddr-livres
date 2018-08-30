@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de C.-<hi rend="sc">C. Rivier</hi>, <hi rend="i">L’Athée</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, mai 1926, p. 661.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="661" xml:id="p661"/><pb n=""/> C’est le récit de la découverte de Dieu par une jeune fille élevée dans l’athéisme. Invraisemblablement ignorante de toute religion jusqu’à vingt ans, Denise s’abandonne à « la vie », laquelle<hi rend="i"> —</hi> un peu aidée par l’auteur<hi rend="i"> —</hi> lui révèlera peu à peu le sens divin de la destinée.</p>
+      <p>Ce livre à thèse est plutôt une argumentation à coups d’exemples vivants qu’un véritable roman. La profusion souvent facile des incidents et le style volontairement sec permettent de suivre sans passion ni fatigue le développement un peu théorique mais intelligent d’un problème que l’on pressent trop complètement résolu dès les premières pages, mais qu’il faut louer M<hi rend="sup">me</hi> Rivier d’avoir posé courageusement.</p>
+      <p>Dirai-je que l’abus des points d’exclamation<hi rend="i"> —</hi> trait commun à presque toutes les femmes-auteur, et qui plaît aux lectrices<hi rend="i"> —</hi> m’agace un peu ? C’est une vétille.</p>
+    </body>
+  </text>
+</TEI>

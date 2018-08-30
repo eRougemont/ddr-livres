@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Jacques <hi rend="sc">Spitz</hi>, <hi rend="i">La Croisière indécise</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, décembre 1926, p. 810.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="810" xml:id="p810"/> L’auteur veut amuser en nous quelques idées graves en leur présentant les miroirs de personnages cocasses à souhait, qui manifestent, avec un certain manque de conviction et des poses de mannequins, les tendances contradictoires d’un individu. C’est pour traiter ce sujet pirandellien qu’on s’embarque dans une croisière de vacances, qui finit par un naufrage dans la littérature, le navire succombant sous les allégories. L’étonnant, c’est que le livre soit réellement amusant, et qu’il trouve une sorte d’unité vivante dans le rythme des désirs jamais simultanés de ses petits héros. M. Spitz cherche à faire sourire, on le sent ; pourtant l’on sourit : il faut bien croire qu’il y a là un talent, charmant, glacé, spirituellement « poétique ».</p>
+    </body>
+  </text>
+</TEI>

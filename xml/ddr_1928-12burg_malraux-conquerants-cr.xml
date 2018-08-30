@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de André <hi rend="sc">Malraux</hi>, <hi rend="i">Les Conquérants</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, décembre 1928, p. 1547-1548.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="1547" xml:id="p1547"/> Ce récit de la révolution cantonaise en 1925 nous place au nœud du monde moderne : on y voit s’affronter en quelques hommes d’action les forces caractéristiques du temps<hi rend="i"> —</hi> argent, races<hi rend="i"> —</hi> et ses rares passions, qui sont la domination et la démolition, l’organisation et le sabotage. On y découvre le jeu des tempéraments qui fait opter ces chefs pour l’une ou l’autre de ces attitudes. (Elles ne sont pas essentiellement contradictoires : elles représentent deux manières de sentir l’unité d’une époque obsédée d’action.) Autour de ces individus<hi rend="i"> —</hi> chinois nationalistes ou terroristes, Européens expérimentateurs, juifs russes méthodiques<hi rend="i"> —</hi> s’émeuvent les masses de coolies, d’ouvriers armés, toute cette Chine qui s’éveille au sein même de la lutte qui met aux prises l’Europe et le monde du Pacifique.</p>
+      <p>On retrouvera ici beaucoup des idées que la <hi rend="i">Tentation de l’Occident</hi> exprimait sous une forme abstraite et poétique. Mais cette fois tout est concrétisé en hommes, en meurtres, en décrets.</p>
+      <p>Qu’il décrive la vie intense et instable des acteurs du drame, l’aspect quotidien et mystérieux d’une révolution de rues, ou la palpitation inquiétante des villes chinoises, Malraux fait preuve d’un art du détail où se révèle le vrai romancier. On serait parfois tenté de le rapprocher de Morand, mais il est plus nerveux, sans doute aussi plus sensible. Et il ne se borne pas à des effets pittoresques : ce récit coloré et précis, admirablement objectif, est aussi, mais à coups de faits, une discussion d’idées. Il est surtout la description d’une angoisse que le nihilisme de M. Malraux veut sans issues : l’angoisse que fait naître au cœur du monde contemporain l’absurdité de ses ambitions. Écoutons Garine, l’un de ces chefs (c’est lui qui parle au nom de l’auteur, je pense) : « Il me semble que je lutte contre l’absurde humain, en faisant ce que je fais ici… » L’évasion dans l’action<hi rend="i"> —</hi> révolutionnaire ou autre<hi rend="i"> —</hi> rêvée par tant de jeunes hommes de l’après-guerre, Malraux l’a vécue, avant de la décrire ; et cet aveu de Garine est décisif : « La Révolution… tout ce qui n’est pas elle est pire qu’elle… » Expérience faite, l’absurde retrouve ses droits.</p>
+      <p>C’est ainsi que, masqué par l’enchaînement passionnant de <pb n="1548" xml:id="p1548"/><pb n=""/> l’action, il se dégage de ce roman un désespoir sec, sans grimace. Cette intelligence et cette sensibilité ont quelque chose de trop aigu, de dangereux. Mais qu’elles s’appliquent à distinguer les forces déterminantes de l’heure, à les exprimer en un tel drame, et voici André Malraux au premier rang des romanciers contemporains.</p>
+    </body>
+  </text>
+</TEI>

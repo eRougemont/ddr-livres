@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Sherwood <hi rend="sc">Anderson</hi>, <hi rend="i">Mon père et moi</hi> et <hi rend="i">Je suis un homme</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, janvier 1929, p. 123-124.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="123" xml:id="p123"/> Le critique se sent désarmé et légèrement absurde en face d’un récit comme celui d’Anderson : voici un homme qui raconte sa vie avec une émouvante simplicité et il faudrait avoir la grossièreté de lui répondre d’un air connaisseur que c’est bien composé. J’avoue prendre cette autobiographie tellement au sérieux que j’ai été bien étonné du passage où il rappelle qu’il écrit la vie d’un homme de lettres. En réalité, on ne le voit pas encore apparaître sous cet aspect dans ces deux premiers tomes, où il décrit des scènes de son enfance et de sa jeunesse comme ouvrier.</p>
+      <p>L’art d’Anderson est étonnant d’apparente simplicité. Le récit s’avance à une allure libre et tranquille, anglo-saxonne et peu à peu entraîne tout un branle-bas d’évocations hautes en couleur, de rêves, de visages, tandis que ç[à] et là s’ouvrent des perspectives saisissantes sur l’époque. Anderson est avant tout un poète, un homme qui aime inventer et que cela console des nécessités modernes, dégradantes. Cet amour de l’invention romanesque considérée comme une revanche de la poésie<hi rend="i"> —</hi> mais à Chicago on doit appeler ça du <hi rend="i">bluff —</hi> fait de lui sans doute le plus méridional des conteurs américains. Avec cela, un réalisme, plein de verdeur et souvent d’amertume. Mais là où d’autres placeraient le couplet humanitariste, lui s’en va dans un rêve, ou dans un autre souvenir. Qui parmi nous sait encore parler de sa mère avec cette virile et religieuse tendresse ? C’est un Chinois, c’est un Américain qui viennent nous rapprendre que les sources de la poésie sont dans notre maison.</p>
+      <p>Voici un de ces passages où il sait être, avec sa verve doucement comique, si émouvant : « À cette époque je croyais fortement en l’existence d’une espèce de secrète et à peu près universelle conspiration pour insister sur la laideur. “C’est une frasque de gosses à laquelle nous nous livrons, voilà tout, moi et les autres”, me disais-je parfois, et il y avait des moments où j’arrivais presque à me convaincre que si je m’approchais tout à coup par derrière d’un homme ou d’une femme quelconque, et disais “houu !” il ou elle se secouerait enfin, que moi aussi je me secouerais, et que nous nous en irions bras-dessus bras-dessous en riant de nous-mêmes et de tout le reste, nous amusant comme des fous ».</p>
+      <p>Mais non, on ne le secouera pas, ce cauchemar, ce monde moderne, <pb n="124" xml:id="p124"/> ce monde de fous qui n’ont plus que leur raison, ce monde où l’on ne sait plus créer avec joie des formes belles, ce monde qui devient impuissant.</p>
+      <quote>
+        <p>Impossible d’évoquer un personnage précis pour lui faire endosser le blâme, mais comme l’homme nommé Ford, de Détroit, a contribué davantage que n’importe quel autre de mon temps à faire aboutir la <hi rend="i">standardization</hi> à sa fin logique, ne pourrait-il pas être considéré un jour comme le grand tueur de son époque ? Rendre impuissant c’est à coup sûr tuer. Or on parle de l’élever à la présidence de la République. Qu’un tel acte serait adéquat ! Tamerlan, dont la spécialité était l’assassinat du corps humain, mais qui raconte dans son autobiographie que son désir constant était que tous les hommes vivant sous lui conservassent la virilité et le respect de soi était de son temps le souverain du monde. Tamerlan pour les anciens. Ford pour les modernes.</p>
+      </quote>
+      <p>Quelle décadence !</p>
+    </body>
+  </text>
+</TEI>

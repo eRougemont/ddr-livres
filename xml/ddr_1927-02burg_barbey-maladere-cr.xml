@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Bernard <hi rend="sc">Barbey</hi>, <hi rend="i">La Maladère</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, février 1927, p. 265.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="265" xml:id="p265"/><pb n=""/> « Quel admirable sujet de roman, écrit Gide, au bout de quinze ans, de vingt ans de vie conjugale, la décristallisation progressive et réciproque des conjoints. » On sait que Beyle appelait cristallisation une fièvre d’imagination qui orne de beautés illusoires l’objet de l’amour. Mais les jeunes gens de ce temps ne cultivent point cette fièvre. Et comme la morale ne sait plus leur imposer de feindre encore ce que le cœur ne ressent plus, il suffit de quelques mois aux jeunes époux de la Maladère <seg rend="endnotecharacters"><note place="end"><seg rend="endnotecharacters"/> Texte original : en romain.</note></seg> pour se déprendre de leurs rêves. Un malentendu grandit entre eux dans leur isolement, inexplicable et mal avoué. L’on songe à une fatalité intérieure qui les ferait se meurtrir l’un l’autre. Pourtant, jusqu’au bout, il semble qu’un mot, un geste décisif, ou certaine amitié de la saison suffirait à dissiper le charme perfide qui les tourmente. Mais il faudrait d’abord qu’ils se soient délivrés d’eux-mêmes pour que ce mot, ce geste, soient possibles. C’est d’Armande surtout qu’on les attendrait, plus franche d’allure. On ne sait ce qui la retient : son amour ? son manque d’amour ? Pour Jacques, il souffre d’une incurable adolescence, d’un défaitisme sentimental qui l’empêtre de réticences, et le fait jouer bien maladroitement son rôle d’homme… « Captif de sa propre jeunesse. » C’est ici un autre sujet du roman, qui se mêle étroitement au premier… Mais combien cette analyse trahit Barbey : son art est justement de voiler les intentions du récit et de les exprimer seulement par un geste, une nuance du paysage, une image qu’on garde comme un pressentiment. Ce n’est qu’à force de discrétion dans les moyens qu’il parvient à une certaine puissance de l’effet, aux dernières pages. Il règne dans <hi rend="i">la Maladère</hi> une étrange harmonie entre le climat des sentiments et celui des campagnes désolées où ils se développent. Paysages tristes et sans violence, autour de ces êtres dont la détresse est d’autant plus cruelle qu’elle est contenue sous des dehors trop polis. Une fois fermé le livre de Barbey, on oublie la justesse de son analyse pour n’évoquer plus que des visions où se condense le <hi rend="i">sentiment</hi> du récit. Dans le <hi rend="i">Cœur gros</hi>, c’était un parc avant l’orage, le rose sombre d’une joue brûlante et fraîche dans le vent. Et dans <hi rend="i">la Maladère</hi>, un arbre coupé découvrant le manoir perdu, des fumées sur un paysage d’hiver et soudain sous la lueur d’un incendie, deux visages tordus de passion. Cette fin est admirable, dont la brutalité si longtemps désirée délivre Jacques d’un passé obsédant, d’une jeunesse trop complaisante à son tourment.</p>
+    </body>
+  </text>
+</TEI>

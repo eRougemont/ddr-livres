@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Marguerite <hi rend="sc">Allotte de la Fuye</hi>, <hi rend="i">Jules Verne, sa vie, son œuvre</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, juin 1928, p. 768-769.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="768" xml:id="p768"/> Livre passionnant pour tous ceux que Jules Verne passionne. Pour les autres, divertissant et spirituel.</p>
+      <p>Pourquoi ne veut-on voir en Jules Verne qu’un précurseur ? Jules Verne est un créateur, dont les inventions se suffisent et suffisent à notre joie. Ce ne sont pas les savants qui sont prophètes, mais les poètes. Or Jules Verne fut poète avant tout<hi rend="i"> —</hi> et ce livre le fera bien voir aux sceptiques. Il a aimé la science parce qu’elle ouvre des perspectives d’évasion<hi rend="i"> —</hi> où seuls les poètes savent se perdre. Et c’est bien sa plus grande ruse que d’avoir emprunté le véhicule à la mode pour conduire des millions de lecteurs dans un monde purement fantaisiste où les équations tyranniques deviennent de merveilleux calembours, où les savants sont <hi rend="i">réellement</hi> dans la lune, ou bien descendent au fond des mers adorer la Liberté et jouer de l’orgue sous les yeux de poulpes géants. Jules Verne a véritablement soumis la science à la poésie. Et l’on ne veut voir que jolis livres d’étrennes dans les œuvres du plus grand créateur de mythes modernes, du seul écrivain dont l’influence soit comparable à celle du cinéma ! Claretie raconte que les détenus des maisons de correction se jetaient sur ces volumes « au travers desquels ils respiraient l’air du monde ». N’en ferons-nous pas autant, emprisonnés que nous sommes dans une civilisation qui, selon l’expression de Jules Verne désabusé « emprunte l’aspect d’une nécessité » (et dans la bouche de ce libertaire, cela constituait un jugement !)</p>
+      <p><pb n="769" xml:id="p769"/><pb n=""/> Serons-nous longtemps encore dupes d’une conception de la littérature si pédante qu’elle exclut un de nos plus grands conteurs sous prétexte qu’il n’est styliste ni psychologue ? Laisserons-nous Jules Verne aux enfants ? J’allais oublier que la littérature enfantine est le dernier bateau. Pour ce coup, voilà qui ne m’empêchera pas d’y monter, il suffit que cet obsédant capitaine Nemo soit à bord, je soupçonne que ce bateau n’est autre que <hi rend="i">La Liberté</hi>.</p>
+    </body>
+  </text>
+</TEI>

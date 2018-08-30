@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« La littérature rajeunit (Échos) », <hi rend="i">L’Ordre nouveau</hi>, 4<hi rend="sup">e</hi> année, nº 27, 15 janvier 1936, p. 47-48</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="47" xml:id="p47"/> On a pu lire récemment dans le plus « littéraire » de nos hebdomadaires, l’écho suivant, intitulé <hi rend="i">Les Anciens et les Jeunes</hi>.</p>
+      <p>« Depuis la disparition de Paul Bourget, le doyen d’élection à l’Académie française est M. Gabriel Hanotaux, élu en 1897, au 27<hi rend="sup">e</hi> fauteuil.</p>
+      <p><pb n="48" xml:id="p48"/> Avec lui, 6 académiciens ont été élus avant la guerre <hi rend="i">(suivent les noms)</hi>.</p>
+      <p>Depuis 1930, l’Académie a élu 13 membres nouveaux <hi rend="i">(suivent les noms).</hi></p>
+      <p>Ainsi, en 5 ans, plus du quart de l’effectif des Quarante s’est trouvé renouvelé. »</p>
+      <p>On ignore trop ces choses. Surtout dans la « jeunesse » qui perd son temps à chômer alors qu’il y avait tant à faire dans le domaine de la littérature désintéressée.</p>
+      <p>Quel est le jeune amoureux des Lettres qui aura gardé assez de fraîcheur d’Âme et de goût des choses de l’Esprit pour entreprendre une statistique complète des renouvellements fractionnels de l’Académie de cinq en cinq ans, de l’origine jusqu’à 1930 ? Ce travail de base permettrait de résoudre un délicat problème de Critique littéraire : calculer l’âge du capitaine, — un certain Doumic.</p>
+    </body>
+  </text>
+</TEI>

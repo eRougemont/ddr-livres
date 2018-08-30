@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« À propos d’une conversation avec un SA (Échos)<note place="bottom"><seg rend="footnotecharacters"/> Cf. <hi rend="i">L’Ordre nouveau</hi>, nº du 15 décembre 1935, page 38.</note> », <hi rend="i">L’Ordre nouveau</hi>, 4<hi rend="sup">e</hi> année, n° 27, 15 janvier 1936, p. 48</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="48" xml:id="p48"/> D. de Rougemont nous écrit d’Allemagne : « L’ami XXX n’a pas dû lire <hi rend="i">Mein Kampf</hi>. Ce n’est pas une “autobiographie” mais un ouvrage de combat, comme son nom l’indique, et sa doctrine. Autre erreur : je vois passer sous ma fenêtre, deux fois par semaine, des sections d’assaut en ordre de marche. Ils vont par <hi rend="i">3</hi> et non par <hi rend="i">4</hi>. Je me suis fait dire par quelqu’un de bien renseigné que c’était afin d’éviter une apparence trop militaire. Et, en effet, il faut reconnaître que cela change tout. Soyons exacts. »</p>
+    </body>
+  </text>
+</TEI>

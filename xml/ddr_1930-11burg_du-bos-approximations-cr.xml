@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Charles <hi rend="sc">Du Bos</hi>, <hi rend="i">Approximations, 4<hi rend="sup">e</hi> série</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, novembre 1930, p. 656-658.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident="en"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <quote>
+        <p><pb n="656" xml:id="p656"/> Je n’ai jamais cherché rien d’autre que <hi rend="i">d’approcher</hi> mon sujet, en m’identifiant d’aussi près qu’il m’était possible, non seulement au point de vue, mais à la complexion, à la nature même de l’auteur,<hi rend="i"> —</hi> laissant à l’approfondissement psychologique et aux inflexions variables du ton <pb n="657" xml:id="p657"/> chaque fois adopté le soin de dégager comme par transparence le jugement implicite que, sur le plan de la qualité pure, je persiste à tenir pour le plus efficace.</p>
+      </quote>
+      <p>Ce n’est peut-être pas fortuitement que M. Charles Du Bos a placé cette parfaite définition de sa manière au seuil de la 4<hi rend="sup">e</hi> série de ses <hi rend="i">Approximations</hi> ; elles forment, tant par les sujets abordés que par le style des « approches », le livre le plus significatif de son tempérament critique.</p>
+      <p>Le style d’abord : on y retrouve, appliqué aux mots, ce même sens à la fois scrupuleux et assuré de la <hi rend="i">qualité</hi>, qui est ce qu’avant tout l’on doit admirer chez M. Du Bos. Et dans l’allure des phrases, le rythme même de sa pensée. Parfois certes, un peu gêné par la lenteur de certains méandres, aimerait-on les sentir moins insistants, moins concertés. Mais n’est-ce pas là un défaut qui relève de la nature même d’un esprit « critique » dans l’exercice de sa probité ? Défaut combien plus précieux que l’élégance à bon marché qu’on nous prodigue dans la presse.</p>
+      <p>Les sujets : Walter Pater, Tolstoï, Hardy, Stefan George, Hofmannsthal. Que Charles Du Bos mérite aujourd’hui l’un des premiers rangs dans la critique européenne, l’ampleur du champ qui lui est naturellement nécessaire suffirait à l’indiquer. Mais ce qui l’établit sans conteste dans une classe internationale<hi rend="i"> —</hi> comme on dirait en style sportif<hi rend="i"> —</hi> c’est l’aisance avec laquelle il aborde un Pater, un George non pas autrement qu’il n’aborderait un génie français, et sur un pied véritablement européen. L’envergure en quelque sorte géographique d’une telle enquête suppose une <hi rend="i">Weltanschauung</hi> correspondante en profondeur. Il la possède. On peut dire de sa critique qu’elle pose le problème de l’homme dans sa totalité, et c’est je crois l’éloge de choix. Mais de ce problème central, qui déborde le plan esthétique, la littérature ne constitue pas moins un cas privilégié. Et parce que M. Du Bos ne cesse de la soumettre à des contrôles éthiques autant qu’esthétiques, il lui rend l’humilité et la dignité qui tout ensemble lui conviennent. On le conçoit, ce n’est pas là se rendre la tâche facile. Cernant de toutes parts son sujet, M. Du Bos choisit des bases d’approche parfois si éloignées, et progresse par des voies si subtiles qu’il ne doit qu’à un sens exceptionnel de l’orientation dans le monde de l’esprit la sécurité de sa marche vers le centre d’une œuvre. La méthode de M. Du Bos est la plus propre à dégager l’élément spécifique des génies qu’elle « approche » : on pourrait l’appeler une <hi rend="i">critique des obstacles</hi>. Je veux dire par là que M. Du Bos parvient à recréer comme pour son compte, tant il y apporte de pressante intuition, les « problèmes » qui contraignirent tel génie à produire son œuvre. Le danger de cette méthode, c’est que, donnant un nom à chaque problème, l’« hypostasiant » en quelque mesure, elle risque de nous laisser l’image d’un auteur plus conscient de ses propres difficultés que ne saurait l’être le créateur. Car une telle conscience appartient au critique avant tout, et c’est pourquoi il fait de la <pb n="658" xml:id="p658"/> critique en présence des obstacles qu’il rencontre, là où le créateur, supposant le problème résolu (Racine), fait une œuvre d’art. Ou bien encore, l’artiste, usant de cette sorte de désinvolture qui lui est naturelle, confie à des figures le soin hasardeux de résoudre ses antinomies (Gœthe) ; que si elles y échouent, il restera du moins des personnages ! Mais la grandeur d’un Du Bos, n’est-elle pas précisément dans son refus de sacrifier jamais l’éthique à l’esthétique, et dans ce sens chez tant d’autres émoussé, et qu’il exerce avec une intelligence et une autorité aujourd’hui sans secondes : le sens de la responsabilité de l’écrivain.</p>
+    </body>
+  </text>
+</TEI>

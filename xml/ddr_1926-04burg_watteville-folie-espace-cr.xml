@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Alix de <hi rend="sc">Watteville</hi>, <hi rend="i">La Folie de l’espace</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, avril 1926, p. 531.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="531" xml:id="p531"/> Un artiste de grand talent à qui la guerre a fait perdre le gout des théories d’écoles et de quelques autres plaisirs pour civils : mettez-le aux prises avec une petite cité patricienne dont il devra portraiturer les gentilshommes archéologiques et les vieilles dames à principes.</p>
+      <p>Voilà, n’est-ce pas, un amusant sujet de conte moral, avec ses personnages un peu conventionnels et l’invraisemblance assez piquante de ses péripéties. Quel dommage que l’auteur l’ait alourdi d’une idéologie, souvent plus généreuse que neuve, et qui eût gagné à être mise en action plutôt qu’en commentaires. Le talent de M<hi rend="sup">me</hi> de Watteville paraît mieux à l’aise dans la description du milieu patricien que dans la création d’un caractère de grand peintre. Pourtant, malgré des longueurs, on ne lira pas sans plaisir ce livre où l’on voit un homme appeler en vain le vent du large, parmi des gens qui craignent de s’enrhumer.</p>
+    </body>
+  </text>
+</TEI>

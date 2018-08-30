@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Paul <hi rend="sc">Eluard</hi>, <hi rend="i">Capitale de la douleur</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, mai 1927, p. 693-694.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="693" xml:id="p693"/> Nocturnes aux caresses coupantes comme certaines herbes. Capitale de la douleur, ce sont de belles syllabes sereines, et dans cette ville, Éluard est le plus séduisant, le plus dangereusement gracieux des noctambules. Rêves éveillés, entre deux gorgées d’un élixir dont il voudrait bien nous faire croire que le diable <pb n="694" xml:id="p694"/> est l’auteur. Beaucoup d’oiseaux volètent, se balancent au bord des verres, se posent sur les cordes d’une lyre dont ils font grésiller l’accord, une patte en l’air, becquètent le cœur d’une femme qui va les étrangler doucement. Ces vers sont de jolies flèches empoisonnées. Quelque chose, tout de même, de laqué, d’élégant, de « bien français » ; et le mot sang n’évoque ici qu’une tache de couleur, plus sentimental que cruel. « J’ai la beauté facile et c’est heureux. » Il y a aussi un certain tragique, mais au filet si acéré qu’on ne sent presque pas sa blessure.</p>
+      <p>Mais c’est ici qu’il s’agit de ne pas confondre inexplicable avec incompréhensible.</p>
+    </body>
+  </text>
+</TEI>

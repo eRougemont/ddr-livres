@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Henri <hi rend="sc">Michaux</hi>, <hi rend="i">Mes propriétés</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, mars 1930, p. 384.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="384" xml:id="p384"/><pb n=""/> Si vous avez la curiosité, mieux, le goût des esprits singuliers, si vous croyez que c’est par l’extrême pointe du <hi rend="i">singulier</hi> que l’esprit pénètre dans la poésie, vous lirez <hi rend="i">Mes Propriétés</hi>. Il se peut que vous les trouviez médiocrement riantes, au premier coup d’œil, assez dénuées de ces effets faciles qu’on aime à ménager dans un jardin à la française. Mais vous ne tarderez pas à remarquer que tout, ici, est original, indigène, tant l’allure des sentiers qui vous mènent tranquillement aux points de vue les plus cocasses, que la forme des fleurs, que les animaux qui circulent.</p>
+      <p>Un auteur qui n’imite personne court bientôt le risque de s’imiter soi-même : il semble au contraire qu’Henry Michaux, en se cantonnant franchement dans ses propriétés, y découvre sans cesse de nouvelles sources. Il défriche et il fabrique, soit qu’il se décrive comme un lieu de miracles le plus souvent malencontreux, ou qu’il invente des animaux dont la complexité ne le cède en rien à celle de l’introspection la plus poussée. Il invente aussi des mots et en fait de courts poèmes d’une divertissante et parfois émouvante bizarrerie (<hi rend="i">Mort d’un Page</hi>). Cependant je préfère ses proses : il y a ici plus qu’une manière et qu’un ton, il y a une vision du monde véritablement neuve, dans laquelle l’âme, agissant à la façon d’une force physique, déforme et recrée le réel à son gré. Seule compte la réalité intérieure, mais elle apparaît toujours sous forme d’objets.</p>
+      <p>Ce comique triste, ces imaginations délirantes mais parfaitement concrètes, ces tours de phrases d’une familiarité bourrue mais raffinée, cette ivresse verbale jugulée par une constante mauvaise humeur, tout cela compose une atmosphère poétique très dense et active. Depuis longtemps<hi rend="i"> —</hi> depuis les <hi rend="i">Trivia</hi> de Logan Pearsall Smith<hi rend="i"> —</hi> je n’avais pas lu de livre où s’exprimât avec une pareille sécurité dans l’insolite, ce qu’il y a en nous à la fois de plus « problématique » et de plus quotidien.</p>
+    </body>
+  </text>
+</TEI>

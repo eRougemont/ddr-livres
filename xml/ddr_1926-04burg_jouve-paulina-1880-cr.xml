@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Pierre Jean <hi rend="sc">Jouve</hi>, <hi rend="i">Paulina 1880</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, avril 1926, p. 530-531.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="530" xml:id="p530"/> Au creux des couleurs assourdies d’un divan le soir, tandis que les fenêtres s’ouvraient vers le ciel de Florence… « Du sang, de la volupté et de la mort », un titre s’effaçait dans l’ombre. Jouve a rêvé une histoire de passion mystique et de crime, intense et tragique comme un couchant d’automne, émouvante encore après tant d’autres, comme chaque soir un nouveau ciel. Il l’a transcrite en brèves notations lyriques suivant le rythme d’un songe, sans cesse brisé par les élans alternés ou confondus du désir et de la prière. On sort lentement d’une chambre bleue qui est le mystère même, pour suivre la naissance et l’embrasement de la passion de Paulina. Le Péché ; le Couvent ; la rechute et le crime ; et l’étrange apaisement d’une vieillesse au soleil.</p>
+      <p>Jouve semble avoir hésité entre plusieurs styles de roman. Un chapitre d’observation psychologique ironique et minutieuse, à la Stendhal, succède à des effusions haletantes ou à une relation <pb n="5" xml:id="p5"/><pb n="31" xml:id="p31"/> cinématographique. Mais tout cela baigne dans le même lyrisme et s’agite sur un fond sombre et riche de passions inconscientes qui donnent à tous les actes une signification plus profonde. (Il serait aisé de montrer quel parti Jouve a su tirer des complexes de famille freudiens, ou d’analyses de démences mystiques ; mais tout cela est sublimé dans un monde poétique où il paraît inconvenant d’introduire le jargon de la science moderne.)</p>
+      <p>Si nous reconnaissons à la base de cette œuvre inégale des idées vieilles comme Rousseau sur les droits de la passion,<hi rend="i"> —</hi> et dans sa trame quelques chapitres inspirés presque littéralement d’une anecdote italienne de Stendhal ; si d’autre part l’évolution mystique de Paulina semble parfois un peu trop « classique » et prévue, l’originalité foncière du roman de Jouve reste indéniable : c’est son mouvement purement lyrique, sa progression accordée à celle des événements inconscients. Certaines proses mystiques de Paulina au couvent valent les meilleurs poèmes de l’auteur de <hi rend="i">Tragiques</hi> et de <hi rend="i">Vous êtes des hommes</hi>.</p>
+    </body>
+  </text>
+</TEI>

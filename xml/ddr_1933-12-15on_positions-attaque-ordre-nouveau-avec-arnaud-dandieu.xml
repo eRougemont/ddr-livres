@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« Positions d’attaque », <hi rend="i">L’Ordre nouveau</hi>, 1<hi rend="sup">re</hi> année, n° 6, 15 décembre 1933, p. II-III (avec Arnaud Dandieu)</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="II"/> 1° Sans théorie révolutionnaire, pas d’action révolutionnaire.</p>
+      <p>2° Dans l’état présent des choses, il n’y a pas d’ordre concevable sur le plan capitaliste, au déterminisme duquel les soviets n’échappent pas.</p>
+      <p>3° La dialectique historique ne peut que rendre compte du passé — mais seul l’acte créateur opère le changement de plan et permet d’instituer un ordre nouveau.</p>
+      <p>4° Cet acte créateur dont nous faisons dépendre tout l’ordre nouveau, cette « source d’énergie » permanente de la révolution, c’est la personne humaine telle que nous l’avons définie.</p>
+      <p>5° Dans l’« Ordre Nouveau », les institutions reproduisent à tous les degrés le conflit et la tension qui définissent la personne en acte.</p>
+      <p>6° Ces institutions sont :</p>
+      <p>— dans le domaine politique : la petite patrie décentralisatrice et le centre de contrôle doctrinal et juridique ;</p>
+      <p>— dans le domaine économique : les syndicats libres de <pb n="III"/> production et d’instruction professionnelles, d’une part, et de l’autre, le service prolétarien collectif soumis directement à un centre de contrôle économique et statistique.</p>
+      <p>7° Ce régime doit entraîner par son jeu normal la disparition des cadres de l’État et du statut des classes, c’est-à-dire : l’élimination des facteurs décisifs de l’inflation, du chômage et de la guerre moderne économique et militaire.</p>
+      <p>8° C’est au nom d’antagonismes naturels féconds et créateurs que nous voulons éliminer les antagonismes artificiels et destructeurs que fait naître le capitalisme matérialiste.</p>
+      <p>9° Nous sommes avec le prolétariat, par-dessus la tête de ses vieux meneurs, contre la condition prolétarienne.</p>
+    </body>
+  </text>
+</TEI>

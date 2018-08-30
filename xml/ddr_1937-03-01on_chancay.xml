@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« Chançay », <hi rend="i">L’Ordre nouveau</hi>, 5<hi rend="sup">e</hi> année, n° 38, 1<hi rend="sup">er</hi> mars 1937, p. 60-61</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="60" xml:id="p60"/> D’abord, c’est une maison humaine (un seul étage) ou plutôt c’est deux maisons basses réunies par une longue galerie, le tout accoté à une falaise de la Touraine, surmontée d’une forêt et percée de cavernes de troglodytes, dont plusieurs sont des caves, si les autres sont vides. Ensuite ce n’est pas un congrès qui se tient là ; car il n’y a jamais eu de congrès « à hauteur d’homme ». C’est une rencontre improvisée, un rendez-vous de chasse philosophique. Mieux comparé : tout ce que l’on voudra qui évoquerait l’état d’esprit des explorateurs pendant les « reconnaissances » préliminaires. Deux ou trois s’en vont pousser une pointe tandis que les compagnons restés au camp font une partie d’échecs. (Et l’on en fit beaucoup, non sans philosopher sur le plus exactement symbolique de tous les jeux.)</p>
+      <p>L’un pose au petit groupe cette question insidieuse : <hi rend="i">qu’est-ce que créer</hi> ? (Depuis le temps qu’on en parle à l’ON…) Il y a là un mathématicien et un écrivain. Le premier dit : créer, pour moi, c’est découvrir un nouveau théorème. Le second : c’est inventer une expression. On se comprend aussitôt. On s’était compris bien avant. Créer, c’est imposer une <hi rend="i">forme</hi> à… Au « chaos » ? À la « nature » ? À un « donné » inorganique ? Là-dessus s’engage une discussion sur <pb n="61" xml:id="p61"/> <hi rend="i">le réel.</hi> S’il est « donné » ou s’il est seulement « pensé », — les deux hypothèses classiques ne sauraient nous tenter sérieusement. Le réel sera donc <hi rend="i">construit</hi> ! Et l’on met le pied soudain sur ce centre de tout : tous les problèmes s’émeuvent à la fois. Et en ce point, ils ne sont vrais, sérieux, ou dignes d’exciter l’angoisse et le plaisir de la résolution que parce qu’ils vibrent tous <hi rend="i">ensemble</hi> : c’est bien d’ici qu’il faut partir !</p>
+      <p>Chaque journée verra désormais le départ — tout au moins — d’une nouvelle expédition. Je leur donne des noms provisoires : c’est plus tard qu’on verra s’ils étaient vrais.</p>
+      <p>1. <hi rend="i">De l’abstrait</hi>, considéré comme la condition même du concret, c’est-à-dire de l’action créatrice.</p>
+      <p>Et de la distinction rigoureuse qu’il nous faudra maintenir entre l’abstrait ainsi défini, et le « moindre concret », qui n’est que le produit d’un relâchement des prises humaines.</p>
+      <p>2. <hi rend="i">De l’art et de la beauté.</hi> La beauté étant considérée tout simplement comme le produit réussi de l’art, — c’est-à-dire d’une technique. (« du beau travail. ») L’art est alors une <hi rend="i">rhétorique</hi>, non pas au sens injurieux des modernes, mais au sens classique de forme réalisante, d’expression de la profondeur…</p>
+      <p>3. <hi rend="i">Du capitalisme</hi>, considéré comme la maladie spirituelle, et par suite économique, produite en Occident par le refus du concret et de l’acte, avec ce que tout acte comporte de risque dans la création.</p>
+      <p>4. <hi rend="i">De la philosophie</hi>, qu’à la suite du Dr Minkowski, l’on serait tout disposé à traiter comme une « traduction en prose de la poésie »… Sa rhétorique, sa « vérité »…</p>
+      <p>5. <hi rend="i">De la sexualité</hi>, et notamment de la signification de l’ambivalence sémantique présentée par des termes tels qu’acte, création, etc. Puis des rapports indiqués par Kierkegaard entre sexualité, angoisse et esprit, c’est-à-dire, finalement : de la nature des liens entre sexualité et personne.</p>
+      <p>6. Expéditions latérales dans le domaine des <hi rend="i">mythes</hi>, de la <hi rend="i">psychanalyse</hi>, enfin de la <hi rend="i">cosmologie</hi>. (J’en passe.)</p>
+      <p>7. D’une <hi rend="i">philosophie du jeu</hi>, et de l’<hi rend="i">attitude du sérieux</hi>…</p>
+      <p>Arrêtons-nous à ce chiffre sacré, à ces <hi rend="i">sept</hi> jours qui nous menèrent à la nouvelle année tandis que se découvraient de tous côtés les horizons d’une <hi rend="sc">nouvelle encyclopédie</hi>, notre enjeu révolutionnaire.</p>
+    </body>
+  </text>
+</TEI>

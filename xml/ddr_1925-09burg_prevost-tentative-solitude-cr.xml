@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Jean <hi rend="sc">Prévost</hi>, <hi rend="i">Tentative de solitude</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, septembre 1925, p. 1156-1157.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="1156" xml:id="p1156"/> « Dès que nous sommes seuls, nous sommes des fous. Oui, le contrôle de nous-mêmes ne joue que soutenu par le contrôle que les autres nous imposent », dit un héros de Mauriac. C’est un « homme seul » qu’a peint « par le dedans » M. Jean Prévost, en un saisissant raccourci psychologique. « Tout homme normal est fait de plusieurs fous qui s’annulent », écrit-il. Ce fou qui veut être <hi rend="i">soi</hi> purement, qui veut éliminer de soi tout ce qui est déterminé par l’extérieur,<hi rend="i"> —</hi> ce fou que nous portons tous en nous,<hi rend="i"> —</hi> il <pb n="1157" xml:id="p1157"/> l’a isolé, incarné, nommé : Revert. Puis il l’a poussé impitoyablement dans sa recherche d’un absolu qui se trouve être le néant. Pour finir il « l’écrabouille ». L’expérience est terminée. Artificielle comme toute expérience, elle n’en est pas moins probante.</p>
+      <p>Une œuvre d’art que ce petit livre ? C’est avant tout une démonstration ; mais, puissante de sûreté et d’évidence, elle a cette beauté froide et massive d’un théorème de Spinoza. Une ironie dure, la densité du style révèlent seules l’écrivain ; et aussi quelques sentences : « C’est de la faiblesse de nos yeux que frissonnent les étoiles. »</p>
+    </body>
+  </text>
+</TEI>

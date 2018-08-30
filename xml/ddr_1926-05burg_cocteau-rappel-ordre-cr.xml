@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Jean <hi rend="sc">Cocteau</hi>, <hi rend="i">Rappel à l’ordre</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, mai 1926, p. 661-662.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="661" xml:id="p661"/> Sous ce titre, le plus étonnant peut-être qu’il ait trouvé, Jean Cocteau a réuni ce qui me paraît le meilleur de son œuvre : ses récits de critique et d’esthétique (<hi rend="i">Le Coq et l’Arlequin</hi>, la <hi rend="i">Noce massacrée</hi>, le <hi rend="i">Secret professionnel</hi>, etc.) Sans doute faudrait-il préciser ce qu’il entend par <hi rend="i">ordre</hi>, et montrer que si cet ordre l’écarte de Dada, il ne le conduit pas pour autant à l’Académie. Disons pour aller vite que sa recherche de l’ordre révèle simplement <pb n="662" xml:id="p662"/> une volonté de construire jusque dans le grabuge, qu’il aime pour les matériaux qu’on en peut tirer.</p>
+      <p>L[e] malheur de Cocteau est qu’il se veuille poète. Il ne l’est jamais moins qu’en vers. Sa plus incontestable réussite à ce jour est le <hi rend="i">Secret professionnel</hi>, petit catéchisme cubiste qui dépasse de beaucoup les limites de cette école, et qu’il eut le tort à notre sens de vouloir illustrer de pédants exercices poétiques.</p>
+      <p>Mais quelle intelligence, et dont l’audace est de se vouloir plus juste que bizarre. Il sait bien d’ailleurs que les miracles les plus étonnants sont ceux de la lumière. « Le mystère se passe en plein jour et à toute vitesse. » Telle est bien la nouveauté de son théâtre et de l’art qu’il défend en peinture, en musique. Suppression du clair-obscur et de la pénombre. Oter la pédale à la poésie. (« Le poète ne rêve pas, il compte. ») Six projecteurs convergent sur une machine luisante et tournante.</p>
+      <p>L’esprit de Cocteau est une arme admirable de précision, d’élégance mécanique et de rapidité. Il lassera, parce que c’est toujours le même déclic. Cocteau le sait, et pour varier il tire tantôt à gauche tantôt à droite, sur Barrès, sur Wagner, sur quelques fantômes, sur le public. (Bientôt sur lui-même je le crains, pour renaître catholique.) Certes, il bannit le charme et toute grâce vaporeuse. Mais ses fleurs de cristal, si elles sont sans parfum, ne se faneront pas.</p>
+    </body>
+  </text>
+</TEI>

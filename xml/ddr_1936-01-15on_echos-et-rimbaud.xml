@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>«  Et Rimbaud ? (Échos) », <hi rend="i">L’Ordre nouveau</hi>, 4<hi rend="sup">e</hi> année, nº 27, 15 janvier 1936, p. 47</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="47" xml:id="p47"/><pb n=""/> Nul n’ignore qu’une revue « de jeunes » doit parler de Rimbaud et du surréalisme. Tout le reste est charabia. L’ON, par exemple, qui « parle de politique », et même d’économie, brouille absolument « le jeu ». M. Léon Pierre-Quint en prend volontiers son parti. M. Brasillach, lui, le déplore. De son temps, les jeunes parlaient de Rimbaud et allaient au Vieux-Colombier. Faire de la politique, c’était porter une canne ferrée et louer la « rigueur » de Maurras. Hélas. Tout change !</p>
+      <p>Tout change ! comme disait avec beaucoup de simplicité cette vieille princesse russe à qui l’on racontait que sa maison de campagne, aux environs de Moscou, avait été transformée en bordel aux premiers jours de la révolution : puis rasée par les communistes, et qu’à la place on élevait maintenant des milliers de poulets kolkhoziens. Elle souriait gentiment : tout change !…</p>
+      <p>Il y a tout de même certaines choses qui ne changent pas. Rimbaud sera toujours jeune, même si M. Brasillach en parle. Il y aura toujours des chroniqueurs qui auront besoin de parler de Rimbaud pour faire jeune. Il y aura toujours des conservateurs qui trouveront commode de vanter les révoltés de l’autre siècle. Et il y aura toujours quelques hommes pour trouver ça plutôt nigaud.</p>
+      <p>Mais puisqu’on nous invite à parler de Rimbaud, saisissons l’occasion pour dénoncer sa participation à l’un des plus grands crimes de l’Histoire, ce crime contre la civilisation latine que représente la résistance des Éthiopiens. L’on se souvient en effet que Rimbaud vendit des fusils au Négus, — et cela <hi rend="i">en temps de paix</hi>, comble d’hypocrisie !</p>
+    </body>
+  </text>
+</TEI>

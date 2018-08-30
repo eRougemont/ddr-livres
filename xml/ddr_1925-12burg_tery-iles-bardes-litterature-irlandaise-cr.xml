@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Simone <hi rend="sc">Te</hi><hi rend="sc">ry</hi>, <hi rend="i">L’Île des bardes. Notes sur la littérature irlandaise contemporaine</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, décembre 1925, p. 1567.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="1567" xml:id="p1567"/> L’Irlande contemporaine offre un spectacle bien passionnant : celui de la renaissance d’une littérature nationale à la fois cause et effet de la libération politique. Cause, puisque pour mener à chef cette libération, un Yeats, un A.E., bien d’autres, ont su payer de leur personne. Effet, puisque l’héroïsme d’une révolution en faveur du passé, révolution tout de même, ne pouvait produire qu’une littérature très neuve de forme et traditionnaliste d’inspiration, comme fut celle des Yeats, Synge, Joyce même… Trois noms qui permettent, je crois, de parler d’un grand siècle littéraire irlandais ; ce que d’ailleurs M<hi rend="sup">lle</hi> Simone Téry ne fait pas. Car elle veut éviter l’emballement et conserver dans l’admiration son sens critique de Parisienne. C’est une sympathie malicieuse qui anime ses amusants portraits et ses commentaires parfois un peu copieux ; mais elle a la vertu de rendre contagieuse la curiosité de l’auteur à l’endroit de cette âme irlandaise en laquelle s’allient une fantaisie et un réalisme également lyriques.</p>
+    </body>
+  </text>
+</TEI>

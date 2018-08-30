@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Wilfred <hi rend="sc">Chopard</hi>, <hi rend="i">Spicilège ironique</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, mai 1926, p. 661.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="661" xml:id="p661"/> Un léger flirt avec la muse, parce que c’est dimanche, parce qu’il pleut et qu’on s’ennuie. Si la vie est bête à pleurer, sourire est moins fatigant. « Le paon dédaigne encor mais ne fait plus sa roue. » Ce poète<hi rend="i"> —</hi> qui fut aussi le prosateur charmant du <hi rend="i">Pédagogue et l’Amour —</hi> sourit avec une grâce un peu frileuse et se permet de bâiller en public. On connaît le danger…</p>
+    </body>
+  </text>
+</TEI>

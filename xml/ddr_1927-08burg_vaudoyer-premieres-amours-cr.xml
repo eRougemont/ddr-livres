@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Jean-Louis <hi rend="sc">Vaudoyer</hi>, <hi rend="i">Premières Amours</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, août 1927, p. 244-245.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="244" xml:id="p244"/> Ces trois nouvelles n’ont guère de commun entre elles que la forme : ce sont de lentes réminiscences, des évocations intérieures,<hi rend="i"> —</hi> et dans l’abandon de leurs méandres, peu à peu, se précisent les circonstances d’une aventure ancienne.</p>
+      <p><hi rend="i">Entre hier et demain</hi> : Une femme « encore jeune » se souvient d’un danseur de ses vingt ans, d’une aventure qui aurait pu être… Un homme médite à côté du corps de son ami suicidé pour une femme qu’ils ont aimé tous deux (<hi rend="i">L’Amie du Mort</hi>.) Ou bien c’est le récit d’un été de vacances, quand les premières inquiétudes du désir viennent troubler de ravissantes amours d’adolescents. Et c’est <hi rend="i">Un vieil été</hi>. Cette nouvelle, très supérieure aux deux autres, est une réussite rare par la justesse de l’observation autant que par la sympathie de l’auteur pour ses héros. Indulgence et regrets, un ton qui permet le tact dans la hardiesse.</p>
+      <p>On reste ravi de tant d’adresse sous un air de facilité qui serait presque de la nonchalance. M. Vaudoyer ressuscite ces adolescences <pb n="245" xml:id="p245"/> avec une tendre minutie, avec une sorte d’amoureuse application du souvenir, d’une séduction certaine. C’est un art de détails ; mais si délicat et d’une si subtile convenance avec son objet qu’il en saisit sans mièvrerie ni vulgarité la grâce un peu trouble et l’insidieuse mélancolie. Un détail piqué adroitement, papillon dont frémissent encore les ailes intactes ; l’évocation toute nervalienne en sa nostalgie, de la jeune étrangère dont on rêve à quinze ans ; et voici ce je ne sais quoi, ce délice furtif, ce que l’auteur lui-même appelle « cette vague poésie involontaire, intermittente, un peu émiettée, éventée, que je trouve dans une ancienne réalité ressuscitée… »</p>
+      <p>Sachons gré à M. Vaudoyer d’avoir su donner à ces œuvrettes une si exquise humanité : par lui le « charme » reprend quelques droits.</p>
+    </body>
+  </text>
+</TEI>

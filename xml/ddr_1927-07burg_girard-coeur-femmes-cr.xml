@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Pierre <hi rend="sc">Girard</hi>, <hi rend="i">Connaissez mieux le cœur des femmes</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, juillet 1927, p. 114-115.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="114" xml:id="p114"/> Quand vous avez fermé ce petit livre, vous partez en chantonnant le titre sur un air sentimental, bien décidé au fond, à retrouver Patsy, l’Irlandaise perdue par cet improbable et sympathique Paterne. Sous le fallacieux prétexte d’une flânerie de saison, vous vous attardez aux terrasses des cafés. Peut-être va-t-elle revenir avec son son Johannès laqué. Ah ! comme vous sauriez lui plaire, maintenant qu’une si triomphante tendresse vous possède ! Justement, voici Pierre Girard : lui seul connaît l’adresse de Patsy, mais il ne veut pas vous la donner. Alors pour vous venger, vous lui dites que, « d’abord », son livre n’est pas sérieux. Il sourit. Vous ajoutez que le lyrisme des noms géographiques vous fatigue ; que c’est une vraie manie de nommer à tout propos d’Annunzio, Pola Negri, Charly Clerc, Mrs. Balfour. Vous parlez de « procédés lassants ». Pierre Girard n’écoute plus : il pense à des Venézuéliennes ou à Gérard de Nerval. Bientôt vous vous calmez. Car il semble aujourd’hui que ce globe dans son voyage « est arrivé à un endroit de l’éther où il y a du bonheur ». Vous reconnaissez que Pierre Girard est un peu responsable de cette douceur de vivre. Déjà vous ne niez plus sa drôlerie, son aisance. Vous accordez que s’il force un peu la dose de fantaisie, c’est plutôt par excès de facilité que par recherche. Vous voilà même tenté de l’en féliciter. Bien plus, vous découvrez dans ses fantoches une malicieuse et fine psychologie. Mais à ce mot, son visage s’assombrit un peu. « Tous nos ennuis nous seraient épargnés si nous ne regardions que les jambes des femmes » dit-il, pour vous apprendre !<hi rend="i"> —</hi> sans se douter que rien ne saurait vous ravir autant que ses impertinences. À ce moment s’approche M. Piquedon de Buibuis, qui parle toujours de Weber…</p>
+      <p>Mais au fait, si vous n’aviez pas lu ce livre ? Ah ! sans hésiter, je vous ferais un devoir de ce plaisir. Un devoir !… Car hélas, l’on n’est pas impunément concitoyen de cet oncle Abraham qui interdit à Paterne son neveu de fumer le matin, de sortir la <pb n="115" xml:id="p115"/><pb n=""/> nuit, et qui lui fait jurer sur la Bible de ne pas entrer dans les cafés.</p>
+      <p>Et puis, c’est égal, ce soir, tout cela est sans importance, car voici « l’heure des petits arbres pourpres, l’heure où dans les bibliothèques désertes glisse un grand souffle oblique plein de fraîcheur et de pardon. »</p>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Kikou <hi rend="sc">Yamata</hi>, <hi rend="i">Saisons suisses</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, mars 1930, p. 385.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="385" xml:id="p385"/> Peut-être faut-il venir du Japon pour accueillir du premier regard, dans un matin plein de mouettes<hi rend="i"> —</hi> « Un beau bruit d’ailes me fait un ciel »<hi rend="i"> —</hi> la vaporeuse beauté du lac de Neuchâtel. M<hi rend="sup">lle</hi> Kikou Yamata a su le voir aussi « gris et ardent sous le soleil caché », ou bien, en un printemps liquide et glacé, balançant parmi les roseaux d’une baie ses poules d’eaux noires. Il y fallait cette féminité ingénue et précieuse, toujours prête à épouser tout le sensible d’un paysage pour peu qu’elle y découvre une secrète parenté de l’âme. Kikou Yamata peint la Suisse avec un pinceau « fait du poil de novembre des chamois ». On s’émerveille de le voir, dans sa main rapide et minutieuse, décrire la vallée du jeune Rhin ou les pentes de Chésières en les parant d’une grâce malicieuse et sensuelle dont nos yeux helvètes les croyaient par trop dépourvues…</p>
+      <p>Cette charmante « japanisation » est rehaussée d’une douzaine de lithographies de Meili. Ce peintre se montre plus occidental dans les beaux volumes pleins de ces paysages, que dans ses dessins, dont Kikou Yamata a dit ailleurs la précision curieusement nipponne. Quelle admirable maîtrise de sa technique ! Et qui eût pensé qu’avec un jeu de noirs et de gris l’on pût recréer toute la ferveur d’un coucher de soleil. Des formes purifiées, un relief net, une heureuse alliance de charme et de rigueur, de moelleux et de précision… À la dernière page, l’artiste fait une belle grimace : le lecteur ne l’imitera pas.</p>
+    </body>
+  </text>
+</TEI>

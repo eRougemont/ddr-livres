@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
+<?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« [Compte-rendu de Pierre <hi rend="sc">Naville</hi>, <hi rend="i">La Révolution et les intellectuels</hi>] », <hi rend="i">Bibliothèque universelle et Revue de Genève</hi>, novembre 1928, p. 1410.</title>
+      </titleStmt>
+      <editionStmt/>
+      <publicationStmt>
+        <availability status="restricted"/>
+      </publicationStmt>
+      <sourceDesc/>
+    </fileDesc>
+    <profileDesc>
+      <creation/>
+      <langUsage>
+        <language ident=""/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="1410" xml:id="p1410"/><pb n=""/> Les derniers écrits des surréalistes débattent la question de savoir s’ils vont se taire ou non. Mais leur silence ne doit pas entraîner, à leur point de vue, celui d’autrui sur eux-mêmes. Ils se tournent donc naturellement vers l’action, c’est-à-dire,<hi rend="i"> —</hi> nous sommes en France<hi rend="i"> —</hi> vers la politique. Or ces ennemis de toute littérature voient leurs avances dédaignées par les communistes, gens d’action à jugements simples, qui les trouvent trop littérateurs. Rien d’étonnant à cela dans une époque où les valeurs de l’esprit sont en pratique universellement méprisées. Mais les surréalistes ont leur responsabilité là-dedans ; leur défense de l’esprit s’est bornée jusqu’ici à une rhétorique très brillante contre un état de choses justement détesté, mais dont ils participent plus qu’ils ne le croient. Certes il était urgent de faire la critique de « cette réalité de premier plan qui nous empêche de bouger », comme dit fort bien M. Breton. Mais à condition d’aller plus loin et de prendre une connaissance <hi rend="i">positive</hi> de ce qu’il y a sous cette réalité. Il est certain que s’ils avaient le courage de se soumettre au concret de l’esprit, ils comprendraient que le « service dans le temple » s’accommode mal de tant de gesticulations, de gros mots et de discours en très beau style contre un monde très laid dont ils n’ont pas encore renoncé à chatouiller le snobisme.</p>
+    </body>
+  </text>
+</TEI>
