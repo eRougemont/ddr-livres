@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<grammar 
+  xmlns="http://relaxng.org/ns/structure/1.0"
+  xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0"
+  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes"
+  ns="http://www.tei-c.org/ns/1.0" xml:lang="fr"
+  >
+  <start>
+    <element name="TEI">
+      <element name="text">
+        <element name="body">
+          <ref name="head"/>
+          <oneOrMore>
+            <ref name="listBibl"/>
+          </oneOrMore>
+        </element>
+      </element>
+    </element>
+  </start>
+  <define name="head">
+    <element name="head">
+      <text/>
+    </element>
+  </define>
+  <define name="listBibl">
+    <element name="listBibl">
+      <optional>
+        <ref name="head"/>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <ref name="bibl"/>
+          <ref name="listBibl"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="bibl">
+    <element name="bibl">
+      <optional>
+        <attribute name="xml:id">
+          <data type="ID"/>
+        </attribute>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="hi"/>
+          <ref name="ref"/>
+          <ref name="note"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="note">
+    <element name="note">
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="hi"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="ref">
+    <element name="ref">
+      <attribute name="target"/>
+      <text/>
+    </element>
+  </define>
+  <define name="hi">
+    <element name="hi">
+      <attribute name="rend">
+        <choice>
+          <value>i</value>
+          <value>sup</value>
+        </choice>
+      </attribute>
+      <text/>
+    </element>
+  </define>
+</grammar>
