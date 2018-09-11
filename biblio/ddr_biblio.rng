@@ -11,7 +11,7 @@
         <element name="body">
           <ref name="head"/>
           <oneOrMore>
-            <ref name="listBibl"/>
+            <ref name="catalog"/>
           </oneOrMore>
         </element>
       </element>
@@ -22,6 +22,27 @@
       <text/>
     </element>
   </define>
+  <define name="catalog">
+    <element name="listBibl">
+      <optional>
+        <ref name="head"/>
+      </optional>
+      <oneOrMore>
+        <ref name="record"/>
+      </oneOrMore>
+    </element>
+  </define>
+  
+  <define name="record">
+    <choice>
+      <ref name="bibl-id"/>
+      <element name="listBibl">
+        <ref name="bibl-id"/>
+        <ref name="listBibl"/>
+      </element>
+    </choice>
+  </define>
+  
   <define name="listBibl">
     <element name="listBibl">
       <optional>
@@ -35,29 +56,40 @@
       </oneOrMore>
     </element>
   </define>
+  
   <define name="bibl">
     <element name="bibl">
-      <optional>
-        <attribute name="xml:id">
-          <data type="ID"/>
-        </attribute>
-      </optional>
-      <oneOrMore>
-        <choice>
-          <text/>
-          <ref name="hi"/>
-          <ref name="ref"/>
-          <ref name="note"/>
-        </choice>
-      </oneOrMore>
+      <ref name="bibl-cont"/>
     </element>
+  </define>
+  <define name="bibl-id">
+    <element name="bibl">
+      <ref name="id"/>
+      <ref name="title"/>
+      <ref name="bibl-cont"/>
+    </element>
+  </define>
+  <define name="bibl-cont">
+    <oneOrMore>
+      <choice>
+        <text/>
+        <ref name="title"/>
+        <ref name="i"/>
+        <ref name="sup"/>
+        <ref name="ref"/>
+        <ref name="note"/>
+        <ref name="TODO"/>
+      </choice>
+    </oneOrMore>
   </define>
   <define name="note">
     <element name="note">
       <oneOrMore>
         <choice>
           <text/>
-          <ref name="hi"/>
+          <ref name="sup"/>
+          <ref name="title"/>
+          <ref name="i"/>
         </choice>
       </oneOrMore>
     </element>
@@ -68,15 +100,71 @@
       <text/>
     </element>
   </define>
-  <define name="hi">
+  <define name="i">
     <element name="hi">
       <attribute name="rend">
-        <choice>
           <value>i</value>
-          <value>sup</value>
+      </attribute>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="sup"/>
         </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="hi">
+    <element name="hi">
+      <text/>
+    </element>
+  </define>
+  <define name="title">
+    <element name="title">
+      <optional>
+        <attribute name="level">
+          <choice>
+            <value>a</value>
+            <a:documentation>Analytique</a:documentation>
+            <value>j</value>
+            <a:documentation>Journal</a:documentation>
+            <value>m</value>
+            <a:documentation>Monographie</a:documentation>
+            <value>p</value>
+            <a:documentation>Préface</a:documentation>
+            <value>r</value>
+            <a:documentation>Recension</a:documentation>
+          </choice>
+        </attribute>
+      </optional>
+      <oneOrMore>
+        <choice>
+          <text/>
+          <ref name="sup"/>
+          <ref name="hi"/>
+          <ref name="i"/>
+          <ref name="title"/>
+        </choice>
+      </oneOrMore>
+    </element>
+  </define>
+  <define name="sup">
+    <element name="hi">
+      <attribute name="rend">
+        <value>sup</value>
       </attribute>
       <text/>
     </element>
+  </define>
+  <define name="TODO">
+    <element name="TODO">
+      <ref name="bibl-cont"/>
+    </element>
+  </define>
+  <define name="id">
+    <attribute name="xml:id">
+      <!--
+          <data type="ID"/>
+          -->
+    </attribute>
   </define>
 </grammar>
