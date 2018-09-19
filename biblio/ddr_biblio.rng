@@ -59,17 +59,67 @@
   
   <define name="bibl">
     <element name="bibl">
+      <optional>
+        <ref name="bibl-type"/>
+      </optional>
       <ref name="bibl-cont"/>
     </element>
   </define>
   <define name="bibl-id">
     <element name="bibl">
       <ref name="id"/>
+      <ref name="bibl-type"/>
       <ref name="title"/>
       <ref name="bibl-cont"/>
     </element>
   </define>
+  <define name="bibl-type">
+    <attribute name="type">
+      <choice>
+        <value>article</value>
+        <value>brochure</value>
+        <value>chapitre</value>
+        <value>entretien</value>
+        <value>fiction</value>
+        <value>livre</value>
+        <value>préface</value>
+        <value>recension</value>
+        <value>reprise</value>
+      </choice>
+    </attribute>
+  </define>
   <define name="bibl-cont">
+    <optional>
+      <attribute name="xml:lang">
+        <choice>
+          <value>af</value>
+          <value>bg</value>
+          <value>cs</value>
+          <value>da</value>
+          <value>de</value>
+          <value>en-GB</value>
+          <value>en-US</value>
+          <value>el</value>
+          <value>es-AR</value>
+          <value>es-MX</value>
+          <value>es-ES</value>
+          <value>hr</value>
+          <value>hu</value>
+          <value>hy</value>
+          <value>it</value>
+          <value>ja</value>
+          <value>nl</value>
+          <value>no</value>
+          <value>pl</value>
+          <value>pt-PT</value>
+          <value>pt-BR</value>
+          <value>ro</value>
+          <value>sh</value>
+          <value>sr</value>
+          <value>sv</value>
+        </choice>
+      </attribute>
+    </optional>
     <oneOrMore>
       <choice>
         <text/>
@@ -124,15 +174,20 @@
         <attribute name="level">
           <choice>
             <value>a</value>
-            <a:documentation>Analytique</a:documentation>
+            <a:documentation>Analytique, entre guillemets</a:documentation>
             <value>j</value>
-            <a:documentation>Journal</a:documentation>
+            <a:documentation>Journal, italique</a:documentation>
             <value>m</value>
-            <a:documentation>Monographie</a:documentation>
-            <value>p</value>
-            <a:documentation>Préface</a:documentation>
-            <value>r</value>
-            <a:documentation>Recension</a:documentation>
+            <a:documentation>Monographie, italique</a:documentation>
+            <value>s</value>
+            <a:documentation>Séries, italique</a:documentation>
+          </choice>
+        </attribute>
+      </optional>
+      <optional>
+        <attribute name="rend">
+          <choice>
+            <value>normal</value>
           </choice>
         </attribute>
       </optional>
@@ -162,9 +217,7 @@
   </define>
   <define name="id">
     <attribute name="xml:id">
-      <!--
-          <data type="ID"/>
-          -->
+      <data type="ID"/>
     </attribute>
   </define>
 </grammar>
