@@ -64,7 +64,7 @@
         <listBibl>
           <bibl type="livre" xml:id="ddr_1938ja_journal-allemagne"><title>Journal d’Allemagne</title>, Paris, Gallimard, 1938, 92 p. coll. Les tracts de la NRF.</bibl>
           <listBibl>
-            <bibl xml:lang="nl-NL">Traductions en hollandais, 1939, espagnol, 1939, japonais, 1939.</bibl>
+            <TODO>Traductions en hollandais, 1939, espagnol, 1939, japonais, 1939.</TODO>
             <bibl xml:lang="es-AR">Trad. argentine, <title>Diario de Alemania</title>, par Ricardo Baeza, Buenos Aires, Ed. Sudamericana, 1939</bibl>
             <listBibl>
               <bibl xml:lang="de">Trad. allemande, <title>Journal aus Deutschland, 1935-1936</title>, par Tobias Scheffel, avec une postface de Jürg Altwegg, Wien, P. Zsolnay, cop. 1998, 164 p., ISBN 3552049061.</bibl>
