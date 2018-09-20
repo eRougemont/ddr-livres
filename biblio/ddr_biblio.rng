@@ -131,7 +131,6 @@
         <ref name="sup"/>
         <ref name="ref"/>
         <ref name="note"/>
-        <ref name="TODO"/>
       </choice>
     </oneOrMore>
   </define>
@@ -210,11 +209,6 @@
         <value>sup</value>
       </attribute>
       <text/>
-    </element>
-  </define>
-  <define name="TODO">
-    <element name="TODO">
-      <ref name="bibl-cont"/>
     </element>
   </define>
   <define name="id">
