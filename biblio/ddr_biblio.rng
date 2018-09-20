@@ -24,9 +24,10 @@
   </define>
   <define name="catalog">
     <element name="listBibl">
-      <optional>
-        <ref name="head"/>
-      </optional>
+      <attribute name="type">
+        <value>catalog</value>
+      </attribute>
+      <ref name="head"/>
       <oneOrMore>
         <ref name="record"/>
       </oneOrMore>
@@ -108,13 +109,15 @@
           <value>hy</value>
           <value>it</value>
           <value>ja</value>
-          <value>nl</value>
+          <value>nl-NL</value>
+          <value>nl-BE</value>
           <value>no</value>
           <value>pl</value>
           <value>pt-PT</value>
           <value>pt-BR</value>
           <value>ro</value>
           <value>sh</value>
+          <value>sl</value>
           <value>sr</value>
           <value>sv</value>
         </choice>
@@ -196,7 +199,6 @@
           <text/>
           <ref name="sup"/>
           <ref name="hi"/>
-          <ref name="i"/>
           <ref name="title"/>
         </choice>
       </oneOrMore>

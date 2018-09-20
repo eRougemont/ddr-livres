@@ -5,7 +5,7 @@
   <text>
     <body>
       <head>Bibliographie de Denis de Rougemont</head>
-      <listBibl>
+      <listBibl type="catalog">
         <head>Volumes</head>
         <listBibl>
           <bibl type="livre" xml:id="ddr_1929mip_mefaits-instruction-publique"><title>Les Méfaits de l’Instruction publique</title>, Lausanne, éd. des lettres de Lausanne, 1929, 51 p., Coll. Les petites lettres de Lausanne, Série 1, n° 1.</bibl>
@@ -28,7 +28,7 @@
           <bibl type="livre" xml:id="ddr_1934polpers_politique-personne"><title>Politique de la personne : problèmes, doctrines et tactique de la révolution personnaliste</title>, Paris, Ed. "Je sers" ; Genève, Ed. Labor, 1934, 254 p.</bibl>
           <listBibl>
             <bibl>Ed. revue et augmentée, Paris, Ed. Je sers ; Neuchâtel, Ed. Delachaux et Niestlé, 1946.</bibl>
-            <bibl>Trad. hollandaise, <title>Persoonlijkheid als roeping in dezen tijd</title>, par Roel Houwink, Amsterdam, U.M. Holland, 1940</bibl>
+            <bibl xml:lang="nl-NL">Trad. hollandaise, <title>Persoonlijkheid als roeping in dezen tijd</title>, par Roel Houwink, Amsterdam, U.M. Holland, 1940</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -36,7 +36,7 @@
           <listBibl>
             <bibl>Rééd., en coéd. avec Neuchâtel, La Baconnière, 1945, 252 p.</bibl>
             <bibl>Rééd., Paris, Gallimard, 1972, 249 p., coll. Idées, 266.</bibl>
-            <bibl xml:lang="nl">Trad. néérlandaise, par J. J. L. van Zuylen <title>Denken met de handen</title>, Amsterdam, 1946.</bibl>
+            <bibl xml:lang="nl-NL">Trad. néérlandaise, par J. J. L. van Zuylen <title>Denken met de handen</title>, Amsterdam, 1946.</bibl>
             <listBibl>
               <bibl xml:lang="es-ES">Trad. espagnole, Madrid, Magisterio español, 1977.</bibl>
               <listBibl>
@@ -44,7 +44,7 @@
               </listBibl>
             </listBibl>
             <bibl xml:lang="hy">Trad. arménienne, par Alexandre Toptchian, <title>Mdatsel tsér kérov</title>, Erevan, Nairi, 1999, 206 p., ISBN 5550011530</bibl>
-            <bibl xml:lang="it">Trad. italienne, <title>Pensare con le mani. Le radici culturali della crisi europea</title> , Transeuropa Edizioni,   2012.</bibl>
+            <bibl xml:lang="it">Trad. italienne, <title>Pensare con le mani, le radici culturali della crisi europea</title>. Transeuropa Edizioni,   2012.</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -55,7 +55,7 @@
             <bibl>Reprint, Genève, Slatkine, cop. 1995, 219 p., coll. Fleuron, n° 27, ISBN 2051009902. </bibl>
             <bibl>Rééd., Chêne-Bourg, La Baconnière, 2013, 267 p., ISBN 9782940431120</bibl>
             <bibl xml:lang="de">Trad. allemande, par R. J. Humm, <title>Tagebuch eines arbeitslosen Intellektuellen</title>, Zürich, Prag Büchergilde Gutenberg, 1939.</bibl>
-            <bibl xml:lang="nl">Trad. néérlandaise, par Roel Houwink, <title>Dagboek van een werkloos intellectueel</title>, Amsterdam, U. M. Holland, 1950.</bibl>
+            <bibl xml:lang="nl-NL">Trad. néérlandaise, par Roel Houwink, <title>Dagboek van een werkloos intellectueel</title>, Amsterdam, U. M. Holland, 1950.</bibl>
             <bibl xml:lang="ja">Trad. japonaise, par Yū Ishikawa, <title>Shitsugyō interi no nikki</title>, Tōkyō, Shunjūsha, 1938.</bibl>
             <bibl xml:lang="it">Trad. italienne, par Manuela Maddamma, <title>Diario di un intellettuale disoccupato</title>, Rome, Fazi, 1997.</bibl>
           </listBibl>
@@ -64,7 +64,7 @@
         <listBibl>
           <bibl type="livre" xml:id="ddr_1938ja_journal-allemagne"><title>Journal d’Allemagne</title>, Paris, Gallimard, 1938, 92 p. coll. Les tracts de la NRF.</bibl>
           <listBibl>
-            <bibl xml:lang="nl">Traductions en hollandais, 1939, espagnol, 1939, japonais, 1939.</bibl>
+            <bibl xml:lang="nl-NL">Traductions en hollandais, 1939, espagnol, 1939, japonais, 1939.</bibl>
             <bibl xml:lang="es-AR">Trad. argentine, <title>Diario de Alemania</title>, par Ricardo Baeza, Buenos Aires, Ed. Sudamericana, 1939</bibl>
             <listBibl>
               <bibl xml:lang="de">Trad. allemande, <title>Journal aus Deutschland, 1935-1936</title>, par Tobias Scheffel, avec une postface de Jürg Altwegg, Wien, P. Zsolnay, cop. 1998, 164 p., ISBN 3552049061.</bibl>
@@ -97,7 +97,7 @@
               </listBibl>
             </listBibl>
             <bibl xml:lang="es-MX">Trad. mexicaine, par Joaquín Yirau, <title>Amor y occidente</title>, México, Leyenda, 1945.</bibl>
-            <bibl xml:lang="nl">Trad. néerlandaise, par P. Hijmans, <title>Liefde en Avondland</title>, Amsterdam, U. M. Holland, 1949</bibl>
+            <bibl xml:lang="nl-NL">Trad. néerlandaise, par P. Hijmans, <title>Liefde en Avondland</title>, Amsterdam, U. M. Holland, 1949</bibl>
             <bibl xml:lang="ja">Trad. japonaise, par Katsurō Suzuki et Katsumi Kawamura, <title>Ai ni tsuite : erosu to agapē</title>, Tōkyō, Iwanami Shoten, 1959, XII, 512, 11 p.</bibl>
             <bibl xml:lang="ja">Autre trad. japonaise, Kenrō Suzuki et Katsumi Kawamura, <title>Ai ni tsuite : jō</title>, par Tōkyō, Heibonsha, 1993, 2 vol., coll. Heibonsha raiburarī, 1480, ISBN 4582760147 et 4582760155</bibl>
             <bibl xml:lang="sv">Traduction suédoise, par Eva Alexanderson, <title>Kärleken och Västerlandet</title>, Stockholm, Natur och kultur, 1963, 249 p.</bibl>
@@ -129,7 +129,7 @@
               </listBibl>
             </listBibl>
             <bibl xml:lang="hu">Trad. hongroise, par Szoboszlai Margit, <title>A szerelem és a nyugati vilàg</title>, Budapest, Helikon Kiado, 1998, 298 p., coll. Helikon universitas, ISBN 9632085361.</bibl>
-            <bibl>Trad. slovène, par Michaela Jurovská, <title>Západ a láska</title>, Bratislava, Kalligram, 2001, 341 p., ISBN 8071492841</bibl>
+            <bibl xml:lang="sl">Trad. slovène, par Michaela Jurovská, <title>Západ a láska</title>, Bratislava, Kalligram, 2001, 341 p., ISBN 8071492841</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -138,7 +138,7 @@
             <bibl>Edition musicale, Lausanne, Foetisch, 1939, texte et partition, 90 p. (piano et chant), texte oratorio, 32 p.</bibl>
             <bibl xml:lang="de">Trad. allemande, <title>Niklaus von Flüe</title>, 1939,</bibl>
             <bibl xml:lang="en-GB">Trad. anglaise, 1940,</bibl>
-            <bibl xml:lang="nl">Trad. hollandaise, 1945.</bibl>
+            <bibl xml:lang="nl-NL">Trad. hollandaise, 1945.</bibl>
             <bibl xml:lang="cs">Trad. tchèque, 1945.</bibl>
           </listBibl>
         </listBibl>
@@ -172,7 +172,7 @@
               </listBibl>
             </listBibl>
             <bibl xml:lang="da">Trad. danoise, par Gerda M. Andersen, Copenhague, A. Sörensen, 1948.</bibl>
-            <bibl xml:lang="nl">Trad. hollandaise, par Agaath van Ree, Amsterdam, U.M. Holland, 1949.</bibl>
+            <bibl xml:lang="nl-NL">Trad. hollandaise, par Agaath van Ree, Amsterdam, U.M. Holland, 1949.</bibl>
             <bibl xml:lang="de">Trad. allemande, par Josef Ziwutschka, <title>Der Anteil des Teufels</title>, Vienne, Amandus, 1949.</bibl>
             <bibl xml:lang="en-GB">Trad. anglaise, par Kathleen Raine, Londres, Eyre &amp; Spottiswoode, 1945.</bibl>
             <listBibl>
@@ -201,7 +201,7 @@
             <bibl>Rééd., avec une préf. de Christophe Calame, Paris, Ed. de la Différence, 1991, 118 p., coll. 700 ans de littérature en Suisse romande, ISBN 2729106804</bibl>
             <bibl xml:lang="en-US">Trad. américaine, par Parmenia Migel, <title>The last trump</title>, Garden City New York, Doubleday, 1947.</bibl>
             <bibl xml:lang="de">Trad. allemande, par Henrich Pfeiffer, <title>Über die Atombombe</title>, Wien, Amandus, 1948.</bibl>
-            <bibl xml:lang="nl">Trad. hollandaise, par Agaath van Ree, <title>Brieven over de atoombom</title>, Amsterdam, U. M. Holland, 1947.</bibl>
+            <bibl xml:lang="nl-NL">Trad. hollandaise, par Agaath van Ree, <title>Brieven over de atoombom</title>, Amsterdam, U. M. Holland, 1947.</bibl>
             <bibl xml:lang="es-ES">Traduction en revue : espagnol, 1947.</bibl>
             <bibl xml:lang="it">Traduction en revues : italien, 1948.</bibl>
             <bibl xml:lang="no">Traduction en revues : norvégien, 1948.</bibl>
@@ -256,7 +256,7 @@
             <bibl>Rééd., Monte-Carlo, A. Sauret, 1972, 269 p.</bibl>
             <bibl>Rééd., Lausanne, L'Age d’homme, 2002, 275 p., ISBN 2825117331.</bibl>
             <bibl xml:lang="de">Trad. allemande, par Walter Lenz, <title>Das Wagnis Abendland</title>, München, A. Langen, G. Müller, cop. 1957</bibl>
-            <bibl xml:lang="nl">Trad. hollandais, par Agaath Van Ree, Amsterdam, U.M. Holland, 1958</bibl>
+            <bibl xml:lang="nl-NL">Trad. hollandais, par Agaath Van Ree, Amsterdam, U.M. Holland, 1958</bibl>
             <listBibl>
               <bibl xml:lang="en-GB">Trad. anglaises, par Montgomery Belgion, New York, Harper, 1957, et London, Allen &amp; Unwin.</bibl>
               <listBibl>
@@ -274,11 +274,11 @@
             <bibl>Rééd., Paris, A. Michel, 1996, coll. Espaces libres, n° 61, ISBN 2226084738.</bibl>
             <bibl>Rééd., Lausanne, L'Age d’homme, 2011, 285 p., coll. Poche Suisse, n° 266, ISBN 9782825141113.</bibl>
             <bibl xml:lang="en-GB">Trad. anglaise, par Richard Howard, <title>The Myths of Love</title>, London, Faber and Faber, 1963 ; publiée aux USA sous le titre <title>Love declared : essays on the myths of love</title>, même année, par le même traducteur.</bibl>
-            <bibl xml:lang="nl">Trad. néerlandaise, par J. M. Tillema-de Vries et Line Kamp-Kan <title>Als uzelf : opstellen over de liefdesmythen</title>, Rotterdam, Lemniscaat, 1965, 236 p.</bibl>
+            <bibl xml:lang="nl-NL">Trad. néerlandaise, par J. M. Tillema-de Vries et Line Kamp-Kan <title>Als uzelf : opstellen over de liefdesmythen</title>, Rotterdam, Lemniscaat, 1965, 236 p.</bibl>
             <listBibl>
               <bibl xml:lang="it">Traduction italienne, 1969.</bibl>
               <listBibl>
-                <bibl>Rééd. <title>Nuove metamorfosi di Tristano e altri saggi sui miti dell’amore</title>, Ipermedium Libri, 2010. <note>Traduction partielle.</note>
+                <bibl xml:lang="it">Rééd. <title>Nuove metamorfosi di Tristano e altri saggi sui miti dell’amore</title>, Ipermedium Libri, 2010. <note>Traduction partielle.</note>
                 </bibl>
               </listBibl>
             </listBibl>
@@ -308,7 +308,7 @@
             <bibl>Traductions en anglais, 1963, espagnol, 1936, allemand, 1964, américain, 1965.<TODO>Pas de doublon avec ci-dessous ? espagnol en 1936 ?</TODO></bibl>
             <bibl xml:lang="de">Trad. allemande par Lise Eberan et Hanna Wulf, <title>Die Chancen Europas : Berufung und Hoffnung</title>, Wien, Europa Verlag, cop. 1964, 108 p., coll. Europäische Perspektiven.</bibl>
             <bibl xml:lang="es-ES">Trad. espagnole, par Emilio Artacho, <title>Europa como probabilidad</title>, Madrid, Taurus Ed., 1964, 111 p., coll. Cuadernos Taurus, 59.</bibl>
-            <bibl xml:lang="en-UK">Trad., anglaise, <title>The Meaning of Europe</title>, trad. par Alan Braley, Liverpool, Sidgwick and Jackson ; New York, Stein and Day, 1965, 126 p.</bibl>
+            <bibl xml:lang="en-GB">Trad., anglaise, <title>The Meaning of Europe</title>, trad. par Alan Braley, Liverpool, Sidgwick and Jackson ; New York, Stein and Day, 1965, 126 p.</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -372,18 +372,18 @@
             <bibl xml:lang="de">Trad. allemande, <title>Die Zukunft ist unsere Sache</title>, par Klaus Schomburg et Sylvia M. Schomburg-Scherff, Stuttgart, E. Klett &amp; J. G. Cotta, 1980, ISBN 312926681X.</bibl>
             <bibl xml:lang="es-AR">Trad. argentine, par Álvaro Torres de Tolosa, <title>El porvenir es cosa nuestra</title>, Buenos Aires, Ed. Sur, 1980.</bibl>
             <bibl xml:lang="ja">Trad. japonaise, par Junitsu Hagii, <title>Yōroppajin e no tegami</title> Tōkyō, Kinokuniya Shoten, 1975.</bibl>
-            <bibl>Trad. anglaise, par Anthony J.C. Kerr, <title>The future is within us</title>, Oxford, New York, Pergamon Press, 1983</bibl>
-            <bibl>Trad. bulgare, par Lilija Staleva, <title>Băgeštemo e naša raboma</title>, Sofia, Zlamoros, 1997, 335 p., ISBN 954437048X</bibl>
-            <bibl>Trad. serbo-croate, par Frano Cetinić, Književne novine, <title>Budućnost je naša stvar</title>, Beograd, 1989.</bibl>
+            <bibl xml:lang="en-US">Trad. anglaise, par Anthony J.C. Kerr, <title>The future is within us</title>, Oxford, New York, Pergamon Press, 1983</bibl>
+            <bibl xml:lang="bg">Trad. bulgare, par Lilija Staleva, <title>Băgeštemo e naša raboma</title>, Sofia, Zlamoros, 1997, 335 p., ISBN 954437048X</bibl>
+            <bibl xml:lang="sh">Trad. serbo-croate, par Frano Cetinić, Književne novine, <title>Budućnost je naša stvar</title>, Beograd, 1989.</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
           <bibl type="livre" xml:id="ddr_1979rpe_rapport-peuple-europeen"><title>Rapport au peuple européen sur l’état de l’union de l’Europe : 1979</title>, par le Groupe Cadmos, réd. par Denis de Rougemont, Paris, Stock, 1979, 186 p., ISBN 2234011078.</bibl>
           <listBibl>
-            <bibl>Trad. allemande, par Manfred Siebker, <title>Das andere Europa : Bericht der Cadmos-Gruppe an die Europäer</title>, München, Kösel, cop. 1980, 135 p., ISBN 346611005X.</bibl>
-            <bibl>Trad. italienne, <title>Rapporto al popolo europeo sullo stato dell’unione dell’Europa</title>, préfacée par Ugo Ronfani, Milano, Pan ed., 1979, 211 p., coll. Il timone, 90.</bibl>
-            <bibl>Trad. anglaise, <title>The state of the union of Europe : report of the Cadmos group to the European</title>, trad. par V. Ionescu, Oxford, Pergamon Press, 1979, VIII, 100 p., ISBN 0080244831 et 0080244769.</bibl>
-            <bibl>Trad. néérlandaise, <title>Rapport aan het europese volk over het tot stand komen van de europese unie</title>, traduit par Joost Adriaans et al., Amsterdam, Fondation européenne de la Culture, 1980, 93 p., ISBN 9070376016.</bibl>
+            <bibl xml:lang="de">Trad. allemande, par Manfred Siebker, <title>Das andere Europa : Bericht der Cadmos-Gruppe an die Europäer</title>, München, Kösel, cop. 1980, 135 p., ISBN 346611005X.</bibl>
+            <bibl xml:lang="it">Trad. italienne, <title>Rapporto al popolo europeo sullo stato dell’unione dell’Europa</title>, préfacée par Ugo Ronfani, Milano, Pan ed., 1979, 211 p., coll. Il timone, 90.</bibl>
+            <bibl xml:lang="en-GB">Trad. anglaise, <title>The state of the union of Europe : report of the Cadmos group to the European</title>, trad. par V. Ionescu, Oxford, Pergamon Press, 1979, VIII, 100 p., ISBN 0080244831 et 0080244769.</bibl>
+            <bibl xml:lang="nl-NL">Trad. néérlandaise, <title>Rapport aan het europese volk over het tot stand komen van de europese unie</title>, traduit par Joost Adriaans et al., Amsterdam, Fondation européenne de la Culture, 1980, 93 p., ISBN 9070376016.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="livre" xml:id="ddr_1988ined_inedits"><title>Inédits</title>, extraits de cours choisis et présentés par Jean Mantzouranis et François Saint-Ouen, Neuchâtel, Ed. de la Baconnière, 1988, coll. L'évolution du monde et des idées, 246 p., ISBN 2825206180</bibl>
@@ -392,7 +392,7 @@
         <bibl type="livre" xml:id="ddr_2010fpe_federalisme-personalisme-ecumenisme"><title>Federalisme, personalisme, ecumenisme : la inspiració europea</title>, anthologie traduite par Joan Alfred Martinez i Segui, Paiporta, Denes, 2010, 147 p., coll. Col.lecció rent 8, ISBN 9788492768424. <note>Choix de textes provenant de <title>La part du Diable, Définition de la personne</title> et <title>Fédéralisme, personnalisme et œcuménisme</title>.</note>
         </bibl>
       </listBibl>
-      <listBibl>
+      <listBibl type="catalog">
         <head>Publications en revues et collectifs</head>
         <bibl type="article" xml:id="ddr_1924-02-24sl"><title level="a">M. de Montherlant, le sport et les Jésuites</title>, <title level="j">La Semaine littéraire</title>, Genève, n° 1571(9 février 1924), p. 63-65.</bibl>
         <bibl type="recension" xml:id="ddr_1924-10-30fan"><title level="a">[Recension de la conférence « Les "ismes" dans la peinture moderne » de Conrad Meili]</title>, <title level="j">Feuille d’Avis de Neuchâtel</title>, n° 254(30 octobre 1924), p. 6. <note>Bien que le feuillet mentionné donne la date de novembre 1925, il s’agit d’une confusion de Rougemont. Une carte postale de Meili du 3 novembre 1924 le confirme.</note>
@@ -402,7 +402,7 @@
         <bibl type="recension" xml:id="ddr_1925-06burg"><title level="a">[Recension de <title>Manifeste du surréalisme</title> et <title>Poisson soluble</title> d’André Breton]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, juin 1925, p. 775-776.</bibl>
         <bibl type="recension" xml:id="ddr_1925-08burg"><title level="a">[Recension de <title>Van Gogh</title> de Paul Coling]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, août 1925, p. 1033.</bibl>
         <bibl type="recension" xml:id="ddr_1925-09burg_p1151"><title level="a">[Recension de <title>Le Tarramagnou</title> de Lucien Fabre]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, septembre 1925, p. 1151-1152.</bibl>
-        <bibl type="recension" xml:id="ddr_1925-09burg_p1152"><title level="a">[Recension du numéro thématique <title>Les Appels de l’Orient</title>, des <hi rend="i">Cahiers du Mois</hi>, n° 9-10]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, septembre 1925, p. 1152-1154.</bibl>
+        <bibl type="recension" xml:id="ddr_1925-09burg_p1152"><title level="a">[Recension du numéro thématique <title>Les Appels de l’Orient</title>, des <title level="j">Cahiers du Mois</title>, n° 9-10]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, septembre 1925, p. 1152-1154.</bibl>
         <bibl type="recension" xml:id="ddr_1925-09burg_p1162"><title level="a">[Recension de l’<title>Almanach 1925</title> du S. Fischer Verlag]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, septembre 1925, p. 1162-1163.</bibl>
         <bibl type="recension" xml:id="ddr_1925-09burg_p1156"><title level="a">[Recension de <title>Tentative de solitude</title> de Jean Prévost]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, septembre 1925, p. 1156-1157.</bibl>
         <bibl type="recension" xml:id="ddr_1925-09burg_p1163"><title level="a">[Recension de <title>Der Gute Weg</title> d’Otto Flake]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, septembre 1925, p. 1163.</bibl>
@@ -486,11 +486,11 @@
         <bibl type="recension" xml:id="ddr_1927-05burg_p693"><title level="a">[Recension de <title>Capitale de la douleur</title> de Paul Éluard]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, mai 1927, p. 693-694.</bibl>
         <bibl type="recension" xml:id="ddr_1927-05burg_p694"><title level="a">[Recension de <title>La Suite dans les idées</title> de Pierre Drieu La Rochelle]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, mai 1927, p. 694.</bibl>
         <bibl type="article" xml:id="ddr_1927-07rbl_p231"><title level="a">La part du feu : lettres sur le mépris de la littérature</title>, <title level="j">Revue de Belles-Lettres</title>, n° 8(juillet 1927), p. 231-238.</bibl>
-        <bibl type="recension" xml:id="ddr_1927-07rbl_p249"><title level="a">Les derniers jours [recension des <hi rend="i">Cahiers politiques et littéraires</hi> de Pierre Drieu La Rochelle et Emmanuel Berl]</title>, <title level="j">Revue de Belles-Lettres</title>, n° 8(juillet 1927), p. 249-250.</bibl>
+        <bibl type="recension" xml:id="ddr_1927-07rbl_p249"><title level="a">Les derniers jours [recension des <title>Cahiers politiques et littéraires</title> de Pierre Drieu La Rochelle et Emmanuel Berl]</title>, <title level="j">Revue de Belles-Lettres</title>, n° 8(juillet 1927), p. 249-250.</bibl>
         <bibl type="article" xml:id="ddr_1927-07rbl"><title level="a">Adieu au lecteur</title>, <title level="j">Revue de Belles-Lettres</title>, n° 8(juillet 1927), p. 256-258.<note>Rédigé au nom du comité de rédaction.</note></bibl>
         <bibl type="recension" xml:id="ddr_1927-07burg"><title level="a">[Recension de <title>Connaissez mieux le cœur de femmes</title> de Pierre Girard]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, juillet 1927, p. 114-115.</bibl>
         <bibl type="recension" xml:id="ddr_1927-08burg"><title level="a">[Recension de <title>Premières Amours</title> de Jean-Louis Vaudoyer]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, août 1927, p. 244-245.</bibl>
-        <bibl type="recension" xml:id="ddr_1927-12burg_p787"><title level="a">[Recension de <title>Rainer Maria Rilke</title> d’Edmond Jaloux]</title><title level="j">, Bibliothèque universelle et Revue de Genève</title>, décembre 1927, p. 787-788.</bibl>
+        <bibl type="recension" xml:id="ddr_1927-12burg_p787"><title level="a">[Recension de <title>Rainer Maria Rilke</title> d’Edmond Jaloux]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, décembre 1927, p. 787-788.</bibl>
         <bibl type="recension" xml:id="ddr_1927-12burg_p791"><title level="a">[Recension d’<title>Interférences</title> de Léon Bopp]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, décembre 1927, p. 791.</bibl>
         <bibl type="article" xml:id="ddr_1927_Neuchatel-1928-des-clef-champs"><title level="a">Dés ou la clef des champs</title>, nouvelle, <title level="j">Neuchâtel 1928 : beaux-arts, arts appliqués, architecture, littérature</title>, Neuchâtel, Impr. réunies Borel et Seiler, 1927, p. 97-104.<note>Ackermann situe ce texte dans le numéro du <title level="j">Centenaire de Belles-Lettres Neuchâtel en 1932</title>  ; voir. Bien trouvé dans ce recueil, pour ma part.</note></bibl>
         <bibl type="recension" xml:id="ddr_1928-01burg"><title level="a">[Recension de <title>Catherine-Paris</title> de la Princesse de Bibesco]</title>, <title level="j">Bibliothèque universelle et Revue de Genève</title>, janvier 1928, p. 121-122.</bibl>
@@ -690,7 +690,7 @@
         <bibl type="article" xml:id="ddr_1933-07on_p13"><title level="a">Spirituel d’abord</title>, <title level="j">L'Ordre Nouveau</title>, n° 3(juillet 1933), p. 13-17. <note>Avec Daniel-Rops.</note>
         </bibl>
         <listBibl>
-          <bibl type="article" xml:id="ddr_1933-07demain"><title level="a">Antimarxiste parce que chrétien</title>, <title level="j">Demain</title> ?, Paris, n° 16-17(juillet-août 1933), p. 34-35.</bibl>
+          <bibl type="article" xml:id="ddr_1933-07demain"><title level="a">Antimarxiste parce que chrétien</title>, <title level="j">Demain ?</title>, Paris, n° 16-17(juillet-août 1933), p. 34-35.</bibl>
           <listBibl>
             <bibl type="reprise">Repris dans <title>Politique de la personne</title>, p. 133-144.</bibl>
           </listBibl>
@@ -759,7 +759,7 @@
         </listBibl>
         <bibl type="article" xml:id="ddr_1934-07hn"><title level="a">Éditorial</title>, <title level="j">Hic et Nunc</title>, n° 7(juillet 1934), p. 65-67.</bibl>
         <bibl type="article" xml:id="ddr_1934-07christsoc"><title level="a">Où sont les jeunes protestants ?</title> in <title level="j">Le Christianisme social</title>, Paris, n° 6(juillet-août 1934), p. 49-58.</bibl>
-        <bibl type="recension" xml:id="ddr_1934-08-04nlit"><title level="a">Le mouvement des groupes ; Kagawa [recension <hi rend="i">Vies transformées</hi> d’Harold Begbie, sur les Groupes d’Oxford ; d’<hi rend="i">Avant l’aube</hi> de Kagawa et de <hi rend="i">Kagawa</hi> de William Axling]</title>, <title level="j">Les Nouvelles littéraires</title>, n° 6(4 août 1934), p. 3. <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6452190x/f4.image">http://gallica.bnf.fr/ark:/12148/bpt6k6452190x/f4.image</ref>
+        <bibl type="recension" xml:id="ddr_1934-08-04nlit"><title level="a">Le mouvement des groupes ; Kagawa [recension <title>Vies transformées</title> d’Harold Begbie, sur les Groupes d’Oxford ; d’<title>Avant l’aube</title> de Kagawa et de <title>Kagawa</title> de William Axling]</title>, <title level="j">Les Nouvelles littéraires</title>, n° 6(4 août 1934), p. 3. <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k6452190x/f4.image">http://gallica.bnf.fr/ark:/12148/bpt6k6452190x/f4.image</ref>
         </bibl>
         <bibl type="article" xml:id="ddr_1934-08fv_p602"><title level="a">Notice biographique [Kierkegaard]</title>, <title level="j">Foi et Vie</title>, n° 64(août-septembre 1934), p. 602-604.</bibl>
         <listBibl>
@@ -780,13 +780,13 @@
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1934-11rxx"><title level="a">Jeunesse déracinée</title>, <title level="j">La Revue du XX<hi rend="sup">e</hi> siècle</title>, n° 1(novembre 1934), p. 16-18.</bibl>
-        <bibl type="recension" xml:id="ddr_1934-11sem"><title level="a">Sur la méthode de M. Goguel [recension de <hi rend="i">Foi à la résurrection de Jésus dans le christianisme primitif</hi> de Maurice Goguel]</title>, <title level="j">Le Semeur</title>, n° 1(novembre 1934), p. 29-35.</bibl>
+        <bibl type="recension" xml:id="ddr_1934-11sem"><title level="a">Sur la méthode de M. Goguel [recension de <title>Foi à la résurrection de Jésus dans le christianisme primitif</title> de Maurice Goguel]</title>, <title level="j">Le Semeur</title>, n° 1(novembre 1934), p. 29-35.</bibl>
         <listBibl>
           <bibl type="article" xml:id="ddr_1934-12espr_p368"><title level="a">Définition de la Personne</title>, <title level="j">Esprit</title>, n° 27(décembre 1934), p. 368-382. <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k300237/f34.image">http://gallica.bnf.fr/ark:/12148/bpt6k300237/f34.image</ref>
           </bibl>
           <listBibl>
-            <bibl>Trad. allemande, « Bestimmung der Person », <title level="j">Neue Schweizer Rundschau</title>, H. 4(1939), p. 248-264.</bibl>
-            <bibl>Trad. espagnole, <title>Federalisme, personalisme, ecumenisme : la inspiració europea</title>, recueil de textes de Denis de Rougemont traduits par Joan Alfred Martinez i Segui, Paiporta, Denes, 2010, 147 p., coll. Rent 8, ISBN 9788492768424.</bibl>
+            <bibl xml:lang="de">Trad. allemande, « Bestimmung der Person », <title level="j">Neue Schweizer Rundschau</title>, H. 4(1939), p. 248-264.</bibl>
+            <bibl xml:lang="es-ES">Trad. espagnole, <title>Federalisme, personalisme, ecumenisme : la inspiració europea</title>, recueil de textes de Denis de Rougemont traduits par Joan Alfred Martinez i Segui, Paiporta, Denes, 2010, 147 p., coll. Rent 8, ISBN 9788492768424.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="recension" xml:id="ddr_1934-12espr_p475"><title level="a">[Recension de <title>Point du jour</title> d’André Breton]</title>, <title level="j">Esprit</title>, n° 27(décembre 1934), p. 475-476.</bibl>
@@ -1068,9 +1068,9 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1937_communisme-chretiens-changer-vie-homme"><title level="a">Changer la vie ou changer l’homme ?</title>, <title>Le Communisme et les chrétiens</title>, Plon, 1937, p. 203-233.</bibl>
           <listBibl>
-            <bibl>Trad. croate, « Treba li promijeniti život ili čovjeka ? », <hi rend="i">Komunizam I Kršćani</hi>, 1937, p. 188-217.</bibl>
-            <bibl>Trad. anglaise, « Shall life or man be changed ? », <title>Communism and Christians</title>, London, The Paladin Press, 1938, p. 227-259.</bibl>
-            <bibl>Trad. espagnole, « Cambiar la vida o cambiar el hombre ? », <title>Revista Mexicana de ciencias políticas y sociales</title>, vol. 36, n° 142(1990), 134-148.</bibl>
+            <bibl xml:lang="hr">Trad. croate, « Treba li promijeniti život ili čovjeka ? », <hi rend="i">Komunizam I Kršćani</hi>, 1937, p. 188-217.</bibl>
+            <bibl xml:lang="en-GB">Trad. anglaise, « Shall life or man be changed ? », <title>Communism and Christians</title>, London, The Paladin Press, 1938, p. 227-259.</bibl>
+            <bibl xml:lang="es-ES">Trad. espagnole, « Cambiar la vida o cambiar el hombre ? », <title>Revista Mexicana de ciencias políticas y sociales</title>, vol. 36, n° 142(1990), 134-148.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1937_les-juifs-vocation-destin-israel"><title level="a">Vocation et destin d’Israël</title>, <title>Les Juifs</title>, Plon, 1937, p. 143-165.</bibl>
@@ -1104,7 +1104,7 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1938-07cp"><title level="a">La vraie défense contre l’esprit totalitaire</title>, <title level="j">Les Cahiers protestants</title>, n° 7(juillet 1938), p. 411-425.</bibl>
           <listBibl>
-            <bibl>Trad. hollandaise, La Haye, Boekencentrum, 1942, en brochure.</bibl>
+            <bibl xml:lang="nl-NL">Trad. hollandaise, La Haye, Boekencentrum, 1942, en brochure.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="recension" xml:id="ddr_1938-08-01nrf"><title level="a">[Recension d’<title>Alice au pays des merveilles</title> de Lewis Carroll]</title>, <title level="j">Nouvelle Revue Française</title>, n° 299(août 1938), p. 328-329.</bibl>
@@ -1130,14 +1130,14 @@
           </bibl>
           <listBibl>
             <bibl type="reprise">Repris dans <title>L'Amour et l’Occident</title>, livre VII, p. 297-327.</bibl>
-            <bibl>Trad. slovène, par Zdenka Erbežnik, « Dejavna ljubezen ali o zvestobi », <title level="j">Emzin</title>, vol. 10, n° 1-2(2000), p. 110-115.</bibl>
+            <bibl xml:lang="sv">Trad. slovène, par Zdenka Erbežnik, « Dejavna ljubezen ali o zvestobi », <title level="j">Emzin</title>, vol. 10, n° 1-2(2000), p. 110-115.</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
           <bibl type="article" xml:id="ddr_1938-11rbl"><title level="a">Le poète et le vilain</title>, <title level="j">Revue de Belles-Lettres</title>, 66<hi rend="sup">e</hi> année, n° 1(novembre 1938), p. 2.<note>Présenté comme un extrait de <title>Doctrine fabuleuse</title>, alors en préparation, mais ne semble pas y être repris</note>
             <TODO> – revoir !</TODO></bibl>
           <listBibl>
-            <bibl>Trad. espagnole, « El poeta y el vilano », <title level="j">Sur</title>, Buenos Aires, n° 63(décembre 1939), p. 34. <ref target="http://catalogo.bn.gov.ar/F/?func=direct&amp;doc_number=001218322&amp;local_base=GENER">http://catalogo.bn.gov.ar/F/?func=direct&amp;doc_number=001218322&amp;local_base=GENER</ref></bibl>
+            <bibl xml:lang="es-AR">Trad. espagnole, « El poeta y el vilano », <title level="j">Sur</title>, Buenos Aires, n° 63(décembre 1939), p. 34. <ref target="http://catalogo.bn.gov.ar/F/?func=direct&amp;doc_number=001218322&amp;local_base=GENER">http://catalogo.bn.gov.ar/F/?func=direct&amp;doc_number=001218322&amp;local_base=GENER</ref></bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1938-11-25vp"><title level="a">Le temps des fanatiques</title>, <title level="j">La Vie protestante</title>, Genève, (25 novembre 1938) p. 1.</bibl>
@@ -1386,7 +1386,7 @@
           <bibl type="article" xml:id="ddr_1941christdom"><title level="a">Ecumenicity and federalism</title>, <title level="j">Christendom</title>, New York, n° 2(printemps 1941), p. 219-233.</bibl>
           <listBibl>
             <bibl>« Fédéralisme et œcuménisme », <title level="j">Foi et Vie</title>, n° 6(septembre-octobre 1946), p. 621-639.</bibl>
-            <bibl>Trad., « Federalisme en oecumeniese beweging », <title level="j">Wending</title>, Amsterdam, n° 4(juin 1946), p. 218-234.</bibl>
+            <bibl xml:lang="nl-NL">Trad., « Federalisme en oecumeniese beweging », <title level="j">Wending</title>, Amsterdam, n° 4(juin 1946), p. 218-234.</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -1404,7 +1404,7 @@
           </listBibl>
         </listBibl>
         <listBibl>
-          <bibl type="article" xml:id="ddr_1941-09sur"><title level="a">Participation à « Debates sobre temas sociológicos : nuevas perspectivas en torno a <hi rend="i">Los irresponsables</hi> de Archibald MacLeish »</title>, <title level="j">Sur</title>, 10<hi rend="sup">e</hi> année, n° 84(septembre 1941), p. 86-87, 90, 92, 93, 94, 95-98, 101, 102, 103. <ref target="http://catalogo.bn.gov.ar/F/?func=direct&amp;doc_number=001218322&amp;local_base=GENER">http://catalogo.bn.gov.ar/F/?func=direct&amp;doc_number=001218322&amp;local_base=GENER</ref>
+          <bibl type="article" xml:id="ddr_1941-09sur"><title level="a">Participation à « Debates sobre temas sociológicos : nuevas perspectivas en torno a <title>Los irresponsables</title> de Archibald MacLeish »</title>, <title level="j">Sur</title>, 10<hi rend="sup">e</hi> année, n° 84(septembre 1941), p. 86-87, 90, 92, 93, 94, 95-98, 101, 102, 103. <ref target="http://catalogo.bn.gov.ar/F/?func=direct&amp;doc_number=001218322&amp;local_base=GENER">http://catalogo.bn.gov.ar/F/?func=direct&amp;doc_number=001218322&amp;local_base=GENER</ref>
           </bibl>
           <listBibl>
             <bibl>Cf., Interventions dans « Debates sobre temas sociologicos », <title level="j">Sur</title>, Buenos Aires, n° 81(1941), p. 83-103. <note>Débats avec Caillois, Ocampo, Weibel-Richard, Erro, Prividal, et al., sur les thèses d’Archibald MacLeish.</note>
@@ -1417,8 +1417,7 @@
             <bibl type="reprise">Repris dans <title>The Heart of Europe</title>.</bibl>
           </listBibl>
         </listBibl>
-        <bibl type="article" xml:id="ddr_1941-09comw"><title level="a">What Switzerland teaches : the lessons of Swiss federalism and regionalism for man’s freedom</title>, <title level="j">The Commonweal</title>, New York, vol. 34, n° 22(septembre 1941), p. 510-512. <note>Titre au sommaire : « The Swiss example ».</note>
-          <note>Extrait de <title>The Heart of Europe</title>.</note>
+        <bibl type="article" xml:id="ddr_1941-09comw"><title level="a">What Switzerland teaches : the lessons of Swiss federalism and regionalism for man’s freedom</title>, <title level="j">The Commonweal</title>, New York, vol. 34, n° 22(septembre 1941), p. 510-512. <note>Titre au sommaire : « The Swiss example ». Extrait de <title>The Heart of Europe</title>.</note>
         </bibl>
         <listBibl>
           <bibl type="article" xml:id="ddr_1941ndpp"><title level="a">Stages on death's way</title>, suivi de <title level="a">The rules of play</title>, <title level="j">New Directions in Prose &amp; Poetry</title>, Norfolk, vol. 6(1941), p. 244-252.</bibl>
@@ -1437,7 +1436,7 @@
           <listBibl>
             <bibl>Rééd. in <title>Pour la Victoire</title>, 4 décembre 1943.</bibl>
             <bibl type="reprise">Repris, avec la rééd. en volume, <title>Écrivains américains d’aujourd’hui</title>, Paris, Stock, 1948, p. 28-31.</bibl>
-            <bibl>Trad. italienne, « Retorica Americana », <title level="j">Sud</title>, n° 2(décembre 1945).</bibl>
+            <bibl xml:lang="it">Trad. italienne, « Retorica Americana », <title level="j">Sud</title>, n° 2(décembre 1945).</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -1550,7 +1549,7 @@
           <bibl type="article" xml:id="ddr_1944-12view"><title level="a">Tie the Gordian Knot Again</title>, trad. anglaise, par Harold Roditi, <title level="j">View</title>, New York, n° 4(décembre 1944), p. 118-119.</bibl>
           <listBibl>
             <bibl>Éd. française, « Le Nœud gordien renoué », <title level="j">Présence</title>, Lausanne, Genève, n° 1(avril 1946), p. 45-48.</bibl>
-            <bibl>Trad. allemande, par Emma v. Pelet, « Der neu geknüpfte gordische Knoten », <title level="j">Antaios</title>, Stuttgart, Bd. 1, n° 4(1959/1960), p. 393-396.</bibl>
+            <bibl xml:lang="de">Trad. allemande, par Emma v. Pelet, « Der neu geknüpfte gordische Knoten », <title level="j">Antaios</title>, Stuttgart, Bd. 1, n° 4(1959/1960), p. 393-396.</bibl>
             <bibl type="reprise">Repris dans <title>Doctrine fabuleuse</title>, p. 93-97.</bibl>
           </listBibl>
         </listBibl>
@@ -1615,7 +1614,7 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1946-03-30figlitt"><title level="a">Les quatre libertés</title>, <title level="j">Le Figaro littéraire</title>, n° 2(30 mars 1946), p. 1.</bibl>
           <listBibl>
-            <bibl>Trad. allemande, par Walter M. Guggenheimer, « Die "Vier Freiheiten"», <title>Alfred Andersch « Europäische Avantgarde »</title>, Frankfurt a. Main, Verl. der Frankfurter Hefte, 1949, p. 22-31 ; précédé de « Die Krankheiten Europas », p. 32-34.</bibl>
+            <bibl xml:lang="de">Trad. allemande, par Walter M. Guggenheimer, « Die "Vier Freiheiten"», <title>Alfred Andersch « Europäische Avantgarde »</title>, Frankfurt a. Main, Verl. der Frankfurter Hefte, 1949, p. 22-31 ; précédé de « Die Krankheiten Europas », p. 32-34.</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -1688,7 +1687,7 @@
             <ref target="http://gallica.bnf.fr/ark:/12148/bpt6k47491103/f1.item">http://gallica.bnf.fr/ark:/12148/bpt6k47491103/f1.item</ref>
           </bibl>
           <listBibl>
-            <bibl>Trad., « Zwijnen in uniform », <title level="j">Internationale Informatie-Eladen</title>, [Van Vrij Nederla], n° 20(1<hi rend="sup">er</hi> juin 1946), p. 1.</bibl>
+            <bibl xml:lang="nl-NL">Trad., « Zwijnen in uniform », <title level="j">Internationale Informatie-Eladen</title>, [Van Vrij Nederla], n° 20(1<hi rend="sup">er</hi> juin 1946), p. 1.</bibl>
             <bibl type="reprise">Repris dans <title>Lettres sur la bombe atomique</title>.</bibl>
           </listBibl>
         </listBibl>
@@ -1753,7 +1752,7 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1946-10font"><title level="a">Le supplice de Tantale</title>, <title level="j">Fontaine</title>, n° 55(octobre 1946) p. 362-367.</bibl>
           <listBibl>
-            <bibl>Trad. allemande, « Die Qual des Tantalus », <title level="j">Antaios : Zeitschrift für eine Freie Welt</title>, Bd I, Nr. 4(1960), p. 560-565.</bibl>
+            <bibl xml:lang="de">Trad. allemande, « Die Qual des Tantalus », <title level="j">Antaios : Zeitschrift für eine Freie Welt</title>, Bd I, Nr. 4(1960), p. 560-565.</bibl>
             <bibl type="reprise">Repris dans <title>Doctrine fabuleuse</title>, p. 99-105.</bibl>
           </listBibl>
         </listBibl>
@@ -1840,7 +1839,7 @@
             <bibl>Autre éd., <title>Rapport du premier Congrès de l’Union européenne des Fédéralistes</title>, Genève, 1947, p. 8-16.</bibl>
             <bibl>Autre éd., <title>L'action fédéraliste européenne</title>, Neuchâtel, n° 8-9(octobre-novembre 1947), p. 37-49.</bibl>
             <bibl>Autre éd., <title>Fédéralisme européen</title>, Paris, La Fédération, 1948, p. 5-16.</bibl>
-            <bibl>Trad. parallèle en anglais, « The way of federalism », trad. par R. Anson, London, Federal Union.</bibl>
+            <bibl xml:lang="en-GB">Trad. parallèle en anglais, « The way of federalism », trad. par R. Anson, London, Federal Union.</bibl>
             <bibl>Ed. part., <title>Panorama des idées contemporaines</title>, éd. Gaëtan Picon, Paris, Gallimard, cop. 1957, p. 358-359.</bibl>
             <bibl>Rééd., en brochure, auprès de la Jeunesse fédéraliste de France, 1954, 16 p., coll. Le XX<hi rend="sup">e</hi> siècle fédéraliste, n° 109 (supplément).</bibl>
             <bibl>Ed. part., <title>L'unité politique de l’Europe : histoire d’une idée : les grands textes</title>, Bruxelles, Bruylant, 2006, p. 516-522.</bibl>
@@ -1872,11 +1871,11 @@
           <listBibl>
             <bibl>Autre éd., abrégée, <title level="j">La Nef</title>, n° 24(1946), p. 30-38. <note>Suivi d’un extrait de sa participation au 1<hi rend="sup">er</hi> entretien, p. 62-63.</note>
             </bibl>
-            <bibl>Trad. allemande, « Die Krankheiten Europas », <title level="j">Merkur</title>, 1. Jg., H. 1(janvier 1947), p. 17-26.</bibl>
+            <bibl xml:lang="de">Trad. allemande, « Die Krankheiten Europas », <title level="j">Merkur</title>, 1. Jg., H. 1(janvier 1947), p. 17-26.</bibl>
             <bibl>Rééd. de la trad allemande, « Die Krankheiten Europas », <title>Alfred Andersch « Europäische Avantgarde »</title>, Frankfurt a. Main, Verl. der Frankfurter Hefte, 1949, p. 22-31, trad. de Walter M. Guggenheimer, suivi de « Die "Vier Freiheiten"», p. 32-34.</bibl>
             <bibl>« Die Krankheit der europaïsche Kultur », <title level="j">Der Monat</title>, H. 32(mai 1951), p. 115-123.</bibl>
-            <bibl>Trad. espagnole, <title>El espiritu europeo</title>, Madrid, Guadarrama, cop. 1957. Traduction du même volume des R.I.G.</bibl>
-            <bibl>Trad. danoise, <title level="j">Heretica</title>, n° 3(1948).</bibl>
+            <bibl xml:lang="es-ES">Trad. espagnole, <title>El espiritu europeo</title>, Madrid, Guadarrama, cop. 1957. Traduction du même volume des R.I.G.</bibl>
+            <bibl xml:lang="da">Trad. danoise, <title level="j">Heretica</title>, n° 3(1948).</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -1888,7 +1887,7 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1947tho"><title level="a">L'opportunité chrétienne</title>, <title level="j">La Troisième heure</title>, New York, fasc. II(1947), p. 12-15.</bibl>
           <listBibl>
-            <bibl>Trad. anglaise, dans la parution anglaise, « The christian opportunity », <title level="j">The Third Hour</title>, New York, Issue III, 1947, p. 19-23.</bibl>
+            <bibl xml:lang="en-US">Trad. anglaise, dans la parution anglaise, « The christian opportunity », <title level="j">The Third Hour</title>, New York, Issue III, 1947, p. 19-23.</bibl>
             <bibl type="reprise">Repris dans le volume anthologie <title>The Third Hour</title>, Helen Iswolsky Memorial Volume, New York, 1976, p. 105-108.</bibl>
           </listBibl>
         </listBibl>
@@ -1916,7 +1915,7 @@
           <listBibl>
             <bibl>Autre éd., « Vers l’Europe fédérale : six principes directeurs », <title level="j">Vers l’Europe</title>, juillet-août 1950, p. 10.</bibl>
             <bibl>Rééd. « Les principes du fédéralisme », <title level="j">Krisis</title>, n° 29(1 février 2008), p. 124-131.</bibl>
-            <bibl>Trad., « Principi della dottrina federalista », <title>Piccola Antologia Federalista</title>, Roma, Giovane Europa Editrice, 1956, p. 31-46.</bibl>
+            <bibl xml:lang="it">Trad., « Principi della dottrina federalista », <title>Piccola Antologia Federalista</title>, Roma, Giovane Europa Editrice, 1956, p. 31-46.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1948-05ref"><title level="a">L'Europe, aventure du XX<hi rend="sup">e</hi> siècle</title>, <title level="j">Réforme</title>, Paris, n° 163(mai 1948), p. 1.</bibl>
@@ -1948,7 +1947,7 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1948cpl"><title level="a">Notes sur la voie clandestine</title>, <title level="j">Cahiers de la Pléiade</title>, n° 3(hiver 1948), p. 57-63.</bibl>
           <listBibl>
-            <bibl>Trad. anglaise, en appendice à la traduction américaine de <title>Doctrine fabuleuse</title> (<title>The Growl of deeper waters</title>), sous le titre « Notes on the unmapped road ».</bibl>
+            <bibl xml:lang="en-US">Trad. anglaise, en appendice à la traduction américaine de <title>Doctrine fabuleuse</title> (<title>The Growl of deeper waters</title>), sous le titre « Notes on the unmapped road ».</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -1978,7 +1977,7 @@
           </bibl>
           <listBibl>
             <bibl>Éd. française, « Prototype T.E.L. », <title level="j">La Table ronde</title>, n° 49(janvier 1952), p. 32-44.</bibl>
-            <bibl>Trad. allemande, « Modell T. E. L. : Lawrence und Saint-Exupéry », <title level="j">Merkur</title>, 3. Jg., H. 13(1949), p. 229-241.</bibl>
+            <bibl xml:lang="de">Trad. allemande, « Modell T. E. L. : Lawrence und Saint-Exupéry », <title level="j">Merkur</title>, 3. Jg., H. 13(1949), p. 229-241.</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -1997,7 +1996,7 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1949cmn"><title level="a">L'Europe, cap du destin</title>, <title level="j">Cahiers du Monde nouveau</title>, n° 6-7(1949), p. 47-50.</bibl>
           <listBibl>
-            <bibl>Trad. néérlandaise, « Europa kaap en kern », <title>Vrij Federland</title>, 30 juillet 1949.</bibl>
+            <bibl xml:lang="nl-NL">Trad. néérlandaise, « Europa kaap en kern », <title>Vrij Federland</title>, 30 juillet 1949.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1950-01wr"><title level="a">A look into the future</title>, <title level="j">World Review</title>, n° 11(janvier 1950), p. 21-24.</bibl>
@@ -2110,14 +2109,14 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1951-12rpar"><title level="a">Inde 1951</title>, <title level="j">Revue de Paris</title>, n° 12(décembre 1951), p. 56-69.</bibl>
           <listBibl>
-            <bibl>Trad. allemande, « Indisches Tagebuch », <title level="j">Merkur</title>, 6. Jg., H. 47(janvier 1952), p. 36-52.</bibl>
+            <bibl xml:lang="de">Trad. allemande, « Indisches Tagebuch », <title level="j">Merkur</title>, 6. Jg., H. 47(janvier 1952), p. 36-52.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1952-03je"><title level="a">L'Heure de l’impatience</title>, <title level="j">Jeunesse d’Europe : bulletin d’information de la Campagne européenne de la Jeunesse</title>, n° 1(mars 1952), p. 1.</bibl>
         <listBibl>
           <bibl type="article" xml:id="ddr_1952-05preuv"><title level="a">"L'œuvre du XX<hi rend="sup">e</hi> siècle" : une réponse, ou une question ?</title> in <title level="j">Preuves</title>, n° 15(mai 1952), p. 1-2.</bibl>
           <listBibl>
-            <bibl>Trad. espagnole, « "La Obra del Siglo XX" : ¿ Es una respuesta o una pregunta ? », <title level="j">Cuadernos</title>, Paris, n° 1(mars-mai 1953), p. 55-57.</bibl>
+            <bibl xml:lang="es-ES">Trad. espagnole, « "La Obra del Siglo XX" : ¿ Es una respuesta o una pregunta ? », <title level="j">Cuadernos</title>, Paris, n° 1(mars-mai 1953), p. 55-57.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1952-06-14ref"><title level="a">Après l’œuvre du XX<hi rend="sup">e</hi> siècle</title>, <title level="j">Réforme</title>, Paris, n° 378(14 juin 1952), p. 7.</bibl>
@@ -2159,7 +2158,7 @@
           <bibl type="article" xml:id="ddr_1952quad"><title level="a">Le sens de nos vies ou l’Europe</title>, <title level="j">Quaderni ACI</title>, Turin, Associazione Culturale Italiana, n° 8(1952), p. 37-52.</bibl>
           <listBibl>
             <bibl>Autre éd., <title level="j">Preuves</title>, n° 16(juin 1952), p. 3-8.</bibl>
-            <bibl>Trad. allemande, « Der Sinn unseres Lebens, oder : Europa », <title level="j">Reformatio</title>, Berne, n° 4-5(1952), p. 227-257.</bibl>
+            <bibl xml:lang="de">Trad. allemande, « Der Sinn unseres Lebens, oder : Europa », <title level="j">Reformatio</title>, Berne, n° 4-5(1952), p. 227-257.</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -2173,8 +2172,8 @@
           <bibl type="article" xml:id="ddr_1953-02preuv"><title level="a">Kierkegaard et Hamlet : deux princes danois</title>, <title level="j">Preuves</title>, n° 24(février 1953), p. 3-11.</bibl>
           <listBibl>
             <bibl type="reprise">Repris dans <title>Les Mythes de l’Amour</title>, p. 89-111.</bibl>
-            <bibl>Trad. anglaise, « Kierkegaard and Hamlet : Two Danish princes », <title level="j">Anchor Review</title>, n° 1(1955), p. 109-127.</bibl>
-            <bibl>Trad. allemande, « Kierkegaard und Hamlet », <title level="j">Der Monat</title>, Berlin, n° 56(mai 1953), p. 115-124.</bibl>
+            <bibl xml:lang="en-US">Trad. anglaise, « Kierkegaard and Hamlet : Two Danish princes », <title level="j">Anchor Review</title>, n° 1(1955), p. 109-127.</bibl>
+            <bibl xml:lang="de">Trad. allemande, « Kierkegaard und Hamlet », <title level="j">Der Monat</title>, Berlin, n° 56(mai 1953), p. 115-124.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1953-04-11ref"><title level="a">Les écrivains protestants</title>, <title level="j">Réforme</title>, Paris, n° 421(11 avril 1953), p. 7.</bibl>
@@ -2192,14 +2191,14 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1953-06les"><title level="a">Une fausse nouvelle : "Dieu est mort"</title>, <title level="j">Liberté de l’esprit</title>, n° 41(juin-juillet 1953), p. 141-142.</bibl>
           <listBibl>
-            <bibl>Trad. anglaise, « False news », <title level="j">The Third Hour</title>, New York, n° 6(1954), p. 9-12.</bibl>
+            <bibl xml:lang="en-US">Trad. anglaise, « False news », <title level="j">The Third Hour</title>, New York, n° 6(1954), p. 9-12.</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
           <bibl type="article" xml:id="ddr_1953-07preuv"><title level="a">Nous ne sommes pas des esclaves</title>, <title level="j">Preuves</title>, n° 29(juillet 1953), p. 3-4.</bibl>
           <listBibl>
             <bibl>Rééds., dans de nombreux journaux européens.</bibl>
-            <bibl>Trad. anglaise condensée, <title>The new leader</title>, 13 juillet 1958, p. 8.</bibl>
+            <bibl xml:lang="en-US">Trad. anglaise condensée, <title>The new leader</title>, 13 juillet 1958, p. 8.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1953-07courfed"><title level="a">Situation de l’Europe en août 1953 : lettre aux Six</title>, <title level="j">Courrier Fédéral</title>, organe du groupe des 20, en lien avec le Centre européen de la Culture, n° 4-5(juillet-août 1953), p. 1-6.</bibl>
@@ -2207,7 +2206,7 @@
           <bibl type="article" xml:id="ddr_1953-09preuv"><title level="a">Les raisons d’être du Congrès de Hambourg</title>, <title level="j">Preuves</title>, n° 30-31(août-septembre 1953), p. 140-142. <note>Allocution inaugurale du Congrès « Science et Liberté », juillet 1953.</note>
           </bibl>
           <listBibl>
-            <bibl>Trad. espagnole, « El Congreso de Hamburgo : Por qué nos hallamos aquí », <title>Cuadernos</title>, Paris, n° 3(septembre-décembre 1953), p. 76-78.</bibl>
+            <bibl xml:lang="es-ES">Trad. espagnole, « El Congreso de Hamburgo : Por qué nos hallamos aquí », <title>Cuadernos</title>, Paris, n° 3(septembre-décembre 1953), p. 76-78.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1953-10enc"><title level="a">Looking for India</title>, <title level="j">Encounter</title>, vol. 1, n° 1(octobre 1953), p. 36-42.</bibl>
@@ -2241,13 +2240,13 @@
         </listBibl>
         <bibl type="article" xml:id="ddr_1954-08-12ill"><title level="a">La C.E.D., ses mythes et sa réalité</title>, <title level="j">L'Illustré</title>, Lausanne, n° 33(12 août 1954), p. 19. <ref target="http://scriptorium.bcu-lausanne.ch/zoom/194198/view?search=rougemont&amp;page=19">http://scriptorium.bcu-lausanne.ch/zoom/194198/view?search=rougemont&amp;page=19</ref>
         </bibl>
-        <bibl type="article" xml:id="ddr_1954-09diplo"><title level="a">Visite à M. Denis de Rougemont, directeur du Centre européen de la culture</title>, propos recueillis par Isabelle Vichniac, <title level="j">Le Monde diplomataire</title>, Paris, septembre 1954, p. 1.</bibl>
+        <bibl type="article" xml:id="ddr_1954-09diplo"><title level="a">Visite à M. Denis de Rougemont, directeur du Centre européen de la culture</title>, propos recueillis par Isabelle Vichniac, <title level="j">Le Monde diplomatique</title>, Paris, septembre 1954, p. 1.</bibl>
         <bibl type="article" xml:id="ddr_1954-10preuv"><title level="a">De Gasperi l’Européen</title>, <title level="j">Preuves</title>, n° 44(octobre 1954), p. 14-16.</bibl>
         <listBibl>
           <bibl type="article" xml:id="ddr_1954-10bcec"><title level="a">Education européenne</title>, <title level="j">Bulletin du Centre européen de la Culture</title>, n° 6-7(octobre-novembre 1954), p. 1-4.</bibl>
           <listBibl>
             <bibl>Rééd., sous le titre « Rien n’est perdu, tout reste à faire », <title level="j">France‑Europe</title>, Paris, n° 29(janvier 1955), p. 5.</bibl>
-            <bibl>Trad. italienne, « Nulla è perduto per l’Europa, ma tutto resta ancora da fare », <title level="j">Neo Europa</title>, supplément au n° 1, Bolzano, 10 décembre 1954, p. 1-2.</bibl>
+            <bibl xml:lang="it">Trad. italienne, « Nulla è perduto per l’Europa, ma tutto resta ancora da fare », <title level="j">Neo Europa</title>, supplément au n° 1, Bolzano, 10 décembre 1954, p. 1-2.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1954-11preuv"><title level="a">Politique de la peur proclamée</title>, <title level="j">Preuves</title>, n° 45(novembre 1954), p. 67-68.</bibl>
@@ -2350,12 +2349,12 @@
           <bibl type="article" xml:id="ddr_1957-05tr_p10"><title level="a">De l’unité de culture à l’union politique</title>, <title level="j">La Table ronde</title>, n° 113(mai 1957), p. 10-15.</bibl>
           <listBibl>
             <listBibl>
-              <bibl>Trad. allemande, « Von der kulturellen Einheit zur politischen Vereinigung Europas », <title level="j">Merkur</title>, 12. Jg., H. 125(juillet 1958), p. 601-607.</bibl>
+              <bibl xml:lang="de">Trad. allemande, « Von der kulturellen Einheit zur politischen Vereinigung Europas », <title level="j">Merkur</title>, 12. Jg., H. 125(juillet 1958), p. 601-607.</bibl>
               <listBibl>
                 <bibl>Rééd.? « Von der Kulturellen Einheit zur politischen Vereinigung », <title>Wir sprechen von Europa</title>, Dortmund, Hoesch, 1990, p.</bibl>
               </listBibl>
             </listBibl>
-            <bibl>Trad. tchèque, « Od kulturního společenství k politické jednotĕ », <title level="j">Revue Prostor</title>, par Alena Lhotová, Praha, 76(2007), p. 119-125.</bibl>
+            <bibl xml:lang="cs">Trad. tchèque, « Od kulturního společenství k politické jednotĕ », <title level="j">Revue Prostor</title>, par Alena Lhotová, Praha, 76(2007), p. 119-125.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1957-05tr"><title level="a">Post-scriptum</title>, <title level="j">La Table Ronde</title>, n° 113(mai 1957), p. 31. <note>Réponse à Emmanuel Berl.</note>
@@ -2408,7 +2407,7 @@
           <bibl type="article" xml:id="ddr_1959-02preuv"><title level="a">Nouvelles métamorphoses de Tristan</title>, <title level="j">Preuves</title>, n° 96(février 1959), p. 14-27.</bibl>
           <listBibl>
             <listBibl>
-              <bibl>Trad. allemande, « Tristans neue Gestalt », <title>Marginalien zu Vladimir Nabokov</title> Lolita, Hamburg, Rowohlt, 1959, p. 1-28.</bibl>
+              <bibl xml:lang="de">Trad. allemande, « Tristans neue Gestalt », <title>Marginalien zu Vladimir Nabokov</title> Lolita, Hamburg, Rowohlt, 1959, p. 1-28.</bibl>
               <listBibl>
                 <bibl>Rééd. de cette trad., Tristans Neue Gestalt : Dr. Schiwago, Lolita und der Mann ohne Eigenschaften », <title level="j">Der Monat</title>, Berlin, n° 127(avril 1959), p. 9-21.</bibl>
               </listBibl>
@@ -2422,7 +2421,7 @@
           <bibl type="article" xml:id="ddr_1959-06preuv"><title level="a">Rudolf Kassner et la grandeur</title>, <title level="j">Preuves</title>, n° 100(juin 1959), p. 63-71.</bibl>
           <listBibl>
             <bibl>Rééd. part., « Rudolph Kassner », <title level="j">Nouvelle Revue Française</title>, n° 80(août 1959), p. 346-347.</bibl>
-            <bibl>Trad. allemande, « Rudolf Kassner und die Grösse », <title level="j">Der Monat</title>, n° 140(mai 1960), p. 22-30.</bibl>
+            <bibl xml:lang="de">Trad. allemande, « Rudolf Kassner und die Grösse », <title level="j">Der Monat</title>, n° 140(mai 1960), p. 22-30.</bibl>
             <bibl type="reprise">Repris dans <title>Comme toi-même</title>, puis dans <title>Les Mythes de l’Amour</title>, p. 205-228.</bibl>
           </listBibl>
         </listBibl>
@@ -2456,7 +2455,7 @@
         <bibl type="article" xml:id="ddr_1960mak"><title level="a">Probleme der Europäischen Festspiele</title>, <title level="j">Maske und Kothurn</title>, Graz, Köln, Jg. 6., H. 2(1960), p. 97-100.</bibl>
         <bibl type="article" xml:id="ddr_1961-02-07arts"><title level="a">L'Amour en cause</title>, <title level="j">Arts</title>, n° (7 février 1961), p. 1 et 4.</bibl>
         <listBibl>
-          <bibl type="article" xml:id="ddr_1961-04-01nrf"><title level="a">La personne, l’ange et l’absolu, ou le dialogue Occident-Orient</title>, <title level="j">Nouvelle Fevue Française</title>, n° 100(avril 1961), p. 586-617.</bibl>
+          <bibl type="article" xml:id="ddr_1961-04-01nrf"><title level="a">La personne, l’ange et l’absolu, ou le dialogue Occident-Orient</title>, <title level="j">Nouvelle Revue Française</title>, n° 100(avril 1961), p. 586-617.</bibl>
           <listBibl>
             <bibl type="reprise">Repris dans <title>Comme toi-même</title>, p. 229-269.</bibl>
           </listBibl>
@@ -2482,7 +2481,7 @@
             <bibl>Autre éd., <title level="j">Caractère et Culture de l’Europe</title>, Amsterdam, n° 2-3(1960), p. 28-34.</bibl>
           </listBibl>
         </listBibl>
-        <bibl type="article" xml:id="ddr_1961bcec_n1"><title level="a">Prédictions et réalités : Russie, Europe, États-Unis</title>, <title level="j">Bulletin européen de la Culture</title>, Genève, n° 1(1960-1961), p. 1-44.</bibl>
+        <bibl type="article" xml:id="ddr_1961bcec_n1"><title level="a">Prédictions et réalités : Russie, Europe, États-Unis</title>, <title level="j">Bulletin du Centre Européen de la Culture</title>, Genève, n° 1(1960-1961), p. 1-44.</bibl>
         <bibl type="article" xml:id="ddr_1961bcec_n4"><title level="a">Introduction au <title>Guide européen de l’enseignement civique</title></title>, numéro thématique de <title level="j">Bulletin du Centre européen de la Culture</title>, n° 4(1960-1961).</bibl>
         <bibl type="article" xml:id="ddr_1961bcec_n5"><title level="a">Esquisse d’une biographie : J. H. Retinger</title>, <title level="j">Bulletin du Centre Européen de la Culture</title>, Genève, n° 5(1960-1961), p. 20-50.</bibl>
         <bibl type="article" xml:id="ddr_1961bcec_n6"><title level="a">Généalogie des grands desseins européens. De 1306 à 1961</title>, <title level="j">Bulletin du Centre européen de la Culture</title>, Genève, n° 6(1960-1961), p. 1-89.</bibl>
@@ -2581,7 +2580,7 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1963-05-10futur"><title level="a">Orientation vers une Europe fédérale</title>, <title level="j">Futuribles Bulletin SEDE/S</title>, n° 853(10 mai 1963), suppl. II, p. 5-34.</bibl>
           <listBibl>
-            <bibl>Trad. anglaise, « Pointers towards a federal Europe », <title>Studies in conjecture</title>, Genève, Droz, 1965, p. 113-148.</bibl>
+            <bibl xml:lang="en-GB">Trad. anglaise, « Pointers towards a federal Europe », <title>Studies in conjecture</title>, Genève, Droz, 1965, p. 113-148.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1963ansh"><title level="a">Le fédéralisme suisse</title>, <title>La Suisse face à l’avenir</title>, Berne, Commission de l’Annuaire de la Nouvelle Société Helvétique, 1963, p. 66-75.</bibl>
@@ -2615,13 +2614,11 @@
         <bibl type="article" xml:id="ddr_1964_bestand-versuch-marche-echec"><title level="a">De la marche ; De l’échec</title>, <title>Bestand und Versuch</title>, Zürich, Stuttgart, Artemis, 1964, p. 611-617.<note>Fragment de <title>La Morale du but</title>, traité resté inédit.</note></bibl>
         <bibl type="article" xml:id="ddr_1964_meaning-love-tristan-myth"><title level="a">The Tristan myth</title>, <title>The meaning of love</title>, New York, G. Braziller, cop. 1964, p. 160-177.</bibl>
         <bibl type="article" xml:id="ddr_1964_world-love-crisis-modern-marriage"><title level="a">Crisis in modern marriage</title>, <title>The world of love</title>, New York, G. Braziller, cop. 1964, vol. 2, p. 500-510.</bibl>
-        <bibl type="article" xml:id="ddr_1964transi"><title level="a">Letter to the Editor : about a Louisiana jail</title>, <title level="j">Transition</title>, n° 16(1964), p. 35. <note>À propos de censure autour d’un condamné à mort en une prison de Louisiane.</note>
-          <note>Rédigée au nom du Congress for Cultural Freedom. Signataires : « Denis de Rougemont, <hi rend="i">chairman</hi>, Raymond Aron, Edward Shils, Manes Sperber, Ignazio Silone, Minoo Masani and Michael Polanyi ».</note>
+        <bibl type="article" xml:id="ddr_1964transi"><title level="a">Letter to the Editor : about a Louisiana jail</title>, <title level="j">Transition</title>, n° 16(1964), p. 35. <note>À propos de censure autour d’un condamné à mort en une prison de Louisiane. Rédigée au nom du Congress for Cultural Freedom. Signataires : « Denis de Rougemont, <hi rend="i">chairman</hi>, Raymond Aron, Edward Shils, Manes Sperber, Ignazio Silone, Minoo Masani and Michael Polanyi ».</note>
         </bibl>
         <bibl type="article" xml:id="ddr_1964_honneur-saint-john-perse-amerique"><title level="a">Saint-John Perse en Amérique</title>, <title>Honneur à Saint-John Perse : hommages et témoignages littéraires, suivis d’une documentation sur Alexis Léger, diplomate</title>, Gallimard, 1965, p. 614-615.</bibl>
         <bibl type="article" xml:id="ddr_1965-03btsr"><title level="a">La technique, facteur de paix</title>, <title level="j">Bulletin technique de la Suisse romande</title>, Lausanne, n° 5(mars 1965), p. 1-18.</bibl>
-        <bibl type="article" xml:id="ddr_1965-03-20glaus"><title level="a">Un écrivain suisse</title>, <title level="j">Gazette de Lausanne</title>, n° 66(20-21 mars 1965). <note>A propos de Carl J. Burckhardt.</note>
-          <note>Présenté comme un fragment d’« un ouvrage sur la Suisse à paraître. »</note>
+        <bibl type="article" xml:id="ddr_1965-03-20glaus"><title level="a">Un écrivain suisse</title>, <title level="j">Gazette de Lausanne</title>, n° 66(20-21 mars 1965). <note>A propos de Carl J. Burckhardt. Présenté comme un fragment d’« un ouvrage sur la Suisse à paraître. »</note>
           <ref target="http://www.letempsarchives.ch/page/GDL_1965_03_20/23">http://www.letempsarchives.ch/page/GDL_1965_03_20/23</ref>
         </bibl>
         <bibl type="article" xml:id="ddr_1965-05rpar"><title level="a">Le Suisse moyen et quelques autres</title>, <title level="j">Revue de Paris</title>, n° 5(mai 1965), p. 53-64.</bibl>
@@ -2635,7 +2632,7 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1966-11preuv"><title level="a">Dans l’amitié d’André Breton</title>, <title level="j">Preuves</title>, n° 189(novembre 1966), p. 15-17.</bibl>
           <listBibl>
-            <bibl>Trad. anglaise, « André Breton », <title level="j">Encounter</title>, vol. 19, n° 2(août 1967), p. 64-69.</bibl>
+            <bibl xml:lang="en-GB">Trad. anglaise, « André Breton », <title level="j">Encounter</title>, vol. 19, n° 2(août 1967), p. 64-69.</bibl>
             <bibl>Autre éd., dont quelques paragraphes changent, « André Breton à New-York », <title level="j">Gazette de Lausanne</title>, n° 235(8-9 octobre 1966), p. 29. <ref target="http://www.letempsarchives.ch/page/GDL_1966_10_08/29">http://www.letempsarchives.ch/page/GDL_1966_10_08/29</ref>
             </bibl>
           </listBibl>
@@ -2701,7 +2698,7 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1968-10preuv"><title level="a">Vingt ans après, ou la campagne des congrès, 1947-1949</title>, <title level="j">Preuves</title>, n° 211(octobre 1968), p. 16-29.</bibl>
           <listBibl>
-            <bibl>Trad., « The Campaign of the European Congress », <title level="j">Government and Opposition</title>, London, vol. 2, n° 3(1967), p. 329-349.</bibl>
+            <bibl xml:lang="en-GB">Trad., « The Campaign of the European Congress », <title level="j">Government and Opposition</title>, London, vol. 2, n° 3(1967), p. 329-349.</bibl>
             <bibl>Rééd., <title>News Politics of European Integration</title>, London, Macmillan, 1972, p. 10-32.</bibl>
             <bibl>Autre éd., « Vingt ans après La Haye : où en est l’Europe ? », <title level="j">L'Europe en formation</title>, Nice, n° 98(mai 1968), p. 14‑16.</bibl>
             <bibl>Rééd. part., « La Haye, 7 mai 1968. Lorsque tout commençait », <title level="j">Communauté européenne</title>, n° 118(mai 1968), p. 31‑35.</bibl>
@@ -2760,7 +2757,7 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1969_alpes-naissance-confederation"><title level="a">Naissance d’une confédération</title>, <title>Les Alpes</title>, Zürich, Sélection du Reader's Digest, 1969, p. 89-96.</bibl>
           <listBibl>
-            <bibl>Trad. allemande, « Die Schweizer Eidgenossenschaft », <title>Die Alpen</title>, Stuttgart, Zürich, Verl. Das Beste, cop. 1972, p. 43-50, trad. de Maria Honeit.</bibl>
+            <bibl xml:lang="de">Trad. allemande, « Die Schweizer Eidgenossenschaft », <title>Die Alpen</title>, Stuttgart, Zürich, Verl. Das Beste, cop. 1972, p. 43-50, trad. de Maria Honeit.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1969_alpenflug-herzstuck-alpen-schweiz"><title level="a">Herzstück der Alpen : die Schweiz</title>, <title>Alpenflug</title>, Bern, Kümmerly &amp; Frey, 1969, p. 77-94.</bibl>
@@ -2783,7 +2780,7 @@
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1970-05fcz"><title level="a">Denis de Rougemont, lauréat du prix Schuman 1970</title>, <title level="j">Feuille centrale de Zofingue</title>, n° 5-6(mai-juin 1970), p. 242-245.</bibl>
-        <bibl type="article" xml:id="ddr_1970-06treje"><title level="a">Qu’est‑ce que la culture européenne ?</title>, <title level="j">30 Jours d’Europe (Service d’information des communautés européennes)</title>, Paris, n° 143(juin 1970), p. 20‑21.</bibl>
+        <bibl type="article" xml:id="ddr_1970-06treje"><title level="a">Qu’est‑ce que la culture européenne ?</title>, <title level="j">30 Jours d’Europe</title> (Service d’information des communautés européennes), Paris, n° 143(juin 1970), p. 20‑21.</bibl>
         <bibl type="article" xml:id="ddr_1970-06-02glaus"><title level="a">Une réflexion sur le mode de vie plutôt que sur le niveau de vie</title>, <title>Les travailleurs étrangers en Suisse</title>, numéro thématique conjoint de la <title>Nouvelle Revue de Lausanne</title> et de la <title level="j">Gazette de Lausanne</title>, n° 125(2 juin 1970), p. 33. <ref target="http://www.letempsarchives.ch/page/GDL_1970_06_02/32">http://www.letempsarchives.ch/page/GDL_1970_06_02/32</ref>
         </bibl>
         <bibl type="article" xml:id="ddr_1970-09-24nlit"><title level="a">Les prophètes de la décadence</title>, <title level="j">Les Nouvelles littéraires</title>, n° 2244(24 septembre 1970), p. 3.</bibl>
@@ -2817,7 +2814,7 @@
         <bibl type="entretien" xml:id="ddr_1971-02-04ill"><title level="a">Supprimer un anachronisme et une injustice</title>, entretien à propos du suffrage féminin, <title level="j">L'Illustré</title>, Lausanne, n° 6(4 février 1971), p. 30-31. <ref target="http://scriptorium.bcu-lausanne.ch/zoom/193578/view?page=30&amp;p=separate&amp;view=0,0,3161,3855">http://scriptorium.bcu-lausanne.ch/zoom/193578/view?page=30&amp;p=separate&amp;view=0,0,3161,3855</ref>
         </bibl>
         <bibl type="article" xml:id="ddr_1971-03ef"><title level="a">Arnaud Dandieu, la Révolution et les Régions</title>, <title level="j">L'Europe en Formation</title>, n° 132(mars 1971), p. 11-12.</bibl>
-        <bibl type="article" xml:id="ddr_1971-04-12expr"><title level="a">L'Amour et l’Europe : <hi rend="i">L'Express</hi> va plus loin... avec D. de Rougemont</title>, <title level="j">L'Express</title>, n° 1031(12 avril 1971), p. 124-134, 139, 147.</bibl>
+        <bibl type="article" xml:id="ddr_1971-04-12expr"><title level="a">L'Amour et l’Europe : <title level="j">L'Express</title> va plus loin... avec D. de Rougemont</title>, <title level="j">L'Express</title>, n° 1031(12 avril 1971), p. 124-134, 139, 147.</bibl>
         <bibl type="article" xml:id="ddr_1971-09-11glaus"><title level="a">Une dimension nouvelle</title>, <title>La Gazette littéraire</title>, supplément de la <title level="j">Gazette de Lausanne</title>, n° 212(11‑12 septembre 1971), p. 25. <note>A propos de Carl Jakob Burckhardt.</note>
           <ref target="http://www.letempsarchives.ch/page/GDL_1971_09_11/25">http://www.letempsarchives.ch/page/GDL_1971_09_11/25</ref>
         </bibl>
@@ -2837,8 +2834,8 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1971-integ"><title level="a">L'Europe est d’abord une unité de culture</title>, <title>Intégration : Vierteljahreshefte zur Europaforschung</title>, Bruxelles, Bonn, n° 3-4(1971), p. 219-225.</bibl>
           <listBibl>
-            <bibl>Trad. anglaise, « Europe is primarily a culture », <title>European conference of Jewish communities</title>, London, World Jewish Congress, 1975 European branch, p. 50-57.</bibl>
-            <bibl>Trad. espagnole, « Europa, es ante todo una cultura », <title>Revista de Occidente</title>, Madrid, n° 119-120(1973), p. 177-187.</bibl>
+            <bibl xml:lang="en-GB">Trad. anglaise, « Europe is primarily a culture », <title>European conference of Jewish communities</title>, London, World Jewish Congress, 1975 European branch, p. 50-57.</bibl>
+            <bibl xml:lang="es-ES">Trad. espagnole, « Europa, es ante todo una cultura », <title>Revista de Occidente</title>, Madrid, n° 119-120(1973), p. 177-187.</bibl>
             <bibl>Rééd., <title level="j">Cadmos</title>, Genève, n° 43(1988), p. 8-17.</bibl>
           </listBibl>
         </listBibl>
@@ -2850,8 +2847,8 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1972_europe-an-2000-europe-divisee-federee"><title level="a">Europe divisée ou Europe fédérée ?</title>, <title>L'Europe en l’an 2000</title>, Fayard, 1972, p. 169-199.</bibl>
           <listBibl>
-            <bibl>Trad. flamande, par Margot Bakker, dans l’éd. parallèle, Deventer, Kluwer, 1972, p. 63-90.</bibl>
-            <bibl>Trad. anglaise, « A divided or a federate Europe ? Participation in social, civic and political responsabilities in the future», <title>Future Is Tomorrow : 17 Prospective Studies</title>, La Haye, M. Nijhoff, 1972, p. 59-87.</bibl>
+            <bibl xml:lang="nl-BE">Trad. flamande, par Margot Bakker, dans l’éd. parallèle, Deventer, Kluwer, 1972, p. 63-90.</bibl>
+            <bibl xml:lang="en-GB">Trad. anglaise, « A divided or a federate Europe ? Participation in social, civic and political responsabilities in the future», <title>Future Is Tomorrow : 17 Prospective Studies</title>, La Haye, M. Nijhoff, 1972, p. 59-87.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1972_confrontation-regions-frontalieres-aspects-culturelles-cooperation"><title level="a">Aspects culturels de la coopération dans les régions frontalières</title>, <title>Confrontation des régions frontalières</title>, Genève, Institut universitaire d’Etudes européennes, 1972, p. 66-79.</bibl>
@@ -2860,8 +2857,8 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1973-03bcs"><title level="a">De Genève à l’Europe par les Régions</title>, <title level="j">Bulletin du Crédit suisse</title>, mars 1973, p. 33-36.</bibl>
           <listBibl>
-            <bibl>Trad. allemande, dans l’édition parallèle, « Genf und das Europa der Regionen », <title level="j">Bulletin Schweizerische Kreditanstalt</title>, mars 1973, p. 34-36</bibl>
-            <bibl>Trad. anglaise, dans l’édition parallèle, « From Geneva to Europe through Regionalization », <title level="j">Bulletin Swiss Credit Bank</title>, été 1973, p. 31-33.</bibl>
+            <bibl xml:lang="de">Trad. allemande, dans l’édition parallèle, « Genf und das Europa der Regionen », <title level="j">Bulletin Schweizerische Kreditanstalt</title>, mars 1973, p. 34-36</bibl>
+            <bibl xml:lang="en-GB">Trad. anglaise, dans l’édition parallèle, « From Geneva to Europe through Regionalization », <title level="j">Bulletin Swiss Credit Bank</title>, été 1973, p. 31-33.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1973-06-27agefi"><title level="a">Du passé à l’avenir d’une région</title>, <title level="j">Agence économique et financière</title>, 27 juin 1973, p. 6-7.</bibl>
@@ -2890,7 +2887,7 @@
           <bibl type="article" xml:id="ddr_1974_europe-regions-carl-jakob-burckhardt-europeen"><title level="a">C. J. B. l’Européen : 1891-1974</title>, <title>L'Europe des régions</title>, Genève, Institut des études européennes, 1974, vol. 4, p. 81-83.</bibl>
           <listBibl>
             <bibl>Autre éd., <title level="j">Bulletin du Centre Européen de la Culture</title>, n° 1(1974), p. 81-83.</bibl>
-            <bibl>Trad. allemande, « C. J. B. oder der vollständige Mensch : [1891-1974] », <title level="j">Neue Zürcher Zeitung</title>, 26 mai 1974.</bibl>
+            <bibl xml:lang="de">Trad. allemande, « C. J. B. oder der vollständige Mensch : [1891-1974] », <title level="j">Neue Zürcher Zeitung</title>, 26 mai 1974.</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -2902,8 +2899,8 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1974ke"><title level="a">Responsabilité de l’écrivain dans la société européenne d’aujourd’hui</title> in <title>Kunst heute</title>, Bern, Frankfurt/M., H. Lang, 1974, p. 73-90.</bibl>
           <listBibl>
-            <bibl>Trad. anglaise, par Mervyn Poole, « The social responsibility of the writer in contemporary West European societies », <title level="j">The yearbook of comparative and general literature</title>, Bloomington, n° 22(1973), p. 58-70.</bibl>
-            <bibl>Trad. allemande, en brochure, <title>Die Verantwortung des Schriftstellers in der europäischen Gesellschaft der Gegenwart</title>, Zürich, Pro Helvetia, 1973, 23 p.</bibl>
+            <bibl xml:lang="en-GB">Trad. anglaise, par Mervyn Poole, « The social responsibility of the writer in contemporary West European societies », <title level="j">The yearbook of comparative and general literature</title>, Bloomington, n° 22(1973), p. 58-70.</bibl>
+            <bibl xml:lang="de">Trad. allemande, en brochure, <title>Die Verantwortung des Schriftstellers in der europäischen Gesellschaft der Gegenwart</title>, Zürich, Pro Helvetia, 1973, 23 p.</bibl>
             <bibl>Rééd., en brochure, Pailly, Ed. du Madrier, 2000, 18 p.</bibl>
             <bibl>Autre éd., <title level="j">Papyrus</title>, n° 0(1995), p. 35-43.</bibl>
           </listBibl>
@@ -2957,7 +2954,7 @@
         <bibl type="article" xml:id="ddr_1977fmmv"><title level="a">Souvenir de 1938</title>, <title level="j">Festival de musique Montreux-Vevey</title>, n° 32(1977), p. 51.</bibl>
         <bibl type="article" xml:id="ddr_1977_hommes-etat-celebres-debuts-construction-europeenne"><title level="a">Les débuts de la construction européenne</title>, <title level="s">Les hommes d’Etat célèbres</title>, vol. 6, <title>De 1920 à nos jours</title>, Mazenod, 1977, p. 238-243.</bibl>
         <bibl type="article" xml:id="ddr_1977_hommes-etat-celebres-robert-schuman"><title level="a">Robert Schuman : 1886-1963</title>, <title>Les hommes d’Etat célèbres</title>, vol. 6, <title>De 1920 à nos jours</title>, Mazenod, 1977, p. 254-257.</bibl>
-        <bibl type="article" xml:id="ddr_1977bcec"><title level="a">Réponse</title>, <title>Itinéraire d’un penseur engagé</title>, numéro thématique du <title level="j">Bulletin du Centre Européen pour la Culture</title>, n° 3(1977), p. 17-18. <note>Discours de remerciement à l’occasion de la réception de <title>Denis de Rougemont : l’écrivain, l’Européen</title>, pour ses 70 ans.</note>
+        <bibl type="article" xml:id="ddr_1977bcec"><title level="a">Réponse</title>, <title>Itinéraire d’un penseur engagé</title>, numéro thématique du <title level="j">Bulletin du Centre Européen de la Culture</title>, n° 3(1977), p. 17-18. <note>Discours de remerciement à l’occasion de la réception de <title>Denis de Rougemont : l’écrivain, l’Européen</title>, pour ses 70 ans.</note>
         </bibl>
         <listBibl>
           <bibl type="article" xml:id="ddr_1977_melanges-henry-corbin-heretiques-toutes-religions"><title level="a">Hérétiques de toutes les religions, unissez-vous !</title>, <title>Mélanges offerts à Henry Corbin</title>, Téhran, Tehran Univ., 1977, p. 539-546.</bibl>
@@ -3009,14 +3006,14 @@
           <bibl type="article" xml:id="ddr_1979-03sauv"><title level="a">Cet amour qui nous rendrait la liberté</title>, <title level="j">Le Sauvage</title>, mars 1979, p. 28-36.</bibl>
           <listBibl>
             <bibl>Rééd., <title level="j">Construire</title>, n° 22(2 juin 1982).</bibl>
-            <bibl>Trad. italienne, <title level="j">Spirali</title>, octobre 1979, p. 45</bibl>
+            <bibl xml:lang="it">Trad. italienne, <title level="j">Spirali</title>, octobre 1979, p. 45</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1979-03-16mond"><title level="a">Avez-vous lu Jérôme Deshusses ?</title>, <title level="j">Le Monde</title>, 16 mars 1979, p. 17 et 23.</bibl>
         <listBibl>
           <bibl type="article" xml:id="ddr_1979-05-09cons"><title level="a">Rapport au peuple européen</title>, <title level="j">Construire</title>, 9 mai 1979, p. 20.</bibl>
           <listBibl>
-            <bibl>Trad. dans l’éd. allemande, <title>Wir Brückenbauer</title>.</bibl>
+            <bibl xml:lang="de">Trad. dans l’éd. allemande, <title>Wir Brückenbauer</title>.</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -3034,7 +3031,7 @@
           <bibl type="article" xml:id="ddr_1979_merveilleux-lavaux-centre-monde"><title level="a">Au centre du monde, Lavaux</title>, <title>Merveilleux Lavaux</title>, Lausanne, Ed. du Grand Pont, 1979, p. 21-22.</bibl>
           <listBibl>
             <bibl>Rééd., in <title>Gazette littéraire</title>, supplément de la <title level="j">Gazette de Lausanne</title>, n° 301(23-25 décembre 1972), p. 1.<ref target="http://www.letempsarchives.ch/page/GDL_1972_12_23/17">http://www.letempsarchives.ch/page/GDL_1972_12_23/17</ref></bibl>
-            <bibl>Traduction dans l’éd. parallèle allemande, « Zentrum der Erde : Lavaux », <title>Lavaux : Wunder der Weinberge</title>, p. 33-34, et anglaise, « Lavaux, centre of the world », <title>Enchanting Lavaux</title>, p. 33-35.</bibl>
+            <bibl xml:lang="de">Traduction dans l’éd. parallèle allemande, « Zentrum der Erde : Lavaux », <title>Lavaux : Wunder der Weinberge</title>, p. 33-34, et anglaise, « Lavaux, centre of the world », <title>Enchanting Lavaux</title>, p. 33-35.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="article" xml:id="ddr_1979_grand-theatre-geneve-mythe-opera"><title level="a">Le mythe et l’opéra</title>, <title>Le Grand Théâtre de Genève</title>, Genève, Fondation du Grand Théâtre de Genève, 1979, p. 16-17.</bibl>
@@ -3073,7 +3070,7 @@
           <bibl type="article" xml:id="ddr_1980hei"><title level="a">L'Europe, invention culturelle</title>, <title level="j">History of European ideas</title>, Oxford, New York, vol. 1(1980), p. 31-38.</bibl>
           <listBibl>
             <bibl>Rééd., <title level="j">Cadmos</title>, Genève, n° 32(1985), p. 4-17.</bibl>
-            <bibl>Trad., « Europe, a Cultural Invention », <title level="j">History of European Ideas</title>, Tel-Aviv, 1, mars 1981, p. 31-38.</bibl>
+            <bibl xml:lang="en-GB">Trad., « Europe, a Cultural Invention », <title level="j">History of European Ideas</title>, Tel-Aviv, 1, mars 1981, p. 31-38.</bibl>
           </listBibl>
         </listBibl>
         <listBibl>
@@ -3094,8 +3091,8 @@
           <bibl type="article" xml:id="ddr_1981-10diog"><title level="a">Information n’est pas savoir</title>, <title level="j">Diogène</title>, n° 116(octobre-décembre 1981), p. 3-19.</bibl>
           <listBibl>
             <bibl>Autre éd., <title level="j">Revue économique et sociale</title>, vol. 39, n° 4(1981), p. 310-320.<ref target="http://dx.doi.org/10.5169/seals-138696">http://dx.doi.org/10.5169/seals-138696</ref></bibl>
-            <bibl>Trad. anglaise, « Information is not knowledge », <title level="j">Diogene</title>, n° 116(1981), p. 1-17.</bibl>
-            <bibl>Trad. allemande, « Information ist nicht Wissen », <title>Symposium 2000 : Perspektiven der Zukunft</title>, Basel, 1982, p. 10-18.</bibl>
+            <bibl xml:lang="en-GB">Trad. anglaise, « Information is not knowledge », <title level="j">Diogene</title>, n° 116(1981), p. 1-17.</bibl>
+            <bibl xml:lang="de">Trad. allemande, « Information ist nicht Wissen », <title>Symposium 2000 : Perspektiven der Zukunft</title>, Basel, 1982, p. 10-18.</bibl>
             <bibl>Autre éd., <title>Symposium 2000, perspectives de l’avenir</title>, anniversaire de l’Union des Banques cantonales suisses, 1982.</bibl>
             <bibl>autre éd., revue et augmentée, <title level="j">Diogène</title>, n° 4(1983), p. 23-35.</bibl>
             <bibl>Autre éd., <title>L'Imaginaire des techniques de pointe au doigt et à l’œil</title>, Paris, L'Harmattan, 1989, p. 33-51.</bibl>
@@ -3108,7 +3105,7 @@
         <listBibl>
           <bibl type="article" xml:id="ddr_1981_liber-amicorum-henri-brugmans-federalisme-personnalisme-oecumenisme"><title level="a">Fédéralisme, personnalisme, œcuménisme</title>, <title>Liber amicorum Henri Brugmans</title>, Amsterdam, Fondation européenne de la culture, 1981, p. 124-135.</bibl>
           <listBibl>
-            <bibl>Trad. espagnole, <title>Federalisme, personalisme, ecumenisme : la inspiració europea</title>, recueil de textes de Denis de Rougemont traduits par Joan Alfred Martinez i Segui, Paiporta, Denes, 2010, 147 p., coll. Col.lecció rent 8, ISBN 9788492768424.</bibl>
+            <bibl xml:lang="es-ES">Trad. espagnole, <title>Federalisme, personalisme, ecumenisme : la inspiració europea</title>, recueil de textes de Denis de Rougemont traduits par Joan Alfred Martinez i Segui, Paiporta, Denes, 2010, 147 p., coll. Col.lecció rent 8, ISBN 9788492768424.</bibl>
           </listBibl>
         </listBibl>
         <bibl type="préface" xml:id="ddr_1981_preface-aron-fragments-vie"><title level="a" rend="normal">Préface à <title>Fragments d’une vie</title> de Robert Aron</title>, Plon, 1981, p. I-VII.</bibl>
@@ -3127,7 +3124,7 @@
         </bibl>
         <bibl type="article" xml:id="ddr_1982-10-09salitt"><title level="a">Mes amis et Nerval</title>, réponse à l’enquête « Que lisent les écrivains romands ? », <title level="j">Samedi littéraire</title> de la <title>Gazette de Lausanne</title> et <title level="j">Journal de Genève</title>, n° 235(9 octobre 1982), p. 19 (p. V du supplément). <ref target="http://www.letempsarchives.ch/page/JDG_1982_10_09/19">http://www.letempsarchives.ch/page/JDG_1982_10_09/19</ref>
         </bibl>
-        <bibl type="entretien" xml:id="ddr_1982-10-24tlaus"><title level="a">Un écrivain au service de la cité</title>, entretien à l’occasion du Prix Schiller, in <title level="j">Tribune de Lausanne – Le Matin</title>, n° 297(24 octobre 1982), p. 6. <ref target="https://scriptorium.bcu-lausanne.ch/zoom/79459/view?page=6">https://scriptorium.bcu-lausanne.ch/zoom/79459/view?page=6</ref>
+        <bibl type="entretien" xml:id="ddr_1982-10-24tlaus"><title level="a">Un écrivain au service de la cité</title>, entretien à l’occasion du Prix Schiller, in <title level="j">Tribune de Lausanne</title> – <title>Le Matin</title>, n° 297(24 octobre 1982), p. 6. <ref target="https://scriptorium.bcu-lausanne.ch/zoom/79459/view?page=6">https://scriptorium.bcu-lausanne.ch/zoom/79459/view?page=6</ref>
         </bibl>
         <listBibl>
           <bibl type="article" xml:id="ddr_1982-10-30salitt"><title level="a">Suis-je perdu pour la littérature ?</title>, <title level="j">Samedi littéraire</title> du <title level="j">Journal de Genève</title> et de la <title level="j">Gazette de Lausanne</title>, n° 253(30 octobre 1982), p. 17 et 20 (p. I et IV du supplément) <ref target="http://www.letempsarchives.ch/page/JDG_1982_10_30/17">http://www.letempsarchives.ch/page/JDG_1982_10_30/17</ref>
