@@ -1,2 +1,12 @@
 docx
 odt
+html/
+iramuteq/
+markdown/
+article/
+toc/
+epub/
+kindle/
+*.sqlite
+conf.php
+.DS_Store
