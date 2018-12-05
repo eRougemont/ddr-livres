@@ -69,7 +69,7 @@ if ($doc) {
   echo "\n".'</header>';
   echo '
     <form action="#mark1">
-      <a title="Retour aux résultats" href="'.$basehref.'?'.$_COOKIE['lastsearch'].'"><img src="'.$basehref.'../theme/img/fleche-retour-corpus.png" alt="←"/></a>
+      <a title="Retour aux résultats" href="'.$basehref.'?'.$_COOKIE['lastsearch'].'">◀</a>
       <input name="q" value="'.str_replace('"', '&quot;', $base->p['q']).'"/><button type="submit">🔎</button>
     </form>
   ';
@@ -91,11 +91,11 @@ else {
     <a target="_blank" href="html/">html</a>.
   </nav>
   ';
+//   <div><label>De <input placeholder="année" name="start" class="year" value="'.$base->p['start'].'"/></label> <label>à <input class="year" placeholder="année" name="end" value="'.$base->p['end'].'"/></label></div>
 
   echo'
 <form action="">
   <input style="width: 100%;" name="q" class="text" placeholder="Rechercher de mots" value="'.str_replace('"', '&quot;', $base->p['q']).'"/>
-  <div><label>De <input placeholder="année" name="start" class="year" value="'.$base->p['start'].'"/></label> <label>à <input class="year" placeholder="année" name="end" value="'.$base->p['end'].'"/></label></div>
   <button type="reset" onclick="Form.reset(this.form); this.form.submit(); ">Effacer</button>
   <button type="submit" style="float: right; ">Rechercher</button>
 </form>
