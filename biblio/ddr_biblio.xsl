@@ -142,4 +142,3 @@ XML TEI allégé, par exemple pièce de théâtre sans didascalies, ou critique 
   <xsl:template match="tei:note"/>
   <xsl:template match="tei:TODO"/>
 </xsl:transform>
-  

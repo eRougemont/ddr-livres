@@ -1,0 +1,2523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr1939nf">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Nicolas de Flue</title>
+        <author>Denis de Rougemont</author>
+      </titleStmt>
+      <publicationStmt>
+        <p/>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl/>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <date when="1939"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+
+      <div type="page" xml:id="Page5">
+        <p>
+DENIS DE ROUGEMONT<lb/>
+</p>
+        <p rend="center">
+L’INSTITUT NEUCHATELOIS<lb/>
+</p>
+        <p rend="big">
+NICOLAS DE FLUE<lb/>
+</p>
+        <p rend="center big">
+LÉGENDE DRAMATIQUE EN TROIS ACTES<lb/>
+<space/>(MUSIQUE D’ARTHUR HONEGGER) <lb/>
+</p>
+        <p rend="center"><space/>REPRÉSENTÉE<lb/>
+POUR LA PREMIÈRE FOIS A L’EXPOSITION NATIONALE DE ZURICH<lb/>
+<space/>LES 23 ET 24 SEPTEMBRE 1939, PAR LES SOINS DE<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page6">
+</div>
+      <div type="page" xml:id="Page7">
+        <p>
+PERSONNAGES DU I" ACTE<lb/>
+</p>
+        <p>
+NICOLAS DE ELUE, 50 ans, paysan.<lb/>
+DOROTHÉE, sa femme.<lb/>
+JEAN<lb/>
+RUDI<lb/>
+WALTHER<lb/>
+HEINI<lb/>
+DOROTHÉE<lb/>
+MARGUERITE<lb/>
+VÉRONIQUE<lb/>
+CATHERINE<lb/>
+NICOLAS DE ÉLUE, 30 ans, capitaine.<lb/>
+NICOLAS DE ÉLUE, 40 ans, juge.<lb/>
+QUATRE OFFICIERS.<lb/>
+QUATRE JUGES.<lb/>
+LE PLAIGNANT.<lb/>
+L’ACCUSÉ.<lb/>
+LE LANDAMMAN.<lb/>
+LE CURÉ.<lb/>
+TROIS VIEILLARDS.<lb/>
+<space/>•<lb/>
+</p>
+        <p>
+ses enfants.<lb/>
+</p>
+        <p>
+LE RÉCITANT.<lb/>
+GRAND CHŒUR.<lb/>
+CHŒUR CÉLESTE.<lb/>
+CHŒUR D’ENFANTS.<lb/>
+SOLDATS, DÉMONS, ASSISTANTS.<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page8">
+        <p>
+PERSONNAGES DU IIm° ACTE<lb/>
+</p>
+        <p>
+NICOLAS DE ELUE, 57 ans, ermite.<lb/>
+TROIS VALETS.<lb/>
+DEUX PÈLERINS.<lb/>
+FRÈRE ULRICH.<lb/>
+LE VIEIL HOMME.<lb/>
+UN HÉRAUT.<lb/>
+L’ABBÉ D’EINSIEDELN.<lb/>
+DEUX SEIGNEURS.<lb/>
+DIESBACH.<lb/>
+HORNEK.<lb/>
+L’ASTROLOGUE DE BERNE.<lb/>
+</p>
+        <p>
+LE RÉCITANT.<lb/>
+GRAND CHŒUR.<lb/>
+CHŒUR DES PÈLERINS.<lb/>
+CHŒUR CÉLESTE.<lb/>
+PÈLERINS.<lb/>
+SOLDATS SUISSES, FRANÇAIS ET AUTRICHIENS.<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page9">
+        <p>
+PERSONNAGES DU 111““ ACTE<lb/>
+</p>
+        <p>
+NICOLAS DE FLUE, 64 ans, ermite.<lb/>
+DOROTHÉE, sa femme.<lb/>
+LE LANDAMMAN.<lb/>
+LE CONTREMAITRE.<lb/>
+L’AMBASSADEUR DE FRANCE.<lb/>
+L’AMBASSADEUR D’AUTRICHE.<lb/>
+L’AMBASSADEUR DE VENISE.<lb/>
+L’AMBASSADEUR DE SAVOIE.<lb/>
+LE PRÉSIDENT DE LA DIÈTE.<lb/>
+WALDMANN, représentant des villes.<lb/>
+ALTINGHAUSEN, représentant des cantons forestiers.<lb/>
+HAIMO, curé de Stans.<lb/>
+LE MESSAGER DE FRIBOURG ET SOLEURE.<lb/>
+</p>
+        <p>
+LE RÉCITANT.<lb/>
+GRAND CHŒUR.<lb/>
+CHŒUR CÉLESTE.<lb/>
+CHŒUR DES COMPAGNONS DE LA FOLLEVIE.<lb/>
+CHŒUR D’ENFANTS.<lb/>
+DÉPUTÉS, SOLDATS SUISSES ET ASSISTANTS.<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page10">
+</div>
+      <div type="page" xml:id="Page11">
+        
+        <p rend="center">
+PROLOGUE<lb/>
+</p>
+        <p><space/>LE CHŒUR.<lb/>
+Au nom du Dieu saint, juste et fort<lb/>
+Qui règne seul sur nos terres et nos âmes<lb/>
+<space/>Eternel des armées célestes<lb/>
+Devant qui seul nous plions le genou<lb/>
+Miséricorde et grâce soient offertes<lb/>
+A vous tous qui nous entendrez.<lb/>
+<space/>Amen.<lb/>
+RÉCITATIF ALTERNÉ1.<lb/>
+LE RÉCITANT. LE CHŒUR.<lb/>
+En ce temps-là, Confédérés… Prêtez l’oreille !<lb/>
+En ce temps-là, déjà, Comme aujourd’hui !<lb/>
+Monta le vent des plaines Vent de guerre !<lb/>
+Vers le Gothard, notre bastion<lb/>
+<space/> sacré.<lb/>
+Alors un homme s’est dressé Prêtez l’oreille !<lb/>
+Témoin de Dieu dans le fracas<lb/>
+<space/> de la colère.<lb/>
+Là-bas, tous crient: Ensemble ! Ensemble !<lb/>
+<space/>Il reste seul.<lb/>
+Tous crient: De l’or !<lb/>
+Il reste pauvre et seul.<lb/>
+Tous crient: La guerre !<lb/>
+Et lui tout seul dit: Paix !<lb/>
+</p>
+        <p rend="block">
+1 Pendant tous les « récitatifs », le chœur chante à bouche fermée, soutenant<lb/>
+la parole du récitant. Seuls les mots imprimés en italique sont<lb/>
+articulés par le chœur.<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page12">
+        
+        <p>
+NICOLAS DE FLUE<lb/>
+</p>
+        <p><space/>CHŒUR CÉLESTE.<lb/>
+Paix sur la terre et dans les cieux.<lb/>
+LE RÉCITANT. LE CHŒUR.<lb/>
+Ce soir encore, Confédérés… Prêtez l’oreille !<lb/>
+Notre héros et notre saint<lb/>
+<space/>nous parle.<lb/>
+Là-bas tous crient: Ensemble ! Ensemble !<lb/>
+<space/>Il reste seul.<lb/>
+Tous crient: A mort !<lb/>
+Et lui nous dit: Amour !<lb/>
+<space/>Tous crient: La guerre !<lb/>
+Et lui, tout seul encore<lb/>
+Nous dit: Courage, ô peuple,<lb/>
+<space/>reste uni !<lb/>
+Le matin vient ! Le matin vient !<lb/>
+<space/>CHŒUR CÉLESTE.<lb/>
+Le matin vient ! Et la nuit aussi !<lb/>
+(Quelques mesures d’orchestre.) <lb/>
+LE RÉCITANT. LE CHŒUR.<lb/>
+Or écoutez Confédérés ! Prêtez l’oreille !<lb/>
+<space/>TUTTI.<lb/>
+Commence ici le Jeu de Nicolas !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page13">
+        <p rend="center">
+ACTE PREMIER.<lb/>
+</p>
+        <p><space/>SCÈNE I.<lb/>
+(Nicolas seul devant sa ferme, au plan 2.) 1<lb/>
+<space/>CHŒUR DES ENFANTS.<lb/>
+(Tandis qu’ils sortent de la maison.) <lb/>
+1. Des matines jusqu’au soir<lb/>
+<space/>Quelle est ma chanson ?<lb/>
+Du plus beau pays à voir<lb/>
+Telle est ma chanson.<lb/>
+Des lacs, des rocs, des pics sauvages<lb/>
+— Sifflez, dansez, sonnez sonnailles —<lb/>
+Du mont, du val, du ciel, des neiges<lb/>
+Sonnez les merveilles !<lb/>
+2. Sous le ciel du plus beau jour<lb/>
+<space/>Quelle est ma chanson ?<lb/>
+Tout au long des lourds labours<lb/>
+Telle est ma chanson.<lb/>
+Par monts, par vaux, par les alpages<lb/>
+— Sifflez, dansez, sonnez sonnailles —<lb/>
+De nos travaux que Dieu protège<lb/>
+Sonnez les merveilles !<lb/>
+<space/>(Dorothée apparaît sur le seuil, un bébé dans<lb/>
+les bras.) <lb/>
+Nicolas. — Jean, donne les tâches de la journée.<lb/>
+Jean (très vite).— Rudi les cochons ! Walther<lb/>
+1 Ce drame a été écrit pour une scène sans décors ni rideau, comportant<lb/>
+trois degrés ou plans réunis par de larges escaliers, et deux petites scènes<lb/>
+latérales à la hauteur du plan 2.<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page14">
+        
+        
+        <p>
+les vaches ; Heini à Stans avec le char. Dorothée<lb/>
+et Marguerite aux pommes. Catherine et Véronique<lb/>
+à la cuisine. Marche, marche ! A six heures tout le<lb/>
+monde ici. Compris ?<lb/>
+<space/>(Refrain de la chanson, tandis qu’ils se dispersent<lb/>
+et sortent. Les deux plus petites<lb/>
+filles ont pris le bébé et rentrent dans la<lb/>
+maison.) <lb/>
+<space/>SCÈNE II.<lb/>
+Dorothée. — Pour la première fois, Nicolas, tu<lb/>
+restes à la maison au lieu d’aller aux champs.<lb/>
+<space/>Nicolas. — On pourra bientôt faire sans moi.<lb/>
+Dorothée. — Tu as bien mérité ton repos.<lb/>
+Nicolas. — Cinquante ans d’âge, pour un homme,<lb/>
+ce n’est pas le temps du repos. Mais je me<lb/>
+dis: voici, tu es remplacé, la vie te pousse à l’écart,<lb/>
+doucement. Une fois de plus, peut-être, il faudra<lb/>
+t’en aller… A quoi vas-tu servir, maintenant ?<lb/>
+<space/>Dorothée. — Comment peux-tu parler ainsi ?<lb/>
+Tu as toujours fait tout ton devoir, et le Seigneur<lb/>
+nous a bénis. Bon capitaine dans les guerres, bon<lb/>
+juge ensuite en nos villages, et te voici avec tes<lb/>
+dix enfants, seul maître sur ta terre, et le meilleur<lb/>
+mari… Que voudrais-tu encore ?<lb/>
+<space/>Nicolas. — Je ne sais pas. C’est une chose<lb/>
+étrange qui m’arrive aujourd’hui. Je revois tout !<lb/>
+Ma vie passée, toutes les choses que j’ai dû quitter !<lb/>
+Quelle est cette force qui toujours m’arrachait<lb/>
+à tout ce que j’aimais ? C’est le mystère de<lb/>
+ma vie, Dorothée. Et voici mon passé devant moi,<lb/>
+comme un livre d’images énorme ! Les grandes<lb/>
+pages sont tournées l’une après l’autre, et tout<lb/>
+est là, vivant, comme dans les rêves. Quand je<lb/>
+regarde Jean, c’est ma jeunesse qui est là… Une<lb/>
+autre page, c’est ma vie à l’armée ! Dix ans de<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page15">
+        
+        
+        <p>
+1 C’est un autre acteur qui tient ce rôle.<lb/>
+</p>
+        <p>
+guerre, et à la fin, ce soir au camp, après notre<lb/>
+dernier combat. J’entends encore notre fanfare<lb/>
+dans la nuit, écoute ! Est-ce que tu entends aussi ?<lb/>
+(Fanfare en sourdine.) Regarde ! Est-ce que tu vois<lb/>
+là-bas !…<lb/>
+<space/>(Une petite scène latérale, à gauche du plan 2,<lb/>
+s’éclaire comme une apparition. Feu de<lb/>
+camp devant lequel on aperçoit quatre officiers<lb/>
+et des soldats. Les costumes très clairs<lb/>
+des personnages, la lumière du projecteur,<lb/>
+l’allure des acteurs, tout doit contribuer à<lb/>
+donner l’impression d’un rêve.) <lb/>
+…Regarde comme j’étais !<lb/>
+</p>
+        <p><space/>SCÈNE III.<lb/>
+(Scène latérale de gauche.) <lb/>
+(La fanfare est devenue plus forte, puis s’arrête<lb/>
+brusquement.) <lb/>
+<space/>LE CHŒUR. (Sourdement.) <lb/>
+Souviens-toi ! Regarde ! Ecoute !<lb/>
+1er officier. — Capitaine de Flue !<lb/>
+Nicolas1. — Présent !<lb/>
+fer officier. — Rapport contre toi ! Tu t’es jeté<lb/>
+devant tes hommes pour les empêcher de détruire<lb/>
+les dernières forces autrichiennes. Est-ce vrai ?<lb/>
+<space/>Nicolas. — C’est vrai.<lb/>
+fer officier. — Tu connaissais nos ordres ? Pas<lb/>
+de quartier.<lb/>
+<space/>Nicolas. — Des ennemis se sont réfugiés dans<lb/>
+le cloître de Sainte-Catherine. J’ai interdit qu’on<lb/>
+les massacre dans ce lieu.<lb/>
+<space/>1er officier. — Y a-t-il un témoin ?<lb/>
+2me officier. — Moi ! J’ai tout vu. L’ennemi<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page16">
+        
+        
+        <p>
+était à la merci des Suisses. Déjà l’incendie éclatait<lb/>
+dans une aile du couvent. Le capitaine de Flue<lb/>
+accourt, voit le danger auquel sont exposés l’édifice<lb/>
+sacré et les nonnes. Il s’agenouille alors, fait une<lb/>
+courte prière, puis se relève et ordonne à ses<lb/>
+hommes d’éteindre l’incendie. La troupe a renâclé,<lb/>
+elle tenait sa vengeance, et il l’en prive au plus<lb/>
+fort du combat !<lb/>
+<space/>Quatre démons (mêlés aux soldats). — Hou !<lb/>
+Hou ! Hou ! Mort aux Autrichiens ! Vendu ! Trahison<lb/>
+ !<lb/>
+<space/>1er officier. — Silence ! Qu’as-tu à dire pour<lb/>
+ta défense ?<lb/>
+<space/>Nicolas. — Tous les Suisses ont juré, après<lb/>
+Sempach, de ne jamais forcer à main armée un<lb/>
+lieu consacré par l’Eglise. A Dieu ne plaise que<lb/>
+je trahisse jamais le Pacte.<lb/>
+<space/>1er officier. — Et si tes supérieurs te l’ordonnent ?<lb/>
+<lb/>
+<space/>Nicolas. — Je préférerai ma mort. Car si les<lb/>
+Suisses ne gardent pas le droit juré, dans la<lb/>
+guerre comme dans la paix, la Confédération sera<lb/>
+perdue. Notre salut est dans le Pacte que nous<lb/>
+avons conclu au nom de Dieu.<lb/>
+<space/>3me officier. — Tu es fou, Nicolas, avec ton<lb/>
+Pacte ! A la guerre comme à la guerre !<lb/>
+<space/>4me officier. — Si tu veux la justice, ne te mêle<lb/>
+plus de la guerre. Attends la saison des moissons !<lb/>
+<space/>1er officier. — Pour cette fois, nous étoufferons<lb/>
+l’affaire. Mais voici mon avis personnel. Avec un<lb/>
+homme de guerre de ta sorte, on ferait peut-être<lb/>
+un respectable juge de paix ! Je te laisse choisir.<lb/>
+<space/>Démons et soldats. — Hou ! Hou ! Aux cuisines !<lb/>
+A la ferme !<lb/>
+<space/>Nicolas. — J’ai choisi ! Je quitte l’armée. Je<lb/>
+quitte votre guerre injuste, et je ne reprendrai<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page17">
+        
+        
+        <p>
+jamais les armes — que s’il faut défendre ma<lb/>
+terre !<lb/>
+<space/>(Il s’en va lentement vers la coulisse de<lb/>
+gauche.) <lb/>
+Les soldats. — Il a raison ! C’est lui qui a<lb/>
+raison ! Vive Nicolas ! C’est le meilleur qui s’en va !<lb/>
+<space/>(Nuit sur la scène de gauche.) <lb/>
+<space/>CHORAL I.<lb/>
+Il s’en va, hélas, il s’en va,<lb/>
+Le meilleur d’entre nous s’en va !<lb/>
+Qui maintiendra dans la guerre le droit ?<lb/>
+Qui gardera notre alliance jurée ?<lb/>
+O combattant loin des armées<lb/>
+N’oublie pas ton peuple ingrat !<lb/>
+Nicolas dans ton exil<lb/>
+Souviens-toi de nos périls !<lb/>
+<space/>LE CHŒUR. (Sourdement.) <lb/>
+Souviens-toi ! Regarde ! Ecoute !<lb/>
+</p>
+        <p><space/>SCÈNE IV.<lb/>
+(La scène latérale de droite s’éclaire. On voit<lb/>
+cinq juges assis. Nicolas, qui a revêtu la<lb/>
+robe, siège au milieu. L’accusé et le plaignant<lb/>
+se tiennent debout devant eux. L’accusé<lb/>
+est gros et richement vêtu, le plaignant<lb/>
+maigre et loqueteux. A gauche et à droite,<lb/>
+spectateurs.) <lb/>
+1er juge. — Ainsi selon le droit et la coutume de<lb/>
+nos ancêtres, nous avons entendu devant tous et<lb/>
+chacun les deux parties. Le plaignant que voici dit<lb/>
+avoir emprunté 200 gulden à l’accusé. Il dit avoir<lb/>
+donné pour gage son jardin. Maintenant le plaignant<lb/>
+veut acquitter sa dette, mais l’accusé, que<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page18">
+        
+        
+        <p>
+voilà, refuse de rendre le jardin, disant qu’il s’agissait<lb/>
+non pas d’un prêt mais d’un achat.<lb/>
+<space/>Le plaignant. — Il m’a volé ! Mon jardin vaut<lb/>
+au moins 300 gulden. Voilà pourquoi il veut le<lb/>
+garder !<lb/>
+<space/>L’accusé. — Eh bien ! tant pis pour toi, si tu<lb/>
+l’as mal vendu. Enlevez, c’est payé ! J’ai le droit<lb/>
+de le garder.<lb/>
+<space/>Le juge. — Qui parlera pour le plaignant ? Qu’il<lb/>
+s’annonce ! (Court silence.) Personne ! Qui parlera<lb/>
+pour l’accusé ? Qu’il s’annonce ! (Silence, puis plusieurs<lb/>
+mains se lèvent.) La parole est au landamman !<lb/>
+<space/>Le landamman. — Cet homme est un bon citoyen.<lb/>
+J’en témoigne ! Il a rendu de grands services<lb/>
+à sa commune et au canton.<lb/>
+<space/>Un assistant. — C’est grâce à son argent que<lb/>
+tu t’es fait nommer !<lb/>
+<space/>Le juge. — La parole est à notre pasteur.<lb/>
+Le curé. — Je témoigne que l’accusé est une<lb/>
+âme généreuse et charitable, bien digne de la<lb/>
+pieuse et puissante famille qui lui a donné le jour !<lb/>
+Je le recommande à votre bienveillance, car c’est<lb/>
+l’un de mes plus chers fils.<lb/>
+<space/>Un autre assistant. — Dis donc, l’abbé, des<lb/>
+fois, c’est pas lui qui remplit ta cave, et gratis !<lb/>
+<space/>Un 3me assistant. — C’est un scandale ! Ils sont<lb/>
+tous payés ! Je vais témoigner pour le plaignant,<lb/>
+écoutez-moi !<lb/>
+<space/>Le juge. — C’est trop tard. Tu n’as pas la<lb/>
+parole ! (Aux juges.) Vous avez entendu la cause.<lb/>
+Que ceux qui jugent en faveur du plaignant lèvent<lb/>
+la main ! (Nicolas seul lève la main.) Que ceux qui<lb/>
+jugent en faveur de l’accusé lèvent la main !<lb/>
+<space/>(Derrière les quatre autres juges surgissent<lb/>
+quatre démons qui leur prennent la main<lb/>
+droite et l’élèvent.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page19">
+        
+        
+        <p>
+2<lb/>
+</p>
+        <p><space/>Le 1er juge. — Plaignant, tu es débouté. Accusé,<lb/>
+nous t’acquittons. La séance est levée.<lb/>
+<space/>(Les démons gesticulent joyeusement.) <lb/>
+Le plaignant. — Lâches ! Voleurs ! Il n’y a plus<lb/>
+de justice pour les pauvres en Suisse !<lb/>
+<space/>(Il sort en criant, entraîné par les gardes.<lb/>
+Remue-ménage parmi les assistants.) <lb/>
+Nicolas. — Concitoyens ! Ecoutez-moi ! Pour la<lb/>
+première fois parmi nous, c’est l’injustice qui<lb/>
+triomphe ! La voix du pauvre est étouffée ! Car ce<lb/>
+sont des démons, et non des hommes, qui ont<lb/>
+rendu cette sentence inique ! Je les ai vus ! Et<lb/>
+j’ai senti la flamme qui sortait de leurs bouches<lb/>
+puantes !<lb/>
+<space/>Les assistants. — Il est fou ! Il a raison ! Oui !<lb/>
+Non !<lb/>
+<space/>Le curé. — Tu prends toujours le parti du<lb/>
+pauvre ! Ce n’est pas juste non plus !<lb/>
+<space/>1er juge. — Tu veux donc ruiner l’ordre public !<lb/>
+2rae juge. — L’autorité a toujours raison !<lb/>
+1er juge. — Va donc appliquer tes beaux principes<lb/>
+dans ta famille ! Tes fils eux-mêmes se moqueront<lb/>
+de toi !<lb/>
+<space/>Nicolas. — Oui ! Je fuirai bien loin, dans le<lb/>
+désert, car je vois dans notre cité la violence et<lb/>
+l’iniquité ! Je déclare déposer ma charge !<lb/>
+<space/>(Il ôte sa robe et s’en va par la droite.) <lb/>
+(Nuit sur la scène de droite.) <lb/>
+<space/>CHORAL I.<lb/>
+Il s’en va, hélas, il s’en va,<lb/>
+Le meilleur d’entre nous s’en va !<lb/>
+Qui maintiendra dans la cité le droit ?<lb/>
+Qui gardera notre alliance jurée ?<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page20">
+        
+        
+        <p>
+O justicier ta voix se tait !<lb/>
+N’oublie pas ton peuple ingrat !<lb/>
+Nicolas dans ton exil<lb/>
+Souviens-toi de nos périls !<lb/>
+<space/>LE CHŒUR. (Sourdement.) <lb/>
+Souviens-toi ! Regarde ! Ecoute !<lb/>
+</p>
+        <p><space/>SCÈNE Y. (Plan 2.) <lb/>
+Dorothée. — Et maintenant, te voici dans la<lb/>
+paix, cher époux. Nous nous aimons et nos enfants<lb/>
+grandissent dans le bonheur que Dieu nous donne.<lb/>
+Qu’aurions-nous donc à désirer de plus ?<lb/>
+<space/>Nicolas. — Votre avenir est assuré…<lb/>
+Dorothée. — Nicolas, pourquoi es-tu triste ?<lb/>
+Chasse donc ces mauvais souvenirs !<lb/>
+<space/>Nicolas. — Ce ne sont pas mes souvenirs qui<lb/>
+me troublent, Dorothée. Mais tu sais bien ce que<lb/>
+je cherche jour et nuit.<lb/>
+<space/>Dorothée. — Oh ! Tes visions encore ? Depuis<lb/>
+longtemps tu n’avais plus parlé de toutes ces choses<lb/>
+qui m’effrayent. O Nicolas, pourquoi me cacher ta<lb/>
+tristesse ?<lb/>
+<space/>Nicolas. — Aujourd’hui, je dois t’en parler.<lb/>
+Dorothée. — Parle.<lb/>
+Nicolas. — Ma vie semble heureuse et bénie.<lb/>
+Mais au-dessus de moi plane une lourde menace,<lb/>
+comme un aigle invisible au-dessus du troupeau.<lb/>
+Et voici que les cercles se resserrent ! O Dorothée,<lb/>
+c’est une étrange tentation ! Je ne sais pas ce que<lb/>
+Dieu veut de moi. J’ai prié et jeûné longtemps.<lb/>
+Rien n’y fait. Je suis dans la nuit. Et de nouveau<lb/>
+des voix m’appellent…<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page21">
+        
+        
+        <p><space/>CHŒUR CÉLESTE.<lb/>
+Solitaire, solitaire !<lb/>
+O toujours plus solitaire !<lb/>
+Ni l’armée ni la cité<lb/>
+Ni ta paix ne t’ont comblé.<lb/>
+Solitude, solitude,<lb/>
+Solitude bien-aimée,<lb/>
+O seule béatitude,<lb/>
+Au désert je t’ai trouvée.<lb/>
+Nicolas. — Dorothée, je sais que tu m’aimes.<lb/>
+Alors, je te demande aujourd’hui la plus grande<lb/>
+preuve d’amour que femme puisse donner. C’est<lb/>
+presque surhumain, je sais…<lb/>
+<space/>Dorothée. — Parle, mon Nicolas.<lb/>
+Nicolas (avec difficulté). — Je crois que Dieu<lb/>
+veut que je quitte maintenant… cette maison —<lb/>
+et nos enfants, — et toi… Pour aller vivre seul…<lb/>
+comme un ermite… avec Dieu seul…<lb/>
+<space/>Dorothée (faiblement). — Mon Dieu !<lb/>
+Nicolas. — Longtemps, chère femme, j’ai lutté<lb/>
+contre moi-même et contre Dieu. Je redoutais cette<lb/>
+heure où il faut te parler ! Elle m’angoissait plus<lb/>
+que ma mort… Et maintenant, voici que tu sais<lb/>
+tout. Maintenant, tout dépend de toi seule. Je<lb/>
+partirai si tu l’acceptes.<lb/>
+<space/>CHŒUR CÉLESTE.<lb/>
+Dorothée, Dorothée,<lb/>
+O femme prédestinée,<lb/>
+Par toi seule sacrifiée<lb/>
+Mille et mille seront sauvées.<lb/>
+Dure peine, voix cruelle,<lb/>
+De toi seule vient la paix.<lb/>
+O récompense éternelle<lb/>
+De ton bonheur immolé.<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page22">
+        
+        
+        <p><space/>Dorothée. — Mon Dieu ! Mon Dieu ! Oh ! je ne<lb/>
+suis qu’une pauvre femme ! Comment pourrais-je<lb/>
+te comprendre, Nicolas ! — Nicolas, ne m’abandonne<lb/>
+pas !<lb/>
+<space/>(Elle se jette dans ses bras.) <lb/>
+</p>
+        <p><space/>SCÈNE YI.<lb/>
+(On entend dans la coulisse le chant des<lb/>
+enfants qui s’approchent, puis ils entrent<lb/>
+en cortège par la gauche, portant des paniers<lb/>
+pleins, deux par deux, et chantent jusqu’à<lb/>
+ce qu’ils soient devant la maison. Dorothée<lb/>
+est rentrée.) <lb/>
+Jean. — Ils ont bien travaillé, les gars ! Nous<lb/>
+avons encore ramassé des fraises dans la forêt, en<lb/>
+rentrant. Ce sera pour le souper.<lb/>
+<space/>Marguerite. — Nous, on a fini de cueillir les<lb/>
+pommes !<lb/>
+<space/>Tous ensemble. — Et moi j’ai gardé les vaches !<lb/>
+Et moi j’ai gardé les cochons ! Et moi j’ai été à<lb/>
+Stans ! Et nous on a fait le ménage !<lb/>
+<space/>Nicolas. — C’est bien, mes enfants. Si vous continuez,<lb/>
+vous pourrez bientôt vous passer de votre<lb/>
+père.<lb/>
+<space/>Jean. — Alors moi je serai le patron !<lb/>
+Nicolas. — Oui, tu seras le patron ! Et toi, Rudi,<lb/>
+que veux-tu faire plus tard ?<lb/>
+<space/>Rudi. — Je serai soldat, comme toi, papa.<lb/>
+Nicolas. — Et Walther ?<lb/>
+Walther. — Moi ? Je veux devenir landamman !<lb/>
+Nicolas. — Et toi, Heini ?<lb/>
+Heini. — Charron !<lb/>
+Nicolas. — Et les petites filles ?<lb/>
+Toutes. — Moi je serai maman !<lb/>
+Dorothée. — Et il y a encore le tout petit,<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page23">
+        
+        
+        <p>
+Clausi, qui ne peut rien dire… C’est aujourd’hui<lb/>
+qu’il m’a fait son premier sourire.<lb/>
+<space/>Nicolas. — Allons, maintenant, au lit tout le<lb/>
+monde ! Venez embrasser papa !<lb/>
+<space/>(Tous embrassent leur père, l’un après l’autre.) <lb/>
+Véronique. — Est-ce que tu vas partir, papa ?<lb/>
+On dirait que tu nous dis adieu !<lb/>
+<space/>Nicolas. — Mes bons petits !… Bonsoir !<lb/>
+Tous. — Bonsoir !<lb/>
+Nicolas. — Adieu !<lb/>
+<space/>(Ils courent tous dans la maison. Dorothée les<lb/>
+suit. On les entend chanter.) <lb/>
+<space/>SCÈNE VII.<lb/>
+(La nuit vient. Nicolas est resté seul un instant<lb/>
+devant la maison. Des lumières s’allument<lb/>
+aux fenêtres. Il s’approche du bord du<lb/>
+plan 2.) <lb/>
+Nicolas. — Qu’ai-je dit ? Adieu !… Je leur ai dit<lb/>
+adieu sans le vouloir ! Que m’arrive-t-il ? Trois fois,<lb/>
+des voix m’ont appelé ! Mais tu le vois, mon Dieu:<lb/>
+tout mon amour, tous mes devoirs sont là, dans<lb/>
+la maison de mes ancêtres ! Où me veux-tu ? Où<lb/>
+dois-je aller, s’il faut partir ? O si un signe, au<lb/>
+moins, m’était donné ! Mon Dieu, secours-moi, parle-<lb/>
+moi, ne permets pas que je me perde en ces ténèbres<lb/>
+qui m’entourent !<lb/>
+<space/>Voix (du plan 3). — Nicolas ! Nicolas !<lb/>
+<space/>(Nicolas se dirige lentement vers la gauche<lb/>
+du plan 2, puis s’arrête et s’agenouille. La<lb/>
+porte de la maison s’entr’ouvre et, dans la<lb/>
+faible lumière qui en sort, on voit paraître<lb/>
+Dorothée. Elle reste sur le seuil, regarde<lb/>
+Nicolas.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page24">
+        
+        
+        <p><space/>LE CHŒUR.<lb/>
+O Dieu, ton serviteur élève la voix dans les ténèbres.<lb/>
+Ecoute-le ! Détourne le Malin qui rôde ! O Dieu…<lb/>
+<space/>(Pendant la prière qui suit, — « Gebetlein » —<lb/>
+le chœur continue de chanter à bouche<lb/>
+fermée.) <lb/>
+Nicolas. — Mon Seigneur et mon Dieu, ôte de<lb/>
+moi tout ce qui m’éloigne de toi !<lb/>
+<space/>Mon Seigneur et mon Dieu, donne-moi tout ce<lb/>
+qui me rapproche de toi !<lb/>
+<space/>Mon Seigneur et mon Dieu, arrache-moi à moi-<lb/>
+même, et donne-moi tout entier à toi seul !<lb/>
+<space/>Amen.<lb/>
+Voix (du plan 3). — Nicolas ! Nicolas !<lb/>
+<space/>(Dorothée s’avance de quelques pas vers<lb/>
+Nicolas. Nicolas lève la tête vers les voix.<lb/>
+Dans un cercle de lumière apparaissent, au<lb/>
+plan 3, trois vieillards vêtus de blanc.) <lb/>
+Un des vieillards. — Nicolas, veux-tu te placer<lb/>
+corps et âme en notre pouvoir ?<lb/>
+<space/>Nicolas. — Je ne puis me donner à personne<lb/>
+qu’à mon puissant Seigneur Jésus. Depuis longtemps,<lb/>
+j’ai désiré le servir seul, de tout mon corps<lb/>
+et de toute mon âme !<lb/>
+<space/>Un des vieillards. — Puisque tu t’es donné tout<lb/>
+entier à ton Dieu, je te promets que dans vingt<lb/>
+ans tu seras délivré des peines de ce monde. Reste<lb/>
+donc ferme en ta résolution. Tu porteras au ciel<lb/>
+une bannière de la milice victorieuse, si tu portes<lb/>
+ici-bas, dans la patience, la lourde croix que nous<lb/>
+laissons sur tes épaules.<lb/>
+<space/>(Les vieillards disparaissent. Nicolas reste<lb/>
+agenouillé un moment, tandis que Dorothée<lb/>
+s !est furtivement retirée vers la maison.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page25">
+        
+        
+        <p rend="center">
+SCÈNE VIII.<lb/>
+</p>
+        <p>
+(Nicolas se relève, fait quelques pas vers la<lb/>
+maison.) <lb/>
+Nicolas (sourdement, comme un gémissement). —<lb/>
+Dorothée. Au secours !<lb/>
+<space/>(La porte s’ouvre toute grande. Dorothée<lb/>
+s’élance vers Nicolas.) <lb/>
+Nicolas. — Oh ! Tu veillais ?<lb/>
+Dorothée. — Oui, le petit avait besoin de moi…<lb/>
+Nicolas… pardonne-moi… j’ai vu-<lb/>
+<space/>Nicolas. — Aide-moi, car mon heure approche.<lb/>
+Dorothée. — Quelle est cette croix qu’ils t’ont<lb/>
+laissée ?<lb/>
+<space/>Nicolas. — Il te faut la porter avec moi.<lb/>
+Dorothée. — Ainsi, tu as pris ta décision ?<lb/>
+Nicolas. — Je dois partir, et vous quitter. Dès<lb/>
+cette nuit.<lb/>
+<space/>Dorothée. — Où iras-tu ?<lb/>
+Nicolas. — Où Dieu voudra.<lb/>
+Dorothée. — O Claus ! Ta famille, tes enfants !<lb/>
+Nicolas. — Quiconque aura quitté à cause de<lb/>
+Dieu sa maison, ou sa femme, ou ses enfants, il<lb/>
+recevra bien davantage dans ce siècle, et plus tard<lb/>
+la vie éternelle.<lb/>
+<space/>Dorothée. — Mais tu es mon mari, Nicolas ! Ce<lb/>
+que Dieu lui-même a uni, l’homme ne peut pas<lb/>
+le séparer !<lb/>
+<space/>Nicolas. — Ce que Dieu a uni, Dieu peut le<lb/>
+séparer. Un jour, plus tard, nous comprendrons.<lb/>
+<space/>(Us disparaissent dans la maison.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page26">
+        
+        
+        <p><space/>RÉCITATIF.<lb/>
+(Le chœur chante à bouche fermée.) <lb/>
+Dure est la peine, affreux le sacrifice, noire la<lb/>
+nuit, et la voie solitaire. Mais Dieu pourvoit au<lb/>
+soin de ceux qui l’aiment.<lb/>
+<space/>O femme ! entends la voix des temps futurs !<lb/>
+Un peuple entier sera sauvé, par toi, de la guerre<lb/>
+qui tue les pères et qui dévaste les foyers.<lb/>
+<space/>Par toi, par ton seul sacrifice, mille et mille<lb/>
+garderont ce bonheur que Dieu t’arrache !<lb/>
+<space/>Voici, tu cèdes à la grâce sévère. Alléluia ! Dieu<lb/>
+pourvoira !<lb/>
+</p>
+        <p><space/>SCÈNE IX.<lb/>
+(Nicolas et Dorothée reparaissent. Nicolas a<lb/>
+revêtu la robe grise du pèlerin, il tient un<lb/>
+bâton. Ils s’embrassent.) <lb/>
+Nicolas. — Dieu t’a fait cette grâce, ô femme,<lb/>
+tu l’acceptes !<lb/>
+<space/>Dorothée. — Je ne suis rien. Je t’aime. Oh !<lb/>
+que je ne sois plus un obstacle sur ton chemin…<lb/>
+Prends ceci pour la route, cher époux.<lb/>
+<space/>(Elle lui tend un baluchon. Une lueur blanchit<lb/>
+derrière le plan 3.) <lb/>
+Nicolas. — Adieu.<lb/>
+<space/>(Il l’embrasse et s’en va par la droite.) <lb/>
+Dorothée (tombant à genoux sur le seuil). — Le<lb/>
+Seigneur me l’avait donné. Le Seigneur le reprend.<lb/>
+Que le nom du Seigneur soit béni !<lb/>
+<space/>(Nuit totale sur le plan 2. Seul un projecteur<lb/>
+suit Nicolas.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page27">
+        
+        
+        <p><space/>CHORAL I.<lb/>
+Il s’en va, hélas, il s’en va,<lb/>
+Le meilleur d’entre nous s’en va !<lb/>
+Qui maintiendra dans ta maison le droit ?<lb/>
+Qui portera le poids du sacrifice ?<lb/>
+Père, père, où sont tes fils ?<lb/>
+Solitaire, où vont tes pas ?<lb/>
+Nicolas dans ton exil<lb/>
+Souviens-toi de nos périls !<lb/>
+</p>
+        <p><space/>SCÈNE X.<lb/>
+(La montée au Ranft.) <lb/>
+(Batterie et quelques instruments en sourdine<lb/>
+durant toute ta scène.) <lb/>
+(Première station. Au bas de la rampe qui<lb/>
+va du plan 2 vers le plan 3. Nicolas apparaît<lb/>
+dans un cercle de lumière, appuyé sur<lb/>
+son bâton.) <lb/>
+<space/>LE CHŒUR (Récitatif.) <lb/>
+Solitaire, où vont tes pas ? Tu nous fuis, tu nous<lb/>
+abandonnes !<lb/>
+<space/>Nicolas. — Voici, je fuirai bien loin, j’irai séjourner<lb/>
+au désert. Car j’ai vu dans mon peuple la<lb/>
+violence et le mépris des lois divines.<lb/>
+<space/>(La lumière qui environne Nicolas faiblit. Il<lb/>
+reprend sa marche. Deuxième station. Lumière<lb/>
+plus vive.) <lb/>
+<space/>LE CHŒUR.<lb/>
+Solitaire, où vont tes pas ? Au désert, ton orgueil<lb/>
+s’égare !<lb/>
+<space/>Nicolas. — Mon cœur tremble au-dedans de moi,<lb/>
+et les terreurs de la mort m’environnent ! O mon<lb/>
+Seigneur, as-tu trompé ton serviteur ?<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page28">
+        
+        
+        <p>
+(La lumière faiblit autour de Nicolas qui gravit<lb/>
+la rampe. Dans une subite lueur rouge, les<lb/>
+démons se dressent devant lui, barrant sa<lb/>
+route.) <lb/>
+<space/>LE CHŒUR.<lb/>
+Solitaire, où vont tes pas ? Le démon s’offre à<lb/>
+les guider.<lb/>
+<space/>Les démons. — Ha ! Ha ! Ha ! Le voilà, celui-là !<lb/>
+Honte à toi ! lâche, infidèle ! Ta couche est vide,<lb/>
+et tes enfants t’appellent ! Ha ! Ha ! ton orgueil<lb/>
+t’entraîne ! Ha ! Ha ! Ha ! Tu viens à nous !<lb/>
+<space/>(Ils dansent.) <lb/>
+Nicolas. — Chiens de Satan ! Je vous connais !<lb/>
+Vous pouvez aboyer mais non pas mordre ! Au nom<lb/>
+du Christ, disparaissez !…<lb/>
+<space/>(Il s’avance, les démons passent à côté de lui<lb/>
+et disparaissent plus bas, dans l’ombre, en<lb/>
+criant. La lumière faiblit de nouveau jusqu’à<lb/>
+la quatrième station.) <lb/>
+Nicolas. — Mes ennemis ont reculé quand j’ai<lb/>
+crié ! Je sais que Dieu me défendra ! Car il a<lb/>
+délivré mon âme de la mort. Il garantit mon<lb/>
+pied de toute chute !<lb/>
+<space/>CHŒUR CÉLESTE. (Au plan 3, invisible.) <lb/>
+<space/>Nicolas ! Nicolas ! Nicolas !<lb/>
+(La lumière faiblit autour de Nicolas et grandit<lb/>
+autour du plan 3, qu’il atteint lentement<lb/>
+tout en parlant.) <lb/>
+Nicolas. — Est-ce vous maintenant, beaux anges,<lb/>
+qui campez autour du sommet ?…<lb/>
+<space/>(Il atteint le sommet et il étend les bras, en<lb/>
+silhouette sur la lumière.) <lb/>
+… Accueillez-moi dans votre joie ! Anges cachés<lb/>
+dans la lumière, que j’entende vos voix pures !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page29">
+        
+        
+        <p>
+Louons ensemble l’Eternel ! Louons-le dans ces<lb/>
+lieux élevés ! Louons-le par-dessus les glaciers !<lb/>
+<space/>CHŒUR CÉLESTE.<lb/>
+Louons l’Eternel des armées célestes<lb/>
+<space/>Sur les sommets de l’aurore<lb/>
+Réveillez-vous dans l’ombre des vallées<lb/>
+<space/>Répondez à nos chants !<lb/>
+(Le plan 2 s’éclaire. Dorothée et les enfants<lb/>
+sont sortis devant la maison.) <lb/>
+<space/>CHŒUR DES ENFANTS.<lb/>
+Avec tous les chœurs du ciel<lb/>
+Dans la claire matinée<lb/>
+Nous invoquons l’Eternel<lb/>
+Qu’il bénisse nos vallées !<lb/>
+Ils ne sont pas orphelins<lb/>
+Les enfants du solitaire<lb/>
+Si tu les tiens dans ta main<lb/>
+<space/>Eternel, ô Père !<lb/>
+LE CHŒUR CÉLESTE ET LE CHŒUR DES ENFANTS.<lb/>
+<space/>Louons l’Eternel des armées célestes<lb/>
+<space/>Sur les sommets de l’aurore<lb/>
+Réveillez-vous dans l’ombre des vallées<lb/>
+<space/>Echos profonds de nos chants.<lb/>
+<space/>LE CHŒUR.<lb/>
+(Récitatif et voix d’hommes.) <lb/>
+O peuple des bergers, entonne la louange du<lb/>
+sacrifice amer qui sauvera ta paix !<lb/>
+<space/>Sur ta patrie veille à présent le solitaire. Pour<lb/>
+tous il a quitté les siens. Par la souffrance d’un<lb/>
+et d’un, mille et mille vont crier:<lb/>
+<space/>Louez l’Eternel !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page30">
+        
+        
+        <p><space/>TUTTI.<lb/>
+Louez l’Eternel du haut des cieux<lb/>
+<space/>et du fond des abîmes<lb/>
+Louez l’Eternel vous tous ses anges<lb/>
+<space/>et vous tous ses enfants !<lb/>
+Chante, ô peuple des bergers !<lb/>
+Louez Dieu sur la face des glaciers<lb/>
+Louez Dieu dans les gorges noires<lb/>
+Louez Dieu dans le cirque des rochers<lb/>
+Louez Dieu dans le bruit des torrents !<lb/>
+Terre et cieux, peuple, d’un seul cœur<lb/>
+<space/>Louez l’Eternel des armées !<lb/>
+<space/>Amen ! Amen !<lb/>
+</p>
+        <p><space/>Interlude.<lb/>
+(Nuit. Quelques mesures d’orchestre, puis reprise<lb/>
+<space/> du Choral I. Silence.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page31">
+        <p rend="center">
+ACTE II.<lb/>
+</p>
+        <p><space/>PROLOGUE.<lb/>
+(Sur le plan 1: quelques feux. Des ombres<lb/>
+<space/>debout ou assises autour. D’autres ombres,<lb/>
+portant des fanaux, descendent du plan 2,<lb/>
+par la droite. Par la gauche, lentement, entre<lb/>
+un cortège de pèlerins.) <lb/>
+<space/>CHANT DES PÈLERINS.<lb/>
+1. Loin du Pays<lb/>
+<space/>Amis de Dieu<lb/>
+Nous marchons dans la nuit<lb/>
+Amis de Dieu<lb/>
+Sans feu ni lieu<lb/>
+Au souffle de l’esprit.<lb/>
+Les chiens aboient<lb/>
+Les démons rient<lb/>
+Sur la pierreuse voie<lb/>
+Les démons rient<lb/>
+Mais cœur qui prie<lb/>
+Jamais plus ne se fourvoie.<lb/>
+2. Tant plus nombreux<lb/>
+<space/>Sont nos péchés<lb/>
+Qu’étoiles dans les cieux<lb/>
+Tous nos péchés<lb/>
+Par la Mort-Dieu<lb/>
+Tu les a rachetés.<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page32">
+        
+        
+        <p>
+Courage, frères<lb/>
+Marchons encore<lb/>
+Sur la terre étrangère<lb/>
+Marchons encore<lb/>
+Vers ton aurore<lb/>
+O Christ ! ô roi de lumière.<lb/>
+(Ad libitum.) <lb/>
+<space/>3. Marchons sans fin<lb/>
+<space/>Pauvres et nus<lb/>
+Jusqu’à la mort qui vient<lb/>
+Pauvres et nus<lb/>
+Au jour venu<lb/>
+Jésus connaîtra les siens.<lb/>
+</p>
+        <p><space/>Une des ombres. — Hé ! Qui sont ceux-là ? Encore<lb/>
+des pèlerins ?<lb/>
+<space/>Un des pèlerins. — On nous appelle les Amis<lb/>
+de Dieu, ou les Sauvages. Nous sommes venus<lb/>
+d’Alsace, pour voir le frère Claus.<lb/>
+<space/>L’ombre. — A la bonne heure ! On n’attendait<lb/>
+plus que vous ! Le village est plein comme une<lb/>
+arche. Nos beaux seigneurs et les paysans, veau,<lb/>
+vache, cochon, couvée, tout ronfle ensemble. Tu<lb/>
+n’y logerais pas une seule puce de plus ! Nous<lb/>
+autres les valets, on se chauffe sur la place. Belle<lb/>
+nuit de mai ! Approchez-vous, les frères.<lb/>
+<space/>Le pèlerin. — Merci.<lb/>
+<space/>(Ils s’approchent.) <lb/>
+Un autre pèlerin. — Vient-il chaque jour autant<lb/>
+de monde ?<lb/>
+<space/>Le valet. — Oh ! moi, je ne suis pas du pays.<lb/>
+Monseigneur l’abbé d’Einsiedeln est arrivé ici hier<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page33">
+        
+        
+        <p>
+soir, avec une suite brillante et nombreuse, dont<lb/>
+vous avez la queue devant vous en ma personne,<lb/>
+sauf mon respect.<lb/>
+<space/>Le pèlerin. — J’en connais qui ont plus de<lb/>
+respect pour la queue que pour la tête de ce<lb/>
+cortège ! Ces beaux seigneurs et princes de l’Eglise<lb/>
+s’entendent comme larrons en foire avec ceux qui<lb/>
+nous ont ruinés, taillés et chassés de nos foyers.<lb/>
+Plus on est maigres, nous autres, plus ils sont<lb/>
+gros ! Que viennent-ils faire ici ?<lb/>
+<space/>Un valet. — Le frère Claus est devenu la bête<lb/>
+curieuse du pays. Ils arrivent de partout, rien que<lb/>
+pour le voir.<lb/>
+<space/>2me valet. — On peut dire que les affaires marchent,<lb/>
+pour ceux d’ici ! D’abord ils se moquaient<lb/>
+de lui : « Tu vis comme une bête sauvage », qu’ils<lb/>
+lui disaient. L’illuminé ! qu’ils l’appelaient. Et maintenant<lb/>
+qu’il vient du beau monde, c’est frère Claus<lb/>
+par ci, frère Claus par là, notre grand saint, le<lb/>
+vénérable ermite, et ils inventent encore des miracles,<lb/>
+pour le bon poids.<lb/>
+<space/>1er valet. — Pour moi, s’il vient tant de monde,<lb/>
+c’est un signe que les temps sont troublés. Plus<lb/>
+d’un attend conseil du frère Claus. Ecoutez bien:<lb/>
+plus d’un voudrait l’avoir de son côté ! Ainsi, pour<lb/>
+moi, le citoyen de Berne et l’Autrichien qui sont<lb/>
+arrivés hier au soir, ce n’est pas pour la curiosité<lb/>
+que ces messieurs ont fait le voyage.<lb/>
+<space/>Un pèlerin. — Alors ?<lb/>
+1er valet. — Je n’en dis pas plus. Mais je me<lb/>
+comprends… C’est des secrets de grande politique !<lb/>
+<space/>Un pèlerin. — Est-il vrai que le frère Claus n’a<lb/>
+rien mangé depuis des mois, sauf la très sainte<lb/>
+hostie une seule fois par semaine ?<lb/>
+<space/>2me valet. — On en raconte, vous savez…<lb/>
+1er valet. — Et tu crois ça ?<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page34">
+        
+        
+        <p><space/>2me valet. — C’est pas que j’y croie directement…<lb/>
+Mais ça pourrait bien être vrai quand même…<lb/>
+<space/>1er valet (aux pèlerins). — Il faut vous dire: nous<lb/>
+autres, en Suisse, on est religieux, c’est une affaire<lb/>
+en règle, mais on n’est pas tellement porté sur les<lb/>
+miracles.<lb/>
+<space/>3me valet (aux pèlerins). — Paraît qu’à force de<lb/>
+rien manger, il n’a plus de chaleur naturelle, comme<lb/>
+on dit. Tu touches ses mains, c’est des glaçons.<lb/>
+Et une figure de mort qu’on porte en terre.<lb/>
+<space/>1er valet. — Y en a un qui a voulu l’imiter, le<lb/>
+frère Ulrich. Ben celui-là, au bout de trois jours,<lb/>
+il était à moitié mort !<lb/>
+<space/>3me valet. — Des fois, Ulrich va voir le frère<lb/>
+Claus. Ils font rien que prier toute la journée.<lb/>
+<space/>2mc valet. — Ça lui donne toujours moins à faire<lb/>
+qu’à la Dorothée avec ses dix gosses ! Misère de sort !<lb/>
+Dire qu’il les laisse se débrouiller dans la purée à<lb/>
+une heure de marche de son ermitage ! On a beau<lb/>
+avoir du respect pour les saints…<lb/>
+<space/>1er valet. — Nous autres, à sa place, on se serait<lb/>
+arrangé pour disparaître une fois pour toutes. Faut<lb/>
+quand même avoir des égards pour la famille !<lb/>
+<space/>3me valet. — Moi, je vais vous dire une chose:<lb/>
+pendant qu’on est ici à discuter, lui, là-haut, il est<lb/>
+déjà levé pour ses prières. Il se lève toujours à<lb/>
+minuit. Ça fait quand même quelque chose, de<lb/>
+penser qu’il est là-dessus, tout seul, comme qui<lb/>
+dirait directement devant le bon Dieu !<lb/>
+<space/>1er valet (aux pèlerins). — Ils sont tous comme<lb/>
+ça, par ici. Le frère Claus leur fait une de ces peurs !<lb/>
+Y a pas plus superstitieux que les montagnards.<lb/>
+<space/>3me valet. — Toi, tu ferais mieux de dormir.<lb/>
+Tu ne seras pas si faraud, tout à l’heure, quand<lb/>
+tu te tiendras devant le frère, avec ses yeux tout<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page35">
+        
+        
+        <p>
+3<lb/>
+</p>
+        <p>
+doux qui vous transpercent comme un petit vent<lb/>
+du matin sur l’alpage.<lb/>
+<space/>1er valet. — Moi, je dis qu’on n’est pas des<lb/>
+saints, nous autres, et qu’il nous reste encore deux<lb/>
+heures pour dormir. Bonsoir la compagnie.<lb/>
+<space/>SCÈNE I. (Plan 3.) <lb/>
+(Aube derrière le plan 3. On aperçoit en silhouette<lb/>
+Nicolas et Ulrich, agenouillés, la<lb/>
+face tournée vers le fond de la scène.) <lb/>
+<space/>CHŒUR CÉLESTE1.<lb/>
+Etoile du matin, promesse du vrai jour,<lb/>
+En ta clarté sois notre éveil toujours !<lb/>
+Surgissez et levez<lb/>
+Qui le Seigneur aimez !<lb/>
+Le jour est commencé, la nuit évanouie<lb/>
+Que Dieu en soit loué et par nous célébré.<lb/>
+<space/>QUELQUES VOIX<lb/>
+La nuit s’en va et le jour vient<lb/>
+Avec un ciel clair et serein !<lb/>
+<space/>TOUTES LES VOIX<lb/>
+Prions afin que pacifiés<lb/>
+Nous demeurions toute la vie.<lb/>
+<space/>Amen.<lb/>
+(La petite cloche de la cellule de Nicolas tinte.<lb/>
+Les solitaires se retournent: un vieil homme<lb/>
+noir se tient près de l’abri.) <lb/>
+Ulrich. — Un mendiant ? Par où est-il monté ?<lb/>
+Le sentier est encore dans la nuit !<lb/>
+<space/>Nicolas. — D’où viens-tu ?<lb/>
+</p>
+        <p rend="block">
+1 Librement inspiré d’une Chanson d’aube du troubadour Folquet de<lb/>
+Marseille.<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page36">
+        
+        
+        <p><space/>Le vieil homme (d’une voix forte). — Je viens<lb/>
+de Dieu.<lb/>
+<space/>Nicolas. — Et que veux-tu ?<lb/>
+Le vieil homme. — Tout ce que toi, tu possèdes<lb/>
+encore.<lb/>
+<space/>Nicolas. — Je n’ai rien que ma robe, tu le sais,<lb/>
+et cette corde qui la tient serrée contre mon corps.<lb/>
+Les voici.<lb/>
+<space/>(Il dénoue sa ceinture et la tend.) <lb/>
+Le vieil homme. — Garde-les de ma part, et<lb/>
+souviens-t’en: rien n’est à toi, pas même cette<lb/>
+bure, pas même la corde qui la tient contre ton<lb/>
+corps. Un jour nous en aurons besoin.<lb/>
+<space/>Nicolas. — Dieu le veuille !<lb/>
+<space/>CHŒUR CÉLESTE.<lb/>
+Dieu l’a voulu, le temps vient<lb/>
+Nicolas que rien ne tient !<lb/>
+Celui-là peut conseiller<lb/>
+Qui d’abord a tout donné.<lb/>
+Vois: le pauvre t’a quitté<lb/>
+Mais ton Dieu t’a visité.<lb/>
+Que la paix soit avec vous<lb/>
+Par Jésus au nom très doux.<lb/>
+(Pendant le chant, le vieillard a disparu.) <lb/>
+</p>
+        <p><space/>SCÈNE IL<lb/>
+Ulrich. — O frère Claus, quel signe heureux<lb/>
+sur la journée nouvelle ! N’est-ce pas un ange qui<lb/>
+t’a visité ?<lb/>
+<space/>Nicolas. — Un signe heureux et un avertissement !<lb/>
+Quand Dieu nous envoie tel message, cela<lb/>
+veut dire que la journée s’annonce dure.<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page37">
+        
+        
+        <p><space/>RÉCITATIF.<lb/>
+(Chœur à bouche fermée.) <lb/>
+O sentinelle, guetteur aux yeux fermés, à la<lb/>
+frontière du ciel et de la terre, témoin frugal et<lb/>
+prophétique !<lb/>
+<space/>Une épreuve sévère est promise à ton peuple.<lb/>
+Tu la devines, au plus secret de la lumière trop<lb/>
+sereine qui baigne aujourd’hui ces rochers.<lb/>
+<space/>Prends ta garde, ô guetteur ! l’attaque est proche !<lb/>
+<space/>(Nicolas s’est retiré dans son abri, et remis<lb/>
+à genoux. Ulrich s’avance au bord du plan 3<lb/>
+et regarde au-dessous de lui. La file des<lb/>
+pèlerins s’est organisée dans la pénombre,<lb/>
+et monte par la gauche, lentement, dans<lb/>
+une lumière grandissante, avec des à-coups,<lb/>
+des embouteillages.) <lb/>
+Ulrich. — Ils sont plus nombreux que jamais…<lb/>
+L’ermite a fui le monde pour trouver Dieu. Et<lb/>
+voici que le monde à présent vient à lui !<lb/>
+</p>
+        <p><space/>SCÈNE III.<lb/>
+Un héraut (précédant le cortège). — Monseigneur<lb/>
+l’abbé d’Einsiedeln et sa suite saluent le frère Claus<lb/>
+et lui demandent sa bénédiction.<lb/>
+<space/>Nicolas (qui vient de se relever et qui s’approche).<lb/>
+— Bénis soyez-vous de Dieu, chers pères et frères.<lb/>
+Pourquoi êtes-vous venus dans cette solitude ?<lb/>
+<space/>L’abbé. — Notre cœur brûlait du désir de voir<lb/>
+l’homme dont on parle tant. Souffriras-tu que nous<lb/>
+t’interrogions sur des miracles qu’on raconte au<lb/>
+loin ?<lb/>
+<space/>(Deux personnages de la suite s’avancent.) <lb/>
+1er seigneur. — Depuis longtemps, nous nous<lb/>
+disputons à ton sujet. Lui prétend que tu t’es vanté<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page38">
+        
+        
+        <p>
+de ne plus rien manger depuis quatre ans. Et moi<lb/>
+je dis que ce sont là des racontars. Nous avons<lb/>
+donc fait un pari. Qui a gagné ?<lb/>
+<space/>Nicolas. — Vous avez perdu l’un et l’autre ! Dieu<lb/>
+me pardonne si je me suis jamais vanté de ne<lb/>
+prendre aucun aliment ! Je me nourris du pain du<lb/>
+ciel, à la très sainte communion.<lb/>
+<space/>L’abbé. — Comment une telle merveille est-elle<lb/>
+possible ?<lb/>
+<space/>Nicolas. — Dieu le sait, et les humbles le<lb/>
+croient. Notre Seigneur n’a-t-il pas dit: « Celui qui<lb/>
+mange ma chair en sera rassasié » ?<lb/>
+<space/>L’abbé. — Tu n’éprouves donc aucun besoin du<lb/>
+corps ?<lb/>
+<space/>Nicolas. — D’autres n’éprouvent aucun besoin<lb/>
+de l’âme. Comment vivent-ils, ceux-là ? Voilà la<lb/>
+chose qui m’étonne.<lb/>
+<space/>2me seigneur. — Si tous les pauvres étaient<lb/>
+comme toi, bon frère, ils ne songeraient pas à la<lb/>
+révolte.<lb/>
+<space/>Nicolas. — Tu dis vrai. Mais écoute-moi: si tous<lb/>
+les riches étaient de bons chrétiens, ils n’auraient<lb/>
+pas à craindre de révoltes. Hélas ! je vois des clercs<lb/>
+gras et richement vêtus comme jamais ne le furent<lb/>
+les apôtres ! N’est-ce pas un bien grand mal pour<lb/>
+l’Eglise et nous tous ? Si les clercs donnent l’exemple<lb/>
+de l’avidité, le peuple un jour les imitera.<lb/>
+Craignez alors les plus grands maux pour la<lb/>
+Patrie ! Qui veut être puissant et riche aux yeux<lb/>
+du monde, c’est celui-là qui fait des guerres ! Je<lb/>
+vous le dis, seigneurs: la Suisse est menacée par<lb/>
+de perfides séducteurs ! Ils vous feront de belles<lb/>
+promesses: Viens avec nous, tu auras de l’or…<lb/>
+Fais alliance avec moi, je te donnerai des terres…<lb/>
+Et alors, ce sera la fin de notre union, et la fin<lb/>
+de nos libertés ! (Violent.) Princes de l’Eglise, je<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page39">
+        
+        
+        <p>
+vous en conjure, n’abandonnez jamais le pauvre<lb/>
+pour le riche ! Sinon notre Seigneur fera paraître<lb/>
+d’humbles témoins pour votre confusion ! (Se radoucissant.) <lb/>
+Mais qui suis-je pour vous avertir ? Pardonnez-moi,<lb/>
+chers pères et frères. C’est un plus<lb/>
+grand que nous qui peut nous éclairer.<lb/>
+<space/>L’abbé. — Tu es rude, frère Claus, comme les<lb/>
+vrais montagnards. Mais nous savons apprécier ta<lb/>
+franchise. Nous admirons et nous louons en toi<lb/>
+les plus solides vertus de notre race ! Puisse-t-elle<lb/>
+les conserver toujours ! Et maintenant, cher frère<lb/>
+Claus, nous nous recommandons à tes prières et<lb/>
+t’accordons notre bénédiction toute spéciale !<lb/>
+<space/>(Le cortège s’engage sur le chemin descendant<lb/>
+à droite. Un page joue d’un instrument<lb/>
+joyeux. En même temps, le cortège des pèlerins<lb/>
+monte par la gauche en chantant sa<lb/>
+mélopée.) <lb/>
+</p>
+        <p><space/>SCÈNE IV.<lb/>
+Nicolas (aux pèlerins). — Bénis soyez-vous de<lb/>
+Dieu, chers frères et sœurs. D’où venez-vous ?<lb/>
+<space/>Le 1er pèlerin. — Nous sommes venus d’Alsace,<lb/>
+chassés par la misère et par les guerres continuelles,<lb/>
+en chemin ramassant hommes et femmes,<lb/>
+tous pauvres gens des cantons suisses et des bailliages.<lb/>
+Ils ont appris nos mélodies le long des<lb/>
+routes. Chanter nous donne du courage, la nuit,<lb/>
+dans la forêt horrible et noire !<lb/>
+<space/>Nicolas. — Pauvres gens ! Il y a donc la guerre<lb/>
+là-bas ?<lb/>
+<space/>Le pèlerin. — Les ducs d’Autriche et de Bourgogne<lb/>
+font leurs querelles dans nos champs. Par<lb/>
+chance encore, les Suisses sont restés à l’écart de<lb/>
+la guerre. Autrement, où pourrions-nous fuir ?<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page40">
+        
+        
+        <p>
+Mais la vie est dure, chez vous ! Le pain est cher !<lb/>
+Il y a trop de monde partout, et jamais de<lb/>
+travail pour nous autres.<lb/>
+<space/>Tous. — Nous avons faim !<lb/>
+Nicolas. —- Etrangers et Confédérés, qu’attendez-vous<lb/>
+d’un plus pauvre que vous ?<lb/>
+<space/>Le pèlerin. — On dit au loin que ton pouvoir<lb/>
+est grand, frère Claus ! Les seigneurs eux-mêmes<lb/>
+te redoutent ! Voici notre requête fraternelle: sois<lb/>
+notre chef et notre défenseur ! Nous te suivrons<lb/>
+comme les pauvres jadis suivaient le bon Berger<lb/>
+de Galilée. Et tu nous obtiendras justice !<lb/>
+<space/>Tous. — Sois notre chef !<lb/>
+Nicolas. — Si Jésus-Christ est votre ami, pourquoi<lb/>
+faut-il encore un autre chef ?<lb/>
+<space/>Le pèlerin. — Ecoute ! Notre misère crie jusqu’au<lb/>
+ciel ! Le temps de la révolte est là. Si tu<lb/>
+marches devant, frère Claus, plus rien ne nous<lb/>
+résistera !<lb/>
+<space/>Cris. — Sois notre chef ! Toi le plus pauvre !<lb/>
+Défends-nous ! Du pain ! Défends-nous !<lb/>
+<space/>Nicolas. — Pauvres enfants ! Vous voulez faire<lb/>
+la guerre pour obtenir du pain ? Oh ! malheureux !<lb/>
+Partout où la guerre a passé, les pauvres l’ont<lb/>
+payée, de leur famine. Si vous prenez les armes,<lb/>
+on vous écrasera, et vous perdrez votre seule<lb/>
+force, la justice !<lb/>
+<space/>Le pèlerin. — Lorsque le pauvre n’obtient pas<lb/>
+justice, il faut la force !<lb/>
+<space/>2me pèlerin. — Tu nous payes de bonnes paroles,<lb/>
+et nos enfants crient pour avoir du pain !<lb/>
+<space/>Tous. — Du pain ! Du pain !<lb/>
+Nicolas. — Ils en auront encore bien moins si<lb/>
+vous allumez l’incendie qui dévaste champs et<lb/>
+greniers. Vous n’avez pas assez de pain, c’est une<lb/>
+chose très injuste et très cruelle. Mais celui qui n’a<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page41">
+        
+        
+        <p>
+rien du tout, celui qui vit du pain céleste, pourra-t-il<lb/>
+vous donner un conseil ? (Un temps.) Gardez<lb/>
+la justice entre vous, et la charité dans vos cœurs.<lb/>
+Alors vous serez invincibles. Quand le pauvre loue<lb/>
+Dieu et vit de sa parole, la victoire sur le inonde<lb/>
+est à lui !<lb/>
+<space/>Le pèlerin. — Est-ce là ton dernier mot ?<lb/>
+Nicolas. — Non ! je vous aiderai de toutes mes<lb/>
+forces.<lb/>
+<space/>Le pèlerin. — Tu viens donc avec nous ?<lb/>
+Cris. — Il vient ! Il accepte ! Sois notre chef !<lb/>
+Nicolas. — Je reste ici. Ici, je vous aiderai. Si<lb/>
+Dieu le veut, j’écarterai la guerre de nos cantons<lb/>
+où vous avez trouvé refuge. Mais renoncez vous-<lb/>
+même à faire la guerre, car autrement le mal n’a<lb/>
+pas de fin. Et souvenez-vous qu’un plus pauvre<lb/>
+que vous loue Dieu et lui rend grâce de ses dons !<lb/>
+<space/>(Les pèlerins descendent par la droite en<lb/>
+chantant, puis le chant se perd, à bouche<lb/>
+fermée.) <lb/>
+</p>
+        <p><space/>SCÈNE V.<lb/>
+(Nicolas est allé s’agenouiller devant son abri.<lb/>
+Paraissent sur le chemin de gauche deux<lb/>
+personnages richement vêtus.) <lb/>
+Ulrich. — J’aperçois deux chevaliers qui se<lb/>
+hâtent vers nous. (Au premier, en lui montrant Nicolas<lb/>
+en prière.) Quel souci vous amène en ce lieu,<lb/>
+seigneur ?<lb/>
+<space/>Diesbach. — Chargé d’une mission de très haute<lb/>
+importance, je sollicite une entrevue de frère<lb/>
+Claus. Leurs Excellences de Berne saluent par<lb/>
+moi le vénérable solitaire.<lb/>
+<space/>Ulrich. — Et quel est le second visiteur ? Peut-<lb/>
+il se présenter lui-même ?<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page42">
+        
+        
+        <p><space/>Hornek. — Le chevalier Burckhardt de Hornek !<lb/>
+J’apporte au frère Claus un très urgent message.<lb/>
+De la part de mon noble maître, Sigismond, archiduc<lb/>
+d’Autriche.<lb/>
+<space/>(Nicolas s’est relevé et vient à eux.) <lb/>
+<space/>RÉCITATIF.<lb/>
+(Chœur à bouche fermée.) <lb/>
+Ainsi les affaires du monde, des plus humbles<lb/>
+jusqu’aux plus grandes, vont retentir dans ta pure<lb/>
+solitude, ô toi qui fuis le monde pour trouver la<lb/>
+seule chose nécessaire !<lb/>
+<space/>Et voici qu’au jour du danger tout ton peuple<lb/>
+se tourne vers toi pour t’écouter !<lb/>
+<space/>CHORAL II.<lb/>
+Nicolas ! Nicolas ! Nicolas !<lb/>
+<space/>Prends ta garde !<lb/>
+De ta Patrie voici la tentation !<lb/>
+O sentinelle, guetteur aux yeux fermés,<lb/>
+Avertis, car nous t’écoutons !<lb/>
+Prie pour nous, le danger se lève !<lb/>
+Témoin frugal et prophétique,<lb/>
+Tu le voyais, tu nous avertissais !<lb/>
+Nicolas. — Parlez, seigneurs, et je vous répondrai,<lb/>
+au nom de Dieu qui nous entend, et de mon<lb/>
+peuple qui m’écoute.<lb/>
+<space/>Hornek. — L’empereur t’envoie son salut ! Il se<lb/>
+souvient de ta vaillance dans la guerre, quand tu<lb/>
+luttais contre nos gens. Mais ta sagesse est plus<lb/>
+illustre encore, et vénérée. Un peuple entier t’écoute<lb/>
+et reçoit tes conseils. De toi seul dépend le succès<lb/>
+du grand dessein dont je veux te faire juge. Voici<lb/>
+l’objet de ma requête. Fatigué de luttes stériles<lb/>
+avec les indomptables Suisses, et prévoyant des<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page43">
+        
+        
+        <p>
+menaces nouvelles qui se préparent pour vous<lb/>
+autres vers l’Ouest, Sigismond vous offre sa paix,<lb/>
+à toujours et à perpétuité.<lb/>
+<space/>Nicolas.— L’archiduc ! Qu’attend-il en échange ?<lb/>
+Hornek. — Il n’attend rien que votre paix !<lb/>
+Nicolas. — Ce langage est nouveau de sa part…<lb/>
+Qu’en pense l’envoyé, de Berne ?<lb/>
+<space/>Diesbach. — Je pense à cette menace dont il<lb/>
+est bruit, vers l’Ouest, ce grand duché occidental<lb/>
+sous le règne d’un tyran fou, que l’on a surnommé<lb/>
+le Téméraire. Lourde menace pour qui<lb/>
+n’a pas d’alliés puissants et proches.<lb/>
+<space/>Nicolas. — Quel est donc le message de ceux<lb/>
+de Berne ?<lb/>
+<space/>Diesbach. — 11 tient en un mot que tu aimes,<lb/>
+ô frère Claus: c’est la paix. Je t’apporte l’heureuse<lb/>
+nouvelle d’un traité conclu par nos soins<lb/>
+avec le roi de France Louis XI. Le secret en est<lb/>
+bien gardé… Il n’est pas sûr que tous les cantons<lb/>
+soient d’accord — et ceux d’ici n’écoutent que ta<lb/>
+voix, frère Claus ! Voilà pourquoi je suis venu.<lb/>
+<space/>Nicolas. — Tu l’as dit, je ne veux que la paix.<lb/>
+Mais ce n’est pas le mot que j’aime, c’est la chose,<lb/>
+c’est la réalité miraculeuse que Dieu seul fait<lb/>
+régner parmi nous ! (Un temps.) Dieu seul et non<lb/>
+pas nos calculs. (Un temps.) Deux alliances, pour<lb/>
+nous chétifs ! Grandes alliances ! C’est beaucoup…<lb/>
+La force d’un côté, et de l’autre la ruse… Petit<lb/>
+troupeau des Suisses, te voilà bien gardé par le<lb/>
+renard et par le loup !<lb/>
+<space/>Hornek. — L’archiduc est loyal, il t’offre une<lb/>
+paix sans condition.<lb/>
+<space/>Diesbach. — Le roi Louis veut protéger nos<lb/>
+libertés, convoitées par le Téméraire.<lb/>
+<space/>Nicolas (brusquement). — Et moi, je vois que<lb/>
+l’un et l’autre chérissent moins nos libertés qu’ils<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page44">
+        
+        
+        <p>
+ne craignent le duc d’Occident ! Riche contrée,<lb/>
+dit-on, que la Bourgogne ! Vin chaleureux et tonnes<lb/>
+d’or ! Ne tentez pas les Suisses, beaux seigneurs<lb/>
+ !<lb/>
+<space/>Hornek. — Nous n’offrons que la paix. Pourquoi<lb/>
+parler de tentation ? Est-ce là ta grande<lb/>
+sagesse, ô frère Claus ?<lb/>
+<space/>Diesbach. — La paix dans la force et l’honneur,<lb/>
+et la Suisse au rang des puissances !<lb/>
+<space/>Nicolas. — Votre paix est tournée vers la<lb/>
+guerre ! Je vois sa face d’ombre et de sang, au<lb/>
+travers des reflets dorés que vos promesses font<lb/>
+luire aux yeux des Suisses ! Ah ! vous êtes deux<lb/>
+bons oiseleurs ! Qu’avons-nous besoin de richesses ?<lb/>
+Je vous le dis en vérité: la pauvreté fait notre<lb/>
+force, car notre force est dans l’union, et les<lb/>
+richesses divisent un peuple. (Un temps.) Et pourquoi<lb/>
+ces alliances étrangères ? Nos ancêtres n’en<lb/>
+voulaient point.<lb/>
+<space/>Diesbach. — Pour assurer notre sécurité.<lb/>
+Nicolas. — Notre sécurité n’a qu’une seule base<lb/>
+sûre: l’alliance des cantons entre eux, au nom de<lb/>
+Dieu. Si nous gardons le Pacte, nulle puissance,<lb/>
+et pas même le duc Téméraire, nulle puissance<lb/>
+ne peut rien contre nous.<lb/>
+<space/>Hornek. — Prends garde, frère Claus ! Le Téméraire<lb/>
+vous guette, il s’arme ! Que pourrez-vous,<lb/>
+seuls contre lui ?<lb/>
+<space/>Nicolas. — Tu l’avoues donc, chevalier ! Vous<lb/>
+voulez nous pousser dans le dos. Ce Téméraire<lb/>
+vous fait trembler encore, et c’est avec les piques<lb/>
+des Suisses que vos princes ont dessein de l’abattre !<lb/>
+A nous la guerre, à vous la gloire, c’est ton<lb/>
+marché ?<lb/>
+<space/>Hornek. — Réfléchis, frère Claus !<lb/>
+Diesbach. — Un mot de toi peut déclencher<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page45">
+        
+        
+        <p>
+cette avalanche, la grande colère des Suisses croulant<lb/>
+sur la Bourgogne !<lb/>
+<space/>Nicolas. — Ce ne serait pas moi qui le dirais,<lb/>
+ce mot, ni Dieu par moi, mais le Tentateur exécrable !<lb/>
+(Il crie.) Confédérés ! Confédérés ! réveillez-<lb/>
+vous, n’écoutez pas le Tentateur !<lb/>
+<space/>(Lumière sur le plan 2. Entrée des Suisses<lb/>
+armés, par la gauche et la droite. Ils se<lb/>
+massent au milieu, entre les pèlerins et la<lb/>
+suite d’Einsiedeln.) <lb/>
+<space/>SCÈNE VL<lb/>
+RÉCITATIF.<lb/>
+(Chœur à bouche fermée.) <lb/>
+(Tutti.) Tout un peuple a prêté l’oreille. Mais<lb/>
+le grand vent des plaines s’est levé, il emporte la<lb/>
+voix du guetteur. Nicolas ! Nicolas ! Hélas ! Est-ce<lb/>
+en vain que là-haut tu veilles ?<lb/>
+<space/>(Voix d’hommes.) A l’horizon paraissent des présages.<lb/>
+Nous, d’ici, voyons une aurore éclatante de<lb/>
+gloire et d’or. Toi, de là-haut, vois l’orage futur<lb/>
+et la dévastation des liens sacrés.<lb/>
+<space/>(Voix de femmes.) Quel est ce rêve qui se lève<lb/>
+avec le vent des plaines et de la guerre ? Hélas !<lb/>
+où courons-nous ?<lb/>
+<space/>(Pendant ce récitatif, jeu de scène indiquant<lb/>
+que les Suisses écoutent de tous côtés, dans<lb/>
+l’inquiétude.) <lb/>
+<space/>CHORAL II.<lb/>
+Sentinelle ! Sentinelle ! Voix du ciel !<lb/>
+<space/>Que dis-tu ?<lb/>
+Des sons lointains prédisent le malheur<lb/>
+Le vent des plaines emporte leur écho !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page46">
+        
+        <p>
+Voix de paix descend des sommets,<lb/>
+Vent de guerre souflle sur nos terres.<lb/>
+Jour du désir, jour de l’angoisse !<lb/>
+Confédérés, écoutez, écoutez !<lb/>
+<space/>(Une moitié du groupe des Suisses se tourne<lb/>
+vers le plan 3, l’autre moitié vers le plan 1<lb/>
+qui s’illumine. A gauche, les Français dominés<lb/>
+par la silhouette de Louis XI, à droite<lb/>
+les Autrichiens dominés par l’Empereur<lb/>
+vêtu d’or et couronné.) <lb/>
+Nicolas. — Seigneur ! La voix du solitaire est<lb/>
+faible. Parle toi-même à tes enfants, je t’en supplie !<lb/>
+Le chant du monde éclate à leurs oreilles<lb/>
+et les rend sourds au cri du vieux guetteur !<lb/>
+<space/>CHŒUR DES PUISSANCES. (Plan 1.) <lb/>
+<space/>AUTRICHIENS. (A droite.) <lb/>
+Hohé les Suisses !<lb/>
+Du haut des Alpes au sol ingrat<lb/>
+Vous dominez les plaines désirables !<lb/>
+Eh quoi ! Fuirez-vous les combats ?<lb/>
+Laisserez-vous rouiller le fer des piques ?<lb/>
+<space/>FRANÇAIS. (A gauche.) <lb/>
+Hohé les Suisses !<lb/>
+Voici l’armée du Téméraire.<lb/>
+La voyez-vous ? Ah ! Ah ! péril et gloire !<lb/>
+Hardi ! Taillez et culbutez,<lb/>
+Terreur au loin par votre cri de guerre !<lb/>
+<space/>TOUS.<lb/>
+Sonnez le cor épouvantable des batailles<lb/>
+Et notre bras vous soutiendra.<lb/>
+Nicolas (à genoux). — Mon Seigneur et mon<lb/>
+Dieu, toi seul es notre force ! Toi seul es notre<lb/>
+union, toi seul es notre paix ! Dans la détresse,<lb/>
+c’est vers toi que je crie ! Seigneur, aie pitié de<lb/>
+nous !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page47">
+        
+        
+        <p rend="center">
+SCÈNE VII.<lb/>
+</p>
+        <p>
+(Le groupe des Suisses se divise brusquement<lb/>
+en deux: à gauche les villes, à droite les<lb/>
+Waldslatten. Pendant ce temps:) <lb/>
+<space/>RÉCITATIF.<lb/>
+(Chœur à bouche fermée.) <lb/>
+O Seigneur, aie pitié d’un peuple divisé contre<lb/>
+lui-même ! Vois la folie des villes, et le Pacte trahi<lb/>
+pour l’alliance étrangère. Où sont les présages<lb/>
+certains ? Que dit la voix du saint dans le lointain ?<lb/>
+Quelle est cette ombre rouge qui nous<lb/>
+couvre ? O Seigneur, aie pitié de nous !<lb/>
+<space/>CHŒUR DES FRANÇAIS ET DES AUTRICHIENS.<lb/>
+Hohé les Suisses !<lb/>
+<space/>CHŒUR DES SUISSES.<lb/>
+Nous répondrons !<lb/>
+<space/>CHŒUR DES FRANÇAIS.<lb/>
+Quelle heure sonne ?<lb/>
+Heure de guerre ?<lb/>
+<space/>DEMI-CHŒUR DES SUISSES. (A droite.) <lb/>
+Si le nuage doit tonner, qu’il tonne !<lb/>
+Hallali ! Sus au Téméraire !<lb/>
+<space/>CHŒUR DES AUTRICHIENS.<lb/>
+Quelle heure sonne ?<lb/>
+Heure de guerre ?<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page48">
+        
+        
+        <p>
+DEMI-CHŒUR DES SUISSES. (A gauche.) <lb/>
+Heure maudite et cruelle misère !<lb/>
+Nicolas ! Dieu nous abandonne !<lb/>
+<space/>CHŒUR DES FRANÇAIS.<lb/>
+Répondez ! Répondez !<lb/>
+<space/>DEMI-CHŒUR DES SUISSES. (A droite.) <lb/>
+Oui !<lb/>
+<space/>CHŒUR DES AUTRICHIENS.<lb/>
+Répondez ! Répondez !<lb/>
+<space/>DEMI-CHŒUR DES SUISSES. (A gauche.) <lb/>
+Non !<lb/>
+<space/>CHŒUR DES PUISSANCES.<lb/>
+Qui tranchera ?<lb/>
+<space/>SCÈNE VIII.<lb/>
+(Entre les deux groupes du plan 2 paraît<lb/>
+brusquement l’Astrologue de Berne.) <lb/>
+L’astrologue. — (Il débite rapidement quelques<lb/>
+formules cabalistiques.) <lb/>
+<space/>Voix des villes. — C’est le grand astrologue<lb/>
+de Berne ! Ecoutez-le !<lb/>
+<space/>Voix des campagnes. — Funeste conseiller des<lb/>
+villes ! Vendu ! Vendu !<lb/>
+<space/>L’astrologue (après quelques simagrées). -—- Au<lb/>
+ciel visible, Mars entre au Lion. L’Ourse est<lb/>
+dressée la gueule ouverte et le Taureau baisse<lb/>
+les cornes, prêt au bond. Je vois la guerre !<lb/>
+<space/>Voix des suisses. — Et que vois-tu ? Dis, que<lb/>
+vois-tu ?<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page49">
+        
+        
+        <p><space/>L’astrologue. — A l’Occident, je vois des chevaliers<lb/>
+s’avancer par milliers en grand arroi.<lb/>
+Signe du ciel ! Une épée nue brandie par une<lb/>
+main coupée ! A l’Orient, j’entends mugir un cor<lb/>
+lugubre et retentir un nouveau chant de mort.<lb/>
+Le moral de l’armée est excellent ! Haut les cœurs !<lb/>
+Tous ensemble ! Union sacrée ! Courage ! Déjà, ils<lb/>
+fuient là-bas comme un nuage !<lb/>
+<space/>Voix des suisses. — Qui vient ? Qui fuit ? Et<lb/>
+que vois-tu ?<lb/>
+<space/>L’astrologue (criant). — Je vois de l’or, de l’or,<lb/>
+du sang, des morts, de l’or, de l’or, de l’or ! Ha !<lb/>
+ha ! ha ! ha ! ha ! ha !<lb/>
+<space/>Voix des suisses. — Pour qui cet or ? Sur qui<lb/>
+ce rire ? Et plus tard, que vois-tu ? Plus tard !<lb/>
+L’astrologue (laissant retomber ses bras). — Les<lb/>
+signes ont paru. Les sages ont appris. Les fous<lb/>
+sont confondus. J’ai dit.<lb/>
+<space/>(Puis formule cabalistique, rapidement. Louis<lb/>
+XI et Sigismond lancent des sacs d’or à<lb/>
+l’astrologue.) <lb/>
+Nicolas (criant du plan 3). — Marchand de vent !<lb/>
+Impie ! Voyez qui l’a payé ! Il n’ouvre la bouche<lb/>
+que pour mentir, et ne la ferme que pour taire<lb/>
+la vérité !<lb/>
+<space/>Voix des villes. — Pardieu non ! Son oracle<lb/>
+me plaît, à celui-ci ! J’aime l’or, et il me dit que<lb/>
+j’en aurai ! — Le vieux corbeau là-haut croasse<lb/>
+pour la pluie en plein soleil ! — Radoteur !<lb/>
+<space/>Une voix des campagnes. — Malheur, malheur,<lb/>
+malheur au peuple qui croit un mage et ne croit<lb/>
+plus un saint !<lb/>
+<space/>LE CHŒUR.<lb/>
+Malheur ! Malheur ! Malheur !<lb/>
+(Le jour baisse. Trompette dans le lointain.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page50">
+        
+        
+        <p><space/>SCÈNE IX.<lb/>
+(Hornek et Diesbach se sont concertés, tous<lb/>
+deux passés à droite du plan 3.) <lb/>
+Hornek. — Holà ! Je vois un messager, là-bas,<lb/>
+vers l’Ouest, dans le couchant !<lb/>
+<space/>Diesbach. — Il fait signe, il crie ! Ecoutez !<lb/>
+Hornek. — Alerte ! Je l’entends ! Il crie: Alerte !<lb/>
+Diesbach. — Aux armes, les Suisses ! L’armée<lb/>
+du duc a franchi nos frontières ! Défendons-nous !<lb/>
+<space/>Une voix des suisses. — Ce n’est pas nous,<lb/>
+c’est le Destin qui l’a voulu ! Aux armes !<lb/>
+<space/>(Le ciel devient rouge.) <lb/>
+<space/>CHŒUR DES SUISSES.<lb/>
+(Il font un pas lourd en avant et dressent<lb/>
+d’un coup leurs hallebardes avec un mugissement<lb/>
+bas et bref.) <lb/>
+Aux armes !<lb/>
+<space/>CHŒUR DES PUISSANCES.<lb/>
+Nuit de colère et de vengeance !<lb/>
+Incendie, viol, fraude, carnage !<lb/>
+Guerre ! Guerre !<lb/>
+Eclate, joie du sang sauvage !<lb/>
+Hardi les Suisses ! Sus au Téméraire !<lb/>
+Victoire ! Victoire ! Victoire !<lb/>
+<space/>UNE PARTIE DU CHŒUR. (En écho.) <lb/>
+Malheur ! Malheur ! Malheur !<lb/>
+L’astrologue. — Et toi, là-haut, sentinelle de<lb/>
+malheur, maintenant, que vois-tu venir ? Ouvre<lb/>
+les yeux ! Vois l’énorme incendie, l’aurore de notre<lb/>
+puissance !<lb/>
+<space/>(Des feux rouges balayent la scène.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page51">
+        
+        
+        <p>
+4<lb/>
+</p>
+        <p><space/>Une autre voix. — Sentinelle, que dis-tu de la<lb/>
+nuit ? Sentinelle que dis-tu de la nuit ?<lb/>
+<space/>Nicolas. — Le matin vient, et la nuit aussi.<lb/>
+Demi-chœur (de droite). — Le matin vient !<lb/>
+Demi-chœur (de gauche).— Et la nuit aussi !<lb/>
+<space/>RÉCITATIF.<lb/>
+(Le chœur chante à bouche fermée. Seuls les mots<lb/>
+<space/>en italique sont articulés.) <lb/>
+Nicolas, Nicolas, Nicolas ! ô… sentinelle, guetteur<lb/>
+aux yeux fermés ! Dès le matin clair et serein,<lb/>
+au cœur secret de la lumière d’un beau jour, tu<lb/>
+le savais, tu nous avertissais ! La nuit sanglante<lb/>
+est descendue, oh ! oh ! oh !… Qu’apportera l’aurore<lb/>
+maléfique ?<lb/>
+<space/>Ah ! hélas ! ah ! hélas ! ah ! hélas ! ô… tentation<lb/>
+complice des courages ! Non pas le sang ni la<lb/>
+défaite, ce n’est pas là ce que tu crains pour<lb/>
+ta patrie, mais la victoire, porteuse de discorde !<lb/>
+Toi, notre saint dans la nuée d’orage, oh ! oh !<lb/>
+oh !… Ne cesse pas d’implorer Dieu pour nous !<lb/>
+<space/>(Brusque fanfare, finissant sur quelques notes<lb/>
+perçantes et hautes.) <lb/>
+</p>
+        <p rend="block"><space/>Interlude.<lb/>
+(Comme entre les Actes I et II. Reprise du Choral II.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page52">
+</div>
+      <div type="page" xml:id="Page53">
+        <p rend="center">
+ACTE III.<lb/>
+</p>
+        <p>
+(Le chœur s’est massé à gauche et à droite<lb/>
+du plan 1. Au centre du plan 2, des hommes<lb/>
+travaillent à installer des grands sièges<lb/>
+de bois. Le landamman les observe. Au<lb/>
+plan 3, dans la pénombre, on distingue<lb/>
+Nicolas, immobile devant sa cellule.) <lb/>
+Le contremaître. — Hardi, compagnons ! Cognez<lb/>
+dur ! Tapez là-dessus comme sur des têtes de<lb/>
+Bourguignons ! (Coups de masse.) Souvenez-vous de<lb/>
+Sempach ! (Coups.) Souvenez-vous de Saint-Jacques !<lb/>
+(Coups.) Souvenez-vous de Grandson ! (Coups.) Souvenez-vous<lb/>
+de Morat ! (Coups.) Souvenez-vous de<lb/>
+Nancy ! (Coups.) Souvenez-vous de tout ce que vous<lb/>
+voudrez ! (Grêle de coups.) Ça y est ? — Monsieur<lb/>
+le Landamman, tout est prêt !<lb/>
+<space/>Le landamman. — C’est bien. Les sièges sont<lb/>
+solides. Si les députés ont la tête aussi bien plantée<lb/>
+que le derrière, on peut compter que les<lb/>
+débats auront de la tenue. Voici les sièges des<lb/>
+villes: Lucerne, Berne, Zurich…<lb/>
+<space/>(Chaque nom est ponctué d’un coup sur le<lb/>
+siège.) <lb/>
+…Et voici pour les campagnes: Uri, Schwytz,<lb/>
+Unterwald, Glaris, Zoug !<lb/>
+<space/>(Même jeu.) <lb/>
+Le contremaître. — Ces deux-là (il tape dessus) ,<lb/>
+nous les avons placés à part, selon vos instructions.<lb/>
+Pour qui sont-ils ?<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page54">
+        
+        
+        <p><space/>Le landamman. — J’y vois assis deux, spectres<lb/>
+à la face effrayante: la Discorde et la Guerre<lb/>
+civile. C’est à cause de ces deux sièges-là que la<lb/>
+Diète aujourd’hui s’assemble. Siège de Soleure —-<lb/>
+siège de Fribourg ! Plût au ciel que jamais ils<lb/>
+n’aient été dressés ! — Ou bien qu’ils soient déjà<lb/>
+dans la ligne des autres…<lb/>
+<space/>Un ouvrier. — Expliquez-vous, Monsieur le Landamman.<lb/>
+<lb/>
+<space/>Le landamman. — Nous avons huit cantons<lb/>
+confédérés. Les villes disposent de trois voix:<lb/>
+Zurich, Berne, Lucerne. Mais avec leur richesse<lb/>
+et leur astuce, cela vaut bien les cinq voix des<lb/>
+campagnes. Maintenant si nous acceptons dans<lb/>
+l’Alliance deux villes nouvelles — ces deux-là, —<lb/>
+cela fera cinq contre cinq, mais cinq gros contre<lb/>
+cinq petits, comprenez-vous ? Et nous verrons bientôt<lb/>
+la lin de notre paix par le triomphe du parti<lb/>
+des conquêtes. L’or de Bourgogne les rend fous,<lb/>
+tous ceux des villes ! S’ils gagnent, croyez-moi, ce<lb/>
+sera la fin de notre libre Confédération.<lb/>
+<space/>Un ouvrier. — La fin de notre Confédération à<lb/>
+cause de ces deux sièges-là ? Alors quoi ? Foutons-<lb/>
+les par terre ! (Il frappe les deux sièges.) <lb/>
+<space/>Le landamman (le retenant). -— Ce n’est pas ton<lb/>
+marteau, mon ami, qui peut arrêter le Destin !<lb/>
+Les délégués sont là, la Diète va s’ouvrir, il est<lb/>
+trop tard ! On n’attend plus que les ambassadeurs<lb/>
+de l’étranger pour inaugurer les débats. Ecoutez !<lb/>
+(Ils s’arrêtent, les marteaux levés. Fanfare dans la<lb/>
+coulisse.) Les voici !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page55">
+        
+        
+        <p><space/>SCÈNE IL<lb/>
+(Musique de cortège. Vivats de la foule — le<lb/>
+chœur. Par la gauche et la droite du plan i<lb/>
+entrent les ambassadeurs de France et d’Autriche,<lb/>
+puis par la gauche et la droite du<lb/>
+plan 2, les ambassadeurs de Venise et de la<lb/>
+Savoie, chacun suivi de seigneurs et de<lb/>
+valets. Les têtes des quatre cortèges finissent<lb/>
+par se rencontrer au centre du plan 1,<lb/>
+au-dessous des sièges de la Diète. Les ambassadeurs<lb/>
+saluent le landamman, sur les<lb/>
+marches qui conduisent au plan 2.) <lb/>
+L’ambassadeur de France (présentant ses collègues).<lb/>
+L’ambassadeur de la cour de Savoie. —<lb/>
+L’ambassadeur de sa très haute grandeur Sigis-<lb/>
+mond, archiduc d’Autriche. — L’ambassadeur de<lb/>
+la sérénissime République de Venise. — Et moi<lb/>
+je vous salue, Monsieur le Landamman, au nom<lb/>
+du Roi mon maître, Louis l’Onzième.<lb/>
+<space/>(Saluts.) <lb/>
+Le landamman. — Que la paix des montagnes,<lb/>
+et non point la discorde des hommes, vous<lb/>
+accueille aujourd’hui, chers seigneurs, dans ce<lb/>
+pays qui domine vos plaines ! (Aux Suisses.) Allez<lb/>
+dire à nos députés que tout est disposé pour la<lb/>
+séance solennelle.<lb/>
+<space/>(Il sort avec les Suisses.) <lb/>
+<space/>SCÈNE III.<lb/>
+L’ambassadeur de Venise. — L’accueil est simple<lb/>
+et fruste, mais il est fier aussi !<lb/>
+<space/>L’ambassadeur de Savoie. — Comme il convient<lb/>
+aux premiers soldats de l’Europe !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page56">
+        
+        
+        <p><space/>L’ambassadeur d’Autriche. — Le Téméraire se<lb/>
+moquait d’eux. La « pierreuse nation », disait-il.<lb/>
+Ah oui ! Pierreuse comme une avalanche, il l’a<lb/>
+bien vu !<lb/>
+<space/>L’ambassadeur de France. — Lorsqu’il partait<lb/>
+en guerre, provoqué par ces paysans, Charles<lb/>
+faisait crier devant l’armée: « Le lion ne se couchera<lb/>
+plus qu’il n’ait dévoré sa proie ! » Eh bien !<lb/>
+après Grandson, il ne lui restait plus qu’à dévorer<lb/>
+ses mains de rage ! Après Morat, son fou prophétisait:<lb/>
+« Prince couvert d’écarlate et de cramoisi,<lb/>
+à la fin seras blanc comme neige ! » Or à Nancy,<lb/>
+la prophétie s’est accomplie: on a trouvé le cadavre<lb/>
+du duc pris dans la glace des marais ! Je tiens<lb/>
+les Suisses pour invincibles.<lb/>
+<space/>L’ambassadeur de Venise. — Et moi je dis:<lb/>
+toute cuirasse a son défaut. Depuis Grandson<lb/>
+ils savent le prix de l’or et leur cupidité s’est<lb/>
+éveillée.<lb/>
+<space/>L’ambassadeur d’Autriche. — Déjà les dissensions<lb/>
+éclatent dans leurs rangs à cause des trésors<lb/>
+conquis. Les campagnes accusent les villes de se<lb/>
+tailler la part de l’ours ! Les villes accusent les<lb/>
+campagnes de vendre des soldats à l’étranger.<lb/>
+Partout l’intrigue et l’anarchie. A nous d’utiliser<lb/>
+la situation !<lb/>
+<space/>L’ambassadeur de Savoie. — Connaissez-vous<lb/>
+leur dernière folie ? C’était pendant le Carnaval de<lb/>
+cette année. Les jeunes gens des cantons forestiers,<lb/>
+ivres de bière mais surtout d’aventures, se<lb/>
+forment en cortège burlesque et vociférant. Ils se<lb/>
+baptisent eux-mêmes les compagnons de la Folle-<lb/>
+vie. Des meneurs les excitent et leurs crient:<lb/>
+« Allez à Berne et à Genève réclamer le trésor de<lb/>
+Bourgogne ! » Alors ils sont partis dans une sara<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page57">
+        
+        
+        <p>
+bande tumultueuse, vêtus de leurs costumes de<lb/>
+Carnaval, armés de piques, chantant des chants<lb/>
+de guerre, et les villes ont été forcées de payer<lb/>
+un tribut d’or et d’argent pour éviter d’affreux<lb/>
+saccages ! On dit que la bande en folie a juré<lb/>
+d’être de retour pour l’ouverture de la Diète. Il<lb/>
+faut s’attendre à des bagarres.<lb/>
+<space/>L’ambassadeur de France. — Eh bien ! voilà<lb/>
+du bon gibier pour messieurs nos agents recruteurs<lb/>
+ !<lb/>
+</p>
+        <p rend="block"><space/>SCÈNE IV.<lb/>
+Voix dans le chœur. — Les voilà ! Les voilà !<lb/>
+Retirez-vous !<lb/>
+<space/>(On entend un chant dans la coulisse, puis<lb/>
+une bande armée et costumée fait irruption<lb/>
+sur le plan 2. Pendant le chant, entre<lb/>
+strophes et refrain, les Compagnons exécutent<lb/>
+une danse parmi les groupes du<lb/>
+plan 1 et autour des sièges du plan 2.) <lb/>
+</p>
+        <p>
+CHŒUR DES COMPAGNONS DE LA FOLLEVIE.<lb/>
+1. Compagnons de la Follevie<lb/>
+<space/>Dansons la guerre<lb/>
+Dansons la vie !<lb/>
+Tout’s les filles de la terre<lb/>
+Cour’t après les militaires<lb/>
+<space/>Dansons la vie.<lb/>
+Dur est le sol, dur est le sol !<lb/>
+<space/>Courage !<lb/>
+L’or et le sang, l’or et le sang !<lb/>
+<space/>Carnage !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page58">
+        
+        
+        <p>
+2. Compagnons de la Folleguerre<lb/>
+<space/>A nous la terre<lb/>
+A nous la joie !<lb/>
+Par les plaines qui rougeoient<lb/>
+Par les villes qui flamboient<lb/>
+<space/>Dansons la guerre !<lb/>
+<space/>(Refrain.) <lb/>
+CHŒUR DES AMBASSADEURS.<lb/>
+Et notre bras vous soutiendra !<lb/>
+La suite de France. — Service de France !<lb/>
+Une partie des compagnons. — Hourrah ! de<lb/>
+l’or !<lb/>
+<space/>La suite d’Autriche. — Des aventures !<lb/>
+Une autre partie des compagnons. — Hourrah !<lb/>
+la gloire !<lb/>
+<space/>La suite de Savoie. — Notre vengeance !<lb/>
+3me partie des compagnons. — A mort ! la<lb/>
+guerre !<lb/>
+<space/>La suite de Venise. — Villes et filles !<lb/>
+4me partie des compagnons. — Hourrah !<lb/>
+l’Amour !<lb/>
+<space/>(Pendant ces répliques, les ambassadeurs<lb/>
+tendent des sacs d’or ; les compagnons se<lb/>
+précipitent vers les quatre groupes d’étrangers,<lb/>
+et dansent avec les sacs. Après quoi,<lb/>
+les ambassadeurs et les compagnons boivent<lb/>
+et chantent ensemble.) <lb/>
+<space/>SCÈNE V.<lb/>
+(Fanfare. Des soldats entrent par la gauche<lb/>
+et chassent les compagnons qui se groupent<lb/>
+sur les marches, au-dessous des sièges.) <lb/>
+Les soldats. — Place aux députés ! La Diète va<lb/>
+s’ouvrir ! Arrière ! Silence !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page59">
+        
+        
+        <p>
+(Entrent les députés, en cortège. Ils vont<lb/>
+prendre place sur les sièges. Derrière chacun<lb/>
+d’eux, un soldat debout, portant la<lb/>
+bannière du canton représenté.) <lb/>
+Le président. — Députés des campagnes et des<lb/>
+villes, représentants des huit cantons confédérés !<lb/>
+Pour la dernière fois en cette année, nous déclarons<lb/>
+ouverte notre Diète. Quinze assemblées n’ont<lb/>
+pas suffi pour concilier les deux partis. C’est aujourd’hui<lb/>
+notre suprême chance. De ce débat —<lb/>
+songez-y tous ! — sortiront la paix ou la guerre !<lb/>
+Que chacun des partis déclare maintenant les<lb/>
+sacrifices qu’il pourra consentir pour le salut de<lb/>
+la patrie commune ! La parole est au délégué des<lb/>
+villes.<lb/>
+<space/>Waldmann (lisant son discours). — Considérant<lb/>
+la malice des temps, mais aussi la valeur de nos<lb/>
+armes (se tournant vers les ambassadeurs) — qu’on<lb/>
+se le dise ! — considérant que trop longtemps nos<lb/>
+communes et nos cantons ont poursuivi leurs<lb/>
+intérêts particuliers au détriment de la puissance<lb/>
+de l’Etat ; — considérant que l’Ordre est le père<lb/>
+du travail, dont la discipline est la mère, et dont<lb/>
+la fille est la prospérité…<lb/>
+<space/>Les compagnons. — Hou ! Hou ! Hou !<lb/>
+Waldmann. — … considérant que nos victoires<lb/>
+mémorables ont été remportées par l’union, et que<lb/>
+le temps de la grandeur et des conquêtes s’ouvre<lb/>
+à nous, je vous adjure et je vous dis: Confédérés,<lb/>
+faisons taire nos petits égoïsmes, bannissons tout<lb/>
+esprit de clocher, jetons ici la base inébranlable<lb/>
+d’un Etat fort et unifié, capable d’affronter les<lb/>
+temps nouveaux !<lb/>
+<space/>Nous proposons que les campagnes acceptent et<lb/>
+reçoivent en notre alliance fédérale les bonnes<lb/>
+villes de Fribourg et de Soleure. N’ont-elles pas<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page60">
+        
+        
+        <p>
+vaillamment combattu, à nos côtés, pendant les<lb/>
+guerres de Bourgogne ? A cette condition, nous<lb/>
+acceptons que soit dissous et annulé le Pacte qui<lb/>
+lie nos trois villes. Que toute alliance particulière<lb/>
+soit interdite, et que les Suisses ne se battent plus<lb/>
+jamais que sous notre commun drapeau ! J’ai dit.<lb/>
+<space/>Le président. — La parole est au représentant<lb/>
+des campagnes.<lb/>
+<space/>Altinghausen. — Nos pères ont combattu pour<lb/>
+être libres: Vous voulez aujourd’hui être forts.<lb/>
+Nos pères prenaient les armes pour défendre leur<lb/>
+droit : Vous parlez aujourd’hui de conquêtes.<lb/>
+Quand vous nous dites: Unissons-nous ! c’est pour<lb/>
+la guerre. Quand vous nous dites: Faisons régner<lb/>
+l’ordre ! c’est pour augmenter vos richesses. Car<lb/>
+pour vos guerres, nous donnerons du sang, et<lb/>
+c’est vous qui garderez l’or ! Ce sont les villes qui<lb/>
+nous ont entraînés dans l’aventure de Bourgogne.<lb/>
+Et maintenant, vous prétendez nous interdire<lb/>
+d’entrer au service étranger, car vous voulez nos<lb/>
+hommes pour votre guerre à vous ! Eh bien ! je<lb/>
+dis que notre alliance est faite pour notre seule<lb/>
+défense, au nom de Dieu, et non pas pour vos<lb/>
+folles conquêtes au nom du Diable qui s’appelle<lb/>
+Mammon. Nous n’avons qu’un seul but: sauver<lb/>
+nos libertés communales et cantonales. Nous<lb/>
+n’avons pas besoin d’un Etat fort, nous n’avons<lb/>
+pas besoin de vos grands diplomates. Leur politique<lb/>
+nous coûte trop cher, c’est toujours nous<lb/>
+qui la payons. Commencez par dissoudre votre<lb/>
+ligue. Renoncez à régner sur nous. Laissez-nous<lb/>
+traiter nos affaires selon nos intérêts locaux. Alors<lb/>
+nous pourrons accepter l’entrée de deux villes<lb/>
+nouvelles.<lb/>
+<space/>Telles sont nos conditions. Nous n’irons pas<lb/>
+plus loin, car nos libertés sont en cause, et nos<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page61">
+        
+        
+        <p>
+ancêtres nous regardent ! Plutôt la guerre que la<lb/>
+honte ! J’ai dit.<lb/>
+<space/>Le président. — Ainsi, d’une part les villes<lb/>
+renonceront à leur Ligue si d’abord les campagnes<lb/>
+reçoivent Fribourg et Soleure, et d’autre part les<lb/>
+campagnes recevront Fribourg et Soleure si les<lb/>
+villes, d’abord, renoncent à leur Ligue. Messieurs,<lb/>
+je vous le demande, allez-vous faire la guerre<lb/>
+pour une question de procédure ?<lb/>
+<space/>Waldmann. — Prenez garde ! Il s’agit de grands<lb/>
+principes ! Ce qui est en cause ici, c’est la forme<lb/>
+et l’esprit de notre Etat. Nous sommes là pour<lb/>
+sauver l’alliance contre les égoïsmes des cantons.<lb/>
+Que chacun sacrifie à tous !<lb/>
+<space/>Altinghausen. — Et moi je dis que notre<lb/>
+alliance est là pour assurer nos libertés particulières !<lb/>
+Chacun pour soi, l’Etat pour tous !<lb/>
+<space/>Waldmann. — Derrière cette belle devise, la<lb/>
+trahison se cache ! Vous vendez vos soldats au<lb/>
+Pape !<lb/>
+<space/>Les compagnons. — Hou ! Hou ! Hou ! A bas les<lb/>
+tyrans !<lb/>
+<space/>Altinghausen. — Et vous ! Vous proclamez de<lb/>
+beaux principes, mais vous gardez le butin de<lb/>
+Bourgogne.<lb/>
+<space/>Les compagnons. — Nous vou-lons l’ar-gent !<lb/>
+Nous vou-lons l’ar-gent !<lb/>
+<space/>Le président. — Une dernière fois, je vous<lb/>
+adjure… salut de notre Confédération !<lb/>
+<space/>(Sa voix est couverte par les cris.) <lb/>
+Cris des compagnons. — Assez de par-lottes !<lb/>
+A bas les vieil-lards ! Nous vou-lons un chef !<lb/>
+<space/>Waldmann. — Soldats, rétablissez l’ordre, ceux<lb/>
+d’ici n’en sont plus capables !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page62">
+        
+        
+        <p>
+Altinghausen. — C’est une provocation !<lb/>
+Waldmann. — Nous tirerons les conséquences !<lb/>
+<space/>(Tumulte, cris: A la guerre ! A la guerre !) <lb/>
+Le président. — La séance est suspendue ! Gardes !<lb/>
+avancez !<lb/>
+<space/>(Les gardes essayent de repousser les compagnons.<lb/>
+Ceux-ci s’élancent vers les députés<lb/>
+et les chassent, puis renversent et brisent<lb/>
+les sièges. Chant des Compagnons, tandis<lb/>
+que les ambassadeurs reculent à gauche et<lb/>
+à droite du plan 1 et que les députés disparaissent.) <lb/>
+<lb/>
+(Nuit sur le plan 2. Lueur au plan 3. Batterie<lb/>
+de tambours assourdis.) <lb/>
+<space/>RÉCITATIF.<lb/>
+(Chœur à bouche fermée.) <lb/>
+I. Oh ! maintenant, peuple des monts et des<lb/>
+vallées, — tremble dans l’attente orageuse — sous<lb/>
+un ciel d’angoisse et de haine ! Malheur sur nous !<lb/>
+<space/>Nuit lugubre et sans sommeil — rythmée d’armes<lb/>
+martelées — Ha ! ha ! — Meute folle, meurtrière<lb/>
+— ô rumeur irréparable — que dis-tu ? —<lb/>
+Demain la guerre !<lb/>
+<space/>II. Ah ! nuit de deuil, peuple des monts et des<lb/>
+vallées, — qui pourra sauver désormais — renversant<lb/>
+les destins, ta patrie ? Terreur sur nous !<lb/>
+<space/>Pleurez femmes, sanglotez — sur les foyers<lb/>
+désertés — hou ! hou ! — Sourde plainte, les tambours<lb/>
+— couvrent ta voix déplorable. — Que distu ?<lb/>
+— Demain la guerre.<lb/>
+<space/>(Batterie, rythme de tambours, qui se prolongent<lb/>
+durant les répliques suivantes.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page63">
+        
+        
+        <p rend="center">
+SCÈNE VI.<lb/>
+</p>
+        <p><space/>Voix isolées (à droite, à gauche, au centre, au<lb/>
+plan 1, au plan 2.) — Qu’ont-ils dit ? — Demain la<lb/>
+guerre ! — O notre alliance déchirée ! — Qu’ont-<lb/>
+ils dit ? — Demain la mort ! — O patrie, patrie<lb/>
+déchirée ! — Adieu ! Adieu ! Pitié pour nous !<lb/>
+<space/>LE CHŒUR (parlé).<lb/>
+Veillée d’armes ! Qu’entends-tu ? — Minuit sonne !<lb/>
+(Douze coups.) D’où nous viendra le salut ? —<lb/>
+Kyrie eleison !<lb/>
+<space/>(Silence total.) <lb/>
+Dorothée (dans une lueur, à gauche du plan 2,<lb/>
+près des coulisses). —- Monsieur le curé ! Monsieur<lb/>
+Haimo ! Réveillez-vous !<lb/>
+<space/>Une voix de femme (dans la coulisse). — Qui est<lb/>
+là ?<lb/>
+<space/>Dorothée. — Dorothée, femme Nicolas. Monsieur<lb/>
+Haimo ! Réveillez-le ! Monsieur Haimo ! Appe-<lb/>
+lez-le ! Mes deux fils partent pour la guerre ! Ils<lb/>
+l’ont crié: Demain la guerre ! Réveillez-le ! Un seul<lb/>
+peut nous sauver !<lb/>
+<space/>La voix. — Il n’est pas là, Monsieur le curé,<lb/>
+il est sorti.<lb/>
+<space/>Dorothée (criant). — O Dieu ! Mes fils ! O seul<lb/>
+espoir, tout est perdu !<lb/>
+<space/>(Nuit. A droite du plan 2, lumière: on voit<lb/>
+Haimo, le bâton à la main, qui s’avance<lb/>
+vers les marches conduisant au plan 3.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page64">
+        
+        
+        <p><space/>CHORAL II.<lb/>
+Nicolas ! Nicolas ! Nicolas !<lb/>
+<space/>Souviens-toi !<lb/>
+O sentinelle, guetteur aux yeux fermés,<lb/>
+Avant l’aurore, avant la rouge aurore,<lb/>
+Sauve-nous, suspends la colère !<lb/>
+Dans la nuit, vois notre misère !<lb/>
+Ecoute-nous, reviens à nous !<lb/>
+Ne cesse pas d’implorer Dieu pour nous !<lb/>
+</p>
+        <p rend="center">
+SCÈNE VII.<lb/>
+</p>
+        <p><space/>(Haimo atteint le plan 3.) <lb/>
+Haimo. — Frère Claus ! Frère Claus !<lb/>
+<space/>(La porte de la cellule s’ouvre. Dans la lumière<lb/>
+jaillie de l’intérieur, Nicolas se tient debout.) <lb/>
+Nicolas. — La paix soit avec toi, Haimo. Je<lb/>
+t’attendais.<lb/>
+<space/>Haimo. — Tu sais tout ?<lb/>
+Nicolas. — La guerre civile !<lb/>
+Haimo. — Si rien n’est fait avant l’aurore, frère<lb/>
+Claus, ce jour sera le dernier jour de notre Confédération.<lb/>
+Et les clochers sonneront jusqu’à toi<lb/>
+le tocsin de la guerre civile.<lb/>
+<space/>Nicolas. — Depuis sept ans je les avertissais.<lb/>
+Mais ils ne m’ont pas écouté.<lb/>
+<space/>Haimo. — C’est vrai…<lb/>
+Nicolas. — Je leur disais: Restez dans vos frontières,<lb/>
+si vous voulez garder vos libertés. Mais ils<lb/>
+ne m’ont pas écouté.<lb/>
+<space/>Haimo. — C’est vrai…<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page65">
+        
+        
+        <p><space/>Nicolas. — Et cette nuit, ils se préparent à la<lb/>
+guerre, non pour défendre leur patrie, mais pour<lb/>
+remplir leurs bourses d’or.<lb/>
+<space/>Haimo. — Tout cela est vrai, frère Claus. Mais<lb/>
+songe aux mères, à Dorothée, à tes enfants ! Toi<lb/>
+seul peux nous sauver par ton exhortation !<lb/>
+<space/>Nicolas. — Quand les chevaux de guerre sont<lb/>
+sellés, quand les hommes au sang jeune et violent<lb/>
+tendent la main vers les armes luisantes, il est<lb/>
+trop tard pour avertir. Vous n’avez plus besoin<lb/>
+de ma morale !<lb/>
+<space/>Haimo. — Toi seul peux nous sauver par un<lb/>
+conseil adroit !<lb/>
+<space/>Nicolas. — L’avidité de la puissance et des<lb/>
+richesses les rend fous. Que peut-on faire entendre<lb/>
+à des fous ?<lb/>
+<space/>Haimo. — Ils n’entendront plus la raison, mais<lb/>
+ta folie et ton miracle, frère Claus ! C’est la seule<lb/>
+voix qu’ils entendront ! Oh ! toi qu’ils jugeaient<lb/>
+fou, toi le saint et le seul, si tu descends, le<lb/>
+peuple entier te recevra !<lb/>
+<space/>Nicolas. — J’ai dit adieu au monde, pour toujours.<lb/>
+<lb/>
+<space/>Haimo. — Mais le monde angoissé te rappelle !<lb/>
+Nicolas. — Heureux l’homme qui trouve sa<lb/>
+paix dans le désert et la prière !<lb/>
+<space/>Haimo. — Heureux l’homme qui préfère à sa<lb/>
+paix le salut de tous ceux qui souffrent !<lb/>
+<space/>Nicolas. — Mon vœu me lie !<lb/>
+Haimo. — Quel vœu ?<lb/>
+Nicolas. — Mon vœu de solitude ! Mon salut !<lb/>
+Haimo. — O ! que Dieu même te délie !<lb/>
+</p>
+        <p rend="block">
+(Il s’agenouille. Silence.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page66">
+        
+        
+        <p><space/>RÉCITATIF.<lb/>
+(Chœur à bouche fermée.) <lb/>
+Parmi nous, peuple, parmi nous — parmi la<lb/>
+foule en lourd tumulte avant le jour — aveugle<lb/>
+proie de l’horreur désirée — prêtant l’oreille au<lb/>
+martelant galop du cheval roux de notre Apocalypse<lb/>
+— parmi nous, foule, parmi nous<lb/>
+<space/>Descends, clémente et pacificatrice — ô voix<lb/>
+pareille à la rosée ! — Viens te poser sur le cœur<lb/>
+de violence — apaise-nous, colombe en ce tumulte<lb/>
+— miraculeuse !<lb/>
+</p>
+        <p><space/>CHŒUR CÉLESTE.<lb/>
+Solitaire ! Solitaire !<lb/>
+Dieu te parle par nos voix.<lb/>
+De ta vie le grand mystère<lb/>
+Au matin s’éclaircira.<lb/>
+Pour ton peuple, ta patrie,<lb/>
+Sacrifie ton salut !<lb/>
+En Jésus livrant sa vie<lb/>
+Dieu lui-même est descendu !<lb/>
+Nicolas. — O dure nuit du dernier sacrifice !<lb/>
+Haimo ! Haimo !<lb/>
+<space/>Haijmo. — Qu’a dit la voix ?<lb/>
+Nicolas. — Dieu lui-même est descendu ! Mon<lb/>
+Seigneur s’est abaissé ! O Haimo ! j’ai tout quitté<lb/>
+pour vivre seul avec mon Dieu, tout près du ciel.<lb/>
+Et voici qu’il me faut maintenant quitter aussi<lb/>
+ma solitude et redescendre chez les hommes…<lb/>
+Ecoute-moi. C’est comme un effrayant blasphème…<lb/>
+C’est comme si Dieu lui-même m’avait dit: Nicolas,<lb/>
+sacrifie ton salut ! — J’obéirai, je descendrai.<lb/>
+<space/>(Il s’appuie sur Haimo, et tous deux, très<lb/>
+lentement, se mettent à descendre.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page67">
+        
+        
+        <p>
+5<lb/>
+</p>
+        <p><space/>SCÈNE VIII.<lb/>
+(Pendant la descente vers le plan 2.) <lb/>
+<space/>CHORAL I.<lb/>
+Il descend, Seigneur, il descend !<lb/>
+Lui, le saint, parmi nous descend !<lb/>
+Qui sauvera, drapeau de sang, ta croix,<lb/>
+Qui gardera notre alliance jurée !<lb/>
+O viens à nous dans la mêlée<lb/>
+N’oublie pas ton peuple ingrat !<lb/>
+Nicolas, reviens d’exil !<lb/>
+Soutiens-nous dans nos périls !<lb/>
+(La batterie de tambours reprend en sourdine<lb/>
+et se prolonge durant toute la scène.) <lb/>
+Nicolas (s’arrêtant). — Haimo, je ne puis plus<lb/>
+marcher ! Mes jambes plient !<lb/>
+<space/>(Il tombe à genoux.) <lb/>
+Haimo. — Au nom du ciel, efforce-toi, mon<lb/>
+frère ! Le temps fuit !<lb/>
+<space/>(Nicolas se relève, fait quelques pas. Sur le<lb/>
+plan 2, qui s’éclaire peu à peu, on voit<lb/>
+paraître des groupes de députés, des soldats,<lb/>
+les ambassadeurs.) <lb/>
+Nicolas. — Haimo, je ne puis plus…<lb/>
+<space/>(Il retombe.) <lb/>
+Haimo (penché vers Nicolas).— Vois là-bas ! Ils<lb/>
+se sont levés ! Tout s’apprête pour la guerre !<lb/>
+Soldats rangés, armes fourbies, regards de haine,<lb/>
+sans un mot ! Mon Dieu ! Mon Dieu ! Soutiens ton<lb/>
+serviteur !<lb/>
+<space/>(Chant des Compagnons, en sourdine.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page68">
+        
+        
+        <p><space/>Nicolas. — Ecoute-moi ! Je ne puis plus avancer.<lb/>
+Je vais te dicter un message pour les députés.<lb/>
+Ensuite tu me laisseras sur le bord du chemin.<lb/>
+Et tu courras leur crier: Paix ! Paix !… Viens près<lb/>
+de moi. Ecris ce que je dis !<lb/>
+<space/>(Haimo écrit sous la dictée de Nicolas pendant<lb/>
+qu’au plan 3 on entend un chœur.) <lb/>
+<space/>CHŒUR CÉLESTE.<lb/>
+Terre et cieux prêtez l’oreille<lb/>
+Au mystère de la paix.<lb/>
+Cœur angoissé, cœur qui veille<lb/>
+Ne cesse pas d’espérer !<lb/>
+Qu’il implore, qu’il supplie<lb/>
+Le Dieu de paix jusqu’au jour !<lb/>
+Tant qu’il parle, tant qu’il prie<lb/>
+O destin ! suspens ton cours !<lb/>
+Haimo. — J’ai tout écrit. Veux-tu signer ?<lb/>
+Nicolas. — Ce sont là de faibles paroles, si Dieu<lb/>
+lui-même ne les signe dans leurs cœurs ! Va, bon<lb/>
+frère, et hâte-toi !<lb/>
+<space/>Haimo. — Adieu !<lb/>
+<space/>(Il fait deux pas.) <lb/>
+Nicolas.— Haimo ! (Il ôte la corde qui tient sa<lb/>
+robe.) Voici ma signature ! (Il fait un nœud.) Appor-<lb/>
+te-leur ce nœud, afin qu’ils le dénouent !<lb/>
+<space/>Haimo (prenant la corde). — Un faible enfant<lb/>
+pourrait le dénouer !<lb/>
+<space/>Nicolas (avec peine). — L’homme le plus fort<lb/>
+ne pourrait pas le dénouer… et il faudrait alors<lb/>
+l’épée pour le trancher… si chacun tire par un<lb/>
+bout… de son côté…<lb/>
+<space/>(Haimo descend rapidement.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page69">
+        
+        
+        <p><space/>Nicolas. — Dieu ! Pardonne à ton serviteur !<lb/>
+Qu’ai-je fait ? Qui suis-je, moi, pour m’opposer à<lb/>
+l’œuvre juste de ta main, de ta vengeance !<lb/>
+<space/>Tu as raison quand tu nous damnes. Tu as<lb/>
+raison quand tu nous sauves. Tu as raison quand<lb/>
+tu nous jettes dans la guerre. Tu as raison quand<lb/>
+tu nous gardes dans la paix. Que ta volonté se<lb/>
+fasse !<lb/>
+</p>
+        <p><space/>SCÈNE IX. (Plan 2.) <lb/>
+Un député. — Les chevaux sont-ils sellés ?<lb/>
+Des voix. — Sellés !<lb/>
+Un ambassadeur. — Les bagages sont-ils chargés ?<lb/>
+Des voix. — Chargés !<lb/>
+Un compagnon. — Et vous, êtes-vous prêts à<lb/>
+me suivre ?<lb/>
+<space/>Les compagnons. — Nous sommes prêts !<lb/>
+Voix. — A la vie ! A la mort !<lb/>
+<space/>(Les deux groupes s’écartent à gauche et à<lb/>
+droite. Une trompette sonne le signal: début<lb/>
+des hostilités.) <lb/>
+Tous. — A la guerre !<lb/>
+Haimo (entre les deux groupes, isolés). — Halte !<lb/>
+(Tous se retournent vers lui.) Message de la part<lb/>
+du frère Claus !<lb/>
+<space/>Tous. — Halte ! Halte !<lb/>
+Haimo. — Députés des huit cantons, je vous<lb/>
+adjure de par Dieu ! vous assembler une dernière<lb/>
+fois !<lb/>
+<space/>Les compagnons. — Hou ! Hou ! Hou !<lb/>
+Les députés. — De par Dieu ! nous t’entendrons !<lb/>
+<space/>(Ils sortent avec Haimo. Les deux groupes<lb/>
+armés s’écartent à gauche et à droite. Le<lb/>
+plan 2 n’est plus occupé que par quelques<lb/>
+hommes et quelques femmes en petits groupes,<lb/>
+aux aguets.) <lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page70">
+        
+        
+        <p>
+SCÈNE X.<lb/>
+RÉCITATIF.<lb/>
+(Chœur à bouche fermée.) <lb/>
+Ecoute-moi, mon peuple, et je t’avertirai !<lb/>
+Dieu te parlait, mais toi tu suivis ton conseil.<lb/>
+Aux penchants de ton cœur alors il t’a livré.<lb/>
+Du vin de sa colère, abreuvé, tu chancelles.<lb/>
+Les nations s’agitent, les royaumes s’ébranlent<lb/>
+L’Eternel a tonné, la terre s’épouvante !<lb/>
+<space/>(Nuit, éclairs, bruits d’armes.) <lb/>
+(Le chœur continue à chanter sourdement, à<lb/>
+bouche fermée. Les assistants, sur la place,<lb/>
+se sont tournés vers les coulisses où se<lb/>
+tient le conseil, et cherchent à voir ou à<lb/>
+entendre ce qui se passe.) <lb/>
+Voix. — Que disent-ils ? — Entendez-vous ? —<lb/>
+Que font-ils ? — Les voyez-vous ?<lb/>
+<space/>Une voix de la coulisse. — Je les vois ! — Il<lb/>
+a lu le message ! — Je n’entends rien ! — Tous<lb/>
+ont baissé la tête !<lb/>
+<space/>Voix sur la place. — Ils ont entendu le message !<lb/>
+Ecoutez !<lb/>
+<space/>RÉCITATIF.<lb/>
+(Chœur à bouche fermée.) <lb/>
+Oh ! si mon peuple enfin renonçait aux idoles,<lb/>
+A l’or, à la puissance, aux funestes paroles,<lb/>
+Pour un instant de foi, Dieu le délivrerait,<lb/>
+En un instant de joie renaîtrait votre paix !<lb/>
+<space/>(La lumière éclate sur le plan 3, puis atteint<lb/>
+le plan 2. Le chœur s*est tu. L’orchestre<lb/>
+joue quelques mesures joyeuses et sereines.) <lb/>
+Voix sur la place. — Ecoutez ! Qu’ont-ils dit ?<lb/>
+Ecoutez !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page71">
+        
+        
+        <p><space/>Voix de la coulisse. — Je ne sais pas ! — Je<lb/>
+les vois qui se lèvent !<lb/>
+<space/>Voix sur la place. — Ils se lèvent !<lb/>
+Voix de la coulisse. — Ils se serrent les mains !<lb/>
+Ils s’embrassent !<lb/>
+<space/>Voix sur la place. — Ils se serrent les mains !<lb/>
+Ils s’embrassent !<lb/>
+Voix de la coulisse. — Les voici !<lb/>
+Voix sur la place. — Les voici qui viennent !<lb/>
+<space/>(La lumière grandit sur le plan 2, atteint le<lb/>
+plan 3. Appel de trompettes. Les députés<lb/>
+précédés par Haimo reparaissent et viennent<lb/>
+se ranger au centre de la place.) <lb/>
+Le président (lisant). — Au nom de la vénérable<lb/>
+Diète des huit cantons confédérés ! Considérant<lb/>
+tous les périls qui nous menacent à l’intérieur<lb/>
+comme au dehors de nos frontières, sur le<lb/>
+conseil de notre frère Claus inspiré par le Tout-<lb/>
+Puissant, nous avons décrété ce qui suit:<lb/>
+<space/>La ligue des villes est proclamée dissoute. Les<lb/>
+campagnes auront part équitable et juste au partage<lb/>
+du butin de Bourgogne. Toute alliance étrangère<lb/>
+est interdite soit aux cantons, soit aux partis,<lb/>
+et tout subside en nature ou argent, afin que nulle<lb/>
+jalousie ne vienne empoisonner les cœurs. Moyennant<lb/>
+quoi nous acceptons dans notre Confédération<lb/>
+les bonnes villes de Fribourg et de Soleure.<lb/>
+Les députés doivent emporter le souvenir de la<lb/>
+fidélité, des peines et travaux que le pieux homme,<lb/>
+frère Claus, s’est donnés en cette occasion. Qu’il<lb/>
+soit de leur devoir, partout et en tout lieu, de<lb/>
+célébrer notre reconnaissance et d’illustrer ce<lb/>
+mémorable exemple ! Séparons-nous dans la paix<lb/>
+et la joie !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page72">
+        
+        
+        <p>
+Les assistants de gauche. — Un pour tous !<lb/>
+Les assistants de droite. — Tous pour un !<lb/>
+<space/>(La cloche de l’ermitage tinte au plan 3. Puis<lb/>
+volée de cloches. Les enfants et Dorothée<lb/>
+viennent se ranger sur les marches conduisant<lb/>
+au plan 2. Nicolas est remonté lentement<lb/>
+au plan 3, et se tient debout, les bras<lb/>
+en croix, devant sa cellule.) <lb/>
+<space/>RÉCITATIF.<lb/>
+(Chœur à bouche fermée.) <lb/>
+Parmi nous, peuple, parmi nous, — toi maintenant<lb/>
+renais multipliée, — dans tous nos cœurs,<lb/>
+à tous échos, par mille cloches — ô joie du Pacificateur<lb/>
+ !<lb/>
+<space/>Du haut des Alpes, qu’elle est belle — la voix<lb/>
+de la sentinelle — qui nous avertit du salut !<lb/>
+<space/>Qu’ils sont beaux sur nos montagnes — les<lb/>
+pieds ailés du messager — qui vient publier la<lb/>
+paix !<lb/>
+<space/>(Au plan 2, un messager déplie un rouleau.) <lb/>
+Le messager. — Au frère Claus, de la part des<lb/>
+municipalités et conseils de Soleure et de Fribourg<lb/>
+:<lb/>
+<space/>Nous sommes avisés que, par la grâce du Dieu<lb/>
+Tout-Puissant ayant établi dans toute la Confédération<lb/>
+la paix, le calme et l’unité par ton conseil<lb/>
+et ton intervention, tu nous as fait à nous-mêmes<lb/>
+un tel bien que nous sommes fraternellement<lb/>
+associés dans une éternelle union à toute la Confédération.<lb/>
+De quoi nous rendons grâce à Dieu et<lb/>
+à toute la Cour céleste, ainsi qu’à toi dont l’amour<lb/>
+de la paix a opéré ces choses, priant Notre Seigneur<lb/>
+Jésus-Christ de t’en accorder récompense et<lb/>
+de nous établir dans la joie de l’éternelle félicité.<lb/>
+De tous soit dit bienheureux, Nicolas !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page73">
+        
+        
+        <p><space/>CHORAL II. (Plan 1.) <lb/>
+Bienheureux ! Bienheureux ! Bienheureux !<lb/>
+<space/>Nicolas !<lb/>
+O sentinelle, guetteur aux yeux fermés,<lb/>
+De ta patrie, reste le protecteur !<lb/>
+Nicolas, ô toi dont le nom<lb/>
+Signifie le Victorieux !<lb/>
+Toi seul par qui tous sont unis<lb/>
+A tout jamais sois nommé bienheureux !<lb/>
+CHŒUR DES ENFANTS ET DES SUISSES. (Plan 2.) <lb/>
+<space/>Non pas à nous, Seigneur,<lb/>
+Non pas à nous,<lb/>
+Mais à ton nom donne gloire.<lb/>
+<space/>CHŒUR CÉLESTE. (Plan 3.) <lb/>
+Gloria in excelsis Deo !<lb/>
+<space/>CHŒUR FINAL. (Tutti.) <lb/>
+Eclatez, éclatez en cris de joie !<lb/>
+Oui, tous, en chœur, levez-vous et chantez !<lb/>
+Dans la paix que notre Dieu nous envoie<lb/>
+Oui tous, encor, jubilez et riez !<lb/>
+Battez des mains, peuple, pour Nicolas,<lb/>
+Unissez-vous à l’éclat des fanfares<lb/>
+Vous tous au loin et quiconque entendra:<lb/>
+Louez la paix, mémorable victoire !<lb/>
+<space/>Alléluia ! Alléluia ! Alléluia !<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page74">
+        <p rend="center">
+Achevé d’imprimer le 15 août 1939<lb/>
+les presses de l’Imprimerie Centrale S. A.,<lb/>
+<space/>à Neuchâtel (Suisse).<lb/>
+</p>
+      </div>
+      <div type="page" xml:id="Page75">
+</div>
+      <div type="page" xml:id="Page76">
+</div>
+    </body>
+  </text>
+</TEI>
