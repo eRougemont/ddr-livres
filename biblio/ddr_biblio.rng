@@ -130,9 +130,11 @@
         <ref name="i"/>
         <ref name="sup"/>
         <ref name="ref"/>
-        <ref name="note"/>
       </choice>
     </oneOrMore>
+    <optional>
+      <ref name="note"/>
+    </optional>
   </define>
   <define name="note">
     <element name="note">
@@ -142,6 +144,7 @@
           <ref name="sup"/>
           <ref name="title"/>
           <ref name="i"/>
+          <ref name="ref"/>
         </choice>
       </oneOrMore>
     </element>

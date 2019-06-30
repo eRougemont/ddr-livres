@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2019-02-28T15:00:43+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« Les raisons d’être du Congrès », <hi rend="i">Preuves</hi>, Paris, n° 30-31, août-septembre 1953, p. 140-142</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : 	« Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>[Source numérisée]</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <!-- Date de création du texte -->
+        <date when="[AAAA-MM-JJ]"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <p><pb n="140" xml:id="p140"/> Notre tâche est une action mondiale pour la liberté de la culture, c’est-à-dire : pour la <hi rend="i">liberté</hi> dont la culture est une des principales conditions ; et pour la <hi rend="i">culture</hi>, dont la liberté est le résultat principal. Je rappellerai tout d’abord les quelques grandes étapes qui nous ont conduits jusqu’ici.</p>
+      <p>À Berlin, au début de la guerre de Corée, nous avons été dire un seul mot : Liberté ! et le sens de ce mot, ce sens que les plus grands philosophes n’ont pas réussi à épuiser, devint soudain très clair du seul fait qu’il était prononcé à portée de voix des tyrans.</p>
+      <p>À la suite du meeting mémorable de Berlin, nous <pb n="141" xml:id="p141"/> nous sommes organisés. Nous avons créé des secrétariats en Allemagne, en France, en Italie, en Grande-Bretagne, dans les deux Amériques, aux Indes et au Japon. Et le travail en profondeur a commencé.</p>
+      <p>À Paris, l’an dernier, notre Festival du <num>xx<hi rend="sup">e</hi></num> siècle montrait avec éclat la vitalité insurpassée des Arts dans le monde libre. « Voilà ce que peut produire la liberté ! » disait en somme ce Festival, et « voilà nos raisons de reprendre confiance dans une culture, que ceux qui en sont indignes, et qui le prouvent par là même, ont voulu qualifier de décadente ».</p>
+      <p>L’année prochaine, à Rome, une autre Conférence groupant les plus grands compositeurs modernes, avec leurs interprètes et leurs critiques, poursuivra cet effort dans le domaine des Arts.</p>
+      <p>Mais la Science ? nous a-t-on dit de tous côtés, qu’en faites-vous ? N’est-elle pas une partie <hi rend="i">décisive</hi> de la culture au sens moderne ? Certes, la question des rapports entre la science et la liberté a fait partie, dès le début, de notre programme. Nous nous sommes tournés vers la science. Nous l’avons fait pour deux grandes raisons, que je voudrais commenter brièvement.</p>
+      <p>Voici notre première raison :</p>
+      <p>
+        <hi rend="i">La science nous apparaît encore plus gravement menacée que les Arts par les régimes de tyrannie d’État.</hi>
+      </p>
+      <p>Il est facile de s’en convaincre. En Asie, dans l’Antiquité, chez les Aztèques, pendant la Renaissance, au <num>xvii<hi rend="sup">e</hi></num> siècle français, on a vu la peinture, la poésie, la musique et la danse prospérer sous toutes sortes de tyrannies, souvent en dépit d’elles, mais parfois à cause d’elles. Et aujourd’hui cela est possible encore. Certes, la peinture et la littérature sont tombées au plus bas en Russie soviétique ; mais le sort d’une ballerine de l’Opéra de Moscou est certainement plus enviable que celui d’un savant qui doit apprendre et professer la génétique selon Lyssenko, la linguistique selon Staline, ou l’histoire selon les prochains aveux de Beria !</p>
+      <p>Les arts peuvent, dans une certaine mesure, se jouer de la tyrannie ; la science moderne le peut de moins en moins. Pour des raisons pratiques d’abord, des raisons financières par exemple, mais aussi et surtout, parce que personne ne peut dire au savant : « Tu penseras, tu chercheras, tu découvriras jusqu’ici et pas plus loin ! » Personne ne peut lui dire cela sans tuer en lui l’élan intime de la recherche, qui est par essence une aventure dans l’inconnu.</p>
+      <p>Notre deuxième raison de nous tourner vers la science est encore plus évidente, et la voici :</p>
+      <p><hi rend="i">La civilisation occidentale est de plus en plus dominée, sinon par la science pure, du moins par l’idée que les peuples et leurs éducateurs se font de la science.</hi> De plus en plus, l’on accorde à cette dernière, au reste mal interprétée, toute l’autorité qu’on retire à la religion et aux morales en dérivant.</p>
+      <p>Cette situation est toute nouvelle dans l’histoire de l’humanité. Elle pose des problèmes difficiles, devant lesquels je souhaite que votre conférence ne recule pas. Je citerai deux de ces problèmes, qui d’ailleurs concernent moins l’essence même de la science que ses implications pour notre vie sociale.</p>
+      <p>Tout d’abord, la science est devenue aux yeux de l’homme moyen du <num>xx<hi rend="sup">e</hi></num> siècle une réalité étrangement ambivalente : à la fois systématique dans ses interprétations du réel et pourtant jamais achevée ; absolument contraignante pour l’esprit et pourtant créatrice de manières de penser nouvelles : typiquement européenne dans sa source et pourtant universelle dans ses conclusions ; modèle de certitude dans ses déductions, et pourtant née à chaque instant du doute le plus délibéré. Aventure suprême de l’esprit critique pour ses créateurs et cependant cause de superstition nouvelle pour les masses, la science « qui guérit et qui tue » joue-t-elle dans le monde présent en faveur de la liberté, ou contre elle ? Comment peut-on favoriser sa vraie mission libératrice ?</p>
+      <p>Ensuite, je vois le problème des applications de la science. Lorsque Einstein écrivit la célèbre équation de la relativité E = mc<hi rend="sup">2</hi>, pouvait-il prévoir que trente-neuf ans plus tard, sur la base de cette équation, une bombe nouvelle tuerait en une seconde plus de cent vingt mille Japonais ?</p>
+      <p>Il est inévitable que cet aspect essentiellement imprévisible, voire anarchique, des conséquences de la recherche scientifique fasse l’inquiétude et même l’angoisse du monde moderne. À cela s’ajoute le fait que les inventions techniques, qui sont les sous-produits de la science, aboutissent de nos jours à des applications accélérées presque immédiates. Il a fallu plus de trois siècles à l’imprimerie pour développer tous ses effets sociaux, car il a fallu attendre pour cela l’instruction publique et la grande presse. Mais prenez, de nos jours, une petite invention comme celle de la télévision ; en quelques années, en quelques mois, voici qu’elle menace de ruiner l’importante industrie du cinéma, et qu’elle bouleverse les conditions d’une campagne présidentielle aux États-Unis, avec tout ce que cela peut comporter de conséquences politiques à l’échelle mondiale.</p>
+      <p>Ainsi la Science, de plus en plus inquiète l’État, <pb n="142" xml:id="p142"/> réagit sur le jeu politique et tend à dominer la société. Mais alors la question se pose, inévitable : qui dominera la science ? Sera-ce l’État, l’idéologie du parti politique au pouvoir ? Sera-ce une sorte de sagesse nouvelle, encore à naître, qui imposerait une harmonie préétablie entre la science, la liberté, la spiritualité et le bonheur des masses ? Ou bien sommes-nous prêts à courir les risques de la liberté ?</p>
+      <p>Ces questions sont parmi les plus graves qui se posent à l’esprit moderne. Par une chance rare, elles sont aussi celles qui passionnent le grand public.</p>
+      <p>On comprend que le Congrès pour la Liberté de la Culture ait pris l’initiative de convoquer l’assemblée d’aujourd’hui. Son but est clair : montrer que la science ne peut servir la liberté qu’en demeurant elle-même libre dans sa recherche.</p>
+      <p>Il me reste à vous dire, en deux mots, pourquoi cette conférence se tient ici et non ailleurs.</p>
+      <p>La liberté dans la recherche et l’acceptation de ses risques supposent une belle confiance dans les pouvoirs de l’homme et dans l’issue de l’aventure humaine. Nous cherchions un lieu propice à cette atmosphère souhaitée. Et nous avons trouvé, dans cette Europe inquiète, une grande cité qui offrait l’exemple du dynamisme créateur — un étonnant pouvoir de relèvement, un modèle de reconstruction, une ouverture très large aux grands courants du monde, bref cet esprit de la Renaissance qui fut aussi celui de l’essor scientifique.</p>
+      <p>C’était votre cité libre et hanséatique, dont le génie nous semblait incarné par celui qui a la charge de l’administrer, ce grand <hi rend="i">Bürgermeister</hi> qui est aussi un grand <hi rend="i">Weltbürger</hi>.</p>
+      <p>Voilà pourquoi nous sommes ici. Merci !</p>
+    </body>
+  </text>
+</TEI>

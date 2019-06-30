@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
+<?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<!--Odette: 2019-02-28T15:00:43+01:00-->
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>« Sur la neutralité européenne », <hi rend="i">Preuves</hi>, Paris, n° 73, mars 1957, p. 49-51.</title>
+      </titleStmt>
+      <editionStmt>
+        <edition>OBVIL</edition>
+      </editionStmt>
+      <publicationStmt>
+        <publisher>Sorbonne Université, Labex OBVIL</publisher>
+        <availability status="restricted">
+          <licence target="http://creativecommons.org/licenses/by-nc-nd/3.0/fr/">
+            <p>Cette ressource électronique protégée par le code de la propriété intellectuelle sur les bases de données (L341-1) est mise à disposition de la communauté scientifique internationale par l’OBVIL, selon les termes de la licence Creative Commons : 	« Attribution - Pas d’Utilisation Commerciale - Pas de Modification 3.0 France (CCBY-NC-ND 3.0 FR) ».</p>
+            <p>Attribution : afin de référencer la source, toute utilisation ou publication dérivée de cette ressource électroniques comportera le nom de l’OBVIL et surtout l’adresse Internet de la ressource.</p>
+            <p>Pas d’Utilisation Commerciale : dans l’intérêt de la communauté scientifique, toute utilisation commerciale est interdite.</p>
+            <p>Pas de Modification : l’OBVIL s’engage à améliorer et à corriger cette ressource électronique, notamment en intégrant toutes les contributions extérieures, la diffusion de versions modifiées de cette ressource n’est pas souhaitable.</p>
+          </licence>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <bibl>[Source numérisée]</bibl>
+      </sourceDesc>
+    </fileDesc>
+    <profileDesc>
+      <creation>
+        <!-- Date de création du texte -->
+        <date when="[AAAA-MM-JJ]"/>
+      </creation>
+      <langUsage>
+        <language ident="fre"/>
+      </langUsage>
+    </profileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div subtype="level1">
+        <head><pb n="49" xml:id="p49"/> Pourquoi l’on en parle</head>
+        <p>La neutralité est une idée neuve en Europe. Elle semblait jusqu’ici réservée à la Suisse. Et voici qu’on en parle même en France. Que se passe-t-il donc ?</p>
+        <p>Dans la confusion générale, qui est celle où s’élaborent habituellement les notions vagues et puissantes, comme « neutralité » ou « Europe », essayons de repérer, à défaut de motifs clairs, quelques complexes de passions et d’intérêts, de phobies et de raisonnements, qui sont peut-être à l’origine du courant que je crois sentir vers la neutralité européenne.</p>
+        <p>Il y a d’abord le sentiment de notre impuissance, né de la crise de Suez et des votes à l’ONU. La conjonction USA-URSS, si brève qu’elle ait été, et comme accidentelle, a suffi pour nous faire entrevoir un péril jusqu’alors inconcevable : celui d’une paix conclue sur notre dos, au prix de nos libertés, de notre indépendance et de notre rôle dans l’histoire. L’idée de neutralité résulte ici de la conscience de notre faiblesse, du désir de rester nous-mêmes, et d’un obscur besoin de revanche : — Vous nous avez laissés tomber ? Bien. Faites sans nous !…</p>
+        <p>Il y a la crise du neutralisme, provoquée par le drame de Budapest. Qu’est-ce, en somme, que le neutralisme ? Le contraire, à peu près, de ce qu’il dit être. Une certaine manière de choisir entre l’URSS et les USA, <hi rend="i">comme si l’Europe n’existait pas</hi>. (Ou ne devait pas exister.) En effet, refuser de choisir entre un ennemi de l’Europe et un allié de l’Europe, mais refuser en même temps de faire l’Europe par crainte de déplaire aux Soviets et de plaire aux Américains, voilà qui revient en fait à supprimer l’Europe en tant que facteur indépendant, donc à choisir la politique de l’URSS. Celle-ci s’étant déshonorée, sans que les États-Unis s’honorent d’autant, une vraie neutralité devient concevable, aux yeux des rescapés du neutralisme.</p>
+        <p>Il y a enfin quelques motifs locaux, accidentels ou régionaux. Beaucoup d’Allemands de l’Ouest vous disent (mais peu le croient) que la neutralisation de leur pays faciliterait sa réunion avec les provinces occupées. Beaucoup de Suisses et de Suédois s’imaginent que leur neutralité les protégerait encore contre les Russes. Enfin, l’on a cru voir dans le geste de Nagy, proclamant (sans succès d’ailleurs) la neutralité de la Hongrie, l’indication d’une attitude qui serait commune aux actuels États satellites dès l’instant de leur libération. Ces arguments ne manquent pas d’être invoqués par ceux qui trouvent dans la neutralité un alibi décent de « l’apaisement » mal famé.</p>
+        <p>Plus obscur, ou peut-être refoulé, un motif d’un autre ordre hésite à se définir : c’est celui de certains « Européistes » qui se demandent si l’union nécessaire n’exigera pas un jour pour se réaliser, c’est-à-dire pour rallier d’un seul coup toutes les forces encore hésitantes, l’abandon de l’alliance atlantique…</p>
+        <p>Tels sont, sans doute, les faits récents, et les réactions à ces faits, qui expliquent pourquoi l’idée se répand d’une neutralité de l’Europe. Mais ceux qui en parlent sont les mêmes qui me disaient hier encore : « Qu’est-ce que l’Europe ? » À mon tour de leur demander ce qu’ils entendent par neutralité.</p>
+      </div>
+      <div subtype="level1">
+        <head><pb n="50" xml:id="p50"/> Divers abus dans la notion de neutralité</head>
+        <p>J’ai dit plus haut pourquoi le neutralisme est littéralement un mensonge. (Ses partisans, d’ailleurs, le savent aussi bien que moi.) Laissons donc ces mystères de la mauvaise conscience, et voyons le cas illustre d’une « conscience », le Premier Ministre Nehru.</p>
+        <p>Lorsque, à la Conférence de Colombo, les Cingalais demandèrent que la résolution condamne les menées communistes dans les pays libres d’Asie, Nehru dit oui, mais à la condition que fussent également condamnées les menées des anti-communistes — responsables sans doute de la guerre froide. C’était pour se déclarer neutre entre un parti mondial soutenu par un énorme État, et la poignée d’intellectuels indiens qui avaient le courage de dénoncer ce parti ; donc neutre entre une armée et un point de vue ; que dis-je, entre la maladie et le diagnostic ! Cette espèce-là de neutralité s’est traduite par les abstentions du délégué de l’Inde lors des votes de l’ONU sur le retrait des tanks de Budapest. Krishna Menon est resté neutre entre les criminels et les cris de leurs victimes.</p>
+        <p>On a vu ce jour-là que cette neutralité se réduit à la mauvaise foi. Mais s’agit-il vraiment de neutralité ? Guère plus que de paix dans le cas des Partisans de la Paix.</p>
+        <p>Le neutralisme et la neutralité à la Menon abusent du <hi rend="i">mot</hi>, non de la chose, dont ils se moquent. Il n’en va pas ainsi de la Suisse. Ce pays court le risque d’abuser d’une neutralité justifiée, et scrupuleusement pratiquée. Il en abuse lorsqu’il oublie les conditions historiques et concrètes de son statut de neutralité, et tend à faire de cette devise d’État tout autre chose que n’avaient prévu ses garants : une essence, une vertu ou une loi naturelle, comme indépendante de l’Histoire, c’est-à-dire le contraire d’une mesure politique.</p>
+        <p>La neutralité suisse date de 1815. Les traités de Vienne et de Paris la reconnaissent, « dans les vrais intérêts de l’Europe entière ». On conçoit qu’elle serve en même temps les intérêts d’un État composite, qui risquerait de se disloquer s’il prenait parti dans les luttes opposant des voisins immédiats comme les Suisses sont français, allemands ou italiens par leur langue, leur culture et leurs affinités, la guerre des autres serait leur guerre civile.</p>
+        <p>Qu’en est-il aujourd’hui ? Tout est changé. La notion d’équilibre européen a vécu. Les conflits qui menacent d’éclater ne peuvent plus opposer les voisins de la Suisse, mais l’Europe tout entière à ce qui n’est pas l’Europe. Si la Suisse, prétextant de sa neutralité, refusait de participer <hi rend="i">non plus aux luttes, mais à l’union de ses voisins</hi> ; si elle décidait de rester neutre non plus seulement dans le cadre européen de son statut, mais partout et en toute circonstance, d’une manière absolue, sans révision possible, la sage devise de sa neutralité, devenue tabou, la conduirait en pleine absurdité : la Suisse se dirait neutre entre l’Europe, dont elle est une partie centrale, et les ennemis de l’Europe entière ; neutre entre elle-même et ses ennemis ! Refusant de servir les intérêts, elle violerait son statut légal et l’esprit même de ses institutions. Au surplus, elle se suiciderait, d’une manière à vrai dire inédite : le suicide par sagesse indurée.</p>
+      </div>
+      <div subtype="level1">
+        <head>Le bon usage de la neutralité</head>
+        <p>Mais l’abus n’enlève pas l’usage, et le même exemple suisse peut illustrer les conditions concrètes d’une vraie neutralité.</p>
+        <p>Un État ou un groupe d’États peut avoir avantage à se déclarer neutre : 1°) s’il juge que la cause ou l’enjeu d’un conflit existant ou à prévoir n’intéresse pas directement sa souveraineté ou son intégrité territoriale (cas des trois dernières guerres franco-allemandes, en ce qui concernait la Suisse) 2°) s’il juge que des raisons vitales d’ordre intérieur lui interdisent de prendre parti militairement (l’union fédérale de la Suisse se serait disloquée en 1914, par exemple, les Romands tenant pour la France, les Alémaniques pour l’Allemagne ; mais non pas en 1939 : tous d’accord contre Hitler) ; 3°) s’il se réserve de jouer en marge du conflit un rôle humanitaire, ou d’offrir des possibilités de contacts aux deux parties (Croix-Rouge internationale, échange de prisonniers, négociations secrètes menées en Suisse en 1916-1917 et dès 1942) 4°) enfin, s’il a renoncé à tout esprit de conquête, parce qu’il est satisfait de son sort. Dans ce dernier cas, il se refuse à toute alliance militaire, craignant de se voir entraîné dans le jeu d’ambitions étrangères, au détriment de son indépendance. Il doit alors se mettre en mesure d’assurer tout seul sa défense.</p>
+        <p>Au total : une neutralité limitée au plan militaire, combinant les motifs d’intérêt propre et de solidarité humaine, et compensant le renoncement définitif à toute agression par la volonté inconditionnelle de se défendre. Quant aux opinions, elles restent libres (en principe). Les échanges économiques se poursuivent dans la mesure du possible avec les deux camps. On échappe, en cas de succès, aux destructions humaines et matérielles de la guerre, mais on dépense en temps de paix 40 % <pb n="51" xml:id="p51"/> de son budget national pour l’entretien d’une armée défensive.</p>
+        <p>Rien de glorieux dans tout cela, peu d’idéal, beaucoup de raison pratique et de prudents calculs. On aurait le plus grand tort d’y mêler de la morale. Car la neutralité n’est défendable qu’en tant que mesure politique, donc contingente et limitée. En tant qu’attitude générale, elle se situerait à peu près entre l’égoïsme cynique et l’indifférence de l’autruche.</p>
+      </div>
+      <div subtype="level1">
+        <head>Indépendance et neutralité</head>
+        <p>L’idée d’étendre à toute l’Europe une neutralité « à la Suisse » se nourrit à la fois du désir défaitiste de tirer son épingle du jeu, et d’un besoin plus fier d’indépendance.</p>
+        <p>Je ne sais qui a pu écrire que « seul un État neu<anchor xml:id="_GoBack"/>tre est vraiment indépendant » <note place="bottom"><seg rend="footnotecharacters"/> Cité par Henri Miéville, dans un remarquable article intitulé « Propos hétérodoxes sur la neutralité suisse », <hi rend="i">Présence</hi>, n° 3, 1956.</note>. Il est clair que l’inverse est vrai : seul un État vraiment indépendant pourrait être absolument neutre. Je n’en vois guère que deux qui soient dans ce cas. Quasiment autarciques, plus puissamment armés que l’ensemble des autres peuples, l’URSS et les USA pourraient se payer le luxe de se déclarer neutres et de se conduire comme tels. Mais, au fait, ne le sont-il pas ? Ils le sont, non par libre choix, mais parce qu’ils possèdent la Bombe H. Chacun d’eux se trouve devant l’autre dans la position qu’on nomme <hi rend="i">pat</hi>, « coup où l’un des joueurs n’ayant que son roi qu’il puisse jouer, et ne l’ayant pas en échec, ne peut le jouer sans se mettre en prise ». Littré ajoute, non sans sévérité : « Cette position témoigne chez l’adversaire d’une si grande maladresse qu’on le regarde comme ayant perdu la partie. » Voilà donc nos deux Grands neutralisés, tous deux perdants, faute de pouvoir jouer <note place="bottom"><seg rend="footnotecharacters"/> J’imagine qu’une situation de <hi rend="i">double pat</hi> ne saurait se produire aux échecs sans l’aide de Lewis Carroll.</note>. Ce serait fort bien s’ils étaient seuls, s’il n’y avait plus sur l’échiquier que les deux rois, dès lors invulnérables l’un à l’autre. Mais en fait il y a d’autres pièces, et quelques pions, moyennes ou petites nations de l’Europe ou de l’Orient. On peut encore les manœuvrer sans bouger ces rois impossibles, paralysés par leur puissance. Et voilà Suez et Budapest. Et voilà, dans ce jeu carrollien, la révolte grondant chez les pions et chez les fous. Nous ne voulons plus servir au jeu des Grands, disent-ils, ils sont capables de nous laisser prendre par simple peur de s’affronter.</p>
+        <p>Il faudra réfléchir, pendant les semaines qui viennent, aux suites possibles ou non de ce jeu délirant. Il s’agirait en somme d’imaginer les règles d’une partie d’échecs à trois rois. C’est à quoi nous contraint le problème d’une neutralité de l’Europe.s</p>
+      </div>
+    </body>
+  </text>
+</TEI>
