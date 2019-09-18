@@ -22,14 +22,9 @@ XML TEI allégé, par exemple pièce de théâtre sans didascalies, ou critique 
         <tr>
           <th>id</th>
           <th>Année</th>
-          <th>Type</th>
-          <th>Rééditions</th>
-          <th>Traductions</th>
-          <th>Titre</th>
           <th>Journal</th>
-          <th>URL</th>
-          <th>Référence</th>
-          <th>Note</th>
+          <th>Titre</th>
+          <th>Type</th>
         </tr>
       </thead>
       <tbody>
@@ -45,11 +40,18 @@ XML TEI allégé, par exemple pièce de théâtre sans didascalies, ou critique 
     <xsl:variable name="children" select="not(../@type)"/>
     <tr>
       <td>
-        <xsl:value-of select="$id"/>
+        <xsl:value-of select="substring-before(concat($id, '_'), '_')"/>
       </td>
       <td>
-        <xsl:value-of select="substring($id, 5, 4)"/>
+        <xsl:value-of select="substring($id, 4, 4)"/>
       </td>
+      <td>
+        <xsl:value-of select="tei:title[@level='j'][1]"/>
+      </td>
+      <td>
+        <xsl:value-of select="tei:title[1]"/>
+      </td>
+      
       <td>
         <xsl:choose>
           <xsl:when test="not($children)">
@@ -63,11 +65,16 @@ XML TEI allégé, par exemple pièce de théâtre sans didascalies, ou critique 
           </xsl:otherwise>
         </xsl:choose>
       </td>
+      <!-- Rééditions -->
+      <!--
       <td>
         <xsl:if test="$children">
           <xsl:value-of select="count(../tei:listBibl//tei:bibl)"/>
         </xsl:if>
       </td>
+      -->
+      <!-- traductions -->
+      <!--
       <td>
         <xsl:if test="$children">
           <xsl:variable name="n">
@@ -78,13 +85,8 @@ XML TEI allégé, par exemple pièce de théâtre sans didascalies, ou critique 
           </xsl:if>
         </xsl:if>
       </td>
-      
-      <td>
-        <xsl:value-of select="tei:title[1]"/>
-      </td>
-      <td>
-        <xsl:value-of select="tei:title[@level='j'][1]"/>
-      </td>
+      -->
+      <!--
       <td>
         <xsl:value-of select="tei:ref/@target"/>
       </td>
@@ -97,6 +99,7 @@ XML TEI allégé, par exemple pièce de théâtre sans didascalies, ou critique 
       <td>
         <xsl:value-of select="tei:note"/>
       </td>
+      -->
     </tr>
     <xsl:value-of select="$lf"/>
   </xsl:template>
