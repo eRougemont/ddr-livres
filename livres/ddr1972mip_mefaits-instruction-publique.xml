@@ -6,13 +6,16 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Denis de Rougemont, <hi rend="i">Les Méfaits de l’instruction publique</hi> (1929), aggravé d’une <hi rend="i">Suite des méfaits</hi>, Lausanne, Eureka, 1972.</title>
+        <title><hi rend="i">Les Méfaits de l’instruction publique</hi> (1929), aggravé d’une <hi rend="i">Suite des méfaits</hi></title>
+        <author>Denis de Rougemont</author>
       </titleStmt>
       <editionStmt/>
       <publicationStmt>
         <availability status="restricted"/>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl>Denis de Rougemont, <hi rend="i">Les Méfaits de l’instruction publique</hi> (1929), aggravé d’une <hi rend="i">Suite des méfaits</hi>, Lausanne, Eureka, 1972.</bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation/>

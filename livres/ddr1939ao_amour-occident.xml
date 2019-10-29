@@ -5,13 +5,15 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>L'Amour et l'occident</title>
+        <title>L'Amour et l'Occident</title>
       </titleStmt>
       <editionStmt/>
       <publicationStmt>
         <availability status="restricted"/>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><title>L'Amour et l’Occident</title>, Paris, Plon, 1939, III, 356 p., coll. Présences.</bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation/>
