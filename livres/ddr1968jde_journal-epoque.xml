@@ -2,17 +2,19 @@
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <!--Odette: 2018-01-31T16:39:58+01:00-->
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xml:id="ddr1968jde" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><hi rend="i">Journal d’une Époque (1926-1946)</hi>, Paris, Gallimard, 1968</title>
+        <author>Rougemont</author>
       </titleStmt>
       <editionStmt/>
       <publicationStmt>
         <availability status="restricted"/>
       </publicationStmt>
-      <sourceDesc/>
+      <sourceDesc>
+        <bibl><hi rend="i">Journal d’une Époque (1926-1946)</hi>, Paris, Gallimard, 1968.</bibl>
+      </sourceDesc>
     </fileDesc>
     <profileDesc>
       <creation/>
@@ -23,7 +25,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="chapter">
         <pb n="7" xml:id="p7"/>
         <head> Préface</head>
         <p>Il arrive que la simple <hi rend="i">conjonction</hi> de certains éléments change leur nature.</p>
@@ -56,12 +58,11 @@
           <hi rend="i">à Ferney, le 5 mai 1967.</hi>
         </p>
         <p rend="right">D. de R.</p>
-        <p/>
       </div>
       <div>
         <pb n="11" xml:id="p11"/>
         <head> Le paysan du Danube</head>
-        <div>
+        <div type="chapter">
           <pb n="13" xml:id="p13"/>
           <head> I <lb/>Le sentiment de l’Europe centrale</head>
           <div>
@@ -117,10 +118,9 @@
             <p rend="right">
               <hi rend="i">Chevreuse, 1932.</hi>
             </p>
-            <p/>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="21" xml:id="p21"/>
           <head> II <lb/>Châteaux en prusse</head>
           <p>Au loin passaient des voiles claires parmi les blés violents. Des bois de pins s’approchaient, s’écartaient, livrant passage à la chaussée impériale dont brillaient les grandes portées blanches sur les ondulations sablonneuses de la plaine. Des prairies doucement soulevées s’arrêtaient au bord du ciel, devant la lumière maritime ; puis cédaient de l’épaule et l’on voyait le golfe violacé écumer sous la masse du soleil. Une lisière qui nous accompagnait vira largement, nous fit front, et il n’y eut plus qu’une piste de terre entre les sapins noirs, la rumeur du rivage et du soleil derrière nous décroissant, tumulte d’un matin d’été. Maintenant une odeur fine de benzine traverse les odeurs de la forêt, et le moteur halète au ralenti, dans la fraîcheur sobre. L’on s’éveille enfin du long voyage nocturne, les yeux cessent de cligner, le corps se détend. Là devant, un chauffeur immobile guette les ornières profondes où les roues s’enfoncent parfois avec un cahot mou. Le silence grandit ; cris de pics, vibration basse des cylindres. On voit paraître de plus hauts arbres et bientôt un vaste portail, aux piles couronnées de grands cerfs de bronze. La piste se fait plane, la forêt s’ordonne. Échappée sur des étangs couverts de mousse jaune. (Tout à fait réveillé et attentif, maintenant.) Jardin anglais. Soudain, des pelouses filent à gauche et à droite entre des hêtres rouges, piquées au loin de massifs éclatants, le gravier d’une allée fait son bruit luxueux, tout s’éclaire : cent fenêtres dans une façade de grès Louis XV. Nous la longeons, nous montons une rampe pavée qui s’engage sous un porche couvert aux colonnes enguirlandées <pb n="22" xml:id="p22"/> de roses. Toute une famille de géants, debout sur un seuil solennel, me regarde piquer du nez à l’arrêt brusque.</p>
@@ -180,10 +180,9 @@
               <hi rend="i">1926.</hi>
             </p>
             <p>En 1945, <hi rend="i">tous</hi> les chateaux de la Prusse-Orientale out été rasés par les Russes, sous prétexte de communisme. Personne n’a dénoncé le crime, personne n’en ayant profité. <hi rend="i">(Note de 1967.)</hi></p>
-            <p/>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="31" xml:id="p31"/>
           <head> III <lb/>Une « tasse de the » <note place="bottom">C’est ce que portait l’invitation au bal chez le célèbre banquier Castiglioni.</note> au palais c…</head>
           <epigraph>
@@ -214,9 +213,8 @@
           <p rend="right">
             <hi rend="i">Vienne, 1928.</hi>
           </p>
-          <p/>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="37" xml:id="p37"/>
           <head> IV <lb/>Voyage en Hongrie</head>
           <p rend="right">
@@ -378,10 +376,9 @@
             <p rend="right">
               <hi rend="i">1929.</hi>
             </p>
-            <p/>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="60" xml:id="p60"/>
           <head> V <lb/>Le balcon sur l’eau</head>
           <p>Tu es appuyée debout contre moi, et nous regardons à nos pieds l’eau vivante. La brume est proche. Une haute muraille derrière nous ferme le monde. Tu ne trembles pas, tu t’appuies. Nos reflets ondulent très peu, gris sur le blanc doucement luisant de la surface ; mais le silence a des vagues profondes.</p>
@@ -391,9 +388,8 @@
           <p rend="right">
             <hi rend="i">Bogliaco, lac de Garde, 1928.</hi>
           </p>
-          <p/>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="61" xml:id="p61"/>
           <head> VI <lb/>La tour de Hölderlin</head>
           <p>« Je lui ai raconté qu’il habite une chaumière au bord d’un ruisseau, qu’il dort les portes ouvertes, et pendant des heures récite des odes grecques au murmure de l’eau ; la princesse de Homburg lui a fait cadeau d’un piano dont il a coupé les cordes, mais pas toutes, en sorte que plusieurs touches sonnent encore, et c’est là-dessus qu’il improvise, oh ! j’aimerais tant aller là-bas, cette folie m’apparaît comme une chose si douce et si grande… <note place="bottom">Bettina von Arnim-Brentano : <hi rend="i">Die Günderode</hi>.</note> »</p>
@@ -419,7 +415,7 @@
             <hi rend="i">1929.</hi>
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="66" xml:id="p66"/>
           <head> VII <lb/>Petit journal de Souabe</head>
           <epigraph>
@@ -592,7 +588,7 @@
           </div>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <pb n="87" xml:id="p87"/>
         <head> Sur l’automne 1932 <lb/>ou la naissance du personnalisme</head>
         <p><pb n="89" xml:id="p89"/> Déclics irréguliers de la machine à poinçonner les fiches d’entrée, derrière la porte en verre bosselé qui bat pendant une dizaine de minutes, vers sept heures du matin, sans aucun rythme, à quelques mètres de mon rez-de-chaussée d’HBM, route de Clamart, Issy-les-Moulineaux. Je ne vois rien d’autre que cette porte qui bat en haut de quatre marches de ciment, et le flot des ouvriers pressés, précipités par la crainte d’être en retard. Déclics irréguliers de la perforation et de l’impression de l’heure et de la minute sur un ticket glissé dans une fente exacte : peu de chose pour l’oreille, mais moralement l’un des bruits les plus humiliants que l’homme ait inventés. Le fait même d’exister souffre ici. Tout ce que l’œil enregistre est laid, sol cimenté, mur gris, coin de ciel sombre, et quelques toits de pavillons minables au-dessus d’une enceinte de briques. Les couleurs du monde sont éteintes, courant coupé, musique interrompue. Je ne vois cela que les jours où je suis malade, angine ou grippe, et la gentille redoutable concierge fait irruption dans mon deux-pièces portant un bol énorme, et glapissant : « Un lait au miel avec du rhum ! Buvez-le pendant qu’il est chaud ! » Il faut que j’y passe. C’est trop chaud et c’est écœurant. Et ça recommence chaque matin. (Guérir aussi vite que possible.) Normalement, je suis à sept heures dans le bureau du directeur de l’imprimerie. Puis je prends ma place à une table dans un coin de l’atelier des correcteurs. Je suis chargé d’un service d’éditions que j’ai dû d’abord mettre sur pied. Je sais maintenant ce que signifient une « remise aux libraires » « un treize douze », une « justification ». J’ai appris <pb n="90" xml:id="p90"/> ces rudiments en allant questionner mine de rien des aînés qui sont de la partie, dans le triangle Montparnasse, Sorbonne, Saint-Germain-des-Prés. J’y vais en train, vingt-cinq minutes de Clamart à la gare Montparnasse, plus huit minutes à pied de la voûte d’entrée
@@ -713,12 +709,11 @@
         <p>Au début de l’été je me mariai, et au retour d’un bref voyage qui nous avait conduits à Port-Cros chez les Paulhan, je reçus coup sur coup un télégramme m’annonçant la mort de Dandieu à la suite d’une minime opération ; une lettre de Leo Ferrero me félicitant pour mon mariage, et j’avais lu la veille l’annonce de sa mort accidentelle à Santa-Fe, Nouveau-Mexique ; enfin un téléphone qui m’apprit que mon job était supprimé.</p>
         <p>La société qui m’employait depuis près de quatre ans déposa son bilan à la fin de l’été 1933. Une petite compagnie d’éditions devait lui survivre pour exploiter le fonds précieux des auteurs qu’elle avait traduits et introduits en France : Luther, Kierkegaard, Berdiaeff, Karl Barth et ses premiers disciples, à quoi s’ajoutaient plusieurs tomes de rapports importants du Conseil <pb n="110" xml:id="p110"/> œcuménique des Églises, origine d’un autre mouvement de fédération, qui lui aussi va s’épanouir après la guerre, et qui sera l’une des motivations de Vatican II.</p>
         <p>Chercher d’autres moyens de vivre à Paris ? Je ne l’essayai pas bien fort, à vrai dire. Je saisis l’occasion de plonger dans ma liberté, dans ses risques.</p>
-        <p/>
       </div>
       <div>
         <pb n="111" xml:id="p111"/>
         <head> Journal d’un intellectuel en chômage</head>
-        <div>
+        <div type="chapter">
           <pb n="113" xml:id="p113"/>
           <head> Préambule</head>
           <p>Une vague vient se jeter sur la bâche qui couvre l’avant du bateau, et de l’eau gicle sur nos visages glacés. « Tire le gramophone entre tes jambes, là, sous ton imperméable, que le cuir ne soit pas mouillé. (C’est qu’on nous l’a prêté, il faut le soigner…) Nous sortons du port, et tout de suite la mer est forte. Un éclair sur l’eau verte, un gros coup de vent : voilà nos compagnons de voyage, le médecin de l’île et trois représentants de commerce, qui se précipitent dans la cabine de la cale par une espèce de trappe. Nous restons seuls sur le pont, ma femme et moi, à entasser nos valises tant bien que mal à l’abri. Un autre éclair siffle et claque tout près. La tempête est venue brusquement avec l’aube. Depuis une heure nous battions la semelle sur les quais déserts de ce port fantomatique, sans ville derrière lui, vaguement américain et militaire, sous un ciel bas couleur d’acier où rien ne bougeait, et voilà tout d’un coup cet orage de novembre qui crible et bat les flots durant la courte traversée, puis s’apaise non moins subitement à l’instant où nous touchons l’île. La colère du détroit nous a salués ! J’accepte cet augure à double sens, certifiant la présence d’un destin.</p>
@@ -728,9 +723,8 @@
           <ab type="ornament">*</ab>
           <p>Je revois, je revis si bien cette traversée, cette tempête courte, brusquement dramatique, cette étrange coupure qu’elle a faite dans ma vie, entre les derniers jours passés à Paris non sans fièvre et cette arrivée au soleil dans une liberté naïve et nue, pauvre et joyeuse… Mais je sens bien qu’il me faut expliquer pourquoi nous venions dans cette île à la saison où il convient plutôt de la quitter quand on le peut.</p>
           <p>Si, par cette aube de novembre, sur les grands quais de ce port atlantique, j’en étais à considérer d’un œil brûlé par l’insomnie les flots de l’océan maussade et les pauvres rivages du détroit, c’est fort apparemment que je n’avais rien de mieux à faire. J’étais chômeur depuis trois mois. On m’offrait un abri quelque part, <pb n="115" xml:id="p115"/> une maison vide pendant l’hiver, une occasion de solitude désirée en secret dès longtemps. Je poudrais bien n’avoir pas l’air trop romantique : mes dernières années de Paris m’avaient appris que cette ville, au moins pour la jeunesse sans argent, est la ville des gérants ignobles et des concierges, des Lieux-sombres-et-populeux où il faut pénétrer l’âme basse et la petite enveloppe à la main. Tant d’autres disent : Allons-nous-en, et restent faute d’imagination. Et pourtant il suffit de bien peu pour partir : la France a des milliers de maisons vides. Dites autour de vous que vous en cherchez une, et vous en trouverez, pour rien, ou pas grand-chose. Encore faut-il savoir comment on y peut « vivre ». C’est à cette question judicieuse que j’ai voulu répondre par ce livre. Peut-être mon récit n’a-t-il pas d’autre but que de décrire un précédent, d’affirmer que cela peut se faire, que cela s’est fait, qu’il y a là un bonheur…</p>
-          <p/>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="117" xml:id="p117"/>
           <head> Première partie <lb/>N’habitez pas les villes !</head>
           <div>
@@ -1289,7 +1283,7 @@
             <p>Il ne se passe pas grand-chose dans ces pages, mais ce peu m’a suffi pendant des mois, et qui sait si plusieurs de mes semblables ne seraient pas contents de l’apprendre ? Ce n’est pas une nouvelle bouleversante, c’est même plutôt une sorte de secret que je donnerais là, une « recette pour vivre de peu »… Qui sait si beaucoup n’aimeraient pas qu’un homme se parle devant eux de ce qu’ils aiment ou voudraient aimer ? de cette vie attentive et sans intrigue, de cette « lenteur des choses » dont la moitié des hommes tire tout ce qu’elle a de contentement ? Je songe à ceux qui voudraient fuir les villes, et qui peut-être en me lisant, se diraient un instant que c’est possible…</p>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="199" xml:id="p199"/>
           <head> Deuxième partie <lb/>Pauvre province</head>
           <div>
@@ -1428,7 +1422,6 @@
             <head> 25 novembre 1934.</head>
             <p><hi rend="i">Culture</hi> de la bourgeoisie ? Vous montrez à une dame de cette classe des reproductions de Rembrandt, elle dira : « Ah ! oui, ces clairs-obscurs sont magnifiques (souvenir scolaire), mais comme ces gens sont laids, ridés, bossus, et n’ont-ils pas la figure trop large » ? (jugement spontané). Vous lui montrez des reproductions du plafond de la Sixtine, elle trouve cela « joli » ; et « Tiens, cette femme ressemble… à qui ressemble-t-elle donc ? ne dirait-on pas un peu Colette Durand. Mais oui tout à fait, c’est frappant ! Qu’est-ce que c’est ? » — La Sybile de Cumes… Cinq minutes après, cette dame s’indignera de la barbarie des bolcheviks et des nazis, opposés comme on sait à toute espèce de culture raffinée.</p>
             <p>(D’après nature : la dame sort d’ici. Les reproductions de la Sixtine sont épinglées au-dessus de ma table de travail.)</p>
-            <p/>
           </div>
           <div>
             <head>28 novembre 1934.</head>
@@ -1783,7 +1776,7 @@
             <p>— Demain, il faut remettre en place les aquarelles, les guéridons et les dessus de cheminée. Après-demain, nous partons. Nous fuyons.</p>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="265" xml:id="p265"/>
           <head> Troisième partie <lb/>L’été parisien</head>
           <div>
@@ -1897,7 +1890,7 @@
             </p>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="278" xml:id="p278"/>
           <head> Intermède</head>
           <p>… Mais jamais je n’ai vu Thivars, Thivars ne m’aura pas connu. Fin juillet, j’assistais à la naissance dans une clinique parisienne de mon fils Nicolas, je rentrais chez moi Porte d’Italie vers cinq heures du matin et je me couchais tremblant de fièvre. Quelques jours plus tard, à peu près guéri d’une angine prise en plein été très chaud, je vais voir Jean Paulhan qui m’assure que rien ne pouvait m’arriver de plus normal. À Madagascar, quand une femme doit accoucher, elle s’isole dans une case, parfois avec une aide, cependant que, vautré sur le sol d’une autre case, entouré par tous les voisins venus le plaindre et le réconforter, le mari se tord de douleur. « La femme a mal, dit-on, mais c’est l’homme qui souffre. »</p>
@@ -1918,7 +1911,7 @@
       <div>
         <pb n="281" xml:id="p281"/>
         <head> Journal d’Allemagne</head>
-        <div>
+        <div type="chapter">
           <pb n="283" xml:id="p283"/>
           <head> Avertissement</head>
           <p>Voici des notes qui, par leurs dates, prennent la suite du <hi rend="i">Journal d’un intellectuel en chômage.</hi> Mais il ne s’agit plus de chômage. L’auteur vit en Allemagne hitlérienne, et il y vit de son travail. (Des cours à l’Université d’une ville que l’on n’a pas jugé utile de nommer.)</p>
@@ -1928,7 +1921,7 @@
           <p>De même que le roman psychologique, centré sur des héros individuels, a traduit la réalité de l’époque qui prend fin sous nos yeux, il se peut que le journal privé soit la forme de transition qui corresponde à la réalité d’un temps nouveau : elle traduit les relations d’une personne avec les passions collectives. Demain peut-être, il n’y aura plus que des manifestes, des épopées de propagande. Je dédie cette brochure à ceux qui, dès maintenant, veulent et préparent un après-demain.</p>
           <p rend="right"><hi rend="i">Été 1938</hi><note place="end"><hi rend="i">JA</hi> (1938) : date non précisée.</note>.</p>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="285" xml:id="p285"/>
           <head> I Journal (1935-1936)</head>
           <div>
@@ -2293,7 +2286,7 @@
             <p>Je ne suis pas « contre » le fascisme des Allemands : ils en font leur affaire, et je n’en suis pas. Mais j’essaie de savoir ce qu’il est, pour le reconnaître ailleurs à sa naissance, là où il peut nous concerner ; là où si peu que ce soit dépend de notre effort, et de notre lucidité. Que sert de critiquer la « religion » des autres ? II vaut mieux croire d’une foi plus vraie, et le prouver. Les faux dieux font de faux miracles ; mais les sceptiques et les malins sont destinés à les prendre au sérieux. La foi seule nous délivrera des religions nées de la peur des hommes.</p>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="337" xml:id="p337"/>
           <head> II <lb/>Conclusions</head>
           <p><pb n="339" xml:id="p339"/> Deux années se sont écoulées depuis la fin de ce Journal. Je ne vois pas qu’elles aient rien apporté qui puisse motiver des retouches. Il est un point toutefois que certains événements se sont chargés de me rendre encore plus clair, et sur lequel je n’insisterai jamais assez : la nature religieuse de l’hitlérisme. Ce n’est plus une découverte, les journaux même en parlent aujourd’hui. Mais je crains qu’on n’en parle un peu vite, par image, par ouï-dire, ou par manière de dire. Il faut en parler sérieusement.</p>
@@ -2331,7 +2324,7 @@
             <hi rend="i">Été 1938.</hi>
           </p>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="346" xml:id="p346"/>
           <head> III <lb/>Post-scriptum 1939 <lb/>ou Conclusions à n’en plus finir <note place="bottom">Pages écrites en manière de postface aux traductions du <hi rend="i">Journal d’Allemagne</hi> en Hollande et en Argentine.</note></head>
           <div>
@@ -2422,7 +2415,7 @@
           </div>
         </div>
       </div>
-      <div>
+      <div type="chapter">
         <pb n="363" xml:id="p363"/>
         <head> Vers la guerre</head>
         <p><pb n="365" xml:id="p365"/> J’étais foncièrement convaincu — depuis le 11 mars 1936 — que l’explication religieuse du phénomène national-socialiste pouvait seule toucher le fond des choses. Toute tentative d’interprétation « purement politique », ou économiste, ou marxiste, me semblait condamnée à demeurer au niveau des hypothèses partielles et des attributions arbitraires du prédicat cause ou effet à des facteurs choisis en vertu de préjugés démagogiques ou scolastiques, sans grands rapports avec la réalité parfaitement scélérate mais bien vivante qu’il s’agissait maintenant de comprendre, car nous aurions sous peu à la subir. Je voyais venir le temps des monstres.</p>
@@ -2472,21 +2465,18 @@
           <p>Du moins a-t-elle eu cela de bon : les écrivains qui ont décidé tout récemment de renoncer à l’usage de leur pensée devant la menace hitlérienne (voir le manifeste de <hi rend="i">Ce Soir</hi>) ont exprimé en toute clarté qu’ils étaient de vrais libéraux, irresponsables nés, égarés pour un temps dans les voies de « l’engagement » politique, et faisant amende honorable. Ils étaient en rupture de bercail. Maintenant, tout est rentré dans l’ordre, les moutons se sont apaisés, et la situation s’éclaircit.</p>
           <p>Voici venir le temps des <hi rend="i">vrais</hi> dangers, c’est-à-dire des vrais <hi rend="i">luttes</hi> et des vrais engagements.</p>
         </quote>
-        <p/>
       </div>
       <div>
         <pb n="375" xml:id="p375"/>
         <head> Journal des deux mondes</head>
-        <p/>
-        <div>
+        <div type="chapter">
           <pb n="377" xml:id="p377"/>
           <head> Avertissement</head>
           <p>Le <hi rend="i">Journal d’un intellectuel en chômage</hi> décrivait la France de l’entre-deux-guerres. Le <hi rend="i">Journal d’Allemagne</hi> montrait l’hitlérisme dressé contre elle et contre toute l’Europe. Ce troisième récit qui se passe surtout en Suisse et en Amérique pendant la guerre, mais aussi dans d’autres pays — Hollande, Portugal, Argentine —, a pour véritable sujet non plus une nation, un régime, mais le désordre de l’époque, vu de près.</p>
           <p>Pas plus que les deux précédents, ce journal n’est vraiment « intime ». (Il m’arrive d’en tenir de ce genre, mais je les garde pour mon seul usage.) Dans toutes les notes et réflexions que j’ai écrites pendant sept ans — et dont un certain nombre ont paru à leur date, réagissant à l’événement — j’ai fait un choix, éliminant la confidence et ne gardant en général que les fragments que j’estimais significatifs de l’époque. Si pourtant j’ai pris soin <note place="end">« Si j’ai cependant pris soin… » dans G48.</note> d’indiquer çà et là, par de brèves allusions tout au moins, certaines circonstances privées, c’est qu’il est parfois important de situer le sujet qui décrit par rapport aux objets de sa description, ne fût-ce que pour donner une clef de correction <note place="end">« Car selon que ce sujet se trouvera plus ou moins engagé dans la vie d’une nation, plus ou moins compromis ou façonné par une condition sociale ou un métier, il est clair qu’il jugera différemment, et donc verra d’autres réalités qu’un touriste qui se croit objectif, ou que l’habitant sédentaire du pays. » Supprimé dans G68.</note>. La ligne d’horizon dépend à chaque instant de l’endroit où nous nous tenons, elle se déplace et change, et l’on peut dire que nous la portons avec nous. Ainsi de la plupart de nos observations sur les faits réputés objectifs. Et c’est pourquoi l’effort de discrétion de l’auteur le plus décidé à ne jamais parler de soi <note place="end">« …de lui… » dans G48.</note> se voit déjoué par les descriptions mêmes qu’il nous propose, et qui ne sont que les rébus de ce qu’il s’imaginait taire ou dissimuler. Finalement, quoi qu’on dise on dit tout, si le lecteur a l’oreille fine. Il ne reste donc plus qu’à distraire <pb n="378" xml:id="p378"/> ce lecteur, à orienter son attention vers des objets que l’on suppose plus dignes de retenir son intérêt : coutumes, anecdotes et paysages. Et c’est ce que l’on trouvera dans ce nouveau recueil de notes sur <hi rend="i"
               >l’existence</hi> de mon temps, — celle dont l’Histoire ne parlera pas, la plus réelle.</p>
-          <p/>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="379" xml:id="p379"/>
           <head> Le bon vieux temps présent</head>
           <div>
@@ -2499,10 +2489,9 @@
             <p><pb n="380" xml:id="p380"/> Combien de temps encore, combien de semaines pourrons-nous goûter ce répit, et sentir que nous prolongeons une existence que nos fils appelleront douceur de vivre ? Déjà nous éprouvons que le monde a glissé dans une ère étrange et brutale, où ces formes de vie qui sont encore les nôtres ne peuvent plus apprivoiser le destin. Soit que les tyrans nous accablent, soit qu’un sursaut nous dresse à résister, il faudra changer le rythme et rectifier la tenue, bander tous les ressorts, mobiliser les cœurs… C’est le crime des dictatures : elles ne tuent pas la liberté dans les pays seulement où elles sévissent, mais aussi bien chez les voisins qu’elles secouent d’un défi grossier. La liberté ne peut survivre à de tels chocs. Car elle est vraiment comme un rêve, un rêve heureux où l’on circule avec aisance, gardant parfois l’arrière-conscience d’un miracle. Elle est encore une œuvre d’art qui n’agit que par l’atmosphère, par le charme qu’elle fait régner. Des lois adroites et humaines ne suffiront jamais à l’assurer : il y faut ce climat sentimental, cette espèce de naturel qui naît d’une entente tacite, d’une confiance, presque d’une insouciance…</p>
             <p>C’est tout cela que vient de mettre en question l’usurpateur du Hradschin. Et dès lors qu’il l’a mis en question et qu’il nous force au réalisme à sa manière, le charme est détruit dans nos vies. Nous sommes pareils à celui qui s’éveille et goûte encore quelques instants les délices d’un rêve inachevé. Mais il sait bien que c’est fini.</p>
             <p>Brève dispense, le temps d’un peu se souvenir… Il faut se lever. Il faut entrer résolument dans le grand jour du siècle mécanique, accepter pour un temps sa loi, en préservant, s’il se peut, dans nos cœurs, ce droit d’aimer, cette bonté humaine, plus inutile que jamais, dominatrice et bafouée.</p>
-            <p/>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="381" xml:id="p381"/>
           <head> Journal d’attente</head>
           <div>
@@ -2655,7 +2644,7 @@
             <p>Joie du temps retrouvé, dans l’instant d’un espoir qui fut pour moi la parabole salutaire ! Substance présente des choses espérées ! Qu’est-ce que la guerre, et qu’est-ce que cette crise, quand le seul terme redoutable est le Jugement qui nous délivrera ? Eh quoi ! suffisait-il d’y penser ? Non, mais d’y croire. « Si tu crois, tu vivras. »</p>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="395" xml:id="p395"/>
           <head> Intermède</head>
           <p>Le soir du 28 août 1939, je finissais de dîner dans un hôtel de La Chaux-de-Fonds, et comme je me préparais à gagner le Conservatoire pour y assister à une répétition des chœurs de <hi rend="i">Nicolas de Flue</hi> <note place="end"><hi rend="i">« À une répétition de mon drame</hi>, Nicolas de Flue<hi rend="i">, mis en musique par Arthur Honegger…</hi> » dans G48.</note>, la radio brusquement interrompit les conversations.</p>
@@ -2667,9 +2656,8 @@
           </quote>
           <p>Le directeur n’était pas satisfait de son ensemble. Une femme du chœur me dit : « C’est difficile de chanter ça ce soir. Les mots nous restent dans la gorge… »</p>
           <p>Le drame ne put être joué, la plupart des acteurs et des choristes ayant été mobilisés cinq jours plus tard, comme je le fus.</p>
-          <p/>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="397" xml:id="p397"/>
           <head> « Puisque je suis un militaire… »</head>
           <div>
@@ -2803,7 +2791,6 @@
             <ab type="ornament">*</ab>
             <p>Le 21 mars 1530, Manuel parut pour la dernière fois à la Diète de Baden. Du 1<hi rend="sup">er</hi> au 12 avril, il assiste chaque jour aux séances du Conseil de Berne. Le 16, on signale son absence <note place="end">« il est signalé comme absent » dans G48.</note>. Le 18, on le confirme dans sa charge de banneret. Le 20 avril, il n’est plus. « Pareil au cierge qui se consume d’autant plus vite qu’il a mieux éclairé, écrit un chroniqueur du temps, notre banneret Manuel apparut parmi nous comme un flambeau brûlant et éclatant. Survint alors la maladie qui nous l’arrache dans sa quarante-sixième année. »</p>
             <p>Le seul autoportrait qui subsiste de lui nous montre, à la fin de sa vie, un regard doux et perspicace, un visage aigu de malade, peint avec la véracité d’un homme qui sait exactement ce que vaut une vie d’homme devant Dieu.</p>
-            <p/>
           </div>
           <div>
             <head>9 mars 1940.</head>
@@ -2825,7 +2812,6 @@
             <head>Mars 1940.</head>
             <p>Entre le déclenchement précis des mécanismes de la catastrophe, et la catastrophe elle-même, un moment <hi rend="i">imprévu</hi> a pris place, et il s’étire interminablement depuis des mois. Tout est changé, la guerre est là, mais rien n’arrive. Et nous vivons dans le suspens. À moins que ce ne soit dans une chute prolongée, avant l’écrasement fatal ? De nouveau, cette attente épuisante…</p>
             <p>Je m’amuse à recopier des notes éparses dans mes carnets ou mes blocs militaires.</p>
-            <p/>
             <p rend="center">
               <hi rend="sc">anecdotes et aphorismes</hi>
             </p>
@@ -2910,7 +2896,6 @@
             <p>Il est sorti, me voyant incapable de rien dire de plus. Je suis resté immobile un long moment. Je n’avais pas grand-chose d’urgent à faire jusqu’à midi. J’ai écrit deux pages sur l’entrée <pb n="424" xml:id="p424"/> d’Hitler à Paris, les ai recopiées, et envoyées à la <hi rend="i">Gazette de Lausanne</hi>. « Voyez si les prescriptions de la censure vous permettent de publier cela. »</p>
             <p>Aujourd’hui, M. P…, qui est à la Censure, vient déjeuner. Je lui dis le contenu de mon article. Il pense que ça ne passera pas. Tant pis, j’ai fait ce qu’il fallait faire.</p>
             <p>Je recopie mon brouillon d’une page et demie.</p>
-            <p/>
             <p rend="center">
               <hi rend="sc">« à cette heure où paris… »</hi>
             </p>
@@ -3027,7 +3012,7 @@
             <p>Réunion du directoire de la Ligue à Zurich, dans une villa du Zürichberg. Tandis que nous nous dirigeons vers un café, à l’heure du déjeuner, sur une route presque campagnarde, entre deux murs, une voiture militaire ouverte ralentit le long de nos petits groupes. Un jeune lieutenant inconnu de moi saute à terre, fait quelques pas à mes côtés et me dit rapidement : « Soyez prudent. Quatre chefs de la Ligue dans l’armée viennent d’être arrêtés, sur l’ordre du colonel Labhardt, commandant l’unité d’armée de Sargans. Ils avaient essayé d’obtenir son appui pendant une partie de la nuit. Il leur a laissé croire qu’il marchait, et à six heures ce matin, les a fait boucler. » Le lieutenant remonte, la voiture s’éloigne. Demain, je suis convoqué au Palais fédéral. Est-ce vraiment pour y discuter une fois de plus ce voyage aux États-Unis ?</p>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="434" xml:id="p434"/>
           <head> Intermède</head>
           <p>Pour la Suisse, cet été-là, le péril militaire s’éloignait. Le Gothard était devenu plus qu’un symbole. Centre du <hi rend="i">Réduit national</hi>, il se dressait vraiment comme le bastion de l’Europe dont nous avions rêvé, sans oser croire que quelques mois plus tard il serait une réalité. L’opinion s’était ressaisie. Notre Ligue du Gothard, fondée sur l’idée simple d’organiser les volontés de résistance, voyait ainsi son premier objectif atteint. Elle s’orientait vers un programme plus vaste d’entraide sociale et de rénovation économique et politique. Elle avait au départ formé le noyau du premier mouvement de Résistance, au sens que ce mot devait prendre un peu plus tard dans les pays occupés par Hitler.</p>
@@ -3036,7 +3021,7 @@
           <p><pb n="435" xml:id="p435"/> L’armée démobilisait les deux tiers de ses effectifs. La Ligue s’engageait dans une phase où j’étais loin de me sentir indispensable. Je me voyais d’autre part pratiquement condamné à ne plus aborder en public que les sujets admis par la censure, et ce n’était, littéralement, pas beaucoup dire. Me taire ou ne parler que de notre belle nature me semblait également intolérable, tant qu’Hitler sévissait en Europe. Enfin, je pressentais que dans la lutte en cours, perdue sur notre continent, l’élément décisif allait venir et ne pouvait venir que d’Amérique. Peut-être bien était-ce là-bas qu’il me serait donné, quoique « neutre », de faire la guerre à ma façon, d’entrer dans le coup.</p>
           <p>Poussé dans le dos, attiré en avant, je me décidai donc à partir. Et certes les raisons qui m’animaient n’étaient point exactement celles qu’on eut alors au Palais fédéral pour favoriser mon voyage et me donner un passeport « de service ». Mais le fait est qu’elles jouèrent dans le même sens. Le 20 août, à sept heures du matin, je prenais la route de Lisbonne.</p>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="437" xml:id="p437"/>
           <head> La route de Lisbonne</head>
           <div>
@@ -3044,7 +3029,6 @@
             <p>La « route de Lisbonne » restera l’un des symboles les plus typiques de l’an de grâce 1940. « An de grâce rationnée », comme le remarquait un spirituel Anglais de mes amis. Pour combien d’hommes le billet du <hi rend="i">Clipper</hi> ou d’un petit paquebot américain n’est-il pas le dernier coupon de cette carte de bonheur que tous croient mériter ? Mais le <hi rend="i">Clipper</hi> et les paquebots ne partent plus que d’un seul port européen. Et pour l’atteindre, il n’est plus qu’une seule voie : celle qui sortant de Genève par un étroit goulet entre les postes d’occupation allemands et la Savoie où sont les Italiens, passe par le Midi de la France, s’infiltre à grand-peine en Espagne, manque vingt fois de s’y perdre, et n’atteint finalement Lisbonne qu’en vertu, semble-t-il, d’un étrange caprice, ou d’une négligence ironique des dieux policiers de l’Europe. Comme il serait facile de pincer, n’importe où, cette mince artère par où notre vieux monde se vide peu à peu de son élite en même temps que de ses parasites ! (Une élite qui se sent de trop, des parasites acharnés à survivre…) On serait tenté de penser que cette sorte d’omission fait partie d’un plan général qui ne relève pas précisément de la philanthropie. Mais peut-être est-ce trop d’optimisme que de supposer qu’un plan quelconque préside aux modifications du monde que nous commençons d’entrevoir.</p>
             <p>Route de Lisbonne, route de l’émigration et des gros chèques, des agents plus ou moins secrets, des milliardaires plus ou moins <pb n="438" xml:id="p438"/> aryens, des princes déchus, des journalistes compromis, des ingénieurs imperturbables et des femmes du monde éplorées, voici qu’à mon tour je m’y engage, inclassable une fois de plus, ni fuyard, ni riche, ni juif, ni businessman, ni détrôné, voyageur ordinaire d’une époque qui ne l’est point, mais qu’il m’importe de connaître <hi rend="i">de visu</hi>.</p>
           </div>
-
           <div>
             <head>Première journée.</head>
             <p>À six heures du matin, rue du Mont-Blanc, à Genève l’embarquement dans deux gros autocars rappelle les temps des diligences. Entassements de bagages et de plaids, voyageurs hétéroclites qui s’observent avant l’aventure, surprises du placement, retards, enfin départ en trombe à grands coups de corne à travers la ville endormie. Tous les fauteuils sont occupés dans notre voiture et point de couloir libre au milieu. Des bagages à main, des cartons à chapeaux et des enfants sur les genoux et entre les jambes des voyageurs : le roulement seul peut tasser tout cela et vous permettre après dix kilomètres d’extraire de votre poche une cigarette. Douanes suisse et française sans histoire : on s’en tire avec trois heures d’attente. Et voici la France dite libre.</p>
@@ -3146,10 +3130,9 @@
             <p>Interrogatoires en anglais. Comme dans les « rêves d’examen », où l’on se présente généralement tout nu et sans préparation. Reçu de justesse. Passez à l’épreuve suivante. Docile, j’ai repris ma place dans une queue silencieuse. Tous les yeux sont fixés sur cette table où nos passeports attendent, près des tampons sacrés. C’est bien <hi rend="i">le mien</hi> qu’il tâte et saisit sur la pile, d’une main apparemment distraite ? Qu’a-t-il donc de spécial, mon passeport, pour qu’il le considère avec cette méfiance-là ? Il hoche la tête, impénétrable. Évidemment, mon cas se présente mal. J’ai peut-être oublié l’essentiel… Il faudrait être fou, je le comprends enfin, pour croire qu’on puisse jamais se mettre en règle avant tant d’insondables exigences ! Eh bien, que vont-ils faire de moi, dans la pire éventualité ? Ils ne peuvent pourtant pas me jeter à la mer… Subitement, un coup de tampon, un bon sourire <hi rend="i">Thank you, Sir ! And good luck to you</hi> !</p>
             <p>C’est fini. Le monde s’ouvre et s’éclaire comme au sortir d’un cauchemar. Mais c’est aussi comme un premier réveil désorienté dans une chambre nouvelle. Je monte sur le pont et ne le reconnais pas, encombré de bagages, noirci d’humidité (il fait une chaleur de salle de bains) et les dimensions ont changé… Tout le monde regarde du même côté quelque chose que je distingue mal.</p>
             <p>Dans la brume épaisse, mais lumineuse, des ombres géo-métriques découpent l’espace aussi haut qu’on peut voir. Nous <pb n="450" xml:id="p450"/> défilons lentement près de leur base. Des pans de brique rosée, ocrée, légère, s’éclairent dans les profondeurs embuées, montent et fusent comme des orgues, de toutes parts. Et de nouveau la « sensation de reconnaissance » m’a saisi. Cette rumeur, cet élan vertical, cet élancement solennel, unanime, c’est New York identique à son rêve. Premiers accords d’une symphonie dont on savait les thèmes par cœur pour avoir étudié la partition, mais voici qu’on l’entend, c’est elle, combien plus vaste, chaleureuse et vibrante !</p>
-            <p/>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="451" xml:id="p451"/>
           <head> Premiers contacts avec le nouveau monde</head>
           <div>
@@ -3161,7 +3144,6 @@
             <p>À Chicago et à Saint-Louis au contraire, sur les plaines d’alluvions ou dans les marécages, les gratte-ciel, déjà, me dit-on, menacent de suivre l’inquiétant exemple de la tour de Pise.</p>
             <p>Bien des aspects physiques et moraux de la cité de Manhattan s’expliquent par ce sol et ce climat. Entre la Prairie proche et l’Océan, ce lieu d’extrême civilisation matérielle demeure hanté par on ne sait quelle sauvagerie des hauteurs ; et ce lieu d’extrême densité humaine demeure baigné dans une atmosphère irrémédiablement désertique. Les Américains des plaines de l’Ouest, venant à New York, ont coutume de se plaindre de l’inhumanité que revêtent ici les rapports quotidiens. Ils pensent, dans leur ignorance, que c’est une ville « trop européenne »… Mais moi je m’y sens contemporain de la <hi rend="i">préhistoire</hi> de quelque avenir démesuré.</p>
           </div>
-
           <div>
             <head>Princeton (New Jersey), mi-octobre 1940.</head>
             <p>Au long d’un quai souterrain, après avoir traversé les parvis populeux surmontés d’une coupole astronomique de la gare de Pennsylvanie, j’ai pris mon premier train américain. Comme tout le monde, j’ai glissé mon billet dans le ruban de mon chapeau, où le contrôleur l’a pris et replacé sans me déranger dans la lecture de mon journal. Il n’y a que deux classes en Amérique : l’une où les fauteuils au dossier très haut sont fixes (deux de chaque côté du couloir central), l’autre où les fauteuils <pb n="453" xml:id="p453"/> sont espacés et pivotent ; classe de luxe et classe de grand luxe, <hi rend="i">coaches</hi> et <hi rend="i">pullman cars</hi>. J’ai pris un <hi rend="i">coach</hi>. Je me suis enfoncé dans le velours bleu sombre, et j’ai regardé mes voisins, car nous roulions dans un tunnel. Dans l’ensemble, les femmes m’ont paru dignes de ce que le cinéma nous en promet — mais il suffit de trois ou quatre beautés saines ou frappantes sur cinquante femmes qu’on ne remarque pas, pour qu’on s’écrie : « Comme elles sont belles dans ce pays ! » Quant aux hommes, nègres exceptés, je leur trouve des visages plutôt informes, mal finis. On dirait qu’on les a livrés un peu trop vite à la circulation, comme ces autos de série, larges et confortables, mais dont il est prudent de vérifier si toutes les pièces tiennent bien ensemble…</p>
@@ -3404,10 +3386,9 @@
           <div>
             <head>17 juillet 1941.</head>
             <p>Je pars demain pour l’Argentine, où je donnerai douze conférences. Débâcle russe. Absurdité du siècle. Toutes les causes collectives en déroute, démocratie, justice, liberté, leurs majuscules et leurs réalités. Voilà qui donne à l’aventure individuelle un prix nouveau. — Très peu, je crois, sont prêts à le payer.</p>
-            <p/>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="477" xml:id="p477"/>
           <head> Voyage en Argentine</head>
           <div>
@@ -3542,10 +3523,9 @@
             <pb n="492" xml:id="p492"/>
             <head> 17 novembre 1941.</head>
             <p>Premières falaises de l’Hudson, au bas d’un ciel tout propre et dur, ô pureté de l’air nordique, exactitude du regard ! Dur est ce continent, et la vie qui m’y attend — je l’ai connue tout juste assez pour le savoir. Maintenant j’y entre pour de bon.</p>
-            <p/>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="493" xml:id="p493"/>
           <head> Intermède douanier</head>
           <p>Après avoir été interrogé pendant une heure par deux fonctionnaires avides de mes « impressions » d’Argentine, je suis libéré bon dernier, et je sors du bateau par une petite passerelle de service, la grande ayant été retirée.</p>
@@ -3560,9 +3540,8 @@
           <p>— Eh bien, vous savez ce que c’est que la philosophie, puisque vous me demandez quelle espèce. Vous savez ce que c’est que l’existence ? C’est de quoi je m’occupe.</p>
           <p>C’en est trop pour cet Irlandais. Il fait signe à trois agents « en bourgeois », qui s’approchent les mains dans les poches de leur pardessus beige, l’air fermé. Chacun de ces messieurs opère une prise au hasard dans mes manuscrits. Puis ils s’éloignent, tenant mes pages de toutes formes et couleurs entre deux doigts, feignant de les lire — probablement à l’envers, comme les jurés dans <hi rend="i">Alice au pays des merveilles</hi> — hochant la tête et crachant par terre. Le résultat de leur examen <pb n="494" xml:id="p494"/> m’est carrément défavorable. Ils m’emmènent dans une baraque de police où l’on appose des scellés sur ma valise. Ils m’annoncent qu’elle est confisquée. Quant à moi ils me relâchent mais ils m’auront à l’œil.</p>
           <p>Il m’a fallu dix jours, à raison d’un bureau par jour, pour rentrer en possession de mes conférences, lettres, journaux intimes, coupures de journaux, carnets d’adresses, manuscrits et livres. On m’a d’ailleurs rendu la valise <hi rend="i">scellée</hi>. Personne n’avait eu le temps de l’ouvrir.</p>
-          <p/>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="495" xml:id="p495"/>
           <head> Solitude et amitiés</head>
           <div>
@@ -3870,10 +3849,9 @@
           <div>
             <head>New York, 8 novembre 1942.</head>
             <p>Débarquement allié en Afrique du Nord. Nous n’avons pas quitté le bureau pendant une trentaine d’heures. Émotion d’être le premier à rédiger la nouvelle pour la France, à l’instant même où le GQG américain nous fait savoir qu’on peut y aller.</p>
-            <p/>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="523" xml:id="p523"/>
           <head> Intermède</head>
           <p>…mais sachez-le : nous n’étions pas absents de vous plus que de nous-mêmes. Vous étiez « occupés », nous étions en exil, et les uns comme les autres dans l’inaccepté, dans la dépossession profonde, dans une mise en question générale au pire moment, à l’heure de moindre résistance.</p>
@@ -3882,9 +3860,8 @@
           <p>Il vous a reçus d’abord et vous a proposé ses façons et usages qu’il convenait d’aimer. Bientôt, s’il voit que vous restez là, il change un peu : vous n’êtes plus l’invité mais un client, et qui devrait s’arranger pour payer. Et quand vous n’avez plus d’argent, c’est tout d’un coup le monsieur qui ne tient pas à ce que vous causiez des ennuis. Débrouillez-vous. Et puis, vous êtes trop nombreux, on ne peut pas s’occuper de chacun de vous.</p>
           <p>Et c’est bien vrai. Nous étions trop nombreux. En France, en Suisse aussi, avant la guerre, nous trouvions qu’il y avait trop de Juifs réfugiés. Des gens frappés par le malheur, où que ce soit, il y en a toujours <hi rend="i">trop</hi>.</p>
           <p>Cependant notre sort vous paraissait enviable, à juste titre. Les pires tourments de l’esprit et du cœur ont toujours paru préférables à la torture physique, ou même à sa menace. Autant dire qu’on les tient pour moins sérieux. Nous étions mal placés pour discuter cela, donc en somme pour défendre l’esprit, — qui était pourtant tout ce qu’il restait à défendre par nous, dans l’exil…</p>
-          <p/>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="525" xml:id="p525"/>
           <head> L’Amérique en guerre</head>
           <div>
@@ -3993,10 +3970,9 @@
             <p><hi rend="i">Intermède politique.</hi> — Situation du monde : le conflit militaire qu’a provoqué la crise mondiale masque cette crise, la simplifie abusivement en noir et blanc, nazis contre Démocraties. Il s’agit de bien autre chose, mais qui le voit ? J’ai peine à le voir, souvent. Pourtant, <hi rend="i">L’Ordre nouveau</hi> d’antan avait bien désigné l’État-Nation comme une psychose politique. Elle sévit aujourd’hui <hi rend="i">des deux côtés</hi>.</p>
             <p>Les Alliés occupent l’Afrique du Nord, débarquent en Sicile, en Italie… (On a censuré au bureau mes commentaires sur « le petit roi », et pas seulement à cause des célèbres dessins de Soglow dans le <hi rend="i">New Yorker</hi>, qui portent ce titre.) Les Russes avancent. Les autres vont se décider à faire quelque chose, moins pour aller au secours d’un allié en détresse que pour prévenir sa victoire. Il n’est pas dit que les Russes acceptent longtemps ce jeu. Ils ont eu 5 millions de tués et blessés. Les Américains ont formé une armée de 8 ou 9 millions dont au maximum 150 000 hommes combattent aujourd’hui, sur 2 millions envoyés <hi rend="i">overseas</hi>. Bien sûr, le gros de l’effort est donné dans le Pacifique, où ils ont été attaqués. Bien sûr, il serait <pb n="539" xml:id="p539"/> odieux de leur reprocher leur allergie aux balles européennes : ils ne sont pas du tout responsables de nos démences nationalistes. Mais les Russes ont le droit d’estimer qu’on se moque d’eux, et que les Américains font la guerre à leurs dépens, croyant pouvoir ainsi la gagner sans trop de pertes, tout en raflant les marchés mondiaux (flotte, avions de transport, industries neuves, etc.).</p>
             <p>Depuis quelques semaines, et à mesure que tout va mieux dans cette guerre, je me sens devenir curieusement étranger à ce qui se passe, et que je traduis en nouvelles ou commentaires. Comme si le vrai débat tragique avec Hitler était réglé et terminé, et qu’il ne restait plus qu’à en tirer des conséquences économiques et militaires sans intérêt spécial pour ceux de ma sorte. Cette guerre n’est-elle plus notre affaire ? Tout se passe comme si Hitler avait cessé d’être et d’agir en nous, Occidentaux, et n’était plus une tentation pour l’âme collective, mais une vilaine et pauvre bête à liquider, dont le sort est déjà décidé. Et le reste intéresse surtout nos grands États, nos grandes Nations. Ne ferais-je pas mieux de retourner à mon travail ?</p>
-            <p/>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="541" xml:id="p541"/>
           <head> Virginie</head>
           <div>
@@ -4089,7 +4065,7 @@
             <p>A. B. — On va vers une rationalisation de plus en plus folle. Pas de place pour ces monstres qui pourraient arranger bien des choses… Les forces obscures ne créeront rien, elles manquent de filières. Le rationalisme le plus fermé nous menace.</p>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="552" xml:id="p552"/>
           <head> Intermède : mémoire de l’Europe</head>
           <p>Je ne savais pas que tout était si près, là-bas. J’étais baigné. J’étais fondé. Et je marchais parmi les signes. Sédiments séculaires, socles de nos patries ! Monuments que l’on ne voit plus, mais qui renvoient l’écho familier de nos pas. Et ces rues qui tournaient doucement vers une place plantée d’arbres et déserte, aux rendez-vous manqués où je me retrouvais… « Je t’aime. J’aime ! »</p>
@@ -4099,7 +4075,7 @@
           <p>Quand je me souviens — c’est l’Europe.</p>
           <p>Parce que l’Europe est la mémoire du monde, parce qu’elle a su garder en vie tant de passé, et garder tant de morts dans la présence, elle ne cessera pas d’engendrer. Elle a maîtrise d’avenir.</p>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="553" xml:id="p553"/>
           <head> Le choc de la paix</head>
           <div>
@@ -4345,7 +4321,7 @@
             <p>Prenons-en donc notre parti. Sauf si l’on se borne à la géographie, ces entités ne souffrent pas la description. Il faudrait en savoir tant de choses qu’on n’oserait plus jamais en parler. C’est un peu comme une femme quand on l’aime : ce que les autres en disent est banal ou méchant, et prouve seulement qu’ils n’y ont rien compris. Personne n’a jamais vu réellement l’Amérique, sinon dans une inspiration lyrique, aussitôt ridiculisée par vingt petits faits précis, rebelles à toute formule. La seule grande découverte de ce siècle étant la Relativité — et toutes les autres en dépendent — il s’agirait de ne pas l’oublier à chaque instant. Je n’ai donc pas décrit l’Amérique telle qu’elle est, puisque c’est impossible par définition. Plongé en elle pendant plus de cinq ans, j’ai simplement noté des réactions locales, en prenant soin de situer l’observateur dans le temps, dans l’espace, et dans ses circonstances. (Encore ai-je tu les plus intimes.) Et si l’on me dit que ce journal offre un tableau fragmentaire et brisé, souvent contradictoire dans le détail, je répondrai que c’est un journal — et un journal des temps brisés.</p>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="581" xml:id="p581"/>
           <head> Journal d’un retour</head>
           <div>
@@ -4414,7 +4390,7 @@
             <p>« Messieurs, nous voici réunis pour célébrer une défaite victorieuse. On a parlé de funérailles. Il ne s’agit que d’un déménagement. Car l’idée d’une Ligue des Nations a survécu au déchaînement nationaliste. En attendant une vraie Ligue des Peuples, préparons-nous à de nombreux voyages. La SDN ressemble à l’ONU comme le négatif d’un cliché au positif que l’on va proposer à notre admiration. Elle tient ses dernières assises dans le pays qui lui offrait son modèle, mais qui est le seul encore, ou presque, à ne point faire partie de la ligue nouvelle. Les Deux Grands qui là-bas occupent la scène ne sont pas représentés dans cette enceinte. Nous laissons à la Suisse minuscule un gigantesque palais vide, pour nous ruer vers la grande Amérique où l’on ne trouve pas une chambre à louer pour plus d’une nuit. Paradoxe de la crise des logements ! Mais qu’importe. Notre idée se “développe” comme on le dit en photographie. Nous partons pour une Ligue meilleure. Et plus heureux que Moïse, nous nous sentons certains d’entrer dans l’ère de la Terre unifiée, qui était le but de nos travaux diserts. Nous y touchons, messieurs, vraiment — il ne s’en faut que d’un atome… »</p>
           </div>
         </div>
-        <div>
+        <div type="chapter">
           <pb n="591" xml:id="p591"/>
           <head> Le mauvais temps qui vient</head>
           <div>

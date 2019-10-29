@@ -2,8 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
 <?xml-model href="../../Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
+<TEI xml:id="ddr1972mip" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,11 +23,12 @@
   </teiHeader>
   <text>
     <body>
-      <div xml:id="_GoBack">
-        <head><pb n="7" xml:id="p7"/> Avant-propos</head>
+      <div type="chapter">
+        <pb n="7" xml:id="p7"/>
+        <head>Avant-propos</head>
         <p>Le dire une bonne fois.</p>
         <p>Il ne faut pas songer à décrire en 50 petites pages tous les méfaits de l’instruction publique. C’est à peine assez pour indiquer leur ordre de grandeur ; à quoi je me bornerai.</p>
-        <p>Il a paru sur le sujet de l’instruction publique deux petits livres <seg rend="footnotecharacters"><note place="bottom">Je ne puis naturellement pas mentionner tous les ouvrages scientifiques. Les meilleurs sortent de l’Institut Rousseau.</note></seg> excellents dont je considère les thèses comme acquises : <hi rend="i">L’Éloge de l’ignorance</hi>, de M. Abel Bonnard, et <hi rend="i">Le Pédagogue n’aime pas les enfants</hi>, d’Henri Roorda. Le premier montre que la science apprise à l’école appauvrit l’homme de tout ce que son ignorance respectait, et ne lui donne à la place que des laideurs et de la prétention. L’autre, avec l’ironie tranquille du bon sens bafoué et qui s’en moque, décrit la stupidité de l’enseignement tel qu’il est pratiqué dans nos collèges.</p>
+        <p>Il a paru sur le sujet de l’instruction publique deux petits livres <note place="bottom">Je ne puis naturellement pas mentionner tous les ouvrages scientifiques. Les meilleurs sortent de l’Institut Rousseau.</note> excellents dont je considère les thèses comme acquises : <hi rend="i">L’Éloge de l’ignorance</hi>, de M. Abel Bonnard, et <hi rend="i">Le Pédagogue n’aime pas les enfants</hi>, d’Henri Roorda. Le premier montre que la science apprise à l’école appauvrit l’homme de tout ce que son ignorance respectait, et ne lui donne à la place que des laideurs et de la prétention. L’autre, avec l’ironie tranquille du bon sens bafoué et qui s’en moque, décrit la stupidité de l’enseignement tel qu’il est pratiqué dans nos collèges.</p>
         <p>Mon dessein est assez différent, moins philosophique et point du tout technique. J’apporte un témoignage personnel, une réaction de tempérament. Je marque d’autre part la <hi rend="i">nécessité</hi> de tout cela qui me blesse, la liaison fatale avec la démocratie, de tout ce qui moleste ma liberté et sans doute celle <pb n="8" xml:id="p8"/> de beaucoup d’autres à qui forcément, je ressemble. Nous vivons sous un régime radical à sécrétion socialiste, qui a été établi par coup de force, que les libéraux ont admis, conformément à leurs maximes, et toléré malgré leur mauvaise humeur. Ce régime de punaises jaunâtres aboutit à l’instruction publique et grâce à elle prolonge abusivement sa terne existence. Je l’ai subi ; l’on va voir comment. De pareils souvenirs légitiment toutes les haines. Je serai méchant, parce que j’en ai gros sur le cœur.</p>
         <p>D’ailleurs, ce petit écrit ne peut servir à rien.</p>
         <p>— Alors ?</p>
@@ -51,13 +51,14 @@
         <p>Certains, en effet, tirent toute leur force dans les discussions de la tranquillité avec laquelle ils brouillent les faits et les principes. Tourmentés par les scrupules de leur conscience libérale, ils fuient la rigueur jusque dans leurs raisonnements. Pour moi qui cherche à démêler la vérité sans égards aux dérangements, même violents, que cela ne manque jamais de provoquer, je me propose de marquer ici la distinction classique du fait et du droit ; et c’est pourquoi je considérerai d’abord l’instruction publique dans ses réalisations actuelles, puis au terme de ce recensement lamentable, je poserai la question de savoir si tant de laideurs et d’outrages au bon sens peuvent être légitimés par le but final de notre institution-tabou.</p>
         <p/>
       </div>
-      <div>
-        <head><pb n="12" xml:id="p12"/> 1. Mes prisons</head>
+      <div type="chapter">
+        <pb n="12" xml:id="p12"/>
+        <head>1. Mes prisons</head>
         <p>Il existe des gens qui s’attendrissent sur leurs souvenirs de classe. C’est qu’ils les confondent avec ceux de leur enfance et les font indûment participer de la même grâce. Voyez Péguy, quand il essaye de nous faire croire qu’ « il n’y a rien au-dessus » de la tâche des instituteurs :</p>
         <p>« Faire de ces belles analyses logiques, et grammaticales, où tout retombait droit… Et de ces beaux problèmes d’arithmétique où il fallait si soigneusement séparer les calculs du <hi rend="i">raisonnement</hi>, par une barre verticale, et où il y avait toujours des robinets qui coulaient pour remplir ou vider un bassin (et souvent les deux), (pour emplir et vider ensemble), (drôle d’occupation), (<hi rend="i">après combien d’heures</hi>…) ; et il y avait toujours des appartements à meubler. Et on multipliait le tapissier par le prix du mètre courant. »</p>
         <p>Encore que je prenne les sentiments trop au sérieux pour faire ici du sentiment, je suis sensible au charme de cette fantaisie. Mais ce qui fait très bien dans un <hi rend="i">Cahier de la quinzaine</hi>, ça faisait de mauvaises notes dans nos carnets hebdomadaires, et une semonce à nous gâter toute une journée. Une journée d’enfant gâtée. Et d’ailleurs, multiplier le tapissier par <pb n="13" xml:id="p13"/> le prix du mètre courant n’est pas une fantaisie pour ce petit être qui s’énerve, qui embrouille les règles, qui a sommeil, qui a peur de faire faux, parce que les autres auront fait juste, et qui voudrait bien pleurer, et qui recommence à gratter son ardoise où sèchent des traînées de craie grise, où les chiffres trop gros s’emmêlent… Et c’est cela l’enfance insouciante ? Qu’est-ce qui ressemble plus au souci quotidien des grandes personnes ?</p>
         <p>Mais l’enfance est ailleurs. Je revois ce fond de jardin où l’on trouve des cloportes dans la toile mouillée d’une tente d’Indiens, des petites guerres mystérieuses, avec des ennemis et des alliés imaginaires, des jeux en cachette, odeurs de peaux, comme dans un rêve, des matins de dimanche sonores et tout propres, la cuiller d’huile de foie de morue avant le repas, et le monsieur qui racontait gravement des choses qu’on ne comprend pas, la prière du soir pour qu’il fasse beau demain, Michel Strogoff et Rémy un fils invaincu, les tours de carrousel, les chemins dans la forêt en automne, des jeux, des feuillages, des rêveries, des recoins, une longue aventure sérieuse et incertaine, un peu sale et un peu divine, baignée d’une très vague angoisse que l’on fuyait avec des bonheurs fous dans les bras maternels, ou bien dans ces promenades en tenant la forte main du père qui fait de longs pas réguliers…</p>
-        <p>L’École, dans ce concert de souvenirs, n’est qu’une <pb n="14" xml:id="p14"/> dissonance douloureuse. <note place="bottom"><seg rend="footnotecharacters"/> Dans le cas le plus favorable, c’est un silence, un vide. C’était en dehors de la vie.</note> Deux angoisses dominent mon enfance : les séances chez le dentiste et l’horaire des leçons. Ce malaise inavouable, cette règle méchante, ce souci qui renaît chaque jour, je pense que tout cela tient trop de place dans notre enfance.</p>
+        <p>L’École, dans ce concert de souvenirs, n’est qu’une <pb n="14" xml:id="p14"/> dissonance douloureuse. <note place="bottom">Dans le cas le plus favorable, c’est un silence, un vide. C’était en dehors de la vie.</note> Deux angoisses dominent mon enfance : les séances chez le dentiste et l’horaire des leçons. Ce malaise inavouable, cette règle méchante, ce souci qui renaît chaque jour, je pense que tout cela tient trop de place dans notre enfance.</p>
         <p>À cinq ans, j’avais appris à lire, en cachette avec ma sœur aînée. L’année suivante, on me mit à l’école, parce que c’est la loi. La première classe fut agréable : j’alignais des bâtons en rêvant à je ne sais quoi, j’étais délicieusement seul parmi ces petits êtres en tabliers bleus qui alignaient leurs bâtons en rêvant à leur manière. Un jour cela m’ennuya. Sachant lire, je ne pensais pas devoir suivre syllabe après syllabe les ânonnements des élèves qui déchiffraient les premières phrases exemplaires. (J’aimais pourtant <hi rend="i">Zoé lave à la fontaine</hi>, à cause du nom.) Quand venait mon tour, je savais rarement où l’on en était. Cela m’attira des reproches acides, et naturellement, la phrase sacrée : « Il faut que tous fassent la même chose ici ! » Dans la suite, on se chargea d’illustrer par d’innombrables exemples cet axiome qui devint la formule de mes premières douleurs morales. Après six ans de ce régime, on m’avait suffisamment rabroué pour que je ne montrasse plus aucune velléité d’originalité.</p>
         <p><pb n="15" xml:id="p15"/> Mais pour être rentrée, ma colère n’en fut que plus malfaisante. L’école me rendit au monde, vers l’âge de dix-huit ans, crispé et méfiant, sans cesse en garde contre moi-même à cause des autres desquels il ne fallait pas différer, profondément hypocrite donc, et le cerveau saturé d’évidences du type 2 et 2 font 4, ou : tous les hommes doivent être égaux en tout. Deux fois deux quatre, c’est stérile, mais ça ne fait de mal à personne, et de plus, toutes choses égales d’ailleurs, dans un certain domaine, c’est vrai. (Il y a encore des poètes pour nous faire comprendre avec enthousiasme que ces vérités-là n’ont aucune importance.) Quant à l’autre « évidence » que je viens de citer, je découvris un jour qu’elle contient la cause déterminante de notre malaise.</p>
         <p>Il me fallut un certain temps pour m’habituer à cette idée. Je tenais cette clef et n’osais m’en servir craignant peut-être des découvertes qui eussent ruiné trop de certitudes apprises. Enfin j’ouvris, c’est-à-dire que je me posais la question : est-ce vrai que tous les hommes doivent être égaux en tout ? Et la première réponse fut : Il faut que ce soit vrai, pour que la démocratie prospère et étende ses conquêtes. C’était découvrir notre asservissement. Je songeai aux vertueuses indignations de nos maîtres quand ils dénonçaient « la marque indélébile de l’éducation jésuite ». Nous étions marqués par Numa Droz, par l’esprit petit bourgeois, qui est une <pb n="16" xml:id="p16"/> généralisation de l’avarice, et par les dogmes démocratiques, qui sont une généralisation de la règle de trois, aussi profondément certes qu’un Voltaire le fut par les Jésuites : du moins ceux-ci lui laissèrent-ils assez de verdeur d’esprit pour qu’il pût se dégager de leur empire. Mais on avait brisé en nous ces ressorts de la révolte et de la libération d’une personnalité : l’imagination, le sens de l’arbitraire et le sens de la relativité des décrets humains.</p>
@@ -67,8 +68,9 @@
         <p>Mais moi, j’avais trop souffert de cette compression morale pour, une fois matériellement délivré, en supporter longtemps encore l’action. Je n’eus pas plus tôt découvert et nommé cet asservissement de l’esprit et ces mythes stériles, que je les rendis responsables de ma perte de contact avec les réalités les plus élémentaires de la vie.</p>
         <p/>
       </div>
-      <div>
-        <head><pb n="18" xml:id="p18"/> 2. Description du monstre</head>
+      <div type="chapter">
+        <pb n="18" xml:id="p18"/>
+        <head>2. Description du monstre</head>
         <p>Le service militaire me permit de retrouver quelques-unes de ces réalités. J’y retrouvai aussi plusieurs têtes connues d’anciens camarades d’école primaire. Comme ils avaient changé ! On s’entendait d’autant mieux qu’on était devenu plus différents. Car ces différences sont les premières marques de la vie vécue et l’on aime à y découvrir la seule fraternité véritable. Mais c’est en caserne aussi que je devais retrouver les instituteurs. Ceux-là n’avaient pas bougé. Et pour cause : ils n’étaient jamais sorti de l’école. Rien ne ressemble plus à un bon élève qu’un instituteur : de l’un à l’autre, il n’y a pas de solution de continuité, la différence n’était qu’une question d’âge, non d’expérience vécue.</p>
         <p>Ce que je vais dire est sans doute injuste et faux dans un très grand nombre de cas, mais pourquoi ai-je envie de le dire ? L’instituteur sous l’uniforme peut être défini par son incompréhension méthodique des hommes et son mépris pour les paysans. Qu’il soit officier ou troupier, on le reconnaît à une façon pédante d’être consciencieux, à une façon blessante d’être supérieur, à une façon livresque d’expliquer les choses, à une façon théorique de <pb n="19" xml:id="p19"/> juger les êtres. Ces distributeurs automatiques (brevetés par le gouvernement) de la manne égalitaire — ne se prennent pas pour de la petite bière. Ils ont conscience d’appartenir à une élite responsable, cela se voit de loin. Il faut dire que ce ridicule n’échappe pas à ceux qu’ils méprisent le plus, et ils auraient souvent l’occasion de s’en douter s’ils étaient sensibles aux finesses de l’ironie paysanne.</p>
         <p>Mais je n’en dirai pas plus, de peur de m’échauffer inutilement. Si l’on me poussait un peu, je crois que je m’oublierais au point d’insinuer que les instituteurs galonnés causent autant de tort à l’armée que les instituteurs antimilitaristes qui signent des manifestes en mauvais français — et je ferai de la peine à d’excellents garçons. Revenons au civil.</p>
@@ -79,17 +81,17 @@
         <p>Beaucoup d’enfants ont un frisson de dégoût au moment de passer la porte, au son de la cloche : l’odeur de goudron et d’urinoirs qui imprègne les corridors et les habits des écoliers empeste encore mes souvenirs. Et la poussière dans l’air, l’encre sur les tables — c’était pourtant un refuge pour <pb n="21" xml:id="p21"/> l’imagination que ces initiales, ces signes, ces devises… — les estampes piquées, Numa Droz et ses crottes de mouches… Dans ce décor s’écoulent huit années de votre vie, citoyens ! Et vous pensez que c’est un grand progrès sur la Nature.</p>
         <p>Quelle peut bien être la vertu éducatrice d’un tel milieu, moral et matériel ?</p>
         <p>L’école publique, telle que nous la voyons est semblable à tous ces monuments « de la mauvaise époque » qui sont dans nos villes l’apport du <num>xix<hi rend="sup">e</hi></num> siècle. Ils ne parviennent ni à la beauté ni à l’utilité, et ils sont déjà démodés. On dit que le style 1880 n’en est pas un : mais l’absence de style est encore un style : c’est même le pire.</p>
-        <p rend="color_2f5496"/>
       </div>
-      <div>
-        <head><pb n="22" xml:id="p22"/> 3. Anatomie du monstre</head>
+      <div type="chapter">
+        <pb n="22" xml:id="p22"/>
+        <head>3. Anatomie du monstre</head>
         <p>Ayant épanché un peu de ma rancune, à seule fin de montrer pour quelles raisons j’ai entrepris de combattre l’instruction publique — on ne me contestera pas ces raisons puisqu’elles me sont absolument personnelles et qu’elles ont la valeur d’un témoignage, ni plus ni moins — il est temps que je fasse passer un petit examen aux principes de cette institution passionnément détestée. Vous allez voir comment ils bafouillent leur « par cœur non compris ».</p>
         <p>Aux yeux de beaucoup de gens, la passion est aveuglante : cela tient pour une bonne part à ce que ces personnes ont les yeux faibles. Il serait plus juste de dire que la passion n’a qu’une clairvoyance intéressée : mais celle-là est la plus vive.</p>
         <p>Enfin, je tiens à reconnaître qu’ici je ne cherche point <hi rend="i">l’équité</hi>. Pas plus que vous, qui défendez de parti-pris ce que j’attaque. L’esprit d’équité, avec son préjugé pacifiste n’est pas toujours l’esprit de vérité, il s’en faut. Or je ne suis pas de ceux qui subordonnent la vérité à la tranquillité bourgeoise. Je tiens le « gain de paix » pour illusoire : il consiste à repousser la difficulté dans l’avenir, d’une ou <pb n="23" xml:id="p23"/> deux générations. Pendant ce temps elle s’aggrave, et nous voici avec l’héritage de cinquante ans de radicalisme sur les bras. L’écheveau est tellement embrouillé que déjà plusieurs proposent de trancher le nœud.</p>
         <p>Je me bornerai à l’examen des caractères les plus généraux de l’instruction publique, ceux que n’atteignent dans leur principe ni les réformes de détail ni les modalités locales de réalisations pratiques.</p>
         <div>
           <head>1. Le programme</head>
-          <p>a) <hi xml:lang="fr" rend="i">l’horaire</hi> : c’est un cadre, ou plutôt un moule, dans lequel on verse les matières les plus hétéroclites, sans égard à leurs qualités propres. De 8 à 9 arithmétique ; de 9 à 10 composition, etc. Ces disciplines se succèdent sans transition, dans un ordre absolument fortuit, de manière à prévenir toute concentration de l’esprit.</p>
+          <p>a) <hi rend="i" xml:lang="fr">l’horaire</hi> : c’est un cadre, ou plutôt un moule, dans lequel on verse les matières les plus hétéroclites, sans égard à leurs qualités propres. De 8 à 9 arithmétique ; de 9 à 10 composition, etc. Ces disciplines se succèdent sans transition, dans un ordre absolument fortuit, de manière à prévenir toute concentration de l’esprit.</p>
           <p>b) <hi rend="i">plan d’études</hi>. On a divisé l’enseignement en branches bien distinctes. On attribue à chacune un certain nombre d’heures par semaines, au jugé. On s’arrange pour faire tenir dans cette classification le plus possible de « connaissances » qui dès lors deviennent obligatoires. La somme et l’arrangement des parties doivent être identiques pour tous les écoliers. Ce plan régit les huit années réglementaires de la scolarité, et englobe la totalité de la science <pb n="24" xml:id="p24"/> nécessaire à tout citoyen, dans une vue aussi large que simplifiée.</p>
           <p>Remarquons qu’il suffit pour établir ce programme de disposer d’une ou deux feuilles de papier, d’un crayon et d’une règle (pour diviser la page en casiers rectangulaires, bien proprement). Évidemment, il est préférable de savoir aussi les noms des sciences élémentaires. Mais il n’est en aucune façon nécessaire de connaître la psychologie des enfants, ni même le contenu des sciences dont on écrit le nom dans les casiers. Est-ce que l’étude du trapézoïde est particulièrement indiquée pour préparer les élèves à une composition française ? Question oiseuse et saugrenue, — naïve.</p>
           <p>Le bon sens voudrait que l’on tînt compte des possibilités d’adaptation de l’enfant ; de la valeur fort inégale de ces disciplines ; de la diversité des besoins ; enfin des rythmes naturels de l’esprit humain, qu’il se trouve que le Créateur n’a point accordés à l’actuelle division horaire des journées…</p>
@@ -98,7 +100,8 @@
           <p>— Mais on nous paye, et ils n’en meurent pas.</p>
         </div>
         <div>
-          <head><pb n="25" xml:id="p25"/> 2. Les examens</head>
+          <pb n="25" xml:id="p25"/>
+          <head>2. Les examens</head>
           <p>Ce sont en principe des « contrôles » comparables à ceux que l’on établit lors des grandes épreuves cyclistes. Les participants du Tour de Science doivent s’inscrire au terme de chaque trimestre. Ceux qui arrivent après la clôture ont à refaire l’étape. On obtient par ce moyen un peloton homogène, facile à surveiller.</p>
           <p>Mais en matière de sport, la tricherie est difficile, tandis qu’à l’école elle est de règle. Car la qualité et la quantité des réponses « fournies » par le prévenu (l’élève examiné) n’a qu’un lointain rapport avec la qualité et la quantité des efforts « fournis » au cours du trimestre. Ce phénomène déconcertant s’explique justement par cette psychologie de l’enfant dont je disais tout à l’heure que la connaissance n’est pas exigée de ceux qui établissent les programmes et les examens.</p>
           <p>« Les examens faussent complètement l’esprit de l’enseignement », lit-on jusque sous la plume de divers maîtres primaires et secondaires.</p>
@@ -151,8 +154,9 @@
           <p/>
         </div>
       </div>
-      <div>
-        <head><pb n="35" xml:id="p35"/> 4. L’illusion réformiste</head>
+      <div type="chapter">
+        <pb n="35" xml:id="p35"/>
+        <head>4. L’illusion réformiste</head>
         <p>Bien entendu, tout cela a été dit. (Un peu autrement, j’en conviens). On n’a pas attendu ma colère pour entreprendre ce travail de démolition. Il suffit pour s’en convaincre de parcourir l’abondante littérature publiée sur le « problème de l’école nouvelle ».</p>
         <p>On appelle école nouvelle tout établissement où l’on s’efforce d’enseigner selon des principes tirés de l’observation des enfants, c’est-à-dire : en contradiction sur toute la ligne avec l’enseignement officiel.</p>
         <p>Les promoteurs de ces mouvements tentent la gageure de réformer l’école primaire sans toucher au principe de l’instruction publique.</p>
@@ -167,10 +171,10 @@
         <p>Qui sait ?…</p>
         <p>En attendant, puisqu’il faut attendre, je salue ces jeunes gens qui appliquent avec ferveur les principes de l’école libre, qui se moquent des programmes et dont les classes sont de vraies foires ; ils ont toute mon amitié. Cela me permet de leur faire <pb n="39" xml:id="p39"/> remarquer d’autant plus librement qu’ils trahissent le destin profond de l’instruction publique, qu’ils trahissent leur mission officielle. Ils éduquent de futurs anarchistes <note place="bottom">Voir à l’appendice le sens que je donne à ce mot, p. 57.</note>, bravo ! Mais ce qu’on leur avait confié, c’était la fabrication en série de petits démocrates conscients et organisés. Je crains que ce malentendu ne soit décidément trop gros pour échapper plus longtemps à MM. les Inspecteurs des Écoles. Je le crains, dis-je ; car le monde ne progresse qu’à la faveur de malentendus (si tant est qu’il progresse.)</p>
         <p>L’école nouvelle n’échappe à l’absurdité primaire qu’à la faveur d’une équivoque. Cette équivoque frappe tout essai de réforme. Qu’il y ait là cependant une possibilité pratique d’en sortir, je ne le nie pas. Mais du point de vue de la vérité, force nous est de reconnaître que notre dilemme subsiste dans son intégrité et son urgence.</p>
-        <p rend="color_2f5496"/>
       </div>
-      <div>
-        <head><pb n="40" xml:id="p40"/> 5. La machine à fabriquer des électeurs</head>
+      <div type="chapter">
+        <pb n="40" xml:id="p40"/>
+        <head>5. La machine à fabriquer des électeurs</head>
         <p>Je crois à l’absurdité de <hi rend="i">fait</hi> de l’instruction publique. Je crois aussi qu’on ne peut réformer l’absurde. Je demande seulement qu’on m’explique pourquoi il triomphe et se perpétue ; de quel droit il nous écrase.</p>
         <p>La réponse est simple, terriblement simple : du droit de la Démocratie.</p>
         <p>L’instruction publique et la Démocratie sont sœurs siamoises. Elles sont nées en même temps. Elles ont crû et embelli d’un même mouvement. Morigéner l’une c’est faire pleurer l’autre. Écouter ce que dit l’une, c’est savoir ce que l’autre pense. Elles ne mourront qu’ensemble. Il n’y aura qu’une oraison. Laïque.</p>
@@ -183,10 +187,10 @@
         <p>Il est clair que si le but principal de l’instruction publique était d’éduquer le peuple d’une façon désintéressée, les gouvernements seraient un peu plus fous qu’on n’ose les imaginer de ne pas <pb n="44" xml:id="p44"/> entreprendre sur l’heure une véritable révolution scolaire ; car il ne faudrait pas moins pour que l’école rattrape l’époque… Mais les gouvernements savent ce qu’ils font.</p>
         <p>Tout se tient, comme vous dites, sans doute pour m’ôter l’envie de bousculer quoi que ce soit. J’aime bien les tremblements de terre, vous tombez mal.</p>
         <p>J’appartiens à cette espèce de gens qui font confiance à leur sensibilité plus qu’aux idées des autres. Or, c’est une révolte de ma sensibilité qui me dresse contre l’École. Mes arguments ne se mettent en branle qu’après coup. Et quand vous les démoliriez tous, ma rage n’en serait pas moins légitime. Je lui donne raison par définition. Après tout, peu m’importent les idéologies politiques, et peu m’importerait que l’École soit une machine à fabriquer de la démocratie — si je ne sentais menacées dans cette aventure des valeurs d’âme auxquelles je tiens plus qu’à tout. Ma haine de la démocratie est l’aboutissement de l’évolution dont je viens de décrire la marche nécessaire <note place="bottom">Est-il besoin de déclarer formellement qu’une telle attitude n’est en aucune façon tributaire de l’idéologie réactionnaire à la mode. Mais que deux critiques de la Démocratie partant de points de vue presque opposés coïncident en tant de points — voilà qui m’inquiéterait, à votre place.</note>. On ne manquera pas d’insinuer qu’à l’origine de tout ceci il y a surtout de la <pb n="45" xml:id="p45"/> nervosité, de petites douleurs de jeune bourgeois. Essayez de venir me dire ça chez moi, n’est-ce pas, mes agneaux. C’est justement dans la mesure où je participais de l’écoeurant optimisme bourgeois que je m’accommodais d’un régime nocif pour tout ce qu’il y a d’authentiquement noble en chaque homme. Si les fils du peuple souffrent moins d’un tel régime, c’est qu’ils n’ont pas d’eux-mêmes une connaissance aussi sensible. Mais attendez, si quelques-uns allaient se réveiller… Il suffit d’un peu de chaleur d’âme pour amorcer le dégel de ces principes, et ce peut être le signal de la grande débâcle printanière. Il n’y a pas de révolution véritable que de la sensibilité. (Le jour où l’on culbutera ces Messieurs de leurs sièges, ils comprendront le sens des images.)</p>
-        <p rend="color_2f5496"/>
       </div>
-      <div>
-        <head><pb n="46" xml:id="p46"/> 6. La trahison de l’instruction publique</head>
+      <div type="chapter">
+        <pb n="46" xml:id="p46"/>
+        <head>6. La trahison de l’instruction publique</head>
         <p>(Ici, le procureur prit un ton plus grave).</p>
         <p>L’école s’est vendue à des intérêts politiques. C’était là, nous venons de le voir, son unique moyen de parvenir. Elle participe donc sur une vaste échelle à cette « Trahison des clercs » décrite par M. Julien Benda. Notre époque paiera cher ce crime contre la civilisation. Elle ne croit plus qu’au péché contre les lois sociales, eh ! bien, elle apprendra que le seul péché qui n’a pas de pardon, c’est le péché contre l’Esprit. Aujourd’hui qu’il suffit d’un peu de bon sens et d’information pour jouer au prophète, on nous promet de tous côtés de belles catastrophes. Je suis de ceux qui s’en réjouissent mauvaisement. (« C’est bien fait. C’était trop laid ».)</p>
         <p>À peine capable de nous instruire, l’École prétend ouvertement nous éduquer. D’ailleurs elle y est obligée dans la mesure où elle réalise son ambition : soustraire les enfants à l’Église et à la famille.</p>
@@ -200,8 +204,9 @@
         <p>Par ce qu’elle enseigne à ignorer bien plus que par ce qu’elle enseigne à connaître, elle constitue la plus grande force anti-religieuse de ce temps. L’instruction religieuse qui prend les enfants au sortir de l’école primaire, arrive trop tard. Elle sème dans un terrain que l’instituteur a méthodiquement desséché.</p>
         <p/>
       </div>
-      <div>
-        <head><pb n="50" xml:id="p50"/> 7. L’instruction publique contre le progrès</head>
+      <div type="chapter">
+        <pb n="50" xml:id="p50"/>
+        <head>7. L’instruction publique contre le progrès</head>
         <p>Un beau titre. Et qui a meilleure façon que le reste, pensez-vous. Il faut avouer qu’avec ce je ne sais quoi de déclamatoire, de… journalistique, de bedonnant creux, cela vous a un petit air démocratique, hé ! hé !… et d’ailleurs, vous aimez les idées généreuses, n’est-ce pas ? J’en étais sûr.</p>
         <p>Cependant j’ai peur que mon progrès ne soit pas le vôtre, et même que sa nature ne l’entraîne dans une direction toute opposée.</p>
         <p>C’est très malin d’avoir inventé un instrument de progrès : encore faut-il le mettre en marche. Et, où le conduire ? Il y a beaucoup de routes, mais vous n’aimez pas le risque, vous préférez le surplace. Ainsi l’instruction publique s’est arrêtée aux environs de 1880 et depuis lors n’a guère bougé. Le moteur n’en continue pas moins de consommer, ronfler et de tout empester. Et peu à peu le public perçoit que « l’instrument de progrès » n’est qu’un camouflage à l’abri duquel on distille du radicalisme intégral. On me fera observer que beaucoup des servants de la machine sont socialistes ou conservateurs : voilà qui ne change pas le rendement, j’imagine, ni la nature des produits excrétés.</p>
@@ -222,11 +227,9 @@
         <p>Eh ! bien, induisez de cette similitude les possibilités formidables que nous réserve le siècle à venir, et vous commencerez à comprendre que votre scepticisme à l’endroit de la forme sociale que nous appelons sans la connaître et qui s’élabore déjà secrètement, que ce mépris et ce scepticisme sont d’un ridicule écrasant, sous lequel vous ne tarderez pas à périr.</p>
         <p/>
       </div>
-      <div>
-        <head><pb n="57" xml:id="p57"/> Appendice.</head>
-      </div>
-      <div>
-        <head>Utopie</head>
+      <div type="chapter">
+        <pb n="57" xml:id="p57"/>
+        <head>Appendice. <lb/>Utopie</head>
         <p>Un os à la meute.</p>
         <p>(Et figurez-vous que j’ai la ferme intention de vous faire rigoler, si cela peut rassurer quant à ma santé morale.)</p>
         <p>La question est de savoir si nous serons des hommes de chair et d’esprit, ou des pantins articulés. (Qui tiendra les ficelles, peu importe.)</p>
@@ -257,7 +260,8 @@
         </p>
         <p/>
         <div>
-          <head><pb n="65" xml:id="p65"/> NOTE A.</head>
+          <pb n="65" xml:id="p65"/>
+          <head>NOTE A.</head>
           <p>On est toujours tenté d’attribuer à ses adversaires des intentions noires et consciemment criminelles. Ce travers a été développé jusqu’au ridicule par la démocratie. Les journaux, les cercles, les coulisses de parlements et autres potinières ne vivent que de semblables accusations. Du moment que n’importe qui juge et contrôle n’importe quoi, il faut bien inventer des dessous pour redonner quelque saveur à ses jugements. C’est pourquoi l’on ne peut plus attaquer un fonctionnaire dans ses activités publiques sans que des personnes bien intentionnées viennent vous dire : « Mais Monsieur, M. Machin que vous attaquez est pourtant un très brave homme, il fait partie du Conseil de la paroisse, et… » — Il semble qu’en attaquant ses idées et leurs réalisations on ait porté atteinte à la dignité morale de ce M. Machin, membre du conseil de paroisse.</p>
           <p>Je préciserai donc : je tiens l’École pour criminelle. Mais je ne tiens pas tous les instituteurs pour gibier de potence. Ils font beaucoup de mal, mais ils sont les premières victimes d’un système qu’ils propagent et qui les fait vivre. La question se complique dès que l’instituteur prend conscience de la nocivité de son action…</p>
           <p>Ils sont consciencieux, certes, mais sont-ils dans la même mesure conscients des fins qu’on assigne à leur activité ?</p>
@@ -273,8 +277,9 @@
           <p/>
         </div>
       </div>
-      <div>
-        <head><pb n="69" xml:id="p69"/> SUITE DES MÉFAITS (1972)</head>
+      <div type="chapter">
+        <pb n="69" xml:id="p69"/>
+        <head>SUITE DES MÉFAITS (1972)</head>
         <p>Écrit d’un jeune homme en colère, aussi injuste qu’un pamphlet doit l’être, j’ai le triste plaisir de constater que mon texte n’a pas vieilli, parce que l’École n’a pas changé. C’est du moins ce que m’incitent à croire les descriptions récentes qu’on en publie, et les jugements portés sur elle par ses critiques les plus sérieux et par ses usagers, élèves et maîtres.</p>
         <p>Je la traitais de simple « machine à fabriquer des électeurs », de « rêve rationnellement organisé » à la mesure des « piliers du régime » et à seule fin de conditionner les jeunes esprits dans le sens requis par l’État. Pierre Emmanuel écrit aujourd’hui ceci :</p>
         <quote>
@@ -296,7 +301,8 @@
         <p>Je le disais implicitement. Ivan Illich, aujourd’hui le proclame <note place="bottom">(Mgr.) Ivan Illich, <hi rend="i">Une Société sans école</hi>, New York 1970, Paris, Le Seuil, 1971.</note>. Car, écrit-il, « le système scolaire obligatoire représente finalement pour la plupart des hommes une entrave au droit à l’instruction ».</p>
         <p><pb n="73" xml:id="p73"/> En effet, l’École s’est chargée — ou plutôt : l’État l’a chargée — de l’ensemble des attributions qui furent naguère celles de l’Église et de la Morale publique et de la Famille, en plus de celles du maître ès arts. « Elle est la gardienne des enfants, elle a la charge de la sélection, de l’endoctrinement, de l’instruction » (p. 51). Elle repose sur trois postulats : « Les enfants doivent aller à l’école ; ils apprennent à l’école ; l’école est le seul endroit où ils puissent apprendre ». Mais confondre l’éducation et la scolarité obligatoire « c’est confondre le salut et l’Église ». (p. 27) L’École est devenue la religion de l’État-Nation. (p. 27) Elle doit en inculquer les dogmes, tels que celui de la « fidélité inconditionnelle à l’idéologie de la croissance économique ». (p. 115) À cette fin, « les enfants deviennent de plus en plus une sorte de ressource naturelle, dont le traitement revient aux écoles, afin qu’ils soient prêts à être absorbés par la machine industrielle ». (p. 114) <note place="bottom">Je disais cela un peu partout dans ma brochure, p. ex. pp. 37-38, 47, etc.</note></p>
         <p>Mais l’École s’est laissé étatiser, l’État en retour s’est laissé scolariser, et toute la société en subit les effets. « On peut dire que de nos jours, non seulement l’éducation, mais la réalité sociale elle-même, se sont scolarisées. » (p. 13)</p>
-        <p>Un cercle vicieux s’institue (dès la fin du <num>xix<hi rend="sup">e</hi></num> <pb n="74" xml:id="p74"/> siècle) : « La sagesse institutionnelle nous dit que les enfants ont besoin de l’école. Elle nous affirme qu’ils s’y instruisent. Mais cette sagesse, d’où la tenons-nous, sinon des écoles ? » (p. 56)</p>
+        <p>Un cercle vicieux s’institue (dès la fin du <num>xix<hi rend="sup">e</hi></num>
+          <pb n="74" xml:id="p74"/> siècle) : « La sagesse institutionnelle nous dit que les enfants ont besoin de l’école. Elle nous affirme qu’ils s’y instruisent. Mais cette sagesse, d’où la tenons-nous, sinon des écoles ? » (p. 56)</p>
         <p>Ivan Illich propose alors trois thèses :</p>
         <p>— « La Société est susceptible désormais d’être déscolarisée. » (p. 9)</p>
         <p>— « Nous avons maintenant besoin d’une séparation de l’État et de l’École. » (p. 27)</p>

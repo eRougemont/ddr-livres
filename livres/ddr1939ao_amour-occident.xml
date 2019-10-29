@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="../../Teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="../../Teinte/opentei.css"?>
-<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ddr1939ao">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -53,7 +53,7 @@
       </div>
     </front>
     <body>
-      <div type="section">
+      <div type="chapter">
         <head rend="uc">Livre premier <lb/> Le mythe de tristan</head>
         <div type="section">
           <head>1. Triomphe du roman, et ce qu’il cache.</head>
@@ -348,7 +348,7 @@
           <p>Parcourons-les l’une après l’autre, librement. Nous ferons halte ici ou là pour vérifier telle origine nettement localisée, ou telle conséquence imprévue des <emph>relations</emph> que nous venons de dégager.</p>
         </div>
       </div>
-      <div type="book">
+      <div type="chapter">
         <head rend="uc">Livre II <lb/> Les origines religieuses <lb/> du mythe</head>
         <div type="section">
           <head>1. L’ « obstacle » naturel et sacré.</head>
@@ -1032,7 +1032,7 @@
           <p>C’est de quoi l’on traitera dans les livres qui viennent.</p>
         </div>
       </div>
-      <div type="book">
+      <div type="chapter">
         <head rend="uc">Livre III <lb/> Passion et mystique</head>
         <div type="section">
           <head>1. Position du problème.</head>
@@ -1283,7 +1283,7 @@
           <p>L’histoire de la passion d’amour, dans toutes les grandes littératures, du treizième siècle jusqu’à nous, c’est l’histoire de la déchéance du mythe courtois dans la vie « profanée ». C’est le récit des tentatives de plus en plus désespérées que fait l’Éros pour remplacer la transcendance mystique par une intensité émue. Mais grandiloquentes ou plaintives, les figures du discours passionné, les « couleurs » de sa rhétorique ne seront jamais que les exaltations d’un crépuscule, promesses de gloire jamais tenues…</p>
         </div>
       </div>
-      <div type="book">
+      <div type="chapter">
         <head>Livre IV<lb/>Le mythe dans la littérature</head>
         <epigraph>
           <p>On reconnaîtra maintenant ce qu’est le péché ou comment procède le péché. C’est lorsque la volonté humaine se sépare de Dieu pour être une volonté à soi, qu’elle suscite sa propre ardeur et brûle de sa propre affection, ardeur qui lui est propre et qui n’a rien à voir avec l’ardeur divine.</p>
@@ -1945,7 +1945,7 @@
           <p>Cette progressive profanation du mythe – sa conversion en rhétorique, puis la dissolution de cette rhétorique et la totale vulgarisation de son contenu, l’on peut en suivre les étapes dans un domaine en apparence fort étranger à ceux que nous venons de parcourir : dans l’évolution de la guerre et de ses méthodes en Occident.</p>
         </div>
       </div>
-      <div type="book">
+      <div type="chapter">
         <head>Livre V <lb/>Amour et guerre</head>
         <div type="section">
           <head>1. Parallélisme des formes.</head>
@@ -2127,7 +2127,7 @@
           <p>C’est l’éventualité de la paix que j’envisagerai dans les deux livres terminaux : le premier situant le conflit du mythe et du mariage dans nos mœurs, le second décrivant une attitude que je donne bien moins pour <emph>la</emph> réponse décisive, que pour mon choix particulier.</p>
         </div>
       </div>
-      <div type="book">
+      <div type="chapter">
         <head rend="uc">Livre VI <lb/>Le mythe contre le mariage</head>
         <div type="section">
           <head>1. Crise moderne du mariage.</head>
@@ -2253,7 +2253,7 @@
           <p>Essayer de résoudre notre crise du mariage par des mesures morales, sociales ou scientifiques, déduites du seul désir d’arrêter les dégâts, ne serait-ce pas lui dénier arbitrairement le caractère qu’elle semble bien avoir : celui de la recherche, presque aveugle encore, d’un <emph>nouvel équilibre du couple</emph>. Équilibre tendu entre les exigences toujours simultanées, contraires et légitimes, de la stabilité et de l’évolution, de l’espèce et de l’individu, enfin de l’accomplissement de la personne et de l’Absolu qui seul la juge et la suscite.</p>
         </div>
       </div>
-      <div type="book">
+      <div type="chapter">
         <head rend="uc">Livre VII <lb/>L’amour action, ou de la fidélité</head>
         <div type="section">
           <head>1. Nécessité d’un parti pris.</head>
@@ -2420,7 +2420,7 @@
       </div>
     </body>
     <back>
-      <div type="appendix">
+      <div type="chapter">
         <head rend="uc">Appendices</head>
         <div type="section">
           <head>1. – Caractère sacré de la légende.</head>
@@ -2557,7 +2557,7 @@
           <p>Mais si la vie et la Nature créée ne sont que noirceurs et cruauté, il faut alors pour s’en délivrer renchérir sur cette cruauté et ces noirceurs. Il n’y a qu’une alternative : exercer la cruauté sur soi ou sur le prochain. Sade choisit le prochain : il veut être criminel plutôt que victime. Ainsi la conscience sadique est l’inverse de la conscience romantique. Le romantique (Pétrarque) se châtie pour conserver l’objet aimé, tandis que Sade veut le tuer.</p>
         </div>
       </div>
-      <div type="bibliography">
+      <div type="chapter">
         <head rend="uc">Bibliographie <note resp="author">
             <p>Notice renouvelée à l’intention de la présente version.</p>
           </note></head>
