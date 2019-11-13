@@ -6,20 +6,28 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><hi rend="i">Lettres aux députés européens</hi>, Ides et Calendes, Neuchâtel et Paris, 1950.</title>
+        <title>Lettres aux députés européens</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
       </publicationStmt>
       <sourceDesc>
         <bibl><title>Lettres aux députés européens</title>, Ides et Calendes, Neuchâtel et Paris, 1950.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1950"/>
+      </creation>
       <langUsage>
-        <language ident=""/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

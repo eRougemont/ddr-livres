@@ -6,20 +6,28 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <author>Rougemont</author>
+        <title>Journal d’une Époque (1926-1946)</title>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><hi rend="i">Journal d’une Époque (1926-1946)</hi>, Paris, Gallimard, 1968.</bibl>
+        <bibl><title>Journal d’une Époque (1926-1946)</title>, Paris, Gallimard, 1968.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1968"/>
+      </creation>
       <langUsage>
-        <language ident="en"/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>

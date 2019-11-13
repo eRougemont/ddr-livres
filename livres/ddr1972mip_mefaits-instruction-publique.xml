@@ -7,20 +7,27 @@
     <fileDesc>
       <titleStmt>
         <title><hi rend="i">Les Méfaits de l’instruction publique</hi> (1929), aggravé d’une <hi rend="i">Suite des méfaits</hi></title>
-        <author>Denis de Rougemont</author>
+        <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
       </titleStmt>
-      <editionStmt/>
+      <editionStmt>
+        <edition>Rougemont 2.0</edition>
+      </editionStmt>
       <publicationStmt>
-        <availability status="restricted"/>
+        <publisher>Université de Genève</publisher>
+        <availability status="restricted">
+          <licence target="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.fr"/>
+        </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl>Denis de Rougemont, <hi rend="i">Les Méfaits de l’instruction publique</hi> (1929), aggravé d’une <hi rend="i">Suite des méfaits</hi>, Lausanne, Eureka, 1972.</bibl>
+        <bibl><hi rend="i">Les Méfaits de l’instruction publique</hi> (1929), aggravé d’une <hi rend="i">Suite des méfaits</hi>, Lausanne, Eureka, 1972.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
-      <creation/>
+      <creation>
+        <date when="1972"/>
+      </creation>
       <langUsage>
-        <language ident="en"/>
+        <language ident="fr"/>
       </langUsage>
     </profileDesc>
   </teiHeader>
