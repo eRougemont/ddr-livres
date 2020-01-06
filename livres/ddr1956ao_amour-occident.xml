@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <front>
-      <div>
+      <div type="chapter">
         <head rend="uc">Avertissement</head>
         <p>J’ai appelé « livres » les différentes parties de cet ouvrage, parce que chacune esquisse le contenu d’un volume de dimensions ordinaires.</p>
         <p>Le grand nombre des faits et des textes cités, le jeu des « leitmotive » entrelacés, risqueraient d’égarer certains lecteurs si je ne donnais ici la clef de ma composition. Le premier livre expose le contenu caché de la légende ou du mythe de Tristan. C’est une descente aux cercles successifs de la passion. Le dernier livre indique une attitude humaine diamétralement opposée, et par là il achève la description de la passion, car on ne connaît vraiment que les choses dépassées, ou du moins celles dont on a pu toucher, fût-ce même sans les franchir, les limites.</p>
@@ -48,7 +48,7 @@
         <p>J’ai vécu ce livre pendant toute mon adolescence et ma jeunesse ; je l’ai conçu sous forme d’œuvre écrite, et nourri de quelques lectures, depuis deux ans ; enfin je l’ai rédigé en quatre mois. Ceci me rappelle le mot de Vernet, à propos d’un tableau qu’il vendait assez cher : « Il m’a demandé une heure de travail, et toute la vie. »</p>
         <dateline>D. DE R.<lb/>21 juin 1938.</dateline>
       </div>
-      <div rend="i" type="preface">
+      <div rend="i" type="chapter">
         <head rend="uc">Préface à l’édition de 1956</head>
         <p>C’est à la suggestion de mon éditeur anglais – qui par une chance dont je m’honore se trouve être T. S. Eliot – que je dois d’avoir entrepris la révision de cet ouvrage.</p>
         <p>Trois lustres ont passé depuis sa parution, une guerre aussi, et bien des expériences mettant mes thèses à dure épreuve. Je n’ai rien oublié mais j’ai un peu appris, plus en vivant, d’ailleurs, qu’en lisant mes critiques, car ceux-ci n’étaient guère d’accord entre eux. Certains cependant m’ont convaincu : j’ai remplacé, dans cette nouvelle version, quelques outrances de plume par quelques analyses dont je sens qu’elles aggravent mon cas.</p>
