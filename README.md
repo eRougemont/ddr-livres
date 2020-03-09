@@ -1,4 +1,4 @@
-# Rougemont
+Rougemont, livres, lien direct aux fichier XML, avec transformation dans le navigateur.
 
 * [ddr1929mip_mefaits-instruction-publique.xml](https://erougemont.github.io/livres/ddr1929mip_mefaits-instruction-publique.xml)
 * [ddr1932paysan_paysan-du-danube.xml](https://erougemont.github.io/livres/ddr1932paysan_paysan-du-danube.xml)
