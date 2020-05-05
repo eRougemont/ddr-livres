@@ -1,5 +1,6 @@
 Rougemont, livres, lien direct aux fichier XML, avec transformation dans le navigateur.
 On attend Jojo la patate
+Elle est là la patate!
 * [ddr1929mip_mefaits-instruction-publique.xml](https://erougemont.github.io/livres/ddr1929mip_mefaits-instruction-publique.xml)
 * [ddr1932paysan_paysan-du-danube.xml](https://erougemont.github.io/livres/ddr1932paysan_paysan-du-danube.xml)
 * [ddr1934polpers_politique-personne.xml](https://erougemont.github.io/livres/ddr1934polpers_politique-personne.xml)
