@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="../Teinte/opentei.css"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr1932paysan">
   <teiHeader>
     <fileDesc>
@@ -433,10 +433,10 @@
             </figure>
           </p>
           <quote>
-            <l>L’agrément de ce monde, je l’ai vécu.
-              <lb/>Les joies de la jeunesse, voilà si longtemps, si longtemps qu’elles ont fui.
-              <lb/>Avril et Mai et Juin sont lointains,
-              <lb/>Je ne suis plus rien, je n’aime plus vivre.</l>
+            <l>L’agrément de ce monde, je l’ai vécu.</l>
+            <l>Les joies de la jeunesse, voilà si longtemps, si longtemps qu’elles ont fui.</l>
+            <l>Avril et Mai et Juin sont lointains,</l>
+            <l>Je ne suis plus rien, je n’aime plus vivre.</l>
           </quote>
           <p>Il y avait encore plus de paix que maintenant. La grande allée sur l’île n’existait pas, en face, ni les maisons. Il voyait des prairies et des collines basses, de l’autre côté de l’eau jaune et verte… Quel est donc ce sommeil « dans la nuit de la vie » — et cet aveu mystérieux : « La perfection n’a pas de plainte… » Vivait-il encore ?</p>
           <p>Ce lieu soudain m’angoisse. Mais le gardien : il y est comme chez lui. — Dormez-vous dans ce lit ? — Oh ! répond-il, je pourrais aussi bien habiter la chambre. Il ne vient pas tant de visiteurs, et seulement de 2 à 4.</p>
@@ -549,10 +549,10 @@
             <head>Rose de Tannenbourg</head>
             <p>L’esplanade du Brühl, un soir de fête, en juin. Il y a dans les marronniers noirs des lampions et des touffes de gamins qui regardent avec la bouche ce qui se passe à l’intérieur d’une enceinte de toiles tendues au devant d’un petit théâtre. La rampe a des feux stellaires, couleur d’Aldébaran. On joue <hi rend="i">Rose de Tannenbourg</hi>, drame en 15 tableaux, un prologue et une conclusion. Le carton des armures sonne sourdement sous les coups d’un Kühnrich à la basse rugissante, plus traître que nature avec sa large face mangée par une barbe en crin de cheval du diable. L’héroïne est belle comme une ballade de Bürger, tandis qu’elle arrose de ses larmes le seuil de la prison paternelle, tout en coulant un clin d’œil assassin vers le parterre agité de passions contradictoires. Durant les entractes, une fanfare de paysans bleu de roi joue sur un rythme impeccable, avec toujours les mêmes notes fêlées et l’accompagnement dans les feuillages de voix fausses mais aériennes, des chansons du Grand Duché de Bade <pb n="155" xml:id="p155"/>qui sont ce que je connais de plus indiciblement nostalgique.</p>
             <quote>
-              <l>Und solltest du im Leben
-                <lb/>Ein Madchen frei’n,
-                <lb/>Dann, muss sie am Rheine
-                <lb/>Geboren sein…</l>
+              <l>Und solltest du im Leben</l>
+                <l>Ein Madchen frei’n,</l>
+                <l>Dann, muss sie am Rheine</l>
+                <l>Geboren sein…</l>
             </quote>
             <p>(Il faudrait la mélodie.) La fanfare s’éloigne. La nuit est chaude sur les collines. Un grand verre de bière à l’auberge déserte, ma pipe et mon chien qui bougonne. La petite maison du colonel en retraite a des fenêtres basses, mais défendues par des rosiers sauvages. Laquelle des trois filles est donc la plus jolie ? Sans doute celle qui dort dans la mansarde, et qui n’a pas peur…</p>
             <p>Mais c’est l’aînée que je préfère, et qui m’attend peut-être, derrière ses volets mal clos…</p>
