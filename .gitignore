@@ -7,6 +7,6 @@ toc/
 epub/
 kindle/
 *.sqlite
-conf.php
+*.epub
 .DS_Store
 work
