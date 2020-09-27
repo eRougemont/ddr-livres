@@ -45,7 +45,8 @@
       </div>
       <div type="chapter">
         <pb n="11"/>
-        <head>Prologue <lb/>Sentiment de l’Amérique</head>
+        <head>Prologue
+          <lb/>Sentiment de l’Amérique</head>
         <p>Cinq ans déjà, et chaque matin je m’étonne encore de me réveiller en Amérique. J’ai vécu en Suisse, en Autriche, en Italie, en Allemagne et en France : quelques mois et j’étais acclimaté. J’oubliais que le pays n’était pas le mien. C’était l’Europe. C’est ici l’Amérique, et je n’ai pas fini de m’en ébahir. Ce Nouveau Monde m’apparaît à chaque pas, sinon neuf, du moins différent de ce que mes réflexes attendaient.</p>
         <p>Des amis débarquant de France me disent : « Alors, qu’en pensez-vous ? » De l’Amérique ? Tout ce que je vais vous en dire, tout ce que l’on peut en dire en général sera vrai selon les temps et les lieux, et tout sera contradictoire, et rien ne sera suffisant.</p>
         <p>New York a les plus hauts gratte-ciel du monde, c’est vrai. Mais Le Corbusier, promené pendant une heure dans la ville par des <pb n="12"/> journalistes, et finalement interrogé sur ses impressions d’architecte, répondit, m’assure-t-on : « Les maisons sont trop basses. » Et c’était vrai, car la plupart ont trois étages. Ainsi du reste : ce pays si religieux n’a guère le sens du spirituel ; on y est tour à tour plus formaliste et plus sans-façons qu’en Europe ; plus avide de nouveauté et plus respectueusement conservateur ; plus réaliste et plus idéaliste ; plus efficace dans la rationalisation, et plus gaspilleur ; plus puritain et plus libre de mœurs. L’Amérique ne se définit pas. Elle ne s’explique pas dans l’ensemble. Elle se sent. L’Amérique, c’est d’abord un sentiment.</p>
@@ -63,9 +64,10 @@
         <ab type="ornament">⁂</ab>
         <p>Je ne vous ai pas parlé d’actualités brûlantes, dans cette préface à quelques articles sur l’Amérique. C’est que je crois aux <hi rend="i">signes</hi> plus qu’aux faits ; aux courants d’opinion ou de sensibilité plus qu’aux chiffres et aux statistiques ; à ce qui prépare et fait mûrir lentement les événements, plus qu’aux incidents de la semaine. Il me semble assez important, pour faire comprendre à des Français certaines démarches surprenantes de la diplomatie américaine, de parler tout d’abord et surtout de ce qu’on ne dit pas dans les dépêches, de ce qui n’est pas matière d’enquêtes et de reportages, de ces nuances de sentiments ou de coutumes qui qualifient la vie et la vision d’un peuple, et qui par là, vont peut-être expliquer l’histoire du siècle, notre histoire réelle. Car celle-ci dépend de deux peuples — l’autre est le russe — dont toutes les réactions intimes et sautes d’humeur vont affecter notre sort matériel, aussi directement que naguère les crises d’un certain névropathe.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="1.">
         <pb n="19"/>
-        <head>I <lb/>Vie politique</head>
+        <head type="kicker">I</head>
+        <head>Vie politique</head>
         <div subtype="level2">
           <pb n="21"/>
           <head>Le rêve américain</head>
@@ -189,9 +191,10 @@
           <p>Cette timidité de la politique américaine me paraît beaucoup plus dangereuse, pour l’Europe, que cet impérialisme qu’on redoute pour de mauvaises raisons, ou parce qu’on l’assimile à des tendances européennes qui n’ont de commun avec lui que le nom.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="2.">
         <pb n="59"/>
-        <head>II <lb/>Vie culturelle et religieuse</head>
+        <head type="kicker">II</head>
+        <head>Vie culturelle et religieuse</head>
         <div subtype="level2">
           <pb n="61"/>
           <head>Une presse qui informe ses lecteurs</head>
@@ -353,9 +356,10 @@
           <p>Il ne me reste plus qu’à noter que Kierkegaard, précisément, est entièrement traduit en Amérique, et que j’ai trouvé partout des étudiants — non seulement chez les théologiens — qui le lisent et commentent avec passion. Ce petit signe en contredit bien d’autres.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="3.">
         <pb n="113"/>
-        <head>III <lb/>Vie privée</head>
+        <head type="kicker">III</head>
+        <head>Vie privée</head>
         <div subtype="level2">
           <pb n="115"/>
           <head>La Guerre des sexes en Amérique</head>
@@ -411,12 +415,14 @@
           <p>Entre les moralistes puritains qui tentaient follement de faire « comme si » l’instinct sexuel pouvait être passé sous silence ou nié ; les sexologues qui tenteront follement de faire « comme si » ce même instinct souffrait des mesures, rationnelles ; les producers de Hollywood qui tentent follement de l’exciter tout en le contenant dans de « justes » limites, fixées par le Comité Hays, — le jeune Américain, s’il trouve une voie saine et quelques disciplines praticables, sera vraiment le génie du siècle et l’objet d’une grâce spéciale. Or c’est bien ce qu’il pense être, étant Américain. Je ne l’observe pas sans inquiétude ; non plus sans beaucoup d’amitié.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="4.">
         <pb n="135"/>
-        <head>IV <lb/>Conseil à un Français pour vivre en Amérique</head>
+        <head type="kicker">IV</head>
+        <head>Conseil à un Français pour vivre en Amérique</head>
         <div subtype="level2">
           <pb n="137"/>
-          <head>1. <lb/>Comment on entre en Amérique</head>
+          <head>1.
+            <lb/>Comment on entre en Amérique</head>
           <p>Tous les Américains, sauf les Indiens, seuls « premiers possesseurs du bois et du rocher », sont des anciens Européens. Des gens qui ont voulu oublier leur patrie (pays des pères ou <hi rend="i">Vaterland</hi>) pour habiter une puérie (pays des enfants, ou <hi rend="i">Kinderland</hi> comme disait Nietzsche). Vous qui entrez, ne pensez plus, avec le proverbe latin, qu’il est doux et honorable de mourir pour la terre des ancêtres, mais, au contraire, qu’il est décent de vivre pour sa descendance.</p>
           <p>Les deux pays tournés vers l’avenir et qui détermineront le cours du siècle, la Confédération américaine et la Confédération soviétique, sont aujourd’hui ceux qui paraissent craindre le plus l’intrusion des Européens. Pour entrer dans l’un, il faut être communiste ; <pb n="138"/> pour entrer dans l’autre il faut surtout ne pas l’être, mais cela ne suffit pas.</p>
           <p>N’oubliez jamais que l’Amérique est un pays d’immigration, non de tourisme. Elle exige, quand vous y entrez, des preuves que vous y resterez. Faute de quoi, elle vous renverra dans les six mois. C’est « entre ou sors ». Mais elle est aussi un pays en défense contre l’immigration. De ceux qui veulent y rester, elle exige des gages moraux, financiers, idéologiques, et physiologiques. Trouvez donc deux Américains qui s’engagent à vous entretenir en cas de besoin. Rassemblez vos actes de naissance, d’origine, et de mariage, un extrait de casier judiciaire, des certificats de domicile, un passage, des visas de sortie, de transit et d’entrée, enfin toutes les preuves imaginables que vous êtes solvable, et de plus soluble dans l’américanisme. Après quoi commenceront des interrogatoires, prises de sang, enquêtes policières sur vous et vos parrains. Quelques mois plus tard, avec de la patience, de l’impatience, une bonne volonté passionnée et une heureuse constellation de naissance, vous entrerez.</p>
@@ -427,14 +433,14 @@
         </div>
         <div subtype="level2">
           <pb n="140"/>
-          <head>2.<hi rend="i"><lb/>Premier traité</hi> : Ce qu’il ne faut plus dire ni penser de l’Amérique</head>
+          <head>2.<hi rend="i">
+              <lb/>Premier traité</hi> : Ce qu’il ne faut plus dire ni penser de l’Amérique</head>
           <p>Mettez sur votre liste noire un certain nombre de lieux communs qui ont cours en France, et que plusieurs récitent encore en Amérique après des années de séjour.</p>
           <p><hi rend="i">En Amérique, tout se ressemble : vous trouverez partout le même</hi> drugstore<hi rend="i">, le coca-cola, et</hi> Main Street.</p>
           <p>Cette phrase ne résiste pas au moindre examen. Dirai-je qu’en France tout se ressemble, parce que vous y trouverez partout la même épicerie, les mêmes bistros sur la même place de village, les mêmes apéros, et la même Grand Rue ? Un Américain pourrait le dire. Un Blanc débarquant en Chine ne manque jamais de remarquer que tous les Chinois se ressemblent. Un Chinois pensera de même que tous les Parisiens sont interchangeables. Ces ressemblances universelles n’existent que dans le regard du nouveau venu. Regard imprécis, déconcerté, et sollicité par tant d’images étranges qu’il n’y voit au premier abord que l’étrangeté justement, <pb n="141"/> qui est le seul trait qu’elles possèdent en commun.</p>
           <p>De fait, New York est une ville de contrastes violents, de population composite à l’extrême, répartie en une douzaine de quartiers nationaux ou raciaux — chinois, allemand, italien, tchèque, nègre, juif, etc. — qui n’ont de commun que la saleté et l’ordonnance géométrique des rues. Et le reste des États-Unis ! Drugstore à part (et ces magasins clairs, où l’on peut s’asseoir au bar et déjeuner, n’ont rien que de plaisant) les différentes régions de l’Amérique se ressemblent bien moins entre elles que la Nouvelle-Angleterre, par exemple, ne ressemble à l’Europe.</p>
           <p>
-            <hi rend="i">Toutes les maisons sont pareilles, fabriquées en série. On se trompe de porte en croyant rentrer chez soi</hi>.
-          </p>
+            <hi rend="i">Toutes les maisons sont pareilles, fabriquées en série. On se trompe de porte en croyant rentrer chez soi</hi>. </p>
           <p>Tout d’abord, les cottages américains, en bois blanc, entourés de gazon, et qui vous accueillent par une allée de grandes dalles propres, sont en règle générale beaucoup plus jolis que nos villas de macaron ocré, trop hautes et maigres, hérissées de pierres en relief et de balcons de fer, enfermées dans des barrières de barbelés rébarbatives. Ces cottages sont d’une infinie variété d’architecture, et s’ils se ressemblent tous à l’intérieur par le confort, je n’ai jamais observé qu’un Américain, même saoul, ne reconnaisse pas son <pb n="142"/> porch, sa large cheminée de briques, ses volets bleus ou rouges, son jardin sans rocaille ni clôtures. Et je parle des maisons d’ouvriers, de petits bourgeois, de gens qui n’auraient en Europe qu’un « pavillon » grisâtre, semblable à tous les autres. Le nombre des petits propriétaires qui se font bâtir une maison à leur idée a été centuplé depuis une quinzaine d’années, grâce aux mesures du <hi rend="i">New Deal</hi> et au système de prêts et hypothèques inauguré par Henry Wallace.</p>
           <p><hi rend="i">Pays de la vitesse</hi>. Sur les autostrades et dans les airs, oui. Partout ailleurs, dans la vie quotidienne, l’Américain est plus lent que le Français. L’homme d’affaires arrivé se reconnaît à un signe infaillible : il a le temps. Le temps de vous recevoir sans bousculade, à l’heure convenue. Le temps de passer le week-end à la campagne, du vendredi soir au lundi matin. Le temps de réfléchir. L’homme du peuple travaille sans hâte, attend sans nervosité dans la file son tour d’entrer au cinéma, son tour de remplir une assiette à la cafeteria. L’allure nègre, balancée, paresseuse, ne se reconnaît pas seulement dans la manière de danser des Américains, mais dans leur démarche, dans leur manière de prendre la vie, tantôt plus négligente, tantôt plus émotive que la nôtre. Si la production industrielle atteint un rythme étourdissant, ce n’est pas que les ouvriers travaillent fiévreusement, <pb n="143"/> c’est que l’organisation est bonne. Et dans ces ascenseurs express qui ne mettent que trente secondes pour vous porter au sixième étage, le garçon chantonne, les passagers ont l’air de muser, on ne se bouscule pas pour sortir. C’est la lenteur américaine qui agacera le Parisien.</p>
           <p><hi rend="i">Leur matérialisme</hi>. Ils attachent beaucoup plus d’importance que vous à la qualité des étoffes, et beaucoup moins à l’élégance : santé d’abord. Ils dépensent plus que vous pour avoir un frigidaire, du lait contrôlé, des jus de fruit et des céréales ; vous dépensiez plus qu’eux dans le bon temps pour avoir un bifteck et du vin rouge. Ils ne lisent pas tous Pascal, vous non plus. Ils décorent luxueusement leurs églises, mais elles sont pleines. Ils ont beaucoup plus d’autos que les Français, parce qu’elles sont moins chères qu’en France et que les distances sont plus grandes. Ils parlent constamment d’argent, sans la moindre pudeur, tandis que vous y pensez constamment, en le cachant. Ils sont matérialistes, vous aussi. La différence est qu’ils ont mieux réussi dans ce domaine. De plus, ils pensent que vous manquez d’idéalisme.</p>
@@ -446,10 +452,10 @@
         </div>
         <div subtype="level2">
           <pb n="146"/>
-          <head>3. <lb/><hi rend="i">Second traité</hi> : Bien vu ou mal vu</head>
+          <head>3.
+            <lb/><hi rend="i">Second traité</hi> : Bien vu ou mal vu</head>
           <p rend="center">
-            <hi rend="i">Quelques points de comparaison entre les mœurs de l’Amérique et de l’Europe</hi>.
-          </p>
+            <hi rend="i">Quelques points de comparaison entre les mœurs de l’Amérique et de l’Europe</hi>. </p>
           <p>Les jugements de la morale courante, et non les lois (qui en résultent souvent, mais qui ne les créent presque jamais) déterminent l’atmosphère d’une civilisation et le degré de liberté concrète qu’elle nous ménage. Et je ne sais pas de meilleure méthode pour définir une civilisation que de rechercher ce qui est « bien vu » ou « mal vu » par ses usagers. Tentons ici un catalogue rapide des standards de l’Américain, que nous supposerons moyen pour l’occasion. Il est vrai que l’homme moyen n’est qu’une fiction : les romanciers modernes nous l’ont assez montré, c’est leur métier. Mais ils partent de cette fiction, pour la combattre. Partons-en, par commodité. Et bornons-nous à quelques sujets brûlants.</p>
           <p><hi rend="i">Les impôts</hi>. — En France, il est bien vu de tricher <pb n="147"/> avec le fisc. Non seulement on le fait, mais on s’en vante. « On les a eus » une fois de plus. Et cela se raconte chez les amis. En Amérique, je ne sais si l’on triche moins, mais je sais qu’on ne s’en vante jamais. L’Américain moyen se plaint beaucoup des mille complications de sa feuille d’impôts (et cependant il n’en a qu’une, tandis qu’un grand industriel français m’affirmait l’autre jour qu’il en remplit 145 pour sa société). Il se plaint, mais il met son point d’honneur à payer ce qu’il doit, toutes déductions légales ayant été gonflées jusqu’au point d’éclatement. (Ceci avec l’aide bienveillante d’agents du fisc, qui vous assistent gratuitement dans tous les bureaux de poste des États-Unis, le jour de l’échéance.) Il achète, en réglant ses taxes, une bonne conscience civique qui fait partie de son hygiène autant que de sa religion, et qui pour lui vaut plus que les sommes qu’en trichant il eût sauvées.</p>
           <p/>
@@ -477,12 +483,14 @@
         </div>
         <div subtype="level2">
           <pb n="153"/>
-          <head>4. <lb/>Comment ils accueillent un étranger</head>
+          <head>4.
+            <lb/>Comment ils accueillent un étranger</head>
           <p>Le grand bourgeois de Paris et ses fils, lorsqu’ils rencontrent une tête nouvelle, ne sourient guère. Ils tendent une main précise, accompagnée d’un regard qui jauge cet adversaire ou ce partenaire possible. Qui va prendre avantage sur l’autre ? Ainsi se présentent-ils, comme s’ils venaient de tirer une invisible fermeture éclair.</p>
           <p>L’Américain s’ouvre, au contraire, comme sa bouche sur des dents éclatantes, et comme s’il n’avait attendu que votre arrivée, justement, pour donner enfin libre cours à ses puissances instinctives de cordialité et d’hospitalité.</p>
         </div>
         <div subtype="level2">
-          <head>5. <lb/>Comment ils deviennent amis</head>
+          <head>5.
+            <lb/>Comment ils deviennent amis</head>
           <p>À la deuxième rencontre, ou tout de suite, l’Américain vous dit votre prénom, vous raconte sa vie sentimentale et l’état de ses affaires, enfin vous invite pour un week-end.</p>
           <p><pb n="154"/> Pendant vingt ans, le Français vous dira Monsieur, fera l’impossible pour vous cacher sa richesse s’il est riche, sa pauvreté s’il est pauvre, sa vie privée en général, et ne vous rencontrera qu’au café.</p>
           <p>Mais en France des amitiés se nouent — terme intraduisible en anglais — des amitiés exigeantes et suivies, attentives et agissantes. Personne n’a plus, et mieux écrit sur l’amitié que les moralistes français, de Montaigne à Paul Valéry. Tandis qu’en Amérique, il vous arrive souvent de vous sentir seul au monde en connaissant tout le monde. La rançon d’une intimité trop rapide et superficielle, c’est la facilité avec laquelle cette intimité s’évapore. On se voit tous les jours pendant quelques semaines, puis plus du tout pendant un an. Et quand on se rencontre par hasard, on ne se demande pas ce qu’on est devenu, on rit, on boit, on ne s’étonne de rien, tout glisse et passe, il y a tant d’êtres sur la terre, tant de hasards, tant de manières de vivre, de bonnes et de mauvaises fortunes, par chance…</p>
@@ -490,35 +498,41 @@
         </div>
         <div subtype="level2">
           <pb n="155"/>
-          <head>6. <lb/>Comment ils s’unissent et se divisent</head>
+          <head>6.
+            <lb/>Comment ils s’unissent et se divisent</head>
           <p>En France, il y a les catholiques et les laïcs, c’est simple ; mais il y a d’autre part trente-six partis et sous-partis, tendances et nuances politiques.</p>
           <p>En Amérique, il y a les républicains et les démocrates, c’est simple ; mais il y a d’autre part trente-six « stocks » d’immigrants, et trente-six églises différentes, sous-églises, sectes et sous-sectes, transportées jadis ou naguère par des réfugiés religieux.</p>
           <p>Mais les Américains changent facilement d’église, selon leur domicile ou leur cercle d’amis, tandis que le Français donne l’impression qu’il ne changerait pas plus de parti que de passé.</p>
         </div>
         <div subtype="level2">
-          <head>7. <lb/>Comment ils prennent la vie</head>
+          <head>7.
+            <lb/>Comment ils prennent la vie</head>
           <p>Le Français est profondément sérieux, c’est même à mon avis l’espèce d’homme la plus sérieuse de la planète. Cependant ses chansons, son théâtre d’avant-guerre, ses <pb n="156"/> romans à succès et ses produits d’exportation, humains ou commerciaux, le font passer pour plus léger que l’air. Il a fallu le Général de Gaulle et les récits de la Résistance pour que certains Américains pressentent enfin que la France est le pays du sérieux sobre, de l’intransigeance réaliste, des provinciaux vêtus de noir — « le noir, la couleur nationale ! » s’écrie un personnage de Giraudoux — sans parler des débats sur la laïcité ou les écoles confessionnelles.</p>
           <p>L’Américain lui, passe encore en Europe pour un Anglo-Saxon puritain du type dynamique, alors qu’il est en réalité et neuf fois sur dix, bien plus près du méridional par son goût de l’exagération — Tartarin serait bien épaté — son humeur communicative, et son insouciance lyrique. Ses chansons déchirantes de sentimentalisme ne traduisent que ses rêveries, dans un style emprunté aux nègres. Mais sa vie amoureuse et sexuelle me paraît fort peu romantique. On compare les salaires en toute simplicité, on divorce pour des questions de cuisine, on se console vite, on n’admet pas la jalousie. Le « réalisme terre-à-terre » des Américains dans ce domaine, présente un tel contraste avec les mœurs des Européens qu’on perd l’espoir de jamais faire comprendre les uns aux autres. D’où les accusations <pb n="157"/> de « manque de sérieux », qu’ils ne cesseront pas d’échanger, sur la foi des caricatures traditionnelles.</p>
         </div>
         <div subtype="level2">
-          <head>8. <lb/>Comment ils inventent</head>
+          <head>8.
+            <lb/>Comment ils inventent</head>
           <p>Un ingénieur français, débarquant à New York, déclare que son pays vient de construire l’avion le plus rapide du monde. L’industrie française a tenu le coup, elle se remonte même si rapidement qu’elle bat déjà l’américaine sur le terrain le plus favorable à cette dernière. Mais tout compte fait, l’avion le plus rapide du monde n’existe qu’à un seul exemplaire. Et pendant qu’on le construisait, l’Amérique a produit quelques milliers d’appareils plus lourds et plus lents, qui n’ont d’autre avantage que de fonctionner sur toutes les grandes lignes du monde.</p>
           <p>Curieuse impatience du génie français : il invente sans relâche, et cent fois plus que le génie américain ; mais aussitôt il généralise son invention, son prototype ; c’est à ses yeux un stade atteint et dépassé, c’est comme si tous les avions de série étaient déjà faits ; il en est fatigué d’avance, et passe à l’invention suivante.</p>
           <p><pb n="158"/> Vue d’Amérique, l’Europe apparaît comme une petite région de la planète proprement stupéfiante par la densité de ses inventions, tandis que l’Amérique vue d’Europe stupéfie par sa production standardisée. C’est que l’Européen s’ennuie plus vite et supporte moins de s’ennuyer. Tandis que l’Américain se contente plus longtemps des mêmes idées, des mêmes types d’appareils, parce qu’il les utilise vraiment, parce qu’il en vit, et qu’il ne spécule pas à leur sujet.</p>
         </div>
         <div subtype="level2">
-          <head>9. <lb/>Comment ils construisent</head>
+          <head>9.
+            <lb/>Comment ils construisent</head>
           <p>En Europe, terre des cathédrales, on demande à Le Corbusier de bâtir des églises en verre et en ciment : je me souviens du temple protestant de Drancy, et de vingt églises en style aérodynamique construites par les Allemands avant Hitler, ou par les Suisses ou par les Hollandais. Mais en Amérique, on copie le gothique, tant pour les églises que pour les universités. On pousse le raffinement jusqu’à construire le chœur en style roman, et la nef en style ogival ; jusqu’à reproduire les tours <hi rend="i">non terminées</hi> des cathédrales européennes. Et les résidences <pb n="159"/> luxueuses de la campagne ou de la ville sont régulièrement — sauf dans le Sud — de style Tudor, de style Renaissance, de style hollandais ou espagnol…</p>
           <p>Par contre, les cottages américains ont infiniment plus d’originalité, de diversité et d’élégance, que les maisons bourgeoises en France.</p>
           <p>Quant aux gratte-ciel, l’ère en est bien passée. Sauf à New York, ils ne sont pas rentables.</p>
         </div>
         <div subtype="level2">
-          <head>10. <lb/>Comment ils sont scrupuleux ou non</head>
+          <head>10.
+            <lb/>Comment ils sont scrupuleux ou non</head>
           <p>L’Américain ne pardonne pas une erreur de 2 cents dans un compte, mais se trompe joyeusement d’un pays quand il bombarde, d’un siècle quand il cite l’histoire, d’un ordre spirituel quand il critique un livre.</p>
           <p>Ce qu’il ne tolère pas, c’est le mensonge, et là précisément où le Français le considère comme allant de soi, j’entends vis-à-vis de l’État. Quand vous entrez en Amérique, on vous demande de remplir des questionnaires comportant des questions de ce genre : « Buvez-vous ? Modérément ? À l’excès ? Fumez-vous ? Avez-vous d’autres vices ? Êtes-vous partisan de doctrines tendant au <pb n="160"/> renversement des institutions américaines ? » Vous pouvez répondre que vous êtes alcoolique et anarchiste, on vous laissera entrer. Mais si vous dites <hi rend="i">sous la foi du serment</hi>, que vous ne l’êtes pas, et que votre vie plus tard prouve que vous l’êtes, l’amende ou la peine de prison seront triplées. Tout repose ici sur la parole donnée, seul fondement d’une réelle démocratie. Je mets à part le cas de l’<hi rend="i">Immigration Service</hi>, déjà nommé, institution spécifiquement américaine dans ce sens qu’on n’en connaît point ailleurs l’équivalent, et cependant bien faite pour exciter l’indignation de l’Américain moyen s’il en soupçonnait les coutumes. Ce qui ne risque guère de se produire jamais, puisqu’aucun journaliste n’est admis à enquêter sur les mystères d’Ellis Island.</p>
         </div>
         <div subtype="level2">
-          <head>11. <lb/>Comment ils se battent</head>
+          <head>11.
+            <lb/>Comment ils se battent</head>
           <p>Voici le contraste le plus profond entre l’Ancien et le Nouveau Monde : leur manière de réagir à la souffrance. Prenons l’exemple de la mort à la guerre.</p>
           <p>Le Français, élevé dans l’idée que <hi rend="i">dulce et decorum est pro patria mori</hi>, accepte de se <pb n="161"/> faire tuer non point par fanatisme, religieux, comme le Japonais, ni par esprit quasi sportif comme l’Américain, mai par une sorte de fatalisme inconscient. (Je ne parle pas du héros, mais du troupier moyen, sans opinion.) Il pense qu’il faut ce qu’il faut, et qu’il faut cela, et que c’est ainsi depuis des siècles, et qu’on ne peut pas y échapper.</p>
           <p>L’Américain, bien au contraire, considère la souffrance et la mort comme des accidents insensés, que rien au monde ne peut rendre acceptables ou justifiables. L’idée que la souffrance puisse devenir féconde ne l’effleure pas, tandis qu’elle règne sur notre inconscient, résidu des plus solennelles traditions religieuses de l’Occident. C’est pourquoi les Français avancent sous le feu de l’ennemi, tandis que les Américains s’assurent d’abord — quitte à payer le prix qu’il faut en matériel — que les batteries d’en face ont été écrasées.</p>
@@ -526,7 +540,8 @@
         </div>
         <div subtype="level2">
           <pb n="162"/>
-          <head>12. <lb/>Comment ils élèvent leurs enfants, ou non</head>
+          <head>12.
+            <lb/>Comment ils élèvent leurs enfants, ou non</head>
           <p>La journée d’école s’ouvre par une cérémonie patriotique et religieuse. Un des enfants préside, debout devant la classe. Il lit le premier verset d’un psaume, la classe répond par le second, il lit le troisième, etc. À l’antiphone succède le Notre Père, puis le chant du <hi rend="i">Star Spangled Banner</hi>, et enfin le serment au drapeau. <hi rend="i">I’m proud to be an American</hi> ! (Ceci dans les écoles publiques du New Jersey. Cette coutume varie beaucoup selon les États et selon les directeurs d’école.) Le reste de la journée n’est guère fatigant, et les devoirs à domicile s’expédient en moins d’une demi-heure. Quant aux notes, elles ne sont pas chiffrées. C’est : excellent, bon, suffisant ou défectueux. Et elles ne portent pas seulement sur l’histoire et l’arithmétique, mais sur le « sens social », « l’adaptation au milieu », les sports, les qualités d’initiative, et l’intérêt pris aux leçons. Les petits étrangers sont mal vus, et fréquemment persécutés, sous l’œil apparemment aveugle de l’institutrice. Tous les parents européens qui le peuvent font passer leurs <pb n="163"/> enfants, après un an d’essai, dans une école privée.</p>
           <p>Au foyer, les parents jouent à peu près le rôle des rois dans les États démocratiques. Pratiquement, ils ont démissionné. Souvent, les rôles sont renversés. Les enfants préfèrent le <hi rend="i">Herald Tribune</hi> au <hi rend="i">Times</hi>, parce que le <hi rend="i">Tribune</hi> publie le dimanche un supplément de <hi rend="i">comics</hi> en couleur. Occasion de conflits hebdomadaires, car le père s’est jeté le premier sur la suite des hauts faits de Superman. L’enfant doit se contenter des nouvelles politiques, qu’il lit à plat ventre sur le tapis, non sans poser force questions qui gâtent le plaisir du père.</p>
           <p>Sur quoi la petite fille de six ans décroche le téléphone, s’installe sur le divan, et bavarde avec une amie. Une fille de 12 à 15 ans occupe le téléphone deux heures par jour. À 16 ans, elle prie ses parents de se retirer du living-room parce qu’elle a invité quelques amis à elle.</p>
@@ -534,7 +549,8 @@
           <p>Les Européens qui persistent dans leurs méthodes d’éducation européenne ne tardent pas à recevoir la visite de voisins avides de s’instruire : cette façon d’exiger le respect des enfants, de les faire travailler et lire, et même de leur donner des ordres, ne serait-ce pas un système nouveau, qu’il serait criminel d’ignorer ?</p>
         </div>
         <div subtype="level2">
-          <head>13. <lb/>Comment vous réussirez ou non en Amérique</head>
+          <head>13.
+            <lb/>Comment vous réussirez ou non en Amérique</head>
           <p>L’Américain moyen vit encore sur l’idée qu’il a tout comme un autre sa chance de devenir riche. Cette idée, réfutée par toutes les statistiques, lui est inculquée dès le Kindergarten. Le cinéma l’entretient et l’exporte. Vous pensez donc, quand vous entrez en Amérique, que c’est là que se cachait cette fortune qu’un juste sort vous doit et vous tient en réserve. Or vous avez beaucoup moins de chance de la trouver qu’un indigène, qui lui-même, n’en a qu’une sur mille.</p>
           <p>Voici la liste de vos handicaps Vous savez mal l’anglais. Vous vous fâchez trop vite. Vous tenez à ceci plutôt qu’à cela. Vous travaillez trop bien ou peut-être trop vite. Vous n’êtes pas ponctuel. Vous croyez aux passe-droits et aux coupe-file. Vous prenez trop de temps pour déjeuner. Vous vous expliquez trop et vous manquez de cette espèce de brutalité froide et contenue qui vous ferait prendre au sérieux. De plus, les hommes se méfieront de vous, s’ils sont mariés, à cause de la réputation que leurs femmes <pb n="165"/> vous font sur la foi de quelques romans, du sourire de Boyer, de la moustache de Menjou, et de l’intérêt réel — soit dit à votre honneur — que vous portez au sexe faible.</p>
           <p>J’ai vu des Français, à New York, qui se rendaient ridicules au dernier point en affectant l’allure qu’on attribue <hi rend="i">chez eux</hi> à l’homme d’affaires américain.</p>
@@ -544,7 +560,8 @@
           <p>Aux femmes de toute condition qui débarquent dans leur pays, les Américains recommandent : prenez un avocat, un docteur, un dentiste, un compte en banque et une police d’assurance. Vous serez alors à toute épreuve, et respectée.</p>
         </div>
         <div subtype="level2">
-          <head>14. <lb/>Comment on y devient fou</head>
+          <head>14.
+            <lb/>Comment on y devient fou</head>
           <p>Dans les grandes villes, et à New York surtout, vous prenez une telle habitude de n’être pas regardé, <hi rend="i">pas vu</hi>, et pas jugé, que vous en profitez naturellement pour devenir fou.</p>
           <p>Il en va bien différemment dans les villages. Vous y deviendrez fou aussi, mais pour des raisons toutes contraires. Par compression sociale, irrésistiblement et cordialement intransigeante.</p>
           <p>J’ai observé souvent l’espèce de vertige qui s’empare des Européens après quelques mois d’Amérique, précisons : de grande ville américaine. Les mesures ont changé autour d’eux. Les cadres sociaux n’y sont plus, pour <pb n="167"/> les maintenir dans une routine protectrice. La femme voit s’ouvrir devant elle une liberté qui l’étourdit, et tout est disposé pour qu’elle en use. Marques de son autonomie : un job, un compte en banque, un avocat, un coiffeur, des amis « à elle ». Elle s’adaptera plus vite et mieux que le mari aux conditions de succès dans le Nouveau Monde.</p>
@@ -553,7 +570,8 @@
         </div>
         <div subtype="level2">
           <pb n="168"/>
-          <head>15. <lb/>Comment un Américain moyen juge la France</head>
+          <head>15.
+            <lb/>Comment un Américain moyen juge la France</head>
           <p>Au lendemain de la démission d’un énième cabinet à Paris, un Américain me disait :</p>
           <p>— En France, n’importe quel problème d’ajustement économique devient aussitôt politique, c’est-à-dire qu’il provoque des discours plus ou moins littéraires, un torrent de clichés qui n’ont aucun rapport avec la question, et des affirmations grandiloquentes d’attachement indéfectible aux principes généraux de la gauche ou de la droite. Posez la question d’une répartition des huiles et savons par l’État, et vous serez bientôt en plein délire : tous les partis nommeront des commissions pour savoir si l’usage du savon favorise sournoisement le fascisme, ou bien la mainmise moscoutaire. Ces commissions d’ailleurs ne seront occupées qu’à clamer, la cravate en bataille, des résolutions farouchement patriotiques, ou républicaines jusqu’à la mort. Plus question du savon. Brossez-vous.</p>
           <p>Nous ne posons pas de question de principe à propos de ce produit utile et hygiénique. S’il y a crise dans la fabrication et dans la répartition de l’article, nous étudions <pb n="169"/> ces deux questions, et prenons les mesures nécessaires <hi rend="i">pour les résoudre</hi>, non pas pour qu’on en parle. Notre tendance est de nous en remettre à une agence d’État, qui généralement fait le travail à la satisfaction du plus grand nombre, puis se dissout.</p>
@@ -564,7 +582,8 @@
           <p>Avec tout cela, je me demande bien pourquoi nous adorons la France comme une femme ! Pour sa grâce et pour ses faiblesses de grande coquette blessée, peut-être. Mais aussi pour une certaine sagesse, une certaine retenue ou rigueur, un certain équilibre élégant et hardi, qui nous en imposent encore… Nous faisons à la France un crédit démesuré, plus qu’à nul autre pays au monde. Le sentez-vous ? À vous de n’en point abuser. C’est d’ailleurs très facile, me semble-t-il. Soyez honnêtes dans les négociations, comme le fut votre Herriot, que nous respectons. Et cessez de répéter sur notre compte des sottises pittoresques ou méprisantes. Nous sommes adultes.</p>
         </div>
         <div subtype="level2">
-          <head>16. <lb/>Comment un Américain moyen voit le monde</head>
+          <head>16.
+            <lb/>Comment un Américain moyen voit le monde</head>
           <p>Quels sont, se dit-il, les pays qui marchent le mieux en Europe ?</p>
           <p><pb n="172"/> Les États scandinaves, la Suisse, la Hollande, et la Grande-Bretagne. Ce sont des démocraties en majorité socialistes, ce qui peut inquiéter, mais aussi en majorité protestantes, ce qui doit rassurer. Ils ont donné nos meilleurs immigrants, ceux qui ont fondé nos vieilles familles.</p>
           <p>Quels sont les pays qui marchent mal et qui nous créent le plus d’ennuis ?</p>
@@ -577,7 +596,8 @@
           <p><hi rend="i">To sum up</hi> : Liberté, Prospérité et Poursuite du Bonheur, ce sont là mes trois idéaux. Et je ne les vois réalisés qu’en Amérique.</p>
         </div>
         <div subtype="level2">
-          <head>17. <lb/>Comment l’Europe peut aider l’Amérique</head>
+          <head>17.
+            <lb/>Comment l’Europe peut aider l’Amérique</head>
           <p>Comme je m’en veux de chacun de mes <pb n="175"/> articles trop favorables ou trop critiques sur l’Amérique ! Car le contraire, chaque fois, peut aussi être vrai.</p>
           <p>Car ces rêveurs sont <hi rend="i">aussi</hi>, et souvent, de vieux cornichons à lunettes, aux lèvres minces, sachant compter leurs sous et damner les buveurs de whisky ; ces fils de puritains, de charmants petits coquins ; ces joueurs de base-ball, de pédants logiciens ; ces grands souriants, des névrosés ; ces dynamiques, des timorés ; ces commerçants, des utopistes généreux ; ces « fondamentalistes », des déistes hérétiques ; et ces pieux catholiques, des amateurs réjouis de confessionnaux climatisés munis d’une « grille désodorisante »… Ils sont modernes. Car avec une belle énergie et beaucoup moins de naïveté que nous ne le pensons, ils embrassent mieux que nous la confusion du siècle, ils y sont installés carrément, et ils l’exploitent non sans une sorte de bon sens pour que le plus grand nombre en tire le plus de profit.</p>
           <p>Comme tous ceux qui décrivent une nation étrangère, j’ai péché par stylisation. Ajouter des nuances à mon tableau n’arrangerait pas grand-chose à cet égard. Ce qui échappe par définition à toute formule ou forme d’expression, c’est l’<hi rend="i">incohérence</hi> du réel. (Tout ce que l’on peut en dire, c’est qu’on l’éprouve.) Or justement, la civilisation <pb n="176"/> américaine souffre d’une grave incohérence interne. Mais je vois bien que je n’ai pas su la faire sentir autant que je la sens. Et peut-être n’y parviendrai-je que d’une manière négative : en suggérant certaines <hi rend="i">mesures</hi> et attitudes spirituelles que l’Europe seule peut opposer ou proposer à l’Amérique.</p>
@@ -590,7 +610,8 @@
           <p>Le krach de 1929, Hitler, la guerre, et quelques privations ont causé les premières fissures dans cet édifice d’inconscience que chacun s’ingéniait à rendre étanche, — inconsciemment. Ce sont là des secousses extérieures. Qui sait si une loi de l’esprit ne les rend pas d’autant plus fortes et fréquentes que les poussées intimes de la conscience sont plus méthodiquement refoulées ? Qui sait quels malheurs historiques un réveil spirituel de l’Amérique ne pourrait pas lui épargner ? Si l’Europe peut y contribuer, elle aura bien mérité de la planète.</p>
         </div>
         <div subtype="level2">
-          <head>18. <lb/>Comment l’Amérique peut aider l’Europe</head>
+          <head>18.
+            <lb/>Comment l’Amérique peut aider l’Europe</head>
           <p>Seuls, les Européens — je connais leurs complexes — trouveront trop dures pour <pb n="179"/> l’Amérique les quelques pages qui précèdent. L’Amérique a les reins solides. Elle a, sur tout autre pays que je connaisse, l’avantage d’accueillir les critiques avec mieux que de la tolérance : avec une volonté souriante mais sérieuse d’apprendre et de s’améliorer. J’y vois le signe de sa force.</p>
           <p>Qui n’a pas lu les éreintements de l’esprit américain auxquels se livrent avec exubérance les revues et les journaux américains ne sait pas ce que c’est que la confiance en soi.</p>
           <p>Ceci dit, je me retourne vers mes compatriotes européens et je leur dis : si vous voulez que l’Europe dure encore — et le reste du monde en a besoin — ne vous contentez pas d’appeler périodiquement l’Amérique à votre secours, quitte à la mépriser sitôt le travail fait. Sachez que les Américains ont beaucoup mieux à nous donner que des frigidaires, des capitaux et des avions. Ils ont libéré nos villages. Libérons-nous à leur contact, à leur exemple, de l’esprit villageois.</p>
@@ -602,7 +623,8 @@
       </div>
       <div type="chapter">
         <pb n="181"/>
-        <head>Épilogue <lb/>La route américaine</head>
+        <head>Épilogue
+          <lb/>La route américaine</head>
         <p>L’Européen parle parfois de sa conception de la vie ; l’Américain (l’Anglais aussi) de son <hi rend="i">way of life</hi>, littéralement : de sa route de vie. Ce qui est pour le Latin concept, forme arrêtée, devient chez eux chemin, voie et mouvement.</p>
         <p>C’est pourquoi je prendrai les routes d’Amérique comme un symbole du rêve et de la volonté du Nouveau Monde.</p>
         <p>On croyait close l’ère des pionniers, l’ère des défricheurs de savanes qui firent reculer la frontière de décade en décade, à travers le Far West, jusqu’à ce qu’ils eussent rejoint les terres du Pacifique. On ne pouvait plus rien ajouter aux plus hauts gratte-ciel de New York, à ces grandiloquents témoins de la Crise de 1929, où les affaires périssent et les bureaux se vident au-dessus du 50<hi rend="sup">e</hi> étage, pour peu que la pression baisse à Wall Street. Un grand malaise étreignait l’âme américaine, <pb n="182"/> prise de nausée dès qu’elle ressent l’approche d’une <hi rend="i">limite</hi> infranchissable. Où s’élancer encore ? Comment sortir de cet embouteillage de richesses matérielles ? Il restait à construire des routes.</p>

@@ -24,7 +24,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1970"/>
+        <date when="1965"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -102,9 +102,11 @@
           <pb n="21"/>
         </p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="I.">
         <pb n="21"/>
-        <head>Première partie <lb/>Le paysage historique <lb/>ou comment se forme une fédération</head>
+        <head type="kicker">Première partie</head>
+        <head>Le paysage historique
+          <lb/>ou comment se forme une fédération</head>
         <div subtype="level2">
           <pb n="23"/>
           <head>Puissance du mythe</head>
@@ -159,11 +161,19 @@
           <p><pb n="33"/> Vers l’est et vers l’ouest deux routes de col commencent la vallée du Rhin par l’Oberalp qui conduit aux Grisons rhétiques, et la vallée du Rhône par la Furka qui conduit au Valais latin. Et, au milieu, dans un cirque de prairies à l’herbe grasse, environné de hautes pentes dénudées que couronne parfois la tranche d’un glacier, les villages d’Andermatt et d’Hospental se groupent autour d’une grosse église baroque et d’un donjon romain sur un rocher.</p>
           <p>Au fronton de la chapelle Saint-Charles, à Hospental, quelques vers disent avec simplicité ce sentiment d’être au cœur de l’Europe qui ne manque pas de m’émouvoir chaque fois que je m’arrête au Gothard :</p>
           <quote>
-            <l>Ici les chemins se séparent. <lb/>Ami, où vont tes pas ? <lb/>Descendras-tu vers la Rome éternelle ? <lb/>Vers le Rhin allemand et Cologne la sainte ? <lb/>Ou bien vers l’ouest, au loin, en terre de France ?</l>
+            <l>Ici les chemins se séparent.
+              <lb/>Ami, où vont tes pas ?
+              <lb/>Descendras-tu vers la Rome éternelle ?
+              <lb/>Vers le Rhin allemand et Cologne la sainte ?
+              <lb/>Ou bien vers l’ouest, au loin, en terre de France ?</l>
           </quote>
           <p>Quelques siècles plus tard, un poète français fait dire à son héros quittant l’Europe et qui s’en remémore les saisons et les sites :</p>
           <quote>
-            <l>Et je me souviendrai de ce lieu où l’hiver <lb/>Demeure au cœur des mois d’été : <lb/>Ce lieu de glace, et de rocs noirs, et de cieux noirs, <lb/>Où, dans le pur silence. <lb/>Au-dessus de toute l’Europe se rencontrent La Germanie et Rome.<note place="bottom">Valery <hi rend="sc">Larbaud</hi>, Épilogue de <hi rend="i">A. O. Barnabooth</hi>.</note></l>
+            <l>Et je me souviendrai de ce lieu où l’hiver
+              <lb/>Demeure au cœur des mois d’été :
+              <lb/>Ce lieu de glace, et de rocs noirs, et de cieux noirs,
+              <lb/>Où, dans le pur silence.
+              <lb/>Au-dessus de toute l’Europe se rencontrent La Germanie et Rome.<note place="bottom">Valery <hi rend="sc">Larbaud</hi>, Épilogue de <hi rend="i">A. O. Barnabooth</hi>.</note></l>
           </quote>
           <ab type="ornament">⁂</ab>
           <p>En ce lieu se sont noués les destins de la Suisse, au <num>xiii<hi rend="sup">e</hi></num> siècle. Voyons les personnages du drame.</p>
@@ -456,9 +466,10 @@
           <p>C’est ainsi que le fédéralisme, issu des traditions du Saint-Empire et des communes médiévales, puis de la pratique empirique de régimes mis en place pendant le <num>xix<hi rend="sup">e</hi></num> siècle aux États-Unis et en Suisse, se déclare finalement comme doctrine politique, comportant une morale sociale et une méthode d’aménagement des relations de plus en plus complexes entre les groupes de toute nature qui forment la société contemporaine. Il a rejoint le siècle en s’y définissant. Désormais il n’est plus seulement résistance au géométrisme plat de centralisateurs sans imagination, mais création de formes dynamiques, de structures dans l’espace et le temps beaucoup mieux adaptées <pb n="103"/> aux besoins de l’ère qui s’ouvre, et que les techniques nouvelles permettent de réaliser. Il se révèle absolument moderne. Et nos après-venants découvriront peut-être qu’au moment où il s’est affirmé, au <num>xx<hi rend="sup">e</hi></num> siècle, face aux délires totalitaires, il était moins une survivance qu’une invention, il avait moins de passé que d’avenir.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="II.">
         <pb n="105"/>
-        <head>Deuxième partie <lb/>L’union, sauvegarde de la diversité <lb/>ou comment fonctionne une fédération</head>
+        <head type="kicker">Deuxième partie</head>
+        <head>L’union, sauvegarde de la diversité ou comment fonctionne une fédération</head>
         <div subtype="level2">
           <pb n="107"/>
           <head>1. Les institutions et la vie politique</head>
@@ -822,9 +833,10 @@
           <p>Il semble donc que le seul salut du fédéralisme intérieur soit dans l’extension du système au-delà du stade national, <pb n="172"/> c’est-à-dire dans l’agrégation progressive de l’État suisse à un plus vaste corps fédératif. Refuser cela au nom d’une conception mythique de la souveraineté absolue serait le plus sûr moyen de perdre l’indépendance relative que nous gardons, au sein de l’interdépendance des nations composant l’Europe.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="III.">
         <pb n="173"/>
-        <head>Troisième partie <lb/>La morale quotidienne et le climat de culture <lb/>ou comment on vit dans une fédération</head>
+        <head type="kicker">Troisième partie</head>
+        <head>La morale quotidienne et le climat de culture ou comment on vit dans une fédération</head>
         <p><pb n="175"/> Cette beauté bien drue d’énergie pure et neuve, aux matins luisants de rosée, quand le pays entier émerge de la brume, repeint durant la nuit comme un banc vert auprès du lac précieux où trempent des parois à peine moins translucides que le ciel, ce temps de création du monde juste avant l’homme et ses malheurs, c’est ma Suisse, telle que je la vois de très loin dans mon souvenir.</p>
         <p>J’y reviens. (Le retour au pays est un des thèmes constants de notre littérature.) Les gros plans tout d’un coup, aux approches de la gare, anéantissent l’exaltant panorama. Des maisons sages, un peu scolaires, des gens en gris, des gens en brun défilent, des visages s’immobilisent le long du quai, qui vais-je reconnaître ? Et plus rien n’est étrange ni beau, tout rejoint l’habituel indifférent, le rôle exact et le compartiment.</p>
         <p>Compartiment, c’est le mot clef de la Suisse. Géographiques ou sociaux, historiques ou sentimentaux, réglementaires ou initiatiques, se touchant tous et si bien clos. Le mystère suisse est là, sans aucun doute. À chacun de mes retours, je me promets d’y aller voir, mais je le sentais mieux de loin. Me voici repris, reclassé. Compartiments, esprit de groupe et sociétés, mais petits groupes de gens qui ne se connaissent que trop, et sociétés solides si leur but est restreint. Une vague angoisse me saisit : tout est un peu trop près et trop bien agencé. Comment bouger dans ce complexe de fins rouages si bien réglés ? Et comment retrouver la vision fraîche, le pouvoir <pb n="176"/> d’étonnements, et cette distance surtout, qui excitent à la découverte ? Vais-je repartir pour l’Amérique ou l’Inde, afin de mieux voir mon pays ? Mais je m’avise que l’horlogerie, qui est l’art suisse par excellence, est un art des petits mouvements réglant les grands.</p>
@@ -956,7 +968,10 @@
           <p>Par le pinceau, par l’épée et la plume. Manuel n’a cessé de provoquer la mort. Dans toute son œuvre, au cœur de son lyrisme, elle tient le lieu de la passion d’amour, et c’est elle qu’il invite à la danse avec une fougue adolescente, une peur naïve, un courage chrétien. Mort des martyrs et mort bourgeoise, mort soldatesque et mort de carnaval, vierge, paysanne ou fille à lansquenets, c’est toujours elle qui le rejoint ou qu’il poursuit dans les métamorphoses de sa vie : toujours vêtue aux couleurs de sa fièvre et de sa nouvelle aventure.</p>
           <p>Pourquoi les hommes les plus vivants de cette époque, où la vie s’exaspère, ont-ils fait à la mort, dans leurs rêves, la part <pb n="207"/> que nous fîmes à l’amour ? Urs Graf, Holbein, Grünewald et tant d’autres, connus ou anonymes, dira-t-on que ce fut leur romantisme ? Mais non, le romantisme est littéraire, et ces hommes ont le regard net, accoutumé à taxer le réel avec une dure exactitude : face au danger. Leur Suisse est au sommet de son élan vers la conquête et la richesse, au comble de sa gloire et de son risque. Elle n’a jamais été moins neutre, moins confinée dans ses moyennes, ni moins en garde contre les tentations de la grandeur. Elle est sérieuse parce qu’elle est menacée et menaçante ; parce qu’elle est tout le contraire d’un pays « d’assurés ». Sérieuse et impétueuse comme ceux qui savent que la vie n’est pas le but de la vie, qu’elle ne mérite pas de majuscule, et qu’elle est quelque chose qui doit brûler, flamber, et non pas rapporter du trois pour cent. Sérieuse comme ce qui compte avec la mort, comme ce qui compte avec l’esprit, — avec la profondeur et la hauteur sans quoi toute vie demeure plate et basse.</p>
           <quote>
-            <l rend="center">Quanto bella giovinezza <lb/>Che si fugge tuttavia ! <lb/>Chi vuol esser lieto, sia ! <lb/>Di doman non c’è certezza.</l>
+            <l rend="center">Quanto bella giovinezza
+              <lb/>Che si fugge tuttavia !
+              <lb/>Chi vuol esser lieto, sia !
+              <lb/>Di doman non c’è certezza.</l>
           </quote>
           <p>Ainsi chantait Laurent le Magnifique. Manuel et ses contemporains savent et disent à leur manière que « de demain rien n’est certain ». Mais ce qu’ils sentent menacé, ce n’est point la jeunesse et l’amour, je ne sais quel printemps platonicien, c’est la vie savoureuse et forte qui figure à leurs yeux le train normal de l’homme. Leur œuvre illustre la vision de l’Ecclésiaste, ce grand maître du vrai réalisme : « Jette ton pain sur la face des eaux, car avec le temps tu le retrouveras : donnes-en une part à sept, et même à huit, car tu ne sais pas quel malheur peut arriver sur la terre. » Le secret de la vie généreuse est la conscience de sa brève vanité.</p>
           <p>Dix-huit siècles de chrétienté ont prêché sur le thème du <hi rend="i">memento mori</hi>, mais nous préférons aujourd’hui l’éloge de la <pb n="208"/> vie au grand air. Et tout se passe comme si le souci de l’hygiène et celui de l’épargne dans tous les domaines tuaient en nous le sens métaphysique.</p>
@@ -1268,8 +1283,45 @@
           <p>Or, c’est précisément à Einsiedeln que Zwingli, jeune abbé passionné d’humanisme et « chapelain acolyte » du pape, apprend en 1517 ce qui vient de se passer à Wittenberg : l’affichage des thèses de Luther.</p>
           <p>À cette époque, la Suisse alémanique détenait pour la curie romaine une importance politique et militaire très spéciale, et elle en profitait pour se faire accorder une foule de droits et <pb n="260"/> grâces ecclésiastiques, ce qui peut expliquer en partie la tolérance montrée par Rome, dans les débuts, à l’égard des innovations religieuses de Zurich. L’esprit clérical était prononcé, et ses abus non moins criants qu’en Allemagne. La vie intellectuelle ne s’était éveillée que tardivement, au <num>xv<hi rend="sup">e</hi></num> siècle, l’université de Bâle, fondée en 1460, devenait un foyer d’humanisme avec Érasme. D’autre part, la mystique allemande du sud travaillait les consciences avides d’une religion plus intérieure : c’est ainsi que la secte des Amis de Dieu, dont le centre était à Strasbourg, comptait beaucoup de disciples chez les Suisses : Nicolas de Flue, qui venait de mourir, avait résumé dans sa personne toutes les vertus et les épreuves spirituelles des légendaires « ermites du Haut Pays » vénérés par la secte alsacienne<note place="bottom">Cf. <hi rend="sc">F. HÄusler</hi>, <hi rend="i" xml:lang="de">Die Geburt der Eidgenossenschaft aus der geistigen Urschweiz</hi>, 1939, p. 181 sq.</note>. Il avait d’autre part montré aux Suisses la voie de cette politique de neutralité dans laquelle Zwingli allait conduire ses compatriotes, en dépit de l’opposition des catholiques, toujours prêts à conclure des alliances étrangères avec Rome, l’Empereur, ou la France, pour assurer les droits de leur minorité.</p>
           <p>C’est Zwingli qui a donné sa forme et son esprit au protestantisme suisse. Les débuts de sa réforme, à Zurich, datent de 1518, lorsqu’il déclare, du haut de la chaire, qu’il se propose d’expliquer la doctrine chrétienne en se basant sur les documents originaux de la Révélation, la Bible et les Évangiles. Calvin ne publiera son <hi rend="i">Institution</hi> qu’en 1536, et ne s’installera définitivement à Genève qu’en 1540. Or Genève n’est liée aux Suisses que par quelques traités de combourgeoisie. Elle ne fait pas partie de la Confédération des Treize Cantons. Et l’œuvre du réformateur français, qu’elle adopte, va rayonner dans toute l’Europe, et plus tard en Amérique, bien plus qu’elle ne le fera jamais en Suisse. C’est Zwingli qui conduit les protestants lors des premières guerres civiles religieuses. Et ce sont les deux villes soumises à son influence, Zurich et Berne, qui prendront la tête du parti réformé et soutiendront la lutte, souvent <pb n="261"/> sanglante, contre les cantons catholiques du centre, jusqu’aux débuts du <num>xviii<hi rend="sup">e</hi></num> siècle.</p>
-          <p>Dès l’époque de Zwingli, le partage de la Suisse entre les deux confessions s’est opéré dans ses grandes lignes. La proportion d’un peu plus de 2/5 de catholiques pour un peu moins de 3/5 de protestants dans l’ensemble du pays n’a guère varié depuis la Réforme<note place="bottom"><p>Voici les proportions pour 1 000 habitants :</p><table rend="left"><spanGrp type="colgroup"><span rend="col1" style="width: 50%" type="col"/><span rend="col2" style="width: 25%" type="col"/><span rend="col3" style="width: 25%" type="col"/></spanGrp><row><cell/><cell rend="center">En 1860</cell><cell rend="center">En 1960</cell></row><row><cell>Protestants</cell><cell rend="center">589</cell><cell rend="center">526</cell></row><row><cell>Catholiques romains</cell><cell rend="center">407</cell><cell rend="center">456</cell></row><row><cell>Catholiques chrétiens</cell><cell rend="center"/><cell rend="center">6</cell></row><row><cell>Israélites</cell><cell rend="center"/><cell rend="center">4</cell></row><row><cell>Autres confessions ou sans confessions</cell><cell rend="center">4</cell><cell rend="center">8</cell></row></table><p>L’augmentation de 4,9 % des catholiques est due pour moitié à l’afflux des résidents étrangers.</p></note>. Mais d’importantes modifications se sont manifestées dans la répartition géographique des deux principales confessions. Jusqu’en 1848 légalement, et plus tard encore pratiquement, le droit d’établissement était refusé par les cantons aux Suisses d’une confession différente de celle de la majorité. La Constitution fédérale, conçue dans un esprit de réconciliation au lendemain de la guerre du Sonderbund, supprima les entraves confessionnelles au libre établissement. Il en a résulté un mélange des confessions tel qu’on ne peut plus parler proprement de cantons protestants ou catholiques, mais seulement de cantons à majorité protestante ou catholique<note place="bottom">En 1850, 97 % de catholiques à Lucerne ; en 1960, 65 %. Mais dans la cité de
-              Calvin, une légère majorité catholique se dessine depuis quelques années.</note>. En général, le nombre des catholiques augmente plus rapidement dans les cantons naguère protestants que celui des protestants dans les cantons demeurés presque entièrement catholiques. Cela s’explique par l’attraction qu’exercent les plus grandes villes, autrefois toutes protestantes, cependant que les petits cantons ruraux du centre offrent peu de possibilités à l’immigration.</p>
+          <p>Dès l’époque de Zwingli, le partage de la Suisse entre les deux confessions s’est opéré dans ses grandes lignes. La proportion d’un peu plus de 2/5 de catholiques pour un peu moins de 3/5 de protestants dans l’ensemble du pays n’a guère varié depuis la Réforme<note place="bottom">
+              <p>Voici les proportions pour 1 000 habitants :</p><table rend="left">
+                <spanGrp type="colgroup">
+                  <span rend="col1" style="width: 50%" type="col"/>
+                  <span rend="col2" style="width: 25%" type="col"/>
+                  <span rend="col3" style="width: 25%" type="col"/>
+                </spanGrp>
+                <row>
+                  <cell/>
+                  <cell rend="center">En 1860</cell>
+                  <cell rend="center">En 1960</cell>
+                </row>
+                <row>
+                  <cell>Protestants</cell>
+                  <cell rend="center">589</cell>
+                  <cell rend="center">526</cell>
+                </row>
+                <row>
+                  <cell>Catholiques romains</cell>
+                  <cell rend="center">407</cell>
+                  <cell rend="center">456</cell>
+                </row>
+                <row>
+                  <cell>Catholiques chrétiens</cell>
+                  <cell rend="center"/>
+                  <cell rend="center">6</cell>
+                </row>
+                <row>
+                  <cell>Israélites</cell>
+                  <cell rend="center"/>
+                  <cell rend="center">4</cell>
+                </row>
+                <row>
+                  <cell>Autres confessions ou sans confessions</cell>
+                  <cell rend="center">4</cell>
+                  <cell rend="center">8</cell>
+                </row>
+              </table>
+              <p>L’augmentation de 4,9 % des catholiques est due pour moitié à l’afflux des résidents étrangers.</p></note>. Mais d’importantes modifications se sont manifestées dans la répartition géographique des deux principales confessions. Jusqu’en 1848 légalement, et plus tard encore pratiquement, le droit d’établissement était refusé par les cantons aux Suisses d’une confession différente de celle de la majorité. La Constitution fédérale, conçue dans un esprit de réconciliation au lendemain de la guerre du Sonderbund, supprima les entraves confessionnelles au libre établissement. Il en a résulté un mélange des confessions tel qu’on ne peut plus parler proprement de cantons protestants ou catholiques, mais seulement de cantons à majorité protestante ou catholique<note place="bottom">En 1850, 97 % de catholiques à Lucerne ; en 1960, 65 %. Mais dans la cité de Calvin, une légère majorité catholique se dessine depuis quelques années.</note>. En général, le nombre des catholiques augmente plus rapidement dans les cantons naguère protestants que celui des protestants dans les cantons demeurés presque entièrement catholiques. Cela s’explique par l’attraction qu’exercent les plus grandes villes, autrefois toutes protestantes, cependant que les petits cantons ruraux du centre offrent peu de possibilités à l’immigration.</p>
           <p><pb n="262"/> L’interpénétration géographique des confessions, à elle seule, suffirait pour rendre impossible une nouvelle guerre du Sonderbund dans notre siècle.</p>
           <p>Cet apaisement, cette paix officielle traduisent-ils une compréhension mutuelle plus profonde ? On pouvait en douter jusqu’à ces dernières années. Chacun restait sur ses positions et s’y retranchait, attentif à ne pas vexer le voisin, mais peu désireux de s’en rapprocher, ou même de perdre des préjugés hérités à son endroit. En 1937, un curé fribourgeois écrivait : « Un zèle un peu amer et ambitieux risquerait de troubler la paix, et l’on est prudent. On ne rayonne donc pas. On se respecte à distance et même on s’estime comme des clans. L’esprit contraire, le meilleur, le plus compréhensif, existe aussi, plus répandu peut-être que l’autre et en progrès, mais pourquoi a-t-il tant de peine à s’exprimer ? » Le prêtre ajoutait d’ailleurs aussitôt : « Toutes les constatations moins réconfortantes que l’on peut faire ne doivent pas laisser oublier le fait déjà remarquable que le peuple suisse est acquis au respect effectif des consciences, il ne comprend plus les moyens de pression et de violence en matière de religion. »<note place="bottom">Abbé <hi rend="sc">C. Lugon</hi>, dans <hi rend="i">Esprit</hi>, octobre 1937.</note></p>
           <p>Et certes, aujourd’hui encore, l’ignorance mutuelle dans laquelle vivent les différents groupes, tant linguistiques que religieux, ne paraît guère frapper les Suisses. Bien qu’ils se coudoient journellement, et qu’il existe dans presque chaque bourg de quelque importance des églises des deux cultes, le protestant moyen continue à penser que le catholicisme consiste à mettre des cierges sur un autel et à cultiver toutes sortes de superstitions, tandis que le catholique moyen tient le protestant pour un demi-incrédule, prisonnier d’une morale ennuyeuse.</p>
@@ -1320,9 +1372,10 @@
           <p>Et de même que l’Europe a mieux à faire que d’offrir au Tiers-Monde le masochisme de certains écrivains auxquels leur ignorance des conditions réelles du progrès permet seule de se dire progressistes, j’ose penser que la Suisse a mieux à faire qu’à cultiver ses inquiétudes locales. Qu’elle prenne conscience de l’avenir qu’elle représente pour une Europe qui n’en sait rien encore ! Je ne conçois pas d’autre remède à ses névroses de prospérité. C’est dans une modestie trop commode, un peu lâche, que réside sa pire tentation et vraiment son péché virtuel — qui est la peur d’assumer sa vocation.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="IV.">
         <pb n="275"/>
-        <head>Quatrième partie <lb/>La Suisse, dans l’avenir européen</head>
+        <head type="kicker">Quatrième partie</head>
+        <head>La Suisse, dans l’avenir européen</head>
         <p><pb n="277"/> Le régime que l’on vient de décrire est, dans l’Histoire, l’un des derniers venus. Si l’on représente par une journée la période des civilisations un peu connues et qui va des peintures de Lascaux, pièges magiques, jusqu’aux pièges cosmiques de nos laboratoires, le fédéralisme n’apparaît qu’au cours des cinq dernières minutes.</p>
         <p>Quelques instants d’histoire locale, dans le temps ; et dans l’espace, quelques arpents de relief rude situés vers le milieu de cette péninsule européenne de l’Asie qui occupe à peine 4 % des terres du globe : c’est à quoi j’ai borné mon attention. Les avions de demain survoleront la Suisse en si peu de temps que la plupart des voyageurs ne s’en apercevront même pas. Cet objet de mon étude, ce petit corps politique, n’est-il pas destiné à tomber rapidement en désuétude, dans un monde en pleine mutation démographique, technologique et culturelle ? C’est ce que nous porterait à croire une forme de pensée certes courante encore, mais qui est elle-même anachronique : celle du propriétaire terrien, gérant d’un État national. Or, nous avons vu que la Suisse n’est pas d’abord un territoire mais une fonction. Son importance n’est pas celle d’un domaine, mais d’une structure de relations. Elle ne se mesure pas en kilomètres carrés, en tonnes de blé ou de minerai, en divisions mobilisables : elle dépend de l’efficacité et de la fécondité d’une formule d’organisation, d’une méthode d’articulation des groupes humains de toute nature et de leurs activités différenciées.</p>
         <div>
@@ -1506,9 +1559,10 @@
           <p>Mais encore faut-il qu’elle le dise !</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="V.">
         <pb n="311"/>
-        <head>Appendice <lb/>Bref historique de la légende de Tell</head>
+        <head>Appendice
+          <lb/>Bref historique de la légende de Tell</head>
         <p><pb n="313"/> Le mythe de Tell a sans nul doute contribué à édifier (au double sens du mot) la Suisse moderne, j’entends celle de 1848, mais il paraît plus que douteux qu’un Guillaume Tell ait existé, historiquement, lors de la formation de la Suisse primitive.</p>
         <p>Chacun connaît la légende du turbulent arbalétrier d’Uri qui refuse de saluer le chapeau emplumé posé sur une perche en guise d’emblème de la suzeraineté Habsbourg. Mis au défi par le bailli Gessler de percer une pomme placée sur la tête de son fils, Tell réussit cet exploit qui le sauve, mais se voit arrêté parce qu’il gardait cachée une seconde flèche pour le tyran. Il s’évade à la faveur d’une tempête sur le lac, et il tue finalement le bailli dans le chemin creux de Küssnacht, donnant le signal d’une révolte populaire qui libérera son canton.</p>
         <p>Mais ce qui est beaucoup moins connu, c’est l’<hi rend="i">histoire de cette légende</hi>. En voici les péripéties.<note place="bottom">Source principale : Richard <hi rend="sc">Feller</hi> et Edgar <hi rend="sc">Bonjour</hi>, <hi rend="i" xml:lang="de">Geschichtsschreibung der Schweiz</hi> (vom Spätmittelalter zur Neuzeit) 2 vol. 903 p., Bâle, 1962. Série de monographies sur les chroniqueurs et historiens qui se sont occupés de la Suisse, du Moyen Âge à la fin du <num>xix<hi rend="sup">e</hi></num> siècle.</note></p>

@@ -33,12 +33,14 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div n="I.">
         <pb n="15" xml:id="p15"/>
-        <head>Première partie <lb/>La Voie et l’Aventure</head>
-        <div type="chapter">
+        <head>Première partie
+          <lb/>La Voie et l’Aventure</head>
+        <div type="chapter" n="1.">
           <pb n="17" xml:id="p17"/>
-          <head>Chapitre I <lb/>Où les voies se séparent</head>
+          <head type="kicker">Chapitre I</head>
+          <head>Où les voies se séparent</head>
           <epigraph>
             <p>« Ce qui s’oppose coopère, et de ce qui diverge procède la plus belle harmonie. »</p>
             <bibl>Héraclite.</bibl>
@@ -126,9 +128,10 @@
             <p>Je ne juge pas. Je constate. Il y a des différences. Et mon propos n’est pas de les mettre en relief pour <pb n="41" xml:id="p41"/> inciter le lecteur à des comparaisons tournant à l’avantage de l’un ou de l’autre « camp » : car il n’y a pas de camps, ni de lutte engagée, ceci soit dit ici une fois pour toutes. Il y a seulement deux expériences globales qu’il importe de déchiffrer. Mais l’infinie complexité de leurs données nous oblige à n’examiner que des prises partielles et typiques. On a vu que j’ai choisi mes exemples dans le domaine religieux, de préférence. N’est-ce pas là que l’irritante question de la « supériorité » de ceci sur cela offre le moins de sens, et de fait perd sa pointe, puisqu’on n’y dispose pas d’éléments mesurables, comme ce serait le cas au plan de l’économie ou de l’état social par exemple ? Je cherchais à cerner les options primordiales qui ont donné cours à deux voies divergentes. Il m’a semblé que c’était dans le mystique, la religion et leurs explications, que ces options pouvaient être surprises ; car on les voyait là dans leur état naissant. Qu’elles soient causes premières ou effets ; qu’elles résument une série de facteurs antécédents, ou qu’au contraire elles initient l’histoire, tout cela m’importe moins que de les avoir bien vues, et de suivre à partir d’un contraste assez simple entre deux conceptions de l’homme et de ses fins, celle dont les conséquences ont formé l’Occident.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="2.">
           <pb n="42" xml:id="p42"/>
-          <head>Chapitre II <lb/>Où le drame se noue</head>
+          <head type="kicker">Chapitre II</head>
+          <head>Où le drame se noue</head>
           <p>Née dans le petit peuple hébraïque, la révélation chrétienne se répand dans un monde où tout ce qui pense ne saurait le faire qu’en termes élaborés par l’hellénisme. La foi chrétienne va donc, elle aussi, parler grec. Mais son discours assemble un peuple et suscite une communauté. Celle-ci réclame un cadre et des institutions. Or, au plan politique et social, c’est le monde romain qui existe seul. L’Église va donc s’organiser dans les structures de l’Empire, comme la doctrine s’est informée dans les catégories de la Dialectique.</p>
           <p>Incarnation, dialectique, ecclesia — Jérusalem, Athènes, Rome — ces trois mots inconnus de l’Orient, ces trois <hi rend="i">noms</hi> chargés de sens historique qui les altèrent et qui les amplifient, ouvrent le drame occidental. Dans les relations et les tensions qu’ils instituent, dans leurs conflits latents et leurs conciliations improbables <pb n="43" xml:id="p43"/> mais nécessaires, et dans les variations de leur puissance respective, se conçoit et se noue l’histoire de l’Occident. Il peut sembler parfois qu’elle est tout implicite dans l’<hi rend="i">événement</hi> de cette triple rencontre à tant d’égards invraisemblable et dissonante, et qu’au principe de ses péripéties l’on peut imaginer l’espèce d’ardent désir d’un accord à la quête de sa résolution… Pourtant l’Occident n’est pas né comme la réponse à un <hi rend="i">défi</hi> : il lui a manqué ce principe de cohérence originelle. L’Orient trop lointain dans l’espace et si proche dans l’âme collective n’était plus une menace, ou ne l’était pas encore<note place="bottom">Alexandre était mort depuis plus de trois siècles, Attila ne devait surgir sur le Rhin qu’en 450.</note>. Il ne pouvait mettre en question la paix romaine. L’Occident n’est pas né comme on nous dit que naissent les grandes cultures et civilisations, animées par un rêve qui fait leur destinée et qui compense d’abord un sort inaccepté. Il est né comme une aventure, d’un fait très insolite et peu croyable, survenu au carrefour hasardeux de traditions diverses, parfois incompatibles. Et ce fait initial nous semble accidentel, j’entends qu’il serait vain d’essayer de le déduire d’une certaine situation d’ensemble ou d’un appel monté du monde antique : nul ne peut démontrer qu’il soit venu « à son heure ». Il porte à l’origine les stigmates du réel, et non pas les signes du mythe. Il n’est pas vraisemblable ; il est vrai. On ne l’attendait pas, il est là. Ainsi naît l’Occident : comme un drame, dont on peut contester après coup
             l’unité d’action, non le choc.</p>
@@ -163,10 +166,12 @@
       </div>
       <div>
         <pb n="53" xml:id="p53"/>
-        <head>Deuxième partie <lb/>La Quête occidentale</head>
-        <div type="chapter">
+        <head>Deuxième partie
+          <lb/>La Quête occidentale</head>
+        <div type="chapter" n="3.">
           <pb n="55" xml:id="p55"/>
-          <head>Chapitre III <lb/>La spire et l’axe</head>
+          <head type="kicker">Chapitre III</head>
+          <head>La spire et l’axe</head>
           <p>Galilée, à très juste titre, décide que, quoi qu’il dise devant l’Inquisition, la Terre tourne pourtant. Mais il est des réalités qui pâtissent d’être tues ou mal dites. Qu’on les nie, ou seulement qu’on les désigne d’une manière incorrecte et vague, elles cesseront de « tourner » ou d’être actives : ce sont celles qui importent à l’homme, parce qu’elles relèvent de sa foi, de son action ou de son sentiment. Ainsi l’amour : il n’est pas vraiment là tant qu’il ne s’est pas « déclaré ». Nommer certaines tendances, croyances ou passions, c’est donner libre cours à l’énergie virtuelle que l’on <hi rend="i">appelle</hi> ainsi, au double sens du mot.</p>
           <p>C’est pourquoi je m’inquiète de voir sans cesse confondre les mots <hi rend="i">individu, individualité, personnalité</hi>
             <pb n="56" xml:id="p56"/> et <hi rend="i">personne</hi>. Il s’agit d’une inattention tout à fait générale aujourd’hui, mais qui peut entraîner des suites graves. La plus légère altération de sens, s’agissant de définitions de l’homme et de son rôle parmi les autres hommes, peut entraîner des guerres et des révolutions, par le seul fait qu’elle favorise ou justifie des régimes violemment inconciliables.</p>
@@ -278,9 +283,10 @@
             <p>On voit par là qu’un dosage égal des deux tendances ne pourra jamais recréer la tension personnelle, mais au contraire aboutirait à la déprimer totalement. La personne ne peut être composée : elle est <hi rend="i">initiale</hi> ou elle n’est pas. On voit aussi dans quelle complicité se trouvent liés celui qui refuse de s’occuper de la chose sociale et celui qui cède à la tyrannie, l’égoïste et l’embrigadé, celui qui murmure « chacun pour soi » <pb n="93" xml:id="p93"/> et celui qui crie « l’État pour tous ». Ces deux démissionnaires de la personne, ces deux fuyards devant la vocation, sont <hi rend="i">au même titre</hi> les saboteurs de l’Occident. Eux seuls, en se multipliant, seraient capables d’enliser l’Histoire, et de mettre un terme ignominieux à l’Odyssée occidentale de l’âme.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="4.">
           <pb n="94" xml:id="p94"/>
-          <head>Chapitre IV <lb/>Le Château aventureux</head>
+          <head type="kicker">Chapitre IV</head>
+          <head>Le Château aventureux</head>
           <div subtype="level3">
             <head>Passion, Révolution, Nation</head>
             <p>S’il fallait définir l’Occident par ses maladies spécifiques, ces trois noms me sembleraient y suffire. Inconnus de l’Antiquité comme de l’Orient d’avant notre influence, inconcevables hors du christianisme quoique désignant trois tentatives de s’y arracher, tout chargés de prestiges aux yeux de l’Européen et d’un pathos qui ne saurait tromper, ils représentent dans notre Quête du Graal l’épisode du Château aventureux. (C’est la grotte de Circé dans l’Odyssée.) Et pour qui serait tenté de mettre en doute leur valeur religieuse et sacrée, je lui suggère d’en prendre pour mesure sa propre réaction au propos de ces pages.</p>
@@ -353,9 +359,10 @@
             <p>Passion, révolution, nation : certains ont cru que leur empire sur nos esprits mesurait ce qu’on appelle bien à tort la « dé-christianisation de l’Occident ». On voit maintenant qu’il n’en est rien. L’Occident comme ensemble historique n’a jamais été converti, et il ne saurait l’être, en vérité, du seul fait qu’il n’est pas une personne. Mais le ferment du christianisme originel, son exigence de l’<hi rend="i">absolu</hi> réalisé dans cette vie limitée, <pb n="121" xml:id="p121"/> dans ce temps qui nous fuit, dans cette chair impérieuse et débile, n’a pas cessé de travailler les âmes depuis vingt siècles. Nos « erreurs » font partie de la Quête, en ce sens qu’elles procèdent de son élan et le propagent en des régions nouvelles de l’âme, même lorsqu’elles en oublient le vrai but et l’enjeu. Ainsi les hérésies jaillissent de la vraie foi, et s’en écartent, mais disséminent dans des millions d’esprits inatteints par l’orthodoxie certaines formes mentales, certains modes d’expression, certains types d’expérience spirituelle que la foi seule a pu créer, et qui l’attendront désormais de toute la force d’une inconsciente nostalgie. Et c’est pourquoi notre psyché occidentale, ayant subi durant des siècles les atteintes toujours plus pénétrantes de la passion individuelle et collective, pourrait bien se révéler à l’analyse intime comme plus et mieux « christianisée » dans ses structures qu’elle ne l’était avant le <num>xii<hi rend="sup">e</hi></num> siècle. D’où l’on ne saurait conclure, en poussant à l’absurde, que l’incroyant moderne est plus « chrétien » que ne pouvait l’être un paroissien naïf du Moyen Âge, mais seulement que la dialectique formelle de la personne est plus profondément active qu’on ne le pensait naguère dans l’âme de nos contemporains même incroyants, et ne cesse de s’étendre à des régions nouvelles de notre existence profane.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="5.">
           <pb n="122" xml:id="p122"/>
-          <head> Chapitre V <lb/>L’expérience du temps historique</head>
+          <head type="kicker">Chapitre V</head>
+          <head>L’expérience du temps historique</head>
           <div subtype="level3">
             <head>L’Occident découvre le temps</head>
             <p>De la Genèse mosaïque jusqu’aux débuts du siècle dernier, les Occidentaux n’ont presque pas varié quant à la date de naissance de l’humanité. Un professeur de Cambridge, au <num>xvii<hi rend="sup">e</hi></num> siècle, crut pouvoir la préciser : l’homme avait été créé en 4004 avant J.-C., le 23 octobre, à 9 heures du matin. Les professeurs d’Oxford tenaient pour le 23 mars, même heure et même année. Buffon écrit un peu plus tard : « Depuis la fin des ouvrages de Dieu, c’est-à-dire depuis la création de l’homme, il ne s’est écoulé que six ou huit mille ans. » Cuvier partage ces vues, que Schelling suit encore en plein <num>xix<hi rend="sup">e</hi></num> siècle, et que les catéchismes ne cesseront d’enseigner à des générations dont notre enfance a connu les derniers représentants. Cependant, vers 1950, nul ne peut plus douter que l’homme existe <pb n="123" xml:id="p123"/> depuis environ cent mille ans. Aux toutes dernières nouvelles — qui dira mieux ? — c’est au moins 600 000 qu’il conviendrait d’admettre.</p>
@@ -418,9 +425,10 @@
             </quote>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="6.">
           <pb n="143" xml:id="p143"/>
-          <head> Chapitre VI <lb/>L’expérience de l’espace</head>
+          <head type="kicker"> Chapitre VI</head>
+          <head>L’expérience de l’espace</head>
           <div subtype="level3">
             <head>D’un cosmos qui n’a plus de centre</head>
             <p>Parmi les plus anciennes mappemondes dessinées en Europe et qui subsistent de nos jours, celle d’Ebstorf (fin du <num>xiii<hi rend="sup">e</hi></num> siècle) et celle de Richard de Haldingham (vers 1300) placent en leur centre exact <hi rend="i">Jérusalem</hi>. La Méditerranée et ses environs — l’Europe à gauche, l’Afrique à droite — occupent un peu plus de la moitié inférieure de la carte. L’Asie, presque réduite au Proche-Orient, occupe le reste de la moitié supérieure. Point d’océans.</p>
@@ -473,9 +481,10 @@
             <p><pb n="160" xml:id="p160"/> Quant à l’homme de la foi, nous le trouvons en marche comme Abraham qui partit sans savoir où il allait. S’il nous parle d’une Inde aux cités pavées d’or, sachons qu’il pense à délivrer Jérusalem, qui est pour lui le centre du monde et l’Ithaque de son Odyssée : la patrie du salut, au delà du temps.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="7.">
           <pb n="161" xml:id="p161"/>
-          <head> Chapitre VII <lb/>L’exploration de la matière</head>
+          <head type="kicker"> Chapitre VII</head>
+          <head>L’exploration de la matière</head>
           <div subtype="level3">
             <head>De Nicée à la bombe atomique</head>
             <p>Que les options fondamentales décidées au Concile de Nicée aient aussi décidé du genre de science que produirait l’Europe christianisée, voilà qui paraît indéniable, et c’est le contraire qui aurait de quoi surprendre. Comment pourrait-on rendre compte du fait certain que la Science est liée à l’Occident, si l’on partait encore du vieux conflit entre la science et la religion, tel qu’il a dominé le <num>xix<hi rend="sup">e</hi></num> siècle ? Cette opposition même eût-elle pu se produire en dehors d’une civilisation qui a su valoriser la matière et le corps, objets de la science, en même temps que la liberté, sujet de conflits ? N’est-elle pas englobée par ce qu’elle veut nier ? La seule question sérieuse reste alors de savoir de quelle manière la science, agissant dans nos vies, procède des options de Nicée. Le rapport est-il positif, dialectique, ou purement négatif ?</p>
@@ -532,9 +541,10 @@
             <p>L’infini et l’omniprésence, l’ordre et son principe immuable, la prescience et la totalité, ces attributs majeurs que les grandes religions avaient conçus comme ceux du Dieu suprême, la physique et la mathématique peuvent les transférer au Cosmos. Mais le Dieu que prient les chrétiens est celui qui s’est fait connaître par cela justement que la science ne connaît pas, et ne pourra jamais ni intégrer, ni réfuter comme illusoire. Et c’est la seule définition de Dieu donnée par sa révélation en Jésus-Christ : « Dieu est Amour. » (Dans le contexte ardu que l’on vient d’explorer, le mot prend un sens insolite : puisse-t-il s’en trouver purifié de ses associations pieuses et sentimentales.)</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="8.">
           <pb n="183" xml:id="p183"/>
-          <head> Chapitre VIII <lb/>L’aventure technique</head>
+          <head type="kicker"> Chapitre VIII</head>
+          <head>L’aventure technique</head>
           <div subtype="level3">
             <head>Angoisse devant le monde technique</head>
             <p>La première traversée de l’Atlantique par Lindbergh avait exalté l’Occident : elle nous apportait un héros, sur une machine encore insuffisante — d’où la gloire. La première traversée de l’Atlantique par un bombardier <hi rend="i">sans pilote</hi>, réussie 25 ans plus tard, apportait une démonstration spectaculaire du machinisme pur, opérant loin des hommes par une délégation prolongée mais souveraine de leurs pouvoirs sur la matière et la Nature. Elle passa presque inaperçue. Qu’a-t-elle changé aux habitudes de vie des peuples et des individus ? Si peu que rien. On voit très bien que l’introduction de la charrue chez les Mayas eût modifié du tout leur civilisation, empêché leur exode au Yucatan, et révolutionné tout leur régime social. Mais on ne voit pas que nos conquêtes techniques aient <pb n="184" xml:id="p184"/> bouleversé aussi radicalement notre habitat, nos mœurs, et la continuité de nos caractères nationaux.</p>
@@ -597,7 +607,8 @@
             <head>Le vrai problème</head>
             <p>La grande plainte du <num>xx<hi rend="sup">e</hi></num> siècle contre la technique eût été justifiée, cent ans plus tôt, contre l’usine ignoble où l’ouvrier pouvait dire par la bouche d’un poète de l’époque :</p>
             <quote>
-              <l><pb n="204" xml:id="p204"/> L’air de nos ateliers nous ronge les poumons, <lb/>Et nous mourons les yeux tournés vers les campagnes.<note place="bottom"><hi rend="sc">A. Barbier</hi>, <hi rend="i">Iambes</hi>, cité par <hi rend="sc">P. M. Schuhi</hi>, <hi rend="i">Machinisme et Philosophie</hi>, 1938.</note></l>
+              <l><pb n="204" xml:id="p204"/> L’air de nos ateliers nous ronge les poumons,
+                <lb/>Et nous mourons les yeux tournés vers les campagnes.<note place="bottom"><hi rend="sc">A. Barbier</hi>, <hi rend="i">Iambes</hi>, cité par <hi rend="sc">P. M. Schuhi</hi>, <hi rend="i">Machinisme et Philosophie</hi>, 1938.</note></l>
             </quote>
             <p>Aujourd’hui, le progrès de la technique rend la campagne aux citadins, ouvriers et bourgeois mêlés. La technique a plus fait pour rapprocher les hommes de la nature que les théories naturistes, maudissant la technique. La jeunesse d’aujourd’hui vit aussi nue que les Polynésiens de Gauguin. C’est le Moyen Âge qui était loin de la Nature : il la craignait<note place="bottom">Les seules descriptions « riantes » de la Nature dans la poésie et la peinture médiévales concernent les vergers. Le reste était terreur.</note>. L’âge classique la jugeait malséante. Le Romantisme la contemplait avec âme, mais ne s’y baignait pas physiquement. Le goût de s’étaler au soleil sur les plages est contemporain de l’auto.</p>
             <p>La technique naissante a créé le prolétariat industriel, mais c’est elle seule qui <hi rend="i">peut</hi> le sauver de sa condition et du décor hideux de son existence. Ce n’est pas la scolastique qui a supprimé l’institution de l’esclavage en Europe, mais l’amélioration des techniques agricoles (celle en particulier de l’attelage des chevaux au moyen d’un licol rigide). Ce ne sont pas nos protestations contre le travail à la chaîne qui libéreront le prolétariat, mais le remplacement des travailleurs serviles par des robots. L’usine sans ouvriers, réalité prochaine, est la solution du problème de « l’ouvrier esclave de la machine ».</p>
@@ -625,9 +636,10 @@
             <p>Quant à savoir si cela représentera un progrès ou un risque nouveau, voilà qui nous oblige à reconsidérer le sens et la nature finale du Progrès.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="9.">
           <pb n="216" xml:id="p216"/>
-          <head>Chapitre IX <lb/>Les ambivalences du progrès</head>
+          <head type="kicker">Chapitre IX</head>
+          <head>Les ambivalences du progrès</head>
           <div subtype="level3">
             <head>Une situation de crise</head>
             <p>Malgré notre illusion de provinciaux du temps, le <num>xx<hi rend="sup">e</hi></num> siècle n’a guère plus de raisons qu’aucun autre siècle connu de se croire une époque décisive, époque du tout ou rien, du triomphe final ou de la catastrophe sans remède. S’il le croit cependant, c’est qu’il a pris conscience du caractère ambivalent de tout progrès.</p>
@@ -692,10 +704,12 @@
       </div>
       <div>
         <pb n="239" xml:id="p239"/>
-        <head>Troisième partie <lb/>Où allons-nous ?</head>
-        <div type="chapter">
+        <head>Troisième partie
+          <lb/>Où allons-nous ?</head>
+        <div type="chapter" n="10.">
           <pb n="241" xml:id="p241"/>
-          <head>Chapitre X <lb/>Le drame occidental</head>
+          <head type="kicker">Chapitre X</head>
+          <head>Le drame occidental</head>
           <p>Ce livre n’est sans doute qu’un signe, entre mille autres, de la prise de conscience occidentale qui marquera le <num>xx<hi rend="sup">e</hi></num> siècle.</p>
           <p>Comme il arrive toujours, une telle prise de conscience est motivée par un arrêt de l’action normale : échec brutal, mise en question soudaine, emprisonnement, confrontation avec la mort. Telle est bien notre situation. (Et je parle surtout pour l’Europe, mais les Américains n’ignorent pas que leur santé dépend en partie de la nôtre.) Voici l’Europe en crise et désunie, repoussée par les autres continents où elle avait longtemps dominé, enfermée sur son « cap de l’Asie » par le rideau de fer communiste et la révolte de ses colonies, confrontée subitement avec le risque d’une décadence définitive, et contrainte à se demander ce qu’elle vaut encore pour le monde. Elle prend alors conscience de ce qu’elle représentait et de ce qu’elle pourrait être encore. Elle découvre sa vocation qu’elle <pb n="242" xml:id="p242"/> avait si souvent trahie, dès lors qu’elle est mise au défi de s’unir pour revivre ou de descendre aux catacombes de l’Histoire.</p>
           <p>Essayons de mesurer l’envergure du succès de l’Occident dans l’ère moderne. Toynbee nous met en garde contre les illusions de ce qu’on pourrait appeler le narcissisme culturel. Mais comment le suivre, lorsqu’il tire de l’exemple du monde gréco-romain, des raisons de réfuter la croyance que « nous aurions fait dans le monde, au cours des quelques derniers siècles, quelque chose qui n’a pas de précédent » ? Alexandre n’avait conquis qu’un quart des continents alors connus. S’il a cru que c’était le monde, il s’est trompé. Mais cette erreur ne peut être la nôtre. Qu’a fait l’Europe du <num>xv<hi rend="sup">e</hi></num> siècle jusqu’à nos jours ? Elle a non seulement rayonné sur la <hi rend="i">totalité</hi> — enfin connue, et par elle seule — de la planète ; elle a non seulement influencé, colonisé ou vassalisé selon les cas, la totalité de l’Afrique, des deux Amériques et de l’Océanie, et la partie sud de l’Asie (à des degrés divers, mais pour le moins égaux à ceux qu’avaient atteints dans leurs empires les Diadoques et les khans mongols), mais encore elle n’a pas cessé de maintenir sur toutes les civilisations différentes de la sienne une supériorité intellectuelle et technique que personne ne lui contestait. Si aujourd’hui les peuples affectés par ses méthodes de pensée, de production matérielle ou d’organisation de l’État, se rendent politiquement indépendants, j’y vois bien moins le signe d’une révolte contre ses méthodes importées, que la preuve <pb n="243" xml:id="p243"/> décisive de leur succès. Les Grecs et les Romains ne disposaient pas d’une marge de supériorité incontestable sur les Hindous et les Chinois. Mais où trouver dans le monde du <num>xx<hi rend="sup">e</hi></num> siècle une autre civilisation qui soit en état de surpasser celle qu’a répandue l’Occident ? L’URSS et la Chine ne représentent-elles pas des phénomènes d’occidentalisation (trop rapide) d’une large partie de l’humanité, au moins autant qu’un recul politique de l’Occident ?
@@ -740,9 +754,10 @@
             <p>Je me transporte en esprit vers la fin de ce siècle, et je vois que le problème n’est plus du tout capitalisme ou communisme, USA ou URSS. Il y a le camp des pays encore sous-développés, ayant doublé de population, et le camp des pays relativement équilibrés <pb n="255" xml:id="p255"/> dans leur effort de production. La grande angoisse des années de guerre froide a passé au second plan, ou bien est oubliée. La situation de l’URSS (aidée par l’Occident ?) s’est améliorée à ce point que les Russes sont désormais dans le camp des <hi rend="i">haves</hi>, confrontés à la Chine, chef du camp des <hi rend="i">have nots</hi>. Tout se ramène alors, en apparences, au dialogue millénaire de l’Orient pauvre et populeux mais religieux, et de l’Occident profane, riche et minoritaire. Mais déjà les deux termes sont en train de changer. L’Occident, découvrant le loisir, se tourne vers les religions et les divertissements de la culture. L’Orient, découvrant la technique et les moyens de surmonter sa misère, freine d’autant sa fécondité et se met à penser dans nos catégories. L’unification relative des deux moitiés de l’humanité va-t-elle désormais s’opérer sous le signe, d’ailleurs ambigu, du Progrès technique et social ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="11.">
           <pb n="256" xml:id="p256"/>
-          <head>Chapitre XI <lb/>Où l’Aventure et la Voie se rejoignent</head>
+          <head type="kicker">Chapitre XI</head>
+          <head>Où l’Aventure et la Voie se rejoignent</head>
           <div subtype="level3">
             <head>Le dialogue nécessaire et possible</head>
             <p>Entre l’Orient et l’Occident jusqu’à ce siècle, le dialogue a toujours échoué, soit qu’il ait tourné court à peine amorcé, soit qu’il ait aussitôt dégénéré en poussées militaires alternées<note place="bottom">Des guerres médiques à Port-Arthur, en passant par les conquêtes d’Alexandre, l’incursion d’Attila, les Croisades, la ruée mongole, Nicopolis et Lépante, puis la <hi rend="i">courte</hi> période — mais spectaculaire et lourde de conséquences — du colonialisme européen. Les Indes deviennent colonie anglaise en 1786 pour un siècle et demi seulement : c’est à peine 1/16<hi rend="sup">e</hi> de l’histoire des relations entre l’Orient et l’Occident.</note>, créant autant de malentendus durables qu’elles ne favorisaient d’échanges désordonnés.</p>
@@ -777,9 +792,10 @@
             <p><pb n="268" xml:id="p268"/> Je vois bien ce qui nous cache encore la pleine réalité de tels problèmes : c’est la misère encore réelle et scandaleuse des prolétaires, les contradictions économiques encore aiguës, les luttes politiques et idéologiques toujours bruyantes au sein du monde occidental. Mais on ne résout jamais un conflit dans son plan : il faut passer au delà, soit dans le temps et l’espace, soit dans les dimensions spirituelles. L’au delà des crises occidentales présentes, je le vois dans la confrontation de notre Aventure — prenant alors conscience d’elle-même — et de la Voie traditionnelle, soumise à la question de notre présent vivant, dans une perspective mondiale.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="12.">
           <pb n="269" xml:id="p269"/>
-          <head>Chapitre XII <lb/>La quête sans fin</head>
+          <head type="kicker">Chapitre XII</head>
+          <head>La quête sans fin</head>
           <p>L’Aventure se poursuit. Si l’on demande où elle va, qu’on regarde d’abord d’où elle vient, et comment, jusqu’ici, elle est allée. On verra que la Question même est spécifique de l’Occident. Toute réponse décisive annoncerait donc la fin de notre civilisation, son épuisement intime, et toujours préalable à l’anéantissement par une force étrangère. Je n’ai pas eu d’autre intention que de mieux définir la question, en cela fidèle à l’Occident qui m’a formé. Qui voudrait à tout prix une réponse, et refuserait de la trouver lui-même, dès lors qu’il sait qu’il n’en est point de vraiment générale et transposable — il quitterait en esprit cette expérience humaine qui depuis deux mille ans a forgé les destins mais aussi fomenté les libres vocations de la race blanche, aventureuse moitié du monde. La Quête est notre forme d’exister.</p>
           <p>Et pourtant, songeant à l’Orient, j’invoquerai le précédent fabuleux de la conclusion d’une autre <pb n="270" xml:id="p270"/> Quête. Ulysse a rejoint son Ithaque. Il a gagné sa paix. Mais un dernier combat l’oppose au parti plus nombreux de ceux qui le tenaient pour mort et condamné. Et soudain la Sagesse éternelle apparaît, Minerve s’adresse au héros :</p>
           <quote>

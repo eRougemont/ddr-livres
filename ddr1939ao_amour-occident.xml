@@ -47,10 +47,10 @@
         <p>J’ai vécu ce livre pendant toute mon adolescence et ma jeunesse ; je l’ai conçu sous forme d’œuvre écrite, et nourri de quelques lectures, depuis deux ans ; enfin je l’ai rédigé en quatre mois. Ceci me rappelle le mot de Vernet, à propos d’un tableau qu’il vendait assez cher : « Il m’a demandé une heure de travail, et toute la vie. »</p>
         <byline><hi rend="sc">D. de</hi> R.</byline>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="I.">
         <pb n="1" xml:id="p1"/>
-        <head>Livre premier
-          <lb/>Le mythe de Tristan</head>
+        <head type="kicker">Livre premier</head>
+        <head>Le mythe de Tristan</head>
         <div>
           <head>1. Triomphe du roman, et ce qu’il cache</head>
           <p>« Seigneurs, vous plaît-il d’entendre un beau conte d’amour et de mort ?… »</p>
@@ -82,7 +82,8 @@
           <ab type="ornament">⁂</ab>
           <p>Bien des traits de la légende de Tristan sont de ceux qui signalent un mythe. Et d’abord le fait que l’auteur — à supposer qu’il y en eût un, et un seul — nous <pb n="7" xml:id="p7"/> est totalement inconnu. Les cinq versions « originales » qui nous restent sont des remaniements artistiques d’un archétype dont on n’a pu trouver la moindre trace<note resp="author">Il est assez facile d’éliminer, par une comparaison critique, les fantaisies individuelles des cinq auteurs. Dans l’analyse du contenu de la légende qu’on trouvera au chapitre 5, ces variantes seront négligées pour autant qu’elles s’expliquent trop aisément par des circonstances passagères, ou des goûts personnels de l’auteur.</note>.</p>
           <p>Un autre aspect mythique de la légende de <emph>Tristan</emph>, c’est l’élément <emph>sacré</emph> qu’elle utilise<note resp="author">Voir <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao/9#body-9-1">Appendice 1</ref>.</note>. Le progrès de l’action, et les effets qu’elle devait exercer sur l’auditeur, dépendent dans une certaine mesure (que nous aurons à préciser) d’un ensemble de règles et de cérémonies qui n’est autre que la coutume de la chevalerie médiévale. Or les « ordres » de chevalerie furent souvent appelés « religions ». Chastellain, chroniqueur de la Bourgogne, nomme ainsi l’ordre de la Toison d’Or (dernier en date), et il en parle comme d’un mystère sacré, en un siècle où pourtant la chevalerie n’était plus guère qu’une survivance<note resp="author"><ref target="https://www.unige.ch/rougemont/livres/ddr1939ao/9#body-9-2">Appendice 2</ref>.</note>.</p>
-          <p>Enfin la nature même de <emph>l’obscurité</emph> que nous découvrirons dans la légende, dénote sa parenté profonde avec le mythe. L’obscurité du mythe en général ne réside pas dans sa forme d’expression<note resp="author">Ce serait ici le langage du poème : or on sait qu’il est des plus simples.</note>. Elle tient d’une part au mystère de son origine, et d’autre part à l’importance vitale des faits que le mythe symbolise. Si ces faits n’étaient pas obscurs, ou <emph>s’il n’y avait quelque intérêt à obscurcir leur origine et leur portée pour les soustraire à la critique</emph>, il n’y aurait pas besoin de mythe. On pourrait se contenter d’une loi, d’un traité de morale, ou même d’une historiette jouant le rôle de résumé mnémotechnique. Point de <pb n="8" xml:id="p8"/> mythe tant qu’il est loisible de s’en tenir aux évidences et de les exprimer d’une manière manifeste ou directe. Au contraire, le mythe paraît lorsqu’il serait dangereux ou impossible d’avouer clairement un certain nombre de faits sociaux ou religieux, ou de relations affectives, que l’on tient cependant à conserver, ou qu’il est impossible de détruire. Nous n’avons plus besoin de mythes, par exemple, pour exprimer les vérités de la science : nous les considérons en effet d’une manière parfaitement « profane », et elles ont donc tout à gagner à la critique individuelle. <emph>Mais nous avons besoin d’un mythe pour exprimer le fait obscur et inavouable que la passion est liée à la mort</emph>, et qu’elle entraîne la destruction pour ceux qui s’y abandonnent de toutes leurs forces. C’est que nous voulons sauver cette passion, et que nous chérissons ce malheur, cependant que nos morales officielles et notre raison les condamnent. L’obscurité du mythe nous met donc en mesure d’accueillir son contenu déguisé et d’en jouir par l’imagination, sans en prendre toutefois une conscience assez claire pour qu’éclate la contradiction. Ainsi se trouvent mises à l’abri de la critique certaines réalités humaines que nous sentons ou pressentons fondamentales. Le mythe <emph>exprime</emph> ces réalités, dans la mesure où notre instinct l’exige, mais il les <emph>voile</emph> aussi dans la mesure où le grand jour et la raison<note resp="author">La raison dont je parle ici étant l’activité profanatrice qui s’exerce aux dépens du sacré collectif et qui en libère l’individu. Que le rationalisme soit passé au rang de doctrine officielle ne doit pas nous faire oublier son efficacité proprement <emph>sacrilège</emph>, antisociale, « dissociatrice ».</note> les menaceraient.</p>
+          <p>Enfin la nature même de <emph>l’obscurité</emph> que nous découvrirons dans la légende, dénote sa parenté profonde avec le mythe. L’obscurité du mythe en général ne réside pas dans sa forme d’expression<note resp="author">Ce serait ici le langage du poème : or on sait qu’il est des plus simples.</note>. Elle tient d’une part au mystère de son origine, et d’autre part à l’importance vitale des faits que le mythe symbolise. Si ces faits n’étaient pas obscurs, ou <emph>s’il n’y avait quelque intérêt à obscurcir leur origine et leur portée pour les soustraire à la critique</emph>, il n’y aurait pas besoin de mythe. On pourrait se contenter d’une loi, d’un traité de morale, ou même d’une historiette jouant le rôle de résumé mnémotechnique. Point de <pb n="8" xml:id="p8"/> mythe tant qu’il est loisible de s’en tenir aux évidences et de les exprimer d’une manière manifeste ou directe. Au contraire, le mythe paraît lorsqu’il serait dangereux ou impossible d’avouer clairement un certain nombre de faits sociaux ou religieux, ou de relations affectives, que l’on tient cependant à conserver, ou qu’il est impossible de détruire. Nous n’avons plus besoin de mythes, par exemple, pour exprimer les vérités de la science : nous les considérons en effet d’une manière parfaitement « profane », et elles ont donc tout à gagner à la critique individuelle. <emph>Mais nous avons besoin d’un mythe pour exprimer le fait obscur et inavouable que la passion est liée à la mort</emph>, et qu’elle entraîne la destruction pour ceux qui s’y abandonnent de toutes leurs forces. C’est que nous voulons sauver cette passion, et que nous chérissons ce malheur, cependant que nos morales officielles et notre raison les condamnent. L’obscurité du mythe nous met donc en mesure d’accueillir son contenu déguisé et d’en jouir par l’imagination, sans en prendre toutefois une conscience assez claire pour qu’éclate la contradiction. Ainsi se trouvent mises à l’abri de la critique certaines réalités
+            humaines que nous sentons ou pressentons fondamentales. Le mythe <emph>exprime</emph> ces réalités, dans la mesure où notre instinct l’exige, mais il les <emph>voile</emph> aussi dans la mesure où le grand jour et la raison<note resp="author">La raison dont je parle ici étant l’activité profanatrice qui s’exerce aux dépens du sacré collectif et qui en libère l’individu. Que le rationalisme soit passé au rang de doctrine officielle ne doit pas nous faire oublier son efficacité proprement <emph>sacrilège</emph>, antisociale, « dissociatrice ».</note> les menaceraient.</p>
           <ab type="ornament">⁂</ab>
           <p>D’origine inconnue ou mal connue — de caractère primitivement sacré — voilant le secret qu’il exprime, <pb n="9" xml:id="p9"/> le Roman mythique de <emph>Tristan</emph> posséderait-il au même degré les qualités <emph>contraignantes</emph> d’un vrai mythe ? Cette question ne peut être esquivée. Elle nous porte au cœur du problème et de son actualité.</p>
           <p>Précisons que les règles chevaleresques qui jouaient bel et bien au treizième siècle un rôle de contrainte absolue, n’interviennent dans le roman qu’à titre d’<emph>obstacle mythique</emph> et de <emph>figures rituelles</emph> de rhétorique. Sans elles, la fable n’aurait pas trouvé ses prétextes à rebondissements, et surtout elle n’aurait pas pu s’imposer sans conteste aux auditeurs. Il faut bien voir que ces « cérémonies » sociales sont des moyens de faire admettre un <emph>contenu</emph> antisocial, qui est la passion. Le mot « contenu » prend ici toute sa force : la passion de Tristan et d’Iseut est littéralement « contenue » par les règles de la chevalerie. C’est à cette condition seulement qu’elle pourra s’exprimer dans le demi-jour du mythe. Car en tant que passion qui veut la Nuit et qui triomphe dans une Mort transfigurante, elle représente pour toute Société une menace violemment intolérable. Il faut donc que les groupes constitués soient capables de lui opposer une structure fortement charpentée, pour qu’elle trouve l’occasion de s’extérioriser sans causer les pires dégâts.</p>
@@ -328,10 +329,10 @@
           <p>Parcourons-les l’une après l’autre, librement. Nous ferons halte ici ou là pour vérifier telle origine nettement localisée, ou telle conséquence imprévue des <emph>relations</emph> que nous venons de dégager.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="II.">
         <pb n="49" xml:id="p49"/>
-        <head>Livre II
-          <lb/>Les origines religieuses du mythe</head>
+        <head type="kicker">Livre II</head>
+        <head>Les origines religieuses du mythe</head>
         <div>
           <head>1. L’« obstacle » naturel et sacré</head>
           <p>Nous sommes tous plus ou moins matérialistes, nous autres héritiers du dix-neuvième. Qu’on nous montre dans la nature, ou dans l’instinct, les esquisses grossières de faits « spirituels », aussitôt nous croyons tenir une explication de ces faits. <emph>Le plus bas nous paraît le plus vrai</emph>. C’est la superstition du temps, la manie de « ramener » le sublime à l’infime, l’étrange erreur qui prend pour cause suffisante une condition simplement nécessaire. C’est aussi le scrupule scientifique, nous dit-on. Il fallait cela pour affranchir l’esprit des illusions spiritualistes. Mais je distingue mal l’intérêt d’un affranchissement qui consiste à « expliquer » Dostoïevski par le haut-mal, et Nietzsche par la syphilis. Curieuse manière de libérer l’esprit, qui se « ramène » à le nier.</p>
@@ -345,8 +346,7 @@
           <p>D’où vient alors cette glorification de la passion, qui est justement ce qui nous touche dans le Roman ? Parler de déviation de l’instinct, c’est ne rien dire puisqu’il s’agit de savoir, précisément, quel est le facteur qui a pu causer cette déviation.</p>
         </div>
         <div>
-          <head>2. Éros, ou le Désir sans fin
-            <lb/>(Platonisme, druidisme, manichéisme.)</head>
+          <head>2. Éros, ou le Désir sans fin (Platonisme, druidisme, manichéisme.)</head>
           <p>Platon nous parle dans <emph>Phèdre</emph> et le <emph>Banquet</emph> d’une fureur qui va du corps à l’âme, pour la troubler d’humeurs malignes. Ce n’est pas l’amour tel qu’il le loue. Mais il est une autre espèce de fureur, ou de délire, qui ne s’engendre pas sans quelque divinité, ni ne se crée dans l’âme au dedans de nous : c’est une inspiration toute étrangère, un attrait qui agit du <pb n="52" xml:id="p52"/> dehors, un emportement, un rapt indéfini de la raison et du sens naturel. On l’appellera donc <emph>enthousiasme</emph>, ce qui signifie « endieusement », car ce délire procède de la divinité et porte notre élan vers Dieu.</p>
           <p>Tel est l’amour platonicien : « délire divin », transport de l’âme, folie et suprême raison. Et l’amant est auprès de l’être aimé « comme dans le ciel », car l’amour est la voie qui monte par degrés d’extase vers l’origine unique de tout ce qui existe, loin des corps et de la matière, loin de ce qui divise et distingue, au-delà du malheur d’être soi et d’être deux dans l’amour même.</p>
           <p>L’Éros, c’est le Désir total, c’est l’Aspiration lumineuse, l’élan religieux originel porté à sa plus haute puissance, à l’extrême exigence de pureté qui est l’extrême exigence d’Unité. Mais l’unité dernière est négation de l’être actuel, dans sa souffrante multiplicité. Ainsi l’élan suprême du désir aboutit à ce qui est non-désir. La dialectique d’Éros introduit dans la vie quelque chose de tout étranger aux rythmes de l’attrait sexuel : un désir qui ne retombe plus, que plus rien ne peut satisfaire, qui repousse même et fuit la tentation de s’accomplir dans notre monde, parce qu’il ne veut embrasser que le Tout. C’est le <emph>dépassement infini</emph>, l’ascension de l’homme vers son dieu. Et ce mouvement est <emph>sans retour</emph>.</p>
@@ -711,7 +711,7 @@
           <p>Par quelles voies la mystique arabe et sa rhétorique courtoise eussent-elles pu parvenir, en moins d’un siècle, et à travers quelles traductions, aux initiés de l’Église d’Amour, et par eux aux poètes du Midi ? Je ne sache pas que l’on soit en mesure de résoudre aujourd’hui ce problème. S’il est une voie de transmission géographique, c’est du côté de l’Espagne, évidemment, qu’il conviendrait de la chercher, puisque c’est là que s’opérait le contact du monde arabe et du monde chrétien. Il se peut, par ailleurs, que les croisades aient joué un rôle non négligeable. Mais si l’on se contente de souligner le parallélisme des formes, des contenus et des problèmes dans le monde de l’Islam et dans le monde courtois, l’on aura du moins répondu à l’objection sceptique que je résumais en tête de ce chapitre. Et rien n’empêche alors de supposer que les mêmes causes — les mêmes courants religieux — produisirent <pb n="107" xml:id="p107"/> les mêmes effets ici et là, sans transmission directe.</p>
           <p>Cependant les travaux d’un Asin Palacios nous mettent sur la voie de découvertes considérables concernant les relations de la mystique soufiste et de la poésie occidentale, à une époque plus tardive il est vrai. Je ne puis ici que renvoyer à ces travaux si justement célèbres<note resp="author">
               <p>Don Miguel <hi rend="sc">Asin Palacios</hi>, <emph>La Escatologia musulmana en la Divina Comedia</emph>, Madrid 1919. Dans une édition ultérieure, l’auteur discute les innombrables objections que sa thèse n’a pas manqué d’exciter chez les divers spécialistes mis en cause, et menacés par cet effort de <emph>synthèse</emph> dans leur essence même de « spécialistes ».</p>
-            <p>— Sur les rapports entre la lyrique hispano-arabe et les troubadours, voir les études de Menendez y Pelayo, Gonzalez de Palencia, et Ribera. (À propos du <emph>zéjel</emph> andalou, forme utilisée par Guillaume de Poitiers.)</p></note>. Il en ressort que Dante aurait pris pour modèle le <emph>Livre du Voyage nocturne</emph> du mystique Ibn el Arabi, écrit quatre-vingts ans auparavant : ce traité décrit en effet une traversée des trois mondes de l’au-delà, enfer, purgatoire, paradis, avec les mêmes rencontres et péripéties, et beaucoup de personnages semblables. Dante semble bien avoir appartenu à l’ordre des Templiers, qui était en relations certaines avec un ordre musulman identique dans sa structure, dans plusieurs de ses règles, et même dans son costume l’Ordre des Assaccis, auquel Ibn Arabi fut affilié… (<ref target="https://www.unige.ch/rougemont/livres/ddr1939ao/9#body-9-6">Appendice 6</ref>.)</p>
+              <p>— Sur les rapports entre la lyrique hispano-arabe et les troubadours, voir les études de Menendez y Pelayo, Gonzalez de Palencia, et Ribera. (À propos du <emph>zéjel</emph> andalou, forme utilisée par Guillaume de Poitiers.)</p></note>. Il en ressort que Dante aurait pris pour modèle le <emph>Livre du Voyage nocturne</emph> du mystique Ibn el Arabi, écrit quatre-vingts ans auparavant : ce traité décrit en effet une traversée des trois mondes de l’au-delà, enfer, purgatoire, paradis, avec les mêmes rencontres et péripéties, et beaucoup de personnages semblables. Dante semble bien avoir appartenu à l’ordre des Templiers, qui était en relations certaines avec un ordre musulman identique dans sa structure, dans plusieurs de ses règles, et même dans son costume l’Ordre des Assaccis, auquel Ibn Arabi fut affilié… (<ref target="https://www.unige.ch/rougemont/livres/ddr1939ao/9#body-9-6">Appendice 6</ref>.)</p>
         </div>
         <div>
           <head>10. De l’Amour courtois au roman breton</head>
@@ -778,10 +778,10 @@
           <p>C’est de quoi l’on traitera dans les livres qui viennent.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="III.">
         <pb n="121" xml:id="p121"/>
-        <head>Livre III
-          <lb/>Passion et mystique</head>
+        <head type="kicker">Livre III</head>
+        <head>Passion et mystique</head>
         <div>
           <head>1. Position du problème</head>
           <p>On a souvent tenté d’expliquer le mysticisme en le « ramenant » à quelque déviation de l’amour humain, c’est-à-dire en fin de compte : à la sexualité.</p>
@@ -823,7 +823,8 @@
           <p>L’on pourrait tout ramener à une grossière confusion du Créateur et de la créature, dans le Roman : la fameuse « divinisation de la femme » selon la formule des manuels. Dans le cas où Iseut ne serait qu’une belle femme — comme le croiront les siècles à venir — les similitudes mystiques que nous venons de dégager ne seraient plus que de l’ordre du langage, et spécialement de la métaphore. Je ne songe pas à nier cet aspect du problème, il sera traité en son lieu. Mais je <pb n="130" xml:id="p130"/> crois qu’il y a bien autre chose. Car s’il n’y avait <emph>que</emph> cela, ce serait alors tout l’arrière-plan religieux de la légende qu’il faudrait nier ou négliger, en dépit de l’évidence historique. On reviendrait donc à zéro pour ce qui est du sens du mythe, et le Roman cesserait d’être un roman courtois ; ou bien l’amour courtois cesserait d’être ce qu’il fut, pour se mettre à ressembler à ce que nos érudits conçoivent qu’il fut. C’est autant dire qu’on ne comprendrait plus rien à rien. Encore une fois, ce qui se trouve en question, c’est la <emph>passion</emph> d’amour, et non l’amour purement profane et naturel.</p>
           <p>Voici, me semble-t-il, le principe véritable de l’opposition des deux mystiques. L’orthodoxe aboutit au « mariage spirituel » de Dieu et de l’âme, dès cette vie, tandis que l’hérétique espère l’union et la fusion totale, mais au-delà de la mort des corps. Pour les Cathares, il n’y avait pas de rachat possible de ce monde. Il s’en suivait — théoriquement — que l’amour profane était le malheur absolu, l’attachement impossible et condamnable à la créature imparfaite ; tandis que pour le chrétien, l’amour divin est un malheur recréateur. Loin de nier l’amour profane, il aboutit à le sanctifier par le mariage.</p>
           <p>Les amants mystiques du Roman chercheront donc l’<emph>intensité</emph> de la passion et non son apaisement heureux. Plus leur passion est vive et plus elle les détache des choses créées, et plus facilement ils parviennent à la mort volontaire dans l’<emph>endura</emph>. Au contraire, les mystiques chrétiens voient dans les actes et les œuvres qui découlent de l’état mystique les critères de sa vérité<note resp="author">Ce n’est pas évident pour Eckhart (voir plus bas, chap. <num>iii</num>) mais bien pour sainte Thérèse qui y insiste en toute occasion. « Pour plaire à Dieu, pour recevoir de lui de grandes grâces, il faut, et telle est sa volonté, que ces grâces passent <emph>par les mains</emph> de cette humanité sacrée en laquelle il a déclaré lui-même prendre sa complaisance. »</note>. C’est du moins le mouvement <pb n="131" xml:id="p131"/> constant de ceux qui ont concentré leur oraison sur le Christ incarné réellement. Mais les « parfaits » ne croyaient pas l’Incarnation, et ne pouvaient connaître ce <emph>retour</emph> de l’âme à une vie rénovée. « Je meurs de ne pas mourir », dit sainte Thérèse, mais c’est de ne pas mourir assez pour vivre toute la vie nouvelle, et pour obéir sans tourments.</p>
-          <p>Je ne trouve rien, dans <emph>Tristan</emph>, qui rappelle le « rejet des dons » dont parlent Eckhart et saint Jean de la Croix. Les amants se plaignent parfois de leur passion et maudissent le poison fatal, cause de leurs terribles souffrances. « Amor par force les demeine. » Mais finalement, c’est la passion totale qu’ils accueilleront comme la révélation <emph>dernière</emph>, dans la mort. Ainsi de leur attitude envers les créatures : ils ne les <emph>retrouvent</emph> pas au-delà de leur passion et de son ascèse. Ils ignorent ce mouvement de <emph>retour au monde</emph> si caractéristique du christianisme. Jean de la Croix, lui aussi, connaît un détachement parfait : « Lorsqu’on mortifie les passions, l’âme ne reçoit plus d’aliment des créatures ; et de cette façon, elle est remplie d’obscurité, et destituée des objets que les passions lui présentaient. » (<emph>Nuit obscure</emph>, III). (Et l’on peut certes rapprocher ce passage de l’admirable cri de Ventadour : « Elle m’a pris le cœur, elle m’a pris moi-même, elle m’a pris le monde, puis s’est elle-même dérobée à moi, ne me laissant rien que mon désir et mon cœur assoiffé. ») Au-delà même de cet état, Jean de la Croix connut la viduité totale, où non seulement le monde et le prochain, et l’amour avec son objet, mais jusqu’au <emph>désir</emph> de l’amour semblent se dérober au comble de l’élan : « Vide de toute convoitise, rien ne le pousse vers le haut, et rien ne l’attire vers le bas… » (<emph>Maximes</emph>.) Le troubadour Arnaut Daniel parlait aussi de cet « excès de désir » qui enlève « tout désir ». Mais cet état théopathique n’aboutit point chez Jean de la Croix à la condamnation des créatures. Maître <pb n="132" xml:id="p132"/> Eckhart, que l’on tient cependant — à tort peut-être — pour platonicien, sait dire en termes magnifiques que l’âme pure est le lieu de rédemption des créatures dénaturées par le péché. « Toutes les créatures passent de leur vie à leur être. Toutes les créatures se portent dans ma raison afin d’être en moi raisonnables. Moi seul, je ramène toutes les créatures à Dieu. » C’est ce mouvement qui fait défaut, théoriquement, à toute mystique fondée sur l’Éros lumineux.</p>
+          <p>Je ne trouve rien, dans <emph>Tristan</emph>, qui rappelle le « rejet des dons » dont parlent Eckhart et saint Jean de la Croix. Les amants se plaignent parfois de leur passion et maudissent le poison fatal, cause de leurs terribles souffrances. « Amor par force les demeine. » Mais finalement, c’est la passion totale qu’ils accueilleront comme la révélation <emph>dernière</emph>, dans la mort. Ainsi de leur attitude envers les créatures : ils ne les <emph>retrouvent</emph> pas au-delà de leur passion et de son ascèse. Ils ignorent ce mouvement de <emph>retour au monde</emph> si caractéristique du christianisme. Jean de la Croix, lui aussi, connaît un détachement parfait : « Lorsqu’on mortifie les passions, l’âme ne reçoit plus d’aliment des créatures ; et de cette façon, elle est remplie d’obscurité, et destituée des objets que les passions lui présentaient. » (<emph>Nuit obscure</emph>, III). (Et l’on peut certes rapprocher ce passage de l’admirable cri de Ventadour : « Elle m’a pris le cœur, elle m’a pris moi-même, elle m’a pris le monde, puis s’est elle-même dérobée à moi, ne me laissant rien que mon désir et mon cœur assoiffé. ») Au-delà même de cet état, Jean de la Croix connut la viduité totale, où non seulement le monde et le prochain, et l’amour avec son objet, mais jusqu’au <emph>désir</emph> de l’amour semblent se dérober au comble de l’élan : « Vide de toute convoitise, rien ne le pousse vers le haut, et rien ne l’attire vers le bas… » (<emph>Maximes</emph>.) Le troubadour Arnaut Daniel parlait aussi de cet « excès de désir » qui enlève « tout désir ». Mais cet état théopathique n’aboutit point chez Jean de la Croix à la condamnation des créatures. Maître <pb n="132" xml:id="p132"/> Eckhart, que l’on tient cependant — à tort peut-être — pour platonicien, sait dire en termes magnifiques que l’âme pure est le lieu de rédemption des créatures dénaturées par le péché. « Toutes les créatures passent de leur vie à leur être. Toutes les créatures se
+            portent dans ma raison afin d’être en moi raisonnables. Moi seul, je ramène toutes les créatures à Dieu. » C’est ce mouvement qui fait défaut, théoriquement, à toute mystique fondée sur l’Éros lumineux.</p>
           <p>Mais il faut indiquer la dernière limite, qui est celle de l’<emph>humilité</emph>. Et là encore, la clé de l’opposition est dans le mystère de l’Incarnation.</p>
           <p>Le Roman est baigné par l’atmosphère celtique de l’<emph>orgueil</emph> chevaleresque : c’est le désir de la prouesse qui est le moteur des hauts faits de Tristan. Comme tous les passionnés, il aime avec témérité la sensation de puissance qu’il éprouve dans le risque. D’où le désir final du risque pour lui-même, la passion de la passion sans terme, la volonté de la mort sans retour. L’on s’aperçoit, à cette limite, que la prouesse était le signe matériel d’un processus de <emph>divinisation</emph>. Les vrais mystiques, tout au contraire, sont la prudence même, la rigueur même, l’obéissance même dans la lucidité. Si « la mort m’est un gain », c’est que « Christ est ma vie », et Christ s’est incarné, c’est-à-dire abaissé. Ainsi le chrétien ne se jette pas dans l’illusion d’une mort d’amour transfigurante, mais au contraire accepte les limites de sa terrestre vocation. « Rien ne le pousse vers le haut, et rien ne l’attire vers le bas », disait saint Jean de la Croix, et cela « <emph>parce qu’il se tient au centre de son humilité</emph> ».</p>
         </div>
@@ -972,10 +973,10 @@
           <p>L’histoire de la passion d’amour, dans toutes les grandes littératures, du treizième siècle jusqu’à nous, c’est l’histoire de la déchéance du mythe courtois dans la vie « profanée ». C’est le récit des tentatives de plus en plus désespérées que fait l’Éros pour remplacer la transcendance mystique par une intensité émue. Mais grandiloquentes ou plaintives, les figures du discours passionné, les « couleurs » de sa rhétorique ne seront jamais que les exaltations d’un crépuscule, promesses de gloire jamais tenues…</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="IV.">
         <pb n="159" xml:id="p159"/>
-        <head>Livre IV
-          <lb/>Le mythe dans la littérature</head>
+        <head type="kicker">Livre IV</head>
+        <head>Le mythe dans la littérature</head>
         <epigraph>
           <p>On reconnaîtra maintenant ce qu’est le péché ou comment procède le péché. C’est lorsque la volonté humaine se sépare de Dieu pour être une volonté à soi, qu’elle suscite sa propre ardeur et brûle de sa propre affection, ardeur qui lui est propre et qui n’a rien à voir avec l’ardeur divine.</p>
           <bibl>Jacob <hi rend="sc">Boehme</hi>.</bibl>
@@ -1593,10 +1594,10 @@
           <p>Cette progressive profanation du mythe, sa conversion en rhétorique, puis la dissolution de cette rhétorique et la totale vulgarisation de son contenu, l’on peut en suivre les étapes dans un domaine en apparence fort étranger à ceux que nous venons de parcourir : dans l’évolution de la guerre et de ses méthodes en Occident.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="V.">
         <pb n="239" xml:id="p239"/>
-        <head>Livre V
-          <lb/>Amour et guerre</head>
+        <head type="kicker">Livre V</head>
+        <head>Amour et guerre</head>
         <div>
           <head>1. Parallélisme des formes</head>
           <p>Du désir à la mort par la <emph>passion</emph>, telle est la voie du romantisme occidental ; et nous y sommes tous engagés pour autant que nous sommes tributaires — inconsciemment bien entendu — d’un ensemble de mœurs et de coutumes dont la mystique courtoise a créé les symboles. Or passion signifie souffrance.</p>
@@ -1753,10 +1754,10 @@
           <p>C’est l’éventualité de la paix que j’envisagerai dans les deux livres terminaux : le premier situant le conflit du mythe et du mariage dans nos mœurs, le second décrivant une attitude que je donne bien moins pour <emph>la</emph> réponse décisive que pour mon choix particulier.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="VI.">
         <pb n="275" xml:id="p275"/>
-        <head>Livre VI
-          <lb/>Le mythe contre le mariage</head>
+        <head type="kicker">Livre VI</head>
+        <head>Le mythe contre le mariage</head>
         <div>
           <head>1. Crise moderne du mariage</head>
           <p>Deux morales s’affrontaient au Moyen Âge : celle de la société christianisée, et celle de la courtoisie hérétique. L’une impliquait le mariage, dont elle fit même un sacrement ; l’autre exaltait un ensemble de valeurs d’où résultait — en principe tout au moins — la condamnation du mariage.</p>
@@ -1842,10 +1843,10 @@
           <p>Enfin, l’on peut encore imaginer que la pratique forcée de l’eugénisme <emph>réussira</emph>, là où toutes nos morales échouent, entraînant l’effective abolition du besoin « spirituel », et donc artificiel, de la passion. Alors le cycle de l’amour courtois sera fermé. L’Europe de la passion aura vécu. Un Occident nouveau, imprévisible, naîtra dans les laboratoires.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="VII.">
         <pb n="297" xml:id="p297"/>
-        <head>Livre VII
-          <lb/>L’Amour action, ou de la fidélité</head>
+        <head type="kicker">Livre VII</head>
+        <head>L’Amour action, ou de la fidélité</head>
         <div>
           <head>1. Nécessité d’un-parti pris</head>
           <p>À l’heure où cet ouvrage touche à sa conclusion, il me semble que son dessein le plus secret m’échappe encore. L’aveu sera jugé insolite. Mais je pressens d’assez profondes raisons de le consentir. J’ai voulu décrire la passion comme une entité historique, née dans un temps et dans des lieux déterminés, et sous des astres dont le cours est calculable. J’ai cru cerner le secret de son mythe. La découverte n’est pas négligeable. Mais peut-on décrire la passion ? On ne décrit pas une forme d’existence sans y participer, fût-ce même par une révolte contre la décision dont elle est née. Et pour tout dire, j’ignore encore si cela peut avoir un sens : approuver ou rejeter la passion. Combien serait vaine l’attitude intellectuelle qui se définirait elle-même comme une condamnation de la passion : il suffît, pour l’apercevoir, d’observer que la passion, quelle qu’elle soit, ne peut ni ne veut « avoir raison ». Contre elle, on a <emph>toujours</emph> raison, dès l’instant qu’on parle raison. Car l’homme de la passion est <pb n="298" xml:id="p298"/> justement celui qui choisit d’être dans son tort, aux yeux du monde, — et dans ce tort majeur, irrévocable, que signifie le choix de la mort contre la vie.</p>
@@ -2146,14 +2147,16 @@
           <p><hi rend="sc">Bédier</hi> (J.). Édition du <emph>Tristan</emph> de Thomas, 2 vol., 1902-1905. (Le 2<hi rend="sup">e</hi> tome contient une table de concordance des divers textes primitifs de la légende.)</p>
           <p>— <emph>Les deux poèmes de la Folie Tristan</emph>, 1907.</p>
           <p>— <emph>Le Roman de Tristan et Iseult</emph> (transcription moderne, 185<hi rend="sup">e</hi> mille).</p>
-          <p><hi rend="sc">Bossert (A.).</hi> <emph>La Légende chevaleresque de Tristan et Iseult</emph>, 1902 (sur le Tristan de Gottfried de Strasbourg).</p>
+          <p><hi rend="sc">Bossert (A.).</hi>
+            <emph>La Légende chevaleresque de Tristan et Iseult</emph>, 1902 (sur le Tristan de Gottfried de Strasbourg).</p>
           <p><hi rend="sc">Michel</hi> (Fr.). <emph>Poèmes français et anglo-normands sur Tristan</emph>. 2 vol. Londres, 1835-1839.</p>
           <p><hi rend="sc">Muret</hi> (E.). Édition du <emph>Tristan et Iseut</emph> de Béroul, 1003.</p>
           <p><hi rend="sc">Thomas.</hi> Tristan et Iseult, trad. partielle en français moderne par R. Herbomez et J. Beaurieux, 1935.</p>
           <p><hi rend="sc">Vinaver</hi> (E.). Édition du Roman en prose, 1911.</p>
           <p>— <emph>Le Roman de Tristan dans l’œuvre de Thomas Malory</emph>, 1925.</p>
           <p><hi rend="sc">Wagner</hi> (R.). <hi xml:lang="fr" rend="i">Tristan und Isolde</hi>, 1860.</p>
-          <p></p><p>b) <emph>Voir aussi</emph> :</p>
+          <p/>
+          <p>b) <emph>Voir aussi</emph> :</p>
           <p><hi rend="sc">D’Arbois de Jubainville</hi> (H.) <emph>Cours de littérature celtique</emph>, 12 vol., 1884.</p>
           <p>— <emph>Le cycle mythol. irlandais et la mythol. celtique</emph>, 1884.</p>
           <p><pb n="344" xml:id="p344"/><hi rend="sc">Bédier</hi> (J.) <emph>Les légendes épiques</emph>, 4 vol., 1917.</p>
@@ -2161,7 +2164,8 @@
           <p><hi rend="sc">Dottin</hi> (G.). <emph>L’épopée irlandaise</emph>, 1926.</p>
           <p><hi rend="sc">Hubert</hi> (H.). Les Celtes, 2 vol., 1932.</p>
           <p><hi rend="sc">Jaspers</hi> (K.). <hi xml:lang="de" rend="i">Philosophie</hi>, 3 vol. Berlin, 1932.</p>
-          <p><hi rend="sc">Joyce.</hi> <emph>Old Celtic romance</emph>. Londres, 1879.</p>
+          <p><hi rend="sc">Joyce.</hi>
+            <emph>Old Celtic romance</emph>. Londres, 1879.</p>
           <p><hi rend="sc">Loth</hi> (J.). <emph>Les Mabinogion</emph> (<emph>in</emph> d’Arbois : <emph>Cours de litt. celt.</emph>), 1884.</p>
           <p><hi rend="sc">Paris</hi> (G.). <emph>Les origines celtiques de Tristan</emph> (<emph>Revue de Paris</emph>, 15 avril 1884).</p>
         </div>
@@ -2169,18 +2173,20 @@
           <head>II. — Origines religieuses du mythe</head>
           <p>a) <emph>Sur les Celtes</emph> :</p>
           <p>Ouvrages déjà cités de d’Arbois, Hubert, Joyce, Loth ; [plus <hi rend="sc">rahn</hi> (voir plus bas)].</p>
-          <p></p>
+          <p/>
           <p>b) <emph>Sur le manichéisme et les Cathares</emph> :</p>
           <p><hi rend="sc">Alfaric</hi> (P.). <emph>L’évolution intellectuelle de saint Augustin (du manichéisme au néo-platonisme)</emph>, 1918.</p>
           <p><hi rend="sc">Alphandéry</hi> (P.). <emph>Les idées morales chez les hétérodoxes latins au début du treizième siècle</emph>, 1903.</p>
           <p><hi rend="sc">Anitchkof</hi> (E.). <emph>Joachim de Flore et les milieux courtois</emph>. Rome, 1931.</p>
           <p>— <emph>Les survivances manichéennes à l’Occident et chez les Slaves</emph>. (<emph>Revue des études slaves</emph>, VIII), 1928.</p>
           <p><hi rend="sc">Benvéniste</hi> (E.). <emph>Hymnes manichéens</emph> (<emph>Yggdrasil</emph>, 25 août), 1937.</p>
-          <p><hi rend="sc">Clédat.</hi> <emph>Le Nouveau Testament traduit au treizième siècle en langue provençale</emph>, suivi d’un<emph> Rituel cathare</emph>, 1887.</p>
+          <p><hi rend="sc">Clédat.</hi>
+            <emph>Le Nouveau Testament traduit au treizième siècle en langue provençale</emph>, suivi d’un<emph> Rituel cathare</emph>, 1887.</p>
           <p><hi rend="sc">Corbin</hi> (H.). <emph>Pour l’hymnologie manichéenne</emph> (<emph>Yggdrasil</emph>), 1937.</p>
           <p><hi rend="sc">Cuhont</hi> (F.). <emph>La Cosmogonie manichéenne</emph>. Bruxelles, 1908.</p>
           <p>— <emph>Recherches sur le manichéisme</emph>. Bruxelles, 1912.</p>
-          <p><hi rend="sc">Doellinger.</hi> <hi xml:lang="de" rend="i">Beitrage zur Sektengeschichte des Mittelalters</hi> (gnostiques et manichéens), 1890.</p>
+          <p><hi rend="sc">Doellinger.</hi>
+            <hi xml:lang="de" rend="i">Beitrage zur Sektengeschichte des Mittelalters</hi> (gnostiques et manichéens), 1890.</p>
           <p><hi rend="sc">Douais</hi> (C.). <emph>Les Albigeois, leur origine</emph>, 1879.</p>
           <p><hi rend="sc">Gilson</hi> (E.). <emph>La Théologie mystique de saint Bernard</emph>, 1934.</p>
           <p><hi rend="sc">Gui</hi> (B.). <emph>Manuel de l’Inquisiteur</emph> (trad. et introd. G. Mollat), 2 vol. 1920-1927.</p>
@@ -2188,7 +2194,8 @@
           <p>— <emph>Histoire de l’Inquisition au Moyen Âge</emph>, 1935.</p>
           <p><hi rend="sc">Harnack</hi> (A.). <hi xml:lang="de" rend="i">Dogmengeschichte</hi>, 3 vol. Freiburg i. B., 1897.</p>
           <p><hi rend="sc">Lallemand</hi> (M.). <emph>Notes sur l’histoire occulte du Moyen Âge</emph>. (<emph>Hermès</emph>, II.). Bruxelles, 1933.</p>
-          <p><hi rend="sc">Migne.</hi> <emph>Patrologiæ cursus completus</emph>(<hi xml:lang="fr" rend="i">series latina</hi>) tome CCXII (Chroniques de P. des Vaux de Cernay sur les Albigeois.)</p>
+          <p><hi rend="sc">Migne.</hi>
+            <emph>Patrologiæ cursus completus</emph>(<hi xml:lang="fr" rend="i">series latina</hi>) tome CCXII (Chroniques de P. des Vaux de Cernay sur les Albigeois.)</p>
           <p><hi rend="sc">Molinier</hi> (Ch.). <emph>L’Endura</emph> (<emph>Annales de la Faculté, des Lettres de Bordeaux</emph>, III), 1881.</p>
           <p><hi rend="sc">Peyrat</hi> (N.). <emph>Histoire des Albigeois</emph>, 2 vol., 1880.</p>
           <p><hi rend="sc">Roché</hi> (D.). <emph>La doctrine des Albigeois sur le problème du mal</emph>. (<emph>La Science spirituelle</emph>), 1931-1932.</p>
@@ -2197,9 +2204,10 @@
           <p><hi rend="sc">Schmidt</hi> (Ch.). <emph>Histoire et doctrine de la secte des Cathares et Albigeois</emph>, 1849.</p>
           <p><hi rend="sc">Tocco</hi> (F.). <emph>L’eresia nel medio evo</emph>. Florence, 1884.</p>
           <p><hi rend="sc">Varga</hi> (L.). <emph>Le Catharisme</emph>. (<emph>Revue de synthèse</emph>), juin 1936.</p>
-          <p></p>
+          <p/>
           <p>c) <emph>Sur les troubadours</emph> :</p>
-          <p><hi rend="sc">André le Chapelain.</hi> <emph>De arte honeste amandi</emph> (début du treizième siècle).</p>
+          <p><hi rend="sc">André le Chapelain.</hi>
+            <emph>De arte honeste amandi</emph> (début du treizième siècle).</p>
           <p><hi rend="sc">Anglade</hi> (J.). <emph>Les troubadours</emph>, 1924.</p>
           <p>— <emph>Anthol. des troubadours</emph>, 1927.</p>
           <p><hi rend="sc">Appel</hi> (K.). <hi xml:lang="de" rend="i">Provenzalische Chrestomathie</hi>. Leipzig, 1907.</p>
@@ -2208,20 +2216,25 @@
           <p><hi rend="sc">Bertoni</hi> (G.). <emph>I trovatori d’Italia</emph>. Modène, 1915.</p>
           <p><hi rend="sc">Cingria</hi> (C.-A.). <emph>Ieu oc tan</emph> (<emph>Mesures</emph>, n° 2), 1937.</p>
           <p>Diez (F.). <hi xml:lang="de" rend="i">Die Poesie der Troubadours</hi>, 1883.</p>
-          <p><hi rend="sc">Fauriel.</hi> <emph>Histoire de la poésie provençale</emph>, 1846.</p>
+          <p><hi rend="sc">Fauriel.</hi>
+            <emph>Histoire de la poésie provençale</emph>, 1846.</p>
           <p><hi rend="sc">Jeanroy</hi> (A.). <emph>De nostratibus medii aevi poetis qui primum lyrica aquitaniae carmina imitati sunt</emph>, 1889.</p>
           <p>— <emph>Anthologie des troubadours</emph>, 1927.</p>
           <p><pb n="346" xml:id="p346"/><hi rend="sc">Jeanboy</hi> (A.). <emph>La Poésie lyrique des troubadours</emph>, 2 vol., 1934.</p>
-          <p><hi rend="sc">Lee (Vernon).</hi> <emph>Medieval Love</emph> (Euphorion). Londres, 1889.</p>
+          <p><hi rend="sc">Lee (Vernon).</hi>
+            <emph>Medieval Love</emph> (Euphorion). Londres, 1889.</p>
           <p><hi rend="sc">Lewis</hi> (C.-S.). <emph>The Allegory of Love</emph>. Oxford, 1936.</p>
-          <p><hi rend="sc">Mauclair (C.).</hi> <emph>Le protestantisme et les romans de chevalerie</emph>. (<emph>Revue de Genève</emph>, mars) 1926.</p>
-          <p><hi rend="sc">Péladan.</hi> <emph>De Parsifal à Don Quichotte : le Secret des troubadours</emph>. 1906.</p>
-          <p><hi rend="sc">Raynouard.</hi> <emph>Choix de poésies originales des troubadours</emph>, 1816-1821.</p>
+          <p><hi rend="sc">Mauclair (C.).</hi>
+            <emph>Le protestantisme et les romans de chevalerie</emph>. (<emph>Revue de Genève</emph>, mars) 1926.</p>
+          <p><hi rend="sc">Péladan.</hi>
+            <emph>De Parsifal à Don Quichotte : le Secret des troubadours</emph>. 1906.</p>
+          <p><hi rend="sc">Raynouard.</hi>
+            <emph>Choix de poésies originales des troubadours</emph>, 1816-1821.</p>
           <p><hi rend="sc">Rahn</hi> (O.). <emph>La Croisade contre le Graal</emph>, trad. franç., 1934 (importante bibliographie, surtout pour les ouvrages allemands et pour ceux du dix-neuvième siècle. Lacunes pour les plus récents, surtout français).</p>
           <p><hi rend="sc">Varga</hi> (L.). <emph>Peire Cardinal était-il hérétique</emph> ? (<emph>Revue Hist, des relig.</emph> mars-juin) 1938.</p>
           <p><hi rend="sc">Wechssler</hi> (E.). <hi xml:lang="de" rend="i">Frauendienst und Vassalitaet</hi> (<hi xml:lang="de" rend="i">Zeitschrift für. franz. Sprache und Literatur</hi>, XXIV, 159.)</p>
           <p>— <hi xml:lang="de" rend="i">Das Kulturproblem des Minnesangs</hi>, 2 vol. Halle, 1909.</p>
-          <p></p>
+          <p/>
           <p>d) <emph>Sur les mystiques arabes</emph> :</p>
           <p>Asin <hi rend="sc">Palacios</hi> (Don Miguel). <emph>Un précurseur hispano-musulman de saint Jean de la Croix</emph>. (<emph>Études carmélitaines</emph>, avril 1932.)</p>
           <p><hi rend="sc">Corbin</hi> (H.). <emph>Un traité persan inédit de Suhrawardî d’Alep</emph>, suivi d’une trad. du <emph>Familier des Amants</emph>. (<emph>Recherches philosophiques</emph>, tome II.)</p>
@@ -2229,8 +2242,9 @@
           <p><hi rend="sc">Dermenghem</hi> (E.). <emph>Mortelle Poésie</emph> (<emph>Hermès</emph>, II), 1933, et plusieurs traductions d’Ibn-al-Fahrid dans <emph>Mesures, les Cahiers du Sud, Hermès</emph>.</p>
           <p><hi rend="sc">Massignon</hi> (L.). <emph>La Passion de al-Hallaj</emph>, 1921.</p>
           <p>— <emph>Essai sur les origines du lexique technique de la mystique musulmane</emph>, 1922.</p>
-          <p><hi rend="sc">Massignon et Kraus.</hi> <hi xml:lang="de" rend="i">Akhbar al-Hallaj</hi>, 1936.</p>
-          <p></p>
+          <p><hi rend="sc">Massignon et Kraus.</hi>
+            <hi xml:lang="de" rend="i">Akhbar al-Hallaj</hi>, 1936.</p>
+          <p/>
           <p>e) <emph>Sur les cycles romanesques du Nord</emph> :</p>
           <p><hi rend="sc">Anitchkof</hi> (E.). <emph>Le Saint-Graal et les rites eucharistiques</emph>. (<emph>Romania</emph>, I, <num>lv</num>), 1929.</p>
           <p><pb n="347" xml:id="p347"/><hi rend="sc">Boulenger</hi> (J.). <emph>Les romans de la Table Ronde</emph>, 4 vol., 1923.</p>
@@ -2242,12 +2256,13 @@
           <p><hi rend="sc">Wechssler</hi> (E.). <hi xml:lang="de" rend="i">Die Sage vom heiligen Graal in ihrer Entwicklung bis auf R. Wagners Parsifal</hi>, 1898.</p>
           <p><hi rend="sc">Weston</hi> (J.-L.). <emph>The Grail and the rites of Adonis</emph> (<hi rend="i">Folk-Lore</hi>). Londres, 1907.</p>
           <p>Voir aussi les ouvrages cités II a) ; les œuvres de Chrétien de Troyes et de Robert de Boron ; <emph>la Queste du Sainl-Graal</emph> éditée par A. Pauphilet, 1921 ; les traductions de Wolfram d’Eschenbach par E. Tonnelat, et par M. Wilmotte ; enfin la <emph>Croisade contre le Graal</emph>, de Rahn.</p>
-          <p></p>
+          <p/>
           <p>f)<emph> Divers</emph> :</p>
           <p><hi rend="sc">Boulanger</hi> (A.). <emph>Orphée, rapports de l’orphisme et du christianisme</emph>, 1925.</p>
           <p><hi rend="sc">Dawson</hi> (Chr.). <emph>Les origines de l’Europe et de la civilisation européenne</emph>, trad. franç., 1932.</p>
           <p><hi rend="sc">Monod</hi> (W.). <emph>Le Problème du Bien</emph>, 3 vol. 1934.</p>
-          <p><hi rend="sc">Nitobé (I.).</hi> <emph>Le Bushido</emph> (sur la chevalerie japonaise), trad. franç :, 1927.</p>
+          <p><hi rend="sc">Nitobé (I.).</hi>
+            <emph>Le Bushido</emph> (sur la chevalerie japonaise), trad. franç :, 1927.</p>
           <p><hi rend="sc">Schultz</hi> (W.). <hi xml:lang="fr" rend="i">Dokumente der Gnosis</hi>. Iéna, 1910.</p>
         </div>
         <div>
@@ -2256,23 +2271,28 @@
           <p>— <emph>Introduction à des recherches sur le langage mystique</emph>. (<emph>Recherches philosophiques</emph>, tome I.)</p>
           <p><hi rend="sc">Bruno de</hi> J.-M. (P. Fr.). <emph>Saint Jean de la Croix</emph> (préface de J. Maritain.), 1929.</p>
           <p><hi rend="sc">Chuzeville</hi> (J.). <emph>Les mystiques allemands</emph>, 1935. (Trad., et introd. fertiles en erreurs de tous genres.)</p>
-          <p><hi rend="sc">Eckhart.</hi> <emph>Œuvres</emph>, éditées par Franz Pfeiffer, 1857 et 1924.</p>
-          <p><pb n="348" xml:id="p348"/><hi rend="sc">Eckhart.</hi> <emph>Sermons</emph>, trad. franç. par Mayrisch Saint-Hubert. Introduction par B. Groethuysen. (<emph>Hermès</emph>, n° IV), 1937.</p>
+          <p><hi rend="sc">Eckhart.</hi>
+            <emph>Œuvres</emph>, éditées par Franz Pfeiffer, 1857 et 1924.</p>
+          <p><pb n="348" xml:id="p348"/><hi rend="sc">Eckhart.</hi>
+            <emph>Sermons</emph>, trad. franç. par Mayrisch Saint-Hubert. Introduction par B. Groethuysen. (<emph>Hermès</emph>, n° IV), 1937.</p>
           <p><hi rend="sc">Etchegoyen</hi> (G.). <emph>L’amour divin, essai sur les sources de sainte Thérèse</emph>, 1923.</p>
           <p><hi rend="sc">Félice</hi> (Ph. <hi rend="sc">de).</hi>
             <emph>Poisons sacrés, ivresses divines</emph>, 1936.</p>
           <p><hi rend="sc">Gilson</hi> (E.). <emph>La théologie mystique de saint Bernard</emph>, 1934.</p>
           <p><hi rend="sc">Gout</hi> (R.). <emph>Le Miroir des dames chrétiennes</emph>, 1935.</p>
           <p><hi rend="sc">James</hi> (W.). <emph>L’expérience religieuse</emph> (2<hi rend="sup">e</hi> éd.) Trad. Abauzit, 1931.</p>
-          <p><hi rend="sc">Saint Jean de la Croix.</hi> <emph>Œuvres</emph>, trad. et introd. H. Hoornaert. Bruges, 1928.</p>
+          <p><hi rend="sc">Saint Jean de la Croix.</hi>
+            <emph>Œuvres</emph>, trad. et introd. H. Hoornaert. Bruges, 1928.</p>
           <p><hi rend="sc">Labande-Jeanroy</hi> (Th.). <emph>Les mystiques italiens</emph> (anthol. et introd.), 1929.</p>
           <p><hi rend="sc">Lamm</hi> (M.). <emph>Swendenborg</emph>, trad. franç., préface de P. Valéry, 1936.</p>
           <p><hi rend="sc">Maréchal</hi> (R. P.). <emph>Études sur la psychologie des mystiques</emph>, 2 vol., 1924 et 1937.</p>
           <p><hi rend="sc">Minkowski</hi> (D<hi rend="sup">r</hi> E.). <emph>Vers une cosmologie</emph>, 1936.</p>
-          <p><hi rend="sc">Montmorand (M. de). </hi> <emph>Psychologie des mystiques catholiques orthodoxes</emph>, 1920.</p>
+          <p><hi rend="sc">Montmorand (M. de). </hi>
+            <emph>Psychologie des mystiques catholiques orthodoxes</emph>, 1920.</p>
           <p><hi rend="sc">Otto</hi> (R.). <hi xml:lang="de" rend="i">Westöstliche Mystik</hi>, Gotha, 1929.</p>
           <p><hi rend="sc">Rémusat</hi> (Ch. <hi rend="sc">de</hi>) <emph>Abélard</emph>, 1845.</p>
-          <p><hi rend="sc">Ruysbroek.</hi> <emph>Œuvres</emph>, 5 vol. trad. des Bénédictins de Saint-Paul de Wisques. Bruxelles, 1921-1930.</p>
+          <p><hi rend="sc">Ruysbroek.</hi>
+            <emph>Œuvres</emph>, 5 vol. trad. des Bénédictins de Saint-Paul de Wisques. Bruxelles, 1921-1930.</p>
           <p>— Numéro spécial de la revue <emph>Hermès</emph> (II, 1933). Bruxelles.</p>
           <p><hi rend="sc">Sabatier</hi> (P.). <emph>Vie de saint François d’Assise</emph>, éd. définitive, 1931.</p>
           <p><hi rend="sc">Sainte</hi> Thérèse d’Avila. <emph>Œuvres</emph>, trad. des Carmélites, 1907.</p>
@@ -2281,15 +2301,18 @@
           <head>IV. — Le mythe dans la littérature</head>
           <p>Les œuvres littéraires analysées dans ce livre IV sont bien connues et facilement accessibles ; il est donc inutile d’en surcharger ce mémento. On ne trouvera ci-après que les travaux spéciaux que j’ai utilisés et cités.</p>
           <p><hi rend="sc">Asin Palacios</hi> (D. M.). <emph>La Escatologia musulmana en la Divina comedia</emph>. Madrid, 1919.</p>
-          <p><hi rend="sc">Aroux (E.).</hi> <emph>Dante hérétique, révolutionnaire et socialiste</emph>, 1845.</p>
+          <p><hi rend="sc">Aroux (E.).</hi>
+            <emph>Dante hérétique, révolutionnaire et socialiste</emph>, 1845.</p>
           <p><pb n="349" xml:id="p349"/><hi rend="sc">Béguin</hi> (A.). <emph>L’Âme romantique et le rêve</emph>, 2 vol. Marseille, 1937.</p>
           <p><hi rend="sc">Bertoni (G.</hi>), <emph>I trovatori d’Italia</emph>. Modène, 1915.</p>
           <p><hi rend="sc">Breton</hi> (A.). <emph>L’amour fou</emph>, 1937.</p>
           <p><hi rend="sc">Cingria</hi> (C.-A.). <emph>Pétrarque</emph>. Lausanne, 1932.</p>
           <p><hi rend="sc">Cochin</hi> (H.). <emph>Pétrarque</emph> (anthol. et intr.), 1928.</p>
           <p><hi rend="sc">De Ligt</hi> (B.). <emph>La Paix créatrice</emph>, 2 vol. 1934.</p>
-          <p><hi rend="sc">Divers.</hi> <emph>Le Romantisme allemand</emph>. (Numéro spécial des <emph>Cahiers du Sud</emph>.) Marseille, 1937.</p>
-          <p><hi rend="sc">Fichte.</hi> <hi xml:lang="de" rend="i">Grundlage der gesamten Wissenschaftslehre</hi>, 1794.</p>
+          <p><hi rend="sc">Divers.</hi>
+            <emph>Le Romantisme allemand</emph>. (Numéro spécial des <emph>Cahiers du Sud</emph>.) Marseille, 1937.</p>
+          <p><hi rend="sc">Fichte.</hi>
+            <hi xml:lang="de" rend="i">Grundlage der gesamten Wissenschaftslehre</hi>, 1794.</p>
           <p><hi rend="sc">Goncourt</hi> (E. et <hi rend="sc">J. de).</hi>
             <emph>La Femme au dix-huitième siècle</emph>, 1862.</p>
           <p><hi rend="sc">Guénon</hi> (R.). <emph>L’ésotérisme de Dante</emph>, 1919.</p>
@@ -2304,9 +2327,11 @@
             <emph>Wagner</emph>, 1932.</p>
           <p><hi rend="sc">Quézel</hi> (R.). <emph>Dante</emph> (anthol. trad. des œuvres mineures), 1927.</p>
           <p><hi rend="sc">Rank</hi> (O.). <hi xml:lang="fr" rend="i">Don Juan</hi>, trad. franç., 1925.</p>
-          <p><hi rend="sc">Saurat (D.).</hi> <emph>Milton et le matérialisme chrétien en Angleterre</emph>, 1928.</p>
+          <p><hi rend="sc">Saurat (D.).</hi>
+            <emph>Milton et le matérialisme chrétien en Angleterre</emph>, 1928.</p>
           <p><hi rend="sc">Schmidt</hi> (A.-M.). <emph>Saint-Évremond ou l’humaniste impur</emph>, 1932.</p>
-          <p><hi rend="sc">Shakespeare.</hi> <emph>Roméo et Juliette</emph>, trad. P.-J. Jouve et G. Pitoëff, introd. par P.-J. Jouve, 1937.</p>
+          <p><hi rend="sc">Shakespeare.</hi>
+            <emph>Roméo et Juliette</emph>, trad. P.-J. Jouve et G. Pitoëff, introd. par P.-J. Jouve, 1937.</p>
           <p><hi rend="sc">Walzel</hi> (O.). <hi xml:lang="de" rend="i">Deutsche Romantik</hi>, 2 vol. Leipzig, 1926.</p>
         </div>
         <div>
@@ -2320,22 +2345,27 @@
           <p><hi rend="sc">Ferrero</hi> (G.). <emph>La fin des aventures</emph>, 1931.</p>
           <p><hi rend="sc">Foch</hi> (F.). <emph>Les Principes de la guerre</emph>, 1903 et 1929.</p>
           <p><hi rend="sc">Freud</hi> (S.). <emph>Œuvres</emph>, trad. en français, chez Alcan et chez, Gallimard. (Voir aussi la collection de la <emph>Revue française de psychanalyse</emph>.)</p>
-          <p><hi rend="sc">Guichardin.</hi> <emph>Histoire d’Italie</emph>, 3 vol. trad. franç. Londres, 1738.</p>
+          <p><hi rend="sc">Guichardin.</hi>
+            <emph>Histoire d’Italie</emph>, 3 vol. trad. franç. Londres, 1738.</p>
           <p><hi rend="sc">Hirschfeld</hi> (D<hi rend="sup">r</hi> M.). <hi xml:lang="de" rend="i">Sittengeschichte des Weltkrieges</hi>, 2 vol. Vienne et Leipzig, 1930.</p>
-          <p><hi rend="sc">Hitler.</hi> <hi xml:lang="fr" rend="i">Mein Kampf</hi>, 1924.</p>
+          <p><hi rend="sc">Hitler.</hi>
+            <hi xml:lang="fr" rend="i">Mein Kampf</hi>, 1924.</p>
           <p><hi rend="sc">Huizinga</hi> (J.). <emph>Le déclin du Moyen Âge</emph>, trad. franç., 1932.</p>
           <p>— <hi xml:lang="de" rend="i">Im Schatten von Morgen</hi>, trad. allemande. Leipzig, 1936.</p>
           <p><hi rend="sc">Jünger</hi> (E.). <emph>La Guerre, notre Mère</emph>, trad. franç., 1934.</p>
-          <p><hi rend="sc">La Marche (O. de).</hi> <emph>Mémoires</emph>, 4 vol., rééd. 1883-1888.</p>
+          <p><hi rend="sc">La Marche (O. de).</hi>
+            <emph>Mémoires</emph>, 4 vol., rééd. 1883-1888.</p>
           <p><hi rend="sc">Monglond</hi> (A.). <emph>Le Préromantisme français</emph>, 2 vol. Grenoble, 1925.</p>
           <p><hi rend="sc">Salomon</hi> (E. von.) <emph>Les Réprouvés</emph>, trad. franç., 1930.</p>
         </div>
         <div>
           <head>VI et VII. — Le mythe et le mariage</head>
-          <p><hi rend="sc">Bachofen.</hi> <hi xml:lang="de" rend="i">Mutterrecht und Urreligion</hi> (éd. Kröner). Leipzig, s. d.</p>
+          <p><hi rend="sc">Bachofen.</hi>
+            <hi xml:lang="de" rend="i">Mutterrecht und Urreligion</hi> (éd. Kröner). Leipzig, s. d.</p>
           <p><hi rend="sc">Brunner</hi> (E.). <hi xml:lang="de" rend="i">Eros und Liebe</hi> (<hi xml:lang="de" rend="i">Neue Schweizer Rundschau</hi>). Zurich, septembre 1933.</p>
           <p><hi rend="sc">Croce</hi> (B.). <emph>Etica e Politica</emph>. Bari, 1931.</p>
-          <p><hi rend="sc">Calvin.</hi> <emph>Institution de la religion chrétienne</emph> (texte 1560), 1865. — (Texte de 1541) 3 vol. parus, 1936-1938.</p>
+          <p><hi rend="sc">Calvin.</hi>
+            <emph>Institution de la religion chrétienne</emph> (texte 1560), 1865. — (Texte de 1541) 3 vol. parus, 1936-1938.</p>
           <p><hi rend="sc">Divers.</hi> Numéro spécial de <emph>Foi et Vie</emph> sur les problèmes du mariage chrétien, novembre-décembre 1936. (Études de <hi rend="sc">E. Thurneysen</hi>, W.-<hi rend="sc">A. Visser’t Hooft</hi>, etc.).</p>
           <p><hi rend="sc">Engels</hi> (F.). <emph>L’Origine de la Famille, de la Propriété et de l’État</emph>, trad. franç., 1931.</p>
           <p><hi rend="sc">Ferrero</hi> (Leo). <emph>Désespoirs</emph>, 1937.</p>
@@ -2346,7 +2376,8 @@
           <p><hi rend="sc">Jung</hi> (C.-G.). <emph>Essais de psychologie analytique</emph>, trad. franç., 1931.</p>
           <p><hi rend="sc">Lavaud</hi> (R. P.). <emph>Le monde moderne et le mariage chrétien</emph>, 1934.</p>
           <p>— <emph>L’idée divine du mariage</emph> (Et. carmélitaines, avril 1936).</p>
-          <p><hi rend="sc">Kierkegaard.</hi> <hi xml:lang="de" rend="i">Religion der Tat</hi> (<hi xml:lang="de" rend="i">Sein Werk im Auswahl</hi>). Traduction allemande de Geismar. Leipzig, 1930.</p>
+          <p><hi rend="sc">Kierkegaard.</hi>
+            <hi xml:lang="de" rend="i">Religion der Tat</hi> (<hi xml:lang="de" rend="i">Sein Werk im Auswahl</hi>). Traduction allemande de Geismar. Leipzig, 1930.</p>
           <p><hi rend="sc">Koch</hi> (C.). <hi xml:lang="fr" rend="i">Soeren Kierkegaard</hi>, trad. franç., 1934.</p>
           <p><hi rend="sc">Marañon</hi> (D<hi rend="sup">r</hi>). <hi xml:lang="fr" rend="i">Amiel, un essai sur la timidité</hi>, trad. franç., 1938.</p>
           <p><hi rend="sc">Nygren</hi> (A.). <hi xml:lang="de" rend="i">Eros und Agape</hi>, 2 vol. Gütersloh, 1937.</p>

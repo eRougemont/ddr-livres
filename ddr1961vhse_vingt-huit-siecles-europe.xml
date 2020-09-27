@@ -50,10 +50,10 @@
           <hi rend="sc">D. de Rougemont.</hi>
         </p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="I.">
         <pb n="9" xml:id="p9"/>
-        <head>Première partie
-          <lb/>Les Origines d’Hésiode à Charlemagne
+        <head type="kicker">Première partie</head>
+        <head>Les Origines d’Hésiode à Charlemagne
           <lb/>(du <num>ix<hi rend="sup">e</hi></num> siècle av. J.-C. au <num>xi<hi rend="sup">e</hi></num> siècle de notre ère)</head>
         <p>D’où vient le nom ?</p>
         <p>Quel est son sens ?</p>
@@ -222,7 +222,6 @@
           <quote>
             <p>
               <hi rend="i">Non, est, quod repetatur , eam partem terræ, quam fabulæ Europam dixere, Japetiam debere dici, ob primum ilium Japetum non tantum illius, sed universi orbis principem institutum.<note place="bottom">Cit. in <hi rend="sc">F. J. Schneider</hi>, <hi xml:lang="de" rend="i">Japeta</hi>, Stuttgart, 1927.</note></hi>
-             
             </p>
           </quote>
         </div>
@@ -509,10 +508,10 @@
           <p>Ici donc prend fin notre enquête sur les origines attestées.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="II.">
         <pb n="53" xml:id="p53"/>
-        <head>Deuxième partie
-          <lb/>Prises de conscience européennes
+        <head type="kicker">Deuxième partie</head>
+        <head>Prises de conscience européennes
           <lb/>De Pierre de Bois à l’Abbé de Saint-Pierre
           <lb/>(<num>xiv<hi rend="sup">e</hi></num> au <num>xix<hi rend="sup">e</hi></num> siècle)</head>
         <div>
@@ -1043,10 +1042,10 @@
           <p>C’est parce que le sol de l’Europe n’est pas le même partout, n’est pas également fertile, produit des fruits différents et des trésors de diverses natures, que les Européens sont appelés à s’unir et à se bien entendre, pour se procurer, par des échanges faciles, tout ce qui peut leur être de nécessité, d’utilité ou de luxe.<note place="bottom">Cf. B. Mirkine <hi rend="sc">Guetzevitch</hi>, <hi rend="i">La Révolution française et les projets d’union européenne</hi> in <hi rend="i">La Révolution Française</hi>, Paris, 1931, Tome 84, p. 321-35.</note></p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="III.">
         <pb n="117" xml:id="p117"/>
-        <head>Troisième partie
-          <lb/>L’ère des philosophes
+        <head type="kicker">Troisième partie</head>
+        <head>L’ère des philosophes
           <lb/>De Leibniz à Condorcet</head>
         <div>
           <head>I. — Perspectives élargies</head>
@@ -1420,10 +1419,10 @@
           </quote>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="IV.">
         <pb n="163" xml:id="p163"/>
-        <head>Quatrième Partie
-          <lb/>L’Ère de la Révolution de Kant à Hegel</head>
+        <head type="kicker">Quatrième Partie</head>
+        <head>L’Ère de la Révolution de Kant à Hegel</head>
         <div>
           <head>I. — La Révolution Française et l’Europe</head>
           <p>Les illusions d’un Wieland n’ont-elles pas été partagées par ceux-là même qui donnèrent son impulsion première au plus brutal bouleversement subi par l’Europe depuis sa formation carolingienne ? L’éloquence « cosmopolite » et « philanthropique » d’un Mirabeau, d’un Robespierre, est certainement sincère. Mais comme elle change vite de registre quand il s’agit de reconnaître que l’idéal qu’elle exalte ne saurait entrer dans l’Histoire qu’en se confondant avec les intérêts ou la survie militaire d’une nation ! Partie pour instaurer la fraternité mondiale et « la société du genre humain », la Révolution va se voir rapidement entraînée dans une suite de guerres qui créeront le nationalisme moderne. Une déclaration de <hi rend="sc">Mirabeau</hi>, le 25 août 1790, annonce, par le coup de frein des derniers mots, cette dramatique évolution :</p>
@@ -2009,10 +2008,10 @@
           <p>Voilà pourquoi Auguste Comte bornera son étude à « l’explication spéciale de l’agent et du théâtre de l’évolution sociale la plus complète », à l’Europe. Et il exposera dans les volumes qui suivent les raisons pour lesquelles « la race blanche possède, d’une manière si prononcée, le privilège effectif du principal développement social », tandis que « l’Europe a été le lien essentiel de cette civilisation prépondérante ».</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="V.">
         <pb n="231" xml:id="p231"/>
-        <head>Cinquième Partie
-          <lb/>L’Ère des nations
+        <head type="kicker">Cinquième Partie</head>
+        <head>L’Ère des nations
           <lb/>(de 1848 à 1914)</head>
         <div>
           <head>I. — De l’harmonie entre les nations libérées à l’anarchie des États souverains</head>
@@ -2699,10 +2698,10 @@
           <p>Il fallait toucher le fond, c’est fait. L’Europe unie naît à l’histoire parmi les ruines de sa dernière grande guerre civile. Et nous allons voir les prophètes de sa décadence finale controuvés par les faits et réfutés par une génération mieux avertie.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="VI.">
         <pb n="311" xml:id="p311"/>
-        <head>Sixième Partie
-          <lb/>L’Europe en question : de Spengler à Ortega</head>
+        <head type="kicker">Sixième Partie</head>
+        <head>L’Europe en question : de Spengler à Ortega</head>
         <div>
           <head>I. — « Tout s’est senti périr »</head>
           <p>Provoqué par un court-circuit entre tensions nationalistes accumulées depuis un siècle, l’incendie de 1914 ne fut éteint, provisoirement, qu’avec l’aide des Américains et de forts contingents recrutés en Asie, en Australie et en Afrique. Appelés à nous tirer de nos décombres, ils le firent, librement ou non, puis s’en retournèrent chez eux, sans insister, mais édifiés sur notre compte. D’une expérience durement acquise de la réalité européenne, les uns conclurent qu’ils pourraient désormais s’approprier nos forces matérielles et certains de nos principes politiques, quitte à les retourner contre nous profitant de nos faiblesses morales et de nos désunions passionnées : ainsi pensèrent aussi les Soviétiques ; d’autres conclurent que le nationalisme, cause de nos ruines, devait être enfin surmonté, mais à l’échelle de l’arbitrage mondial, c’est-à-dire à l’échelle des troubles que l’Europe venait de fomenter.</p>
@@ -2860,10 +2859,10 @@
           </quote>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="VII.">
         <pb n="333" xml:id="p333"/>
-        <head>Septième Partie
-          <lb/>L’Ère des fédérations
+        <head type="kicker">Septième Partie</head>
+        <head>L’Ère des fédérations
           <lb/>De l’Unité de culture à l’union politique</head>
         <p>Le Grand Dessein de Sully est un projet posthume. L’Abbé de Saint-Pierre ne fut pas écouté. Victor Hugo ne fut qu’applaudi. En revanche, qu’ils le veuillent ou non, ceux qui écrivent sur l’Europe, au <num>xx<hi rend="sup">e</hi></num> siècle, se trouvent engagés dans l’Histoire qui se fait. Certains ont pu s’imaginer qu’ils n’étaient que des commentateurs, des analystes objectifs. Ils oubliaient que les journaux font l’Opinion, d’après laquelle l’homme politique s’oriente, et que les journaux tirent leur doctrine (même s’ils l’ignorent) d’une atmosphère intellectuelle que les auteurs qu’on va citer ont largement contribué à définir.</p>
         <p>Laissons de côté l’ordre chronologique, — qui perd son importance dans une période si courte où chacun réagit à tous les autres et presque simultanément — pour cette partie finale de notre ouvrage. Le choix des textes sera fonction d’un plan dont voici le très simple argument : L’Europe contestée par le Monde et tendant à s’unir pour son salut cherche d’abord à remonter aux <hi rend="i">sources</hi> d’où dérivent ses valeurs constituantes et spécifiques ; pour mieux voir ce qu’elle fut, ce qu’elle est et peut être, elle se compare aux autres civilisations, et par suite elle retrouve à la fois le sens de sa <hi rend="i">fonction mondiale</hi> et le sens de son unité très singulière, qui est <hi rend="i">unité dans la diversité</hi> ; il lui reste à tirer les conséquences de cette reprise de conscience…</p>

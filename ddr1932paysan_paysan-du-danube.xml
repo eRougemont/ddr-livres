@@ -104,7 +104,7 @@
         <pb n="31" xml:id="p31"/>
         <head>Première partie
           <lb/>Le Paysan du Danube</head>
-        <div type="chapter">
+        <div type="chapter" n="I.1.">
           <pb n="33" xml:id="p33"/>
           <head>Un soir à Vienne avec Gérard</head>
           <epigraph>
@@ -153,7 +153,7 @@
           <p>Je dormais debout.</p>
           <dateline>(Vienne, 1928)</dateline>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="I.2.">
           <pb n="51" xml:id="p51"/>
           <head>Une « tasse de thé » au Palais C…</head>
           <epigraph>
@@ -192,7 +192,7 @@
           <p>La joie du jour, hélas, la plus forte…</p>
           <dateline>(Vienne, 1928)</dateline>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="I.3.">
           <pb n="64" xml:id="p64"/>
           <head>Voyage en Hongrie</head>
           <epigraph>
@@ -415,7 +415,7 @@
             <lb/>… C’est le domaine de l’homme qui n’a pas d’empressement. »</p>
           <bibl><hi rend="sc">Senancour</hi> (<hi rend="i">Obermann</hi>)</bibl>
         </epigraph>
-        <div type="chapter">
+        <div type="chapter" n="II.1.">
           <pb n="121" xml:id="p121"/>
           <head>La Tour de Hölderlin</head>
           <p>« Je lui ai raconté qu’il habite une chaumière au bord d’un ruisseau, qu’il dort les portes ouvertes, et pendant des heures récite des odes grecques au murmure de l’eau ; la princesse de Homburg lui a fait cadeau d’un piano dont il a coupé les cordes, mais pas toutes, en sorte que plusieurs touches sonnent encore, et c’est là-dessus qu’il improvise, oh ! j’aimerais tant aller là-bas, cette folie m’apparaît comme une chose si douce et si grande…<note place="bottom">Bettina von Arnim-Brentano : <hi rend="i">Die Günderode</hi>.</note> »</p>
@@ -449,7 +449,7 @@
           <p>Le tragique de la facilité, c’est qu’elle n’est qu’un oubli. Et pourtant, comme elle paraît ici bien établie, triomphante, à beau fixe. Pourquoi troubler le miroir innocent de ces eaux, ces âmes indulgentes à leur banalité ? Est-ce qu’ils ne soupçonnent jamais rien ? Ou bien, peut-être, seulement, quand l’amour leur donne une petite fièvre, — cette semaine de leur jeunesse où ils ont cru pressentir de grandes choses généreuses autour d’eux… Cela s’oublie. Et l’amour, tout justement, nous fait comprendre, dans le temps même qu’il nous entrouvre le ciel, qu’il est bon qu’il y ait la terre… Mais que cette musique vulgaire, <pb n="130" xml:id="p130"/>par quel hasard, donne l’accord qui m’ouvre un vrai silence : déjà je leur échappe — je t’échappe ô douceur de vivre ! Tout redevient autour de moi insuffisant, transitoire, allusif. Tout se remet à signifier l’absence.</p>
           <dateline>(1929)</dateline>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="II.2.">
           <pb n="131" xml:id="p131"/>
           <head>Petit journal de Souabe</head>
           <p>À la tombée d’une nuit froide, en avril, le voyageur descend dans un vieux bourg de Souabe, — quelques lumières au milieu d’une étroite vallée où le train longtemps côtoya une rivière, des forêts. Les rues sont vides jusqu’au cœur de la ville, où l’attend une ample demeure.</p>
@@ -615,7 +615,7 @@
             <dateline>(avril-août 1929. Repris en 1932.)</dateline>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="II.3.">
           <pb n="170" xml:id="p170"/>
           <head>Châteaux en Prusse</head>
           <p>Au loin passaient des voiles claires parmi les blés violents ; le ciel paraissait plus grand que la terre. Des bois de pins s’approchaient, s’écartaient, livrant passage à la chaussée impériale dont brillaient les grandes portées blanches sur les ondulations sablonneuses de la plaine. Des prairies doucement soulevées s’arrêtaient au bord du ciel, devant la lumière maritime ; puis cédaient de l’épaule et l’on voyait le golfe violacé écumer sous la masse du soleil. Une lisière qui nous accompagnait vira largement, nous fit front, et il n’y eut plus qu’une piste de terre entre les sapins noirs, la rumeur du rivage et du soleil derrière nous décroissant, tumulte d’un matin d’été. Maintenant une odeur fine de benzine traverse les odeurs de la forêt, et le moteur halète <pb n="171" xml:id="p171"/>au ralenti, dans la fraîcheur sobre. L’on s’éveille enfin du long voyage nocturne, les yeux cessent de cligner, le corps se détend. Là devant, un chauffeur immobile guette les ornières profondes où les roues s’enfoncent parfois avec un cahot mou. Le silence grandit ; cris de pics, vibration basse des cylindres. On voit paraître de plus hauts arbres et bientôt un vaste portail, aux piles couronnées de grands cerfs de bronze. La piste se fait plane, la forêt s’ordonne. Échappée sur des étangs couverts de mousse jaune. (Tout à fait réveillé et attentif, maintenant.) Jardin anglais. Soudain, des pelouses filent à gauche et à droite entre des hêtres rouges, piquées au loin de massifs éclatants, le gravier d’une allée fait son bruit luxueux, tout s’éclaire, nous y sommes : cent fenêtres, sur la gauche, dans une façade de grès Louis XV. Nous la longeons, nous montons une rampe pavée qui s’engage sous un porche couvert aux colonnes enguirlandées de roses. Toute une famille de géants, debout sur un seuil solennel, me regarde piquer du nez à l’arrêt brusque.</p>
@@ -672,7 +672,7 @@
             <p>La nuit, les moustiques tissent une rumeur dans l’obscurité profonde. Des cris de chouettes se poursuivent, s’éloignent, reprennent tout proches. Les élans dorment agenouillés, aussi hauts que les jeunes arbres de la lande. Et la mer respire fort contre les grèves, soulagée de la pesante lumière. Mais dans cette chambre élevée du château, l’air demeure étouffant et parfois l’odeur des étangs vient se mêler à celle des vieilles boiseries. Enveloppé de gaze je sors sur mon balcon, je me penche sur le parc incertain. Palpitation lointaine <pb n="189" xml:id="p189"/>et animale du silence. Le long de la crête des forêts, une rougissante lueur avance de l’Occident vers l’Orient.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="II.4.">
           <pb n="190" xml:id="p190"/>
           <head>Le balcon sur l’eau</head>
           <p>Tu es appuyée debout contre moi, et nous regardons à nos pieds l’eau vivante. La brume est proche. Une haute muraille derrière nous ferme le monde. Tu ne trembles plus, tu t’appuies. Nos reflets ondulent très peu, gris sur le blanc doucement luisant de la surface ; mais le silence a des vagues profondes.</p>
@@ -685,7 +685,7 @@
           <p>Solennité autour de nous : il y a une grande lenteur. C’est l’avenir ou l’éternité qui ouvre la <pb n="191" xml:id="p191"/>bouche pour dire quelque chose, écoute, attends… Peut-être que déjà la parole fut dite et reçue quelque part en nous-mêmes, dans la brume où nous sommes perdus avec ce clapotis d’une eau étrangement vivante et qui rêve ; et rien que nos yeux qui brillent dans l’étendue où nos deux formes confondent leur ombre et leur songe… Odeur de l’eau, — pour toute la vie.</p>
           <dateline>(1929)</dateline>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="II.5.">
           <pb n="193" xml:id="p193"/>
           <pb n="195" xml:id="p195"/>
           <head>Appendice

@@ -45,10 +45,10 @@
       </div>
     </front>
     <body>
-      <div type="chapter">
+      <div type="chapter" n="1.">
         <pb n="15" xml:id="p15"/>
-        <head><num>I</num>
-          <lb/>La nouvelle</head>
+        <head type="kicker">I</head>
+        <head>La nouvelle</head>
         <pb n="17" xml:id="p17"/>
         <dateline>Lake George (N. Y.), le 8 août 1945.</dateline>
         <p>Je vous écris des bords d’un lac où vit encore, au plus secret des bois, l’esprit d’Œil de Faucon et du Dernier des Mohicans. L’onde en est bleue comme dans mes souvenirs des lacs de Suisse et du Tyrol. La grande galerie ouverte où je suis installé, à l’ombre d’un rideau de pins qui sépare seul la maison du rivage, domine une jetée de bois, où parfois vient accoster en silence un canoë dont la rameuse est lasse. Vous ne sauriez imaginer lumière plus heureuse, ni plus paisible espace. Il paraît qu’il faisait ce temps-là, l’autre jour, à Hiroshima.</p>
@@ -63,10 +63,10 @@
         <p>Ce matin, le docteur a voulu se rattraper. Nous prenions le breakfast sur la jetée. Conduit semblait-il à deux rênes par une superbe <pb n="22" xml:id="p22"/> blonde quasi nue et dressée sur ses skis dans l’écume, un canot moteur fendait l’onde et vint faire une large embardée tout près de nous. « Voilà la bombe anatomique ! » cria le docteur tandis qu’une vague submergeait la jetée, dispersant les assiettes et les œufs sur le plat. Si vous me payez un <hi rend="i">nickel</hi> à chaque fois que cette plaisanterie sera publiée, lui ai-je dit, je vous parie mille dollars que je les gagne en un an. Privés de petit déjeuner, nous avons vainement tenté l’analyse étymologique et comparée d<hi rend="i">’anatomie</hi> et <hi rend="i">d’atome.</hi></p>
         <p>Ma lettre vous paraîtra frivole, je le crains. Mais l’événement, il faut l’avouer, dépasse les limites de la décence. Il nous laisse comme privés de réflexes, moins inquiets qu’excités, et hilares par nervosité. Quelle que soit d’ailleurs l’attitude qu’on juge bon d’adopter en sa présence, il la ridiculise sans espoir. Puisse la disparition de mon sérieux habituel vous faire sentir, par homéopathie, la gravité de ce qui vient de se passer. Je ne la pressens encore qu’à peine, pour ma part.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="2.">
         <pb n="23" xml:id="p23"/>
-        <head><num>II</num>
-          <lb/>La guerre est morte</head>
+        <head type="kicker">II</head>
+        <head>La guerre est morte</head>
         <pb n="25" xml:id="p25"/>
         <dateline>Lake George (N. Y.), le 12 août 1945.</dateline>
         <p>On nous parle d’armistice depuis hier. Est-ce encore une de ces fausses nouvelles comme cette guerre en a vu tant, qui ne font qu’anticiper d’un ou deux jours sur la réalité ? La libération de Paris a été fêtée un soir à New York, démentie le lendemain, confirmée quelques jours plus tard. Effet manqué. C’était pourtant, d’une manière symbolique, la date capitale de la guerre. De même la victoire en Europe nous fut annoncée en deux temps, laissant la foule de Times Square perplexe. Cela n’est pas sans conséquences pour le moral de la population. Rien de plus malsain que de couper court à un élan de soulagement collectif, après des années de discipline et de souci. L’explosion vitale et délirante qui devait marquer la fin d’une ère, a fait long feu. On dit que les accidents de ce genre, dans divers ordres, sont souvent l’origine d’une névrose…</p>
@@ -79,10 +79,10 @@
         <p>Il ne faut pas se dissimuler que ce déclassement brusque de la guerre va provoquer dans le monde entier un sentiment de vague et vaste frustration. (L’Europe sera plus touchée que l’Amérique.) On ne se guérit pas facilement de l’ablation à chaud d’une coutume ancestrale, du goût des uniformes, du jeu des soldats de plomb, et de l’usage quotidien de métaphores guerrières, intimement lié, depuis Lancelot, à la sexualité occidentale. Quelles fêtes, quels carnavals mondiaux remplaceront désormais, pour nous et nos enfants, les « grandes parades » qui firent le principal de notre Histoire ?</p>
         <p>Tel est l’un des problèmes psychologiques que pose au siècle la bipartition d’un seul <pb n="29" xml:id="p29"/> atome. Il en est d’autres, dont nous avons parlé abondamment ces derniers jours : les maisons à hélicoptères vont rétablir le nomadisme ; les grandes cités deviendront mobiles — leur seule défense imaginable — et la circulation sera dégorgée dans l’invisible stratosphère… Quant aux voyages ? Ils vont mourir aussi, avec la poésie de la durée, de la distance et de la nostalgie. Jusqu’au jour où l’humanité, sur les traces d’un grand philosophe, découvrira ce luxe inouï : la lenteur au sein du silence. C’est la grâce que je vous souhaite.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="3.">
         <pb n="31" xml:id="p31"/>
-        <head><num>III</num>
-          <lb/>Le point de vue moral</head>
+        <head type="kicker">III</head>
+        <head>Le point de vue moral</head>
         <pb n="33" xml:id="p33"/>
         <dateline>New York, fin septembre 1945.</dateline>
         <p>J’ai quitté les bords de mon lac. J’ai perdu cette lenteur et ce silence aimés. Je doute de les retrouver jamais dans cet « âge atomique » dont tout le monde parle. Est-ce que la paix serait morte en même temps que la guerre ?</p>
@@ -99,10 +99,10 @@
         <p>Le fait brutal, c’est que ce débat n’est pas à l’échelle de l’Histoire. Ce qui domine en vérité tous les esprits, ce n’est pas la question de ce qu’il eût fallu faire, mais bien de ce qui va nous arriver. Car personne, sérieusement, n’ose opiner qu’il était préférable de détruire <pb n="36" xml:id="p36"/> la Bombe et tout le <hi rend="i">Manhattan Project.</hi> C’est peut-être humiliant, mais c’est ainsi : personne ne veut que l’événement soit oublié, supprimé, interdit à jamais. Nous sommes tous dans l’état du spectateur à l’approche du <hi rend="i">climax</hi> d’un bon film policier. Si l’on nous privait de la Bombe, je suis sûr que la déception surpasserait de beaucoup le soulagement. L’Histoire a parlé. Répondons. (Même si elle avait mieux fait de se taire.) Bâtard ou non, l’âge atomique est né.</p>
         <p>Vous me dites que l’expression est ridicule. Simplement parce qu’elle s’est vulgarisée ? Je la trouve juste, utile et nécessaire. Un âge, oui, c’est bien cela et ce n’est pas trop dire, si l’on songe aux transformations presque inimaginables qui vont se produire. Un âge de folie pure peut-être, mais c’en est fait, nous sommes embarqués. Et toutes nos discussions rétrospectives sont vaines. Il s’agit de faire face à ce qui vient, dans l’incompétence générale.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="4.">
         <pb n="37" xml:id="p37"/>
-        <head><num>IV</num>
-          <lb/>Utopies</head>
+        <head type="kicker">IV</head>
+        <head>Utopies</head>
         <pb n="39" xml:id="p39"/>
         <dateline>New York, 3 octobre 1945.</dateline>
         <p>Allons-y, et imaginons ! Voici la base scientifique et officielle de quelques idées folles que je conçois.</p>
@@ -120,10 +120,10 @@
         <p>— « Bien, dis-je, la preuve que la science n’est pas folle, c’est qu’elle nous permet aujourd’hui <pb n="45" xml:id="p45"/> d’aller beaucoup plus vite qu’il y a cent ans. Voilà qui est sérieux, me dites-vous. Et voilà qui est utile, au surplus. Personne n’osant le contester autour de moi, je crois prudent de l’accepter. J’admets aussi que l’évocation des fées ne sert à rien et ne mène à rien… pour le moment.</p>
         <p>Mais veuillez supposer maintenant que dans quelques siècles, les hommes cessent de trouver amusant d’aller plus vite, et <hi rend="i">donc</hi> commencent à se demander à quoi cela sert. Supposez que leur plaisir nouveau et principal soit d’évoquer quelque chose comme les fées, et qu’ils y arrivent après deux ou trois siècles d’application des bons esprits. Voilà le sérieux nouveau, l’utilité urgente. Ces fées donnent la paix du cœur dans la souffrance, inventent mille tours sentimentaux insoupçonnés de notre barbarie, créent l’immobilité dont le sous-produit nommé lenteur est vénéré par quelques sectes populaires, font de la mort une plaisanterie d’un goût sublime qui perd son sel à être répétée, étouffent d’une seule pensée les explosions cosmiques, etc. Libre à vous de prendre pour but la construction d’un moteur atomique : jamais un moteur atomique n’a évoqué la moindre fée. Nous vous laissons à vos enfantillages. »</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="5.">
         <pb n="47" xml:id="p47"/>
-        <head><num>V</num>
-          <lb/>Ni secret, ni défense</head>
+        <head type="kicker">V</head>
+        <head>Ni secret, ni défense</head>
         <pb n="49" xml:id="p49"/>
         <dateline>New York, 10 octobre 1945.</dateline>
         <p>Les hommes d’État, les généraux, et quelques vulgarisateurs en mal d’idées, ont trouvé deux moyens d’esquiver la question posée par la bombe atomique. Ils essaient d’enchaîner le monstre avec des agrafes de dossiers : c’est un secret que nous garderons, c’est un dépôt sacré, disent-ils. Et sans l’avis d’aucun savant autorisé, ils parlent de défenses possibles, si toutefois on leur laisse le commandement.</p>
@@ -138,10 +138,10 @@
         <p>Un éclair tombant du ciel bleu — l’expression est devenue si vraie qu’elle a cessé de nous frapper. Une apathie étrange me semble s’établir dans les masses comme chez ceux qui les mènent. Les Trois Grands sont presque d’accord pour renouveler leurs petites discussions. M. Truman ajuste ses lunettes et veille sur son « dépôt sacré ». Le monde n’a pas de gouvernement. Je ne suis pas sûr que les nations en aient. Et nous restons les bras ballants, pensant aux achats de Noël…</p>
         <p>J’ai trouvé quelques paires de nylons. Je sens que vous allez me répondre…</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="6.">
         <pb n="55" xml:id="p55"/>
-        <head><num>VI</num>
-          <lb/>Le savant et le général</head>
+        <head type="kicker">VI</head>
+        <head>Le savant et le général</head>
         <pb n="57" xml:id="p57"/>
         <dateline>Princeton (N. J.) le 21 octobre 1945.</dateline>
         <p>À une heure de New York, à Princeton où je suis en train de m’installer, tout respire une paix claustrale. Les bâtiments de l’Université, en style néo-gothique d’Oxford, dernier confort, s’espacent dans des parcs dont l’automne encore tiède glorifie le luxe songeur. C’est dans ce cadre trop parfait, cette ambiance d’innocence, de sports et d’ombres vertes, que vivent et pensent quelques-uns des esprits qui auront le plus contribué à transformer la condition du siècle. Hier soir, au cinéma, un <hi rend="i">hello</hi> derrière moi, et c’était l’un des as du très petit groupe de mathématiciens et de physiciens qui a mis au point la bombe atomique. Tout à l’heure, devant ma fenêtre, un homme en sweater bleu et pantalon de flanelle passait les cheveux au vent — deux belles touffes blanches en désordre « génial » — et c’était l’un de mes voisins, Albert Einstein, le patriarche du nouvel âge, le Moïse de la Terre atomique. Il passe ainsi chaque jour, vers 11 heures du matin. Quand il fait froid il porte un manteau noir. Sa chevelure m’indique la direction du vent, et son <pb n="58" xml:id="p58"/> aspect met en fuite ma petite fille. À quoi pense-t-il ? De ce cerveau est sortie l’équation qui est en train de bouleverser le monde. Je me la répète chaque fois que je le vois : E = mc<hi rend="sup">2</hi>. L’énergie est égale au produit de la masse par le carré de la vitesse lumineuse. On n’a jamais tant dit en si peu de signes. Mais je ne suis pas un physicien, et n’ai d’autre spécialité que de réfléchir aux conséquences générales des découvertes particulières, et aux liaisons humaines quelles affectent.</p>
@@ -154,10 +154,10 @@
         <p>Parce que nous avons passé l’âge des guerres considérées comme jeux réglés. Si l’un des partis en présence disait à l’autre : — Messieurs les Anglais, tirez les premiers ! il n’y aurait plus personne pour tirer en second, et retourner le feu, comme on disait naguère. Le général Marshall l’aurait-il oublié, lorsqu’il parle tout tranquillement d’« un processus qui se poursuit » ?</p>
         <p>La discussion, comme on dit, reste ouverte. Souhaitons qu’elle le reste longtemps. Car il s’agit d’un problème dont la preuve, si elle était jamais administrée, ne pourrait plus intéresser qu’un auditoire brusquement raréfié.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="7.">
         <pb n="63" xml:id="p63"/>
-        <head><num>VII</num>
-          <lb/>Tout est changé, personne ne bouge</head>
+        <head type="kicker">VII</head>
+        <head>Tout est changé, personne ne bouge</head>
         <pb n="65" xml:id="p65"/>
         <dateline>Princeton (N. J.) le 28 octobre 1945.</dateline>
         <p>Vos objections à ma thèse sur l’armée et la mort de la guerre militaire, m’obligent à vous demander de relire mes lettres. J’avais tout réfuté d’avance. Mais je m’aperçois que votre attitude est plus sentimentale que réaliste, et qu’en vertu de cette disposition, c’est le ton de ma correspondance qui a seul agi sur vous, et non mes arguments.</p>
@@ -171,10 +171,10 @@
         <p><hi rend="i">Progrès.</hi> Un hebdomadaire américain a posé récemment la question : « Quel est le but de la science ? Faire sauter le monde ? Si les savants pensent vraiment ce qu’ils nous disent, le progrès scientifique est en vue de son terme. »</p>
         <p>Vous trouvez que c’est le moment d’être sérieux ?</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="8.">
         <pb n="69" xml:id="p69"/>
-        <head><num>VIII</num>
-          <lb/>Un salon atomique</head>
+        <head type="kicker">VIII</head>
+        <head>Un salon atomique</head>
         <pb n="71" xml:id="p71"/>
         <dateline>Washington, le 2 novembre 1945.</dateline>
         <p>Cette capitale qui ne fait partie d’aucun des États de l’Union m’a toujours paru peu réelle : c’est comme une ville d’exposition qu’on aurait décidé de ne pas détruire. Je m’y perds régulièrement, cherchant d’un œil anxieux l’Obélisque, qui n’est même pas au centre. Faut-il vous donner toute la mesure du désespoir qui fond sur moi dès que je suis à Washington ? Je vous avouerai que je m’y réfugie dans les salons.</p>
@@ -191,10 +191,10 @@
         <p>J’arpentais des avenues interminables, sillonnées de taxis bondés. Je me disais : on discute gentiment dans les salons la possibilité de faire sauter la planète. Les événements qui dépassent l’imagination — et celui-ci ne saurait être dépassé lui-même — n’intéressent ou n’inquiètent que superficiellement. À vrai dire, ils amusent plus qu’ils n’angoissent. D’ailleurs l’idée d’un naufrage commun ou d’une explosion unanime nous paraît plutôt rassurante. C’est le danger ou le malheur individuel que l’on redoute, et dont on souffre, surtout par la comparaison avec la meilleure chance d’autrui. Or la Bombe détruirait probablement toute possibilité de comparaison. Les événements mondiaux ne nous saisissent que par les franges de notre vanité, ou par quelques répercussions accidentelles sur nos <pb n="74" xml:id="p74"/> amours ou notre compte en banque. Rien ne laisse les hommes aussi indifférents que le sort de l’humanité, dont les chefs d’État parlent tant.</p>
         <p>J’ai fini par trouver une place dans un taxi. Trois militaires, rentrant du Pacifique, s’y racontaient le détail de leurs campagnes. Aucun d’eux ne donnait l’impression de s’être battu pour l’idéal démocratique. Ils m’ont demandé le résultat du dernier match Armée-Marine. Je ne savais pas. Et j’étais en civil ! Voilà comment l’arrière trahit !</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="9.">
         <pb n="77" xml:id="p77"/>
-        <head><num>IX</num>
-          <lb/>Paralysie des hommes d’État</head>
+        <head type="kicker">IX</head>
+        <head>Paralysie des hommes d’État</head>
         <pb n="79" xml:id="p79"/>
         <dateline>Washington, le 10 novembre 1945.</dateline>
         <p>Notre monde du milieu du <num>xx<hi rend="sup">e</hi></num> siècle est gouverné par ceux qu’on nomme les Trois Grands. Ils se composent d’un loup déguisé en mouton et de deux moutons vêtus de leur vraie peau. C’est donc au nom du Petit Père, et du Brave Garçon, et de l’Esprit bourgeois, que la Bombe doit être administrée. Notez que si elle ne l’est pas, quelqu’un va nous l’administrer. L’alternative est entre ces deux sens du verbe. Et soudain je me demande pourquoi ces trois messieurs paraissent impuissants à décréter les moyens d’une paix pourtant facile à concevoir.</p>
@@ -209,10 +209,10 @@
         <p>Seule une cour internationale, formée d’hommes désignés par la voix populaire, et qui n’auraient pas d’autre affaire que de considérer la Planète, puis de traiter de haut avec les chefs d’État…</p>
         <p>Mais c’en est trop pour aujourd’hui. Et cette lettre est déjà bien pesante. Avant que vous n’en receviez la suite, puissent les Trois Grands ne pas perdre la boule ! Car le fait est qu’il n’y en a qu’une de Boule, comme disait à peu près le regretté Willkie, et qu’une erreur unique, désormais, pourrait la rendre folle à tout jamais.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="10.">
         <pb n="85" xml:id="p85"/>
-        <head><num>X</num>.
-          <lb/>La tâche politique du siècle</head>
+        <head type="kicker">X.</head>
+        <head>La tâche politique du siècle</head>
         <pb n="87" xml:id="p87"/>
         <dateline>Princeton (N. J.), le 15 novembre 1945.</dateline>
         <p>Comme la paix, chère amie, serait monotone, s’il n’y avait pas les menaces de guerre ! Et que ferions-nous sans la Bombe ?</p>
@@ -231,10 +231,10 @@
         <p>Ensuite, il s’agit de combattre les <hi rend="i">obstacles</hi> à cette union. Ils sont dans l’étroitesse de nos esprits, non pas dans la raison, ni dans les faits. Au premier rang, je ne manquerai de vous désigner le nationalisme en plein essor, contre-coup fatal de la guerre, et fièvre spécifique des grandes démocraties physiquement ou moralement déprimées. Je parle surtout pour vous, Européens, que je vois de loin si enclins à confondre la rigueur de l’esprit avec l’avarice de l’imagination, l’honneur d’une culture avec ses décrets d’exclusive, et la conscience de soi avec la méfiance d’autrui, voire l’hostilité et le mépris. Car c’est de toutes ces confusions que se nourrit le virus nationaliste.</p>
         <p>Et maintenant, fâchez-vous et répondez.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="11.">
         <pb n="91" xml:id="p91"/>
-        <head><num>XI</num>
-          <lb/>Tous démocrates</head>
+        <head type="kicker">XI</head>
+        <head>Tous démocrates</head>
         <pb n="93" xml:id="p93"/>
         <dateline>New York, le 20 novembre 1945.</dateline>
         <p>Vous n’avez pas donné dans le piège. Vous me répondez avec sérénité que l’Europe est prête à faire le bien, mais que des propositions aussi simplistes que la mienne méritent au mieux un sourire indulgent. « L’Amérique vous a contaminé » ajoutez-vous moins poliment. Et je relève dans votre lettre les termes attendus d’« idéalisme », d’« optimisme béat », de « fantaisies utopiques » et même de « <hi rend="i">ballyhoo</hi> » (je vois qu’un gars de New York vous a donné des leçons de <hi rend="i">slang</hi> !) qui caractérisent l’Amérique aux yeux des réalistes de l’Europe. (Mais pour autant, ils ne se font pas faute de dénoncer l’impérialisme des marchands et des industriels yankees. Ils se tirent de la contradiction en répétant : « hypocrisie anglo-saxonne ». Et les Yankees ripostent : « mauvaise foi latine ».)</p>
@@ -251,10 +251,10 @@
         <p><hi rend="i">Moi.</hi> — Je l’avoue.</p>
         <p>Je suis sorti de là pour vous écrire. La prochaine fois, j’aurai sans doute réfléchi sur la liberté. N’est-ce pas le problème numéro un de notre temps ? Car les problèmes se posent quand les choses s’en vont…</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="12.">
         <pb n="99" xml:id="p99"/>
-        <head><num>XII</num>
-          <lb/>Les quatre libertés</head>
+        <head type="kicker">XII</head>
+        <head>Les quatre libertés</head>
         <pb n="101" xml:id="p101"/>
         <dateline>New York, le 24 novembre 1945.</dateline>
         <p>Puisque j’ai pris une espèce d’habitude de vous entretenir des lieux-communs qui enchantent notre âge, comme la Bombe, la Guerre et la Paix, la Démocratie et le Gouvernement du Monde, vous ne m’en voudrez pas de revenir aujourd’hui sur le thème des Quatre Libertés. Sans doute vous autres réalistes européens jugerez-vous le sujet bien démodé : vous avez l’esprit si rapide, si vite occupé d’autre chose. Et l’Amérique a la mémoire si courte : cela produit parfois les mêmes effets… Les Quatre Libertés n’en furent pas moins le but de guerre idéal des Nations unies, comme elles restent l’idéal officiel de la paix. Mais j’ai remarqué qu’assez peu de personnes sont capables de les énumérer. Il semble qu’on se soit battu pour quelque chose qui n’était pas trop clair, ni bien facile à retenir dans l’esprit… Vous rappelez-vous ? C’était Roosevelt qui les avait énoncées le premier au début de 1942 dans son discours sur l’état de l’Union : <hi rend="i">freedom of speech, freedom of religion, freedom from want, freedom from fear</hi>, ce qui se traduit un <pb n="102" xml:id="p102"/> peu malaisément dans notre langue par liberté de parole et de religion, libération de la misère et de la crainte.</p>
@@ -271,10 +271,10 @@
         <p>Car nous sommes libres, si nous sommes prêts à payer le prix de la liberté, qui sera toujours : payer de sa personne. Un homme libre, c’est un homme courageux, non pas un homme qui aurait reçu (de qui ?) trois ou quatre ou trente-six libertés. On entend dire : « X est un esprit libre. » De qui tient-il sa liberté ? Ni de l’État, ni de la révolution, ni des soviets, ni de la démocratie, et surtout pas de leurs experts. Il la tient de sa vision seule et de son courage à lutter pour la joindre. Lénine sous le tzarisme était plus libre qu’un membre du parti communiste <pb n="106" xml:id="p106"/> sous Staline. Et George Washington était plus libre qu’un citoyen américain qui tourne le bouton de sa radio. Ils combattaient.</p>
         <p>Et nous ? Nous ne serons libres dans la paix que si nous combattons encore.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="13.">
         <pb n="107" xml:id="p107"/>
-        <head><num>XIII</num>
-          <lb/>La pensée planétaire</head>
+        <head type="kicker">XIII</head>
+        <head>La pensée planétaire</head>
         <pb n="109" xml:id="p109"/>
         <dateline>New York, le 30 novembre 1945.</dateline>
         <p>…Que je n’ai pris de front presque aucun des problèmes ? (Vous pensiez, je le suppose, à la démocratie.) Et que je m’amuse à jeter des pelures d’orange sous les pas solennels des Lieux Communs ? Oui, chère amie. N’oubliez pas qu’ils risquent de nous écraser. Mais vos critiques ne sont jamais perdues pour moi. Elles reflètent fidèlement les « mouvements divers » que j’observe parfois dans le public d’aujourd’hui : car il se féminise rapidement. La légèreté l’inquiète, ne serait-elle pas cynique ? Le sérieux l’endort vite. Mais il respecte la technique, aveuglément. Et qui saura jamais pourquoi il s’écrie tout d’un coup : « Comme c’est profond <hi rend="b"/>! » Dites-moi si tout cela n’est pas très femme ? Et maintenant je vous parlerai de la planète.</p>
@@ -287,10 +287,10 @@
         <p>Je parlais d’une conscience planétaire. C’est sa nécessité qu’il faut d’abord sentir. Et qu’aussitôt la presse et la radio, le cinéma surtout l’éveillent et la propagent, sous de larges rubriques créant un appel d’air. Ce n’est pas une question d’information d’abord, vous m’entendez, mais de sens, de vision, d’ouverture de l’esprit… Forçant à peine, je dirais : c’est d’abord une question de poésie. Est-ce un hasard si, parmi tous nos écrivains, ceux que je vois manifester le sentiment le plus direct et le plus contagieux de la planète sont précisément deux poètes : le Saint-John Perse de <hi rend="i">l’Anabase</hi> et de <hi rend="i">l’Exil</hi>, et Paul Claudel, notre grand écrivain « global » ? Dans leur prose et dans leurs longs versets, quel qu’en soit le sujet allégué, nous avons pour la première fois senti, sous le drapé d’un français <pb n="114" xml:id="p114"/> riche et pur, battre le pouls mesuré de l’Asie, le cœur violent des Amériques.</p>
         <p>Vous alliez me dire que j’oubliais ce grand joueur de Boule que fut « Saint-Ex ». À Dieu ne plaise que j’oublie jamais celui qui le premier me parla de la Planète comme d’un amour et d’une souffrance intime !…</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="14.">
         <pb n="117" xml:id="p117"/>
-        <head><num>XIV</num>
-          <lb/>Problème curieux que pose le Gouvernement mondial</head>
+        <head type="kicker">XIV</head>
+        <head>Problème curieux que pose le Gouvernement mondial</head>
         <pb n="119" xml:id="p119"/>
         <dateline>Princeton (N. J.), le 6 décembre 1945.</dateline>
         <p>Vous me dites que ce n’est point par mauvaise volonté, mais que vous avez grand peine à vous représenter « pratiquement » un pouvoir mondial, et à vous en former une image convaincante. Voici comment j’explique, pour ma part, cette difficulté que nous éprouvons tous.</p>
@@ -303,10 +303,10 @@
         <p>J’ai cru longtemps que la guerre était le pire désordre imaginable à notre époque ; et <pb n="122" xml:id="p122"/> que ceux qui la tenaient encore pour une nécessité, voire pour une vertu, étaient les véritables éléments de désordre ; et que l’utopie la plus dangereuse était la théorie de la souveraineté sans limite des nations. C’était trop simple. Un colonel de cavalerie à qui vous fîtes imprudemment lire ma lettre sur la mort de la guerre<note place="bottom"><ref target="#p25">Voir page 25.</ref></note> m’écrit que je suis un primaire. Il m’assure que « à chaque guerre nous, cavaliers, avons prouvé que nous savions nous battre », ce qui est bien la preuve que j’ai tort, et d’ailleurs de n’importe quoi. Il ajoute que ma lettre, dans sa forme, est « nettement péjorative vis-à-vis de l’armée, de la cavalerie en particulier » et que « les manieurs de cravache et joueurs de poker ont sans exception sauvé l’honneur en 40 » ; bref que je suis un « élément de désordre ». (Je joins ses lignes aux miennes, pour vous prouver que je n’invente pas.)</p>
         <p>Ce colonel m’a donné une idée. En reposant sa lettre je me suis écrié : « Vivement la Bombe ! Suprême élément d’ordre ! » Et ne croyez pas que je plaisantais. Car la Bombe seule peut nous débarrasser des armées, des souverainetés nationales, et de l’anarchie qu’elles entretiennent sur la planète. Je dis <pb n="123" xml:id="p123"/> que la Bombe peut nous en délivrer de deux manières : soit en faisant sauter le tout, soit en nous forçant d’ici peu à fédérer les hommes au-delà des nations. Vous cherchiez l’Autre contre qui s’unir ? Il vous fallait une menace planétaire pour provoquer l’union sacrée du genre humain ? Eh bien, madame, si j’ose le dire : vous êtes servie.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="15.">
         <pb n="125" xml:id="p125"/>
-        <head><num>XV</num>
-          <lb/>L’État-nation</head>
+        <head type="kicker">XV</head>
+        <head>L’État-nation</head>
         <pb n="127" xml:id="p127"/>
         <dateline>Princeton (N. J.), le 16 décembre 1945.</dateline>
         <p>Non, je n’en veux pas un instant à votre ami le colonel. Dites-lui que je respecte la cavalerie : elle a fait ses preuves sous Murat. Je ne parlais du poker qu’au figuré. Enfin, il semble qu’il n’ait rien compris… Mais revenons au <num>xx<hi rend="sup">e</hi></num> siècle.</p>
@@ -323,10 +323,10 @@
         <p>Introduisez dans cette broyeuse automatique qu’est l’État-nation de la démocratie ou du marxisme, des idées libérales ou du planisme, ou même une belle passion de la justice sociale, le résultat sera le même : à l’autre bout, vous obtiendrez du totalitarisme en bâtons et une grêle de coups. Je suis sérieux. Le socialisme, non pas en soi, mais construit <hi rend="i">dans le cadre national</hi>, conduit nécessairement à l’État totalitaire, donc à l’état de guerre larvé ou déclaré, qui est le pire des crimes sociaux.</p>
         <p>On ne sortira de ce cercle vicieux qu’en supprimant ce qui permet la guerre, ou la provoque, c’est-à-dire en désintégrant le carcan des États-nations. Par quel moyen ? En remettant le soin de diriger les affaires internationales à des hommes qui ne représentent <pb n="132" xml:id="p132"/> pas les nations, mais l’humanité. Car ceux-là seuls seront qualifiés pour arbitrer. Autrement ce n’est qu’un jeu de force, et le premier qui tire aura gagné, quel que soit le mordant de l’infanterie ou la bravoure de votre colonel. (Il n’aura pas d’adversaires à combattre à 2000 km à la ronde, sauf s’il saute à cheval par-dessus toute l’Allemagne ou l’Océan. Mettez-lui bien cela dans la tête.)</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="16.">
         <pb n="133" xml:id="p133"/>
-        <head><num>XVI</num>
-          <lb/>Le goût de la guerre</head>
+        <head type="kicker">XVI</head>
+        <head>Le goût de la guerre</head>
         <pb n="135" xml:id="p135"/>
         <dateline>Princeton (N. J.), le 19 décembre 1945.</dateline>
         <p>Enfin ! Après quinze lettres nous y sommes. Je tiens l’aveu : « Que voulez-vous, j’aime l’armée ! » écrivez-vous.</p>
@@ -351,10 +351,10 @@
         <p>Quelle fête immense faudra-t-il à ce siècle <pb n="141" xml:id="p141"/> pour lui faire oublier son goût de la guerre ? Quels drames nouveaux pour remplacer, sur la scène vide, l’Ennemi déchu ? »</p>
         <p>Au lieu de la Fête, nous avons eu le Drame. Ou plutôt nous allons l’avoir. Deux grands coups ont été frappés, annonçant le lever du rideau. Encore un, plus qu’un seul, — et puis probablement… mes lettres n’auront plus d’objet.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="17.">
         <pb n="143" xml:id="p143"/>
-        <head><num>XVII</num>
-          <lb/>La fin du monde</head>
+        <head type="kicker">XVII</head>
+        <head>La fin du monde</head>
         <pb n="145" xml:id="p145"/>
         <dateline>Princeton (N. J.), le 24 décembre 1945.</dateline>
         <p>Voulez-vous une nouvelle toute fraîche ? La fin du monde pourrait bien se produire avant la fin de l’an prochain. Je tiens ma petite information d’un physicien des plus remarquables. Il n’en fait pas de secret, mais ne la publiez pas : le colonel dirait encore que c’est « au moins prématuré ».</p>
@@ -367,10 +367,10 @@
         <p>Certains jours, il me semble que la folie des peuples, des gouvernants, des militaires, et de tous les irresponsables qui nous mènent, obéit secrètement au bon sens. Elle nous mène à la mort, c’est clair. Mais c’est peut-être aussi qu’elle a compris que la somme des souffrances humaines est devenue si grande, <pb n="148" xml:id="p148"/> avec notre Progrès, qu’il y a bien plus de gens au monde qui souhaitent d’en finir avec la vie, que de gens qui voudraient qu’elle dure encore. Comme si l’humanité, au scrutin très secret, avait voté que l’on arrête les frais : et tous ces fous ne feraient en somme qu’exécuter la volonté commune… « Viens, douce mort ! » ce beau choral de Bach, n’est-ce pas le soupir enfantin que l’on croit parfois distinguer, très bas, très doux, comme une voix du rêve, dans les intervalles effrayants de la cacophonie mondiale ?</p>
         <p>Je ne vous en dis pas plus ce soir. Demain, Noël.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="18.">
         <pb n="149" xml:id="p149"/>
-        <head><num>XVIII</num>
-          <lb/>La paix ou la mort</head>
+        <head type="kicker">XVIII</head>
+        <head>La paix ou la mort</head>
         <pb n="151" xml:id="p151"/>
         <dateline>Princeton (N. J.), fin d’année 1945.</dateline>
         <p>Notre monde est sans doute perdu, et c’est la raison de Noël. Dans cette nuit la plus longue de l’année, parce qu’il n’y avait plus qu’à désespérer, l’espoir est né. Démonstration d’une puissance indémontrable, et dont la touche ne saurait être enregistrée que par <hi rend="i">le tout</hi> de l’homme qu’elle suscite : voilà pourquoi nos instruments, et nos fonctions mentales ou sensorielles en seront toujours incapables. Ce drôle de petit cri dans la paille m’indique tout autrement que les formules d’Einstein que notre univers est fini, et que les seuls messages d’espoir qui passent encore sont ceux qui vont de personne à personne. Me voici libéré de mes dernières craintes, et tout libre d’imaginer, de choisir et de m’orienter personnellement vers la paix ou la mort. Disposition favorable, je crois, à des réflexions réalistes.</p>

@@ -65,10 +65,10 @@
         <pb n="13" xml:id="p13"/>
         <head>Première partie
           <lb/>Système de la crise</head>
-        <div type="chapter">
+        <div type="chapter" n="1.">
           <pb n="15" xml:id="p15"/>
-          <head>1
-            <lb/>La religion de la croissance</head>
+          <head type="kicker">1</head>
+<head>La religion de la croissance</head>
           <div>
             <head>Croissance démographique : il faudra bien qu’elle s’arrête un jour</head>
             <p>Partons de l’explosion démographique, la bombe P, dont tout le monde a entendu parler, parce que ses perspectives angoissantes n’ont pas peu contribué à sensibiliser notre conscience écologique, mais aussi parce qu’elle sert d’argument principal aux partisans de la croissance à tout prix.</p>
@@ -321,10 +321,10 @@
             <p>La politique de Croissance matérielle que pratiquent nos gouvernements a pour effet inévitable d’occulter ce qui ne saurait être compté dans le PNB. Ainsi l’attention du public, mais aussi de la plupart de nos économistes s’est laissé détourner des réalités humaines non nationales, sacrifiées à la seule croissance. Et voilà le principe même des crises dont nous souffrons et dont le système constitue la grande Crise que je vais achever de décrire.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="2.">
           <pb n="61" xml:id="p61"/>
-          <head>2
-            <lb/>Le grand litige</head>
+          <head type="kicker">2</head>
+<head>Le grand litige</head>
           <div>
             <head>« Fatalités », ou la peur d’être libre</head>
             <p>Le débat de l’énergie nucléaire dramatise d’une manière exemplaire toutes les motivations formulées jusqu’ici. Il implique tous les éléments du cercle de la crise où nous nous enfermons. Et c’est à travers lui que se manifeste, dans l’inconscience ou le cynisme, l’option générale du système — qui n’est pas le bonheur, on s’en doute, et encore moins les libertés de la personne, mais la Puissance sous ses formes brutales, industrielles, financières, militaires, finalement stato-nationales.</p>
@@ -366,7 +366,8 @@
             <p>Et il donnait une liste d’accidents « assez graves » survenus dans la seule année 1969 à Lucens (Suisse), Latina (Italie), Lingen (Allemagne), Saint-Laurent-des-Eaux (France)…</p>
             <p/>
             <p>Qu’en était-il <hi rend="i">des déchets des centrales actuelles</hi> à eau légère ?</p>
-            <quote><p>Le traitement des éléments usés peut consister à en dissoudre l’uranium et les produits de fission dans un bain d’acide nitrique, puis à séparer l’uranium (et le plutonium) du reste par un processus chimique complexe. Ce reste, ces déchets, toujours dissous dans l’acide, sont jetés après concentration dans d’immenses cuves souterraines d’acier au carbone, où le liquide bouillonnant doit constamment être refroidi et agité. Il y a plus de 300 millions de litres de ces liquides (1973) dans les cuves de l’ABC américaine, assez pour pouvoir empoisonner toute l’eau douce de la Terre…</p><p>Une fois solidifiés, il faut mettre ces déchets quelque part, ce qui pose encore le problème du transport : il y a eu trente-six pertes de substances radioactives durant des transports en 1968 aux États-Unis. Un calcul utilisant le kilométrage des transports nécessaires et la fréquence moyenne des accidents indique qu’il faudrait compter sur <hi rend="i">un accident grave tous les huit ans.</hi></p>pa<p><hi rend="i">Un dernier déchet est le réacteur atomique lui-même, lorsqu’il aura terminé sa vie utile de vingt à trente ans.</hi> Plein d’une radioactivité prodigieusement abondante, son démontage poserait un problème de beaucoup plus grande<pb n="68" xml:id="p68"/>envergure que celui des déchets. On envisage, pour l’instant, une méthode plus simple : l’enterrer sous un énorme bloc de béton. Encore faudrait-il qu’il n’y ait, pour des millénaires, ni tremblements de terre ni explosions de bombes, et que les générations futures surveillent soigneusement ces nécropoles atomiques !<note place="bottom">Pierre <hi rend="sc">Samuel</hi>, <hi rend="i">op. cit.</hi>, p. 103-104.</note></p></quote>
+            <quote><p>Le traitement des éléments usés peut consister à en dissoudre l’uranium et les produits de fission dans un bain d’acide nitrique, puis à séparer l’uranium (et le plutonium) du reste par un processus chimique complexe. Ce reste, ces déchets, toujours dissous dans l’acide, sont jetés après concentration dans d’immenses cuves souterraines d’acier au carbone, où le liquide bouillonnant doit constamment être refroidi et agité. Il y a plus de 300 millions de litres de ces liquides (1973) dans les cuves de l’ABC américaine, assez pour pouvoir empoisonner toute l’eau douce de la Terre…</p><p>Une fois solidifiés, il faut mettre ces déchets quelque part, ce qui pose encore le problème du transport : il y a eu trente-six pertes de substances radioactives durant des transports en 1968 aux États-Unis. Un calcul utilisant le kilométrage des transports nécessaires et la fréquence moyenne des accidents indique qu’il faudrait compter sur <hi rend="i">un accident grave tous les huit ans.</hi></p>
+              <p><hi rend="i">Un dernier déchet est le réacteur atomique lui-même, lorsqu’il aura terminé sa vie utile de vingt à trente ans.</hi> Plein d’une radioactivité prodigieusement abondante, son démontage poserait un problème de beaucoup plus grande<pb n="68" xml:id="p68"/>envergure que celui des déchets. On envisage, pour l’instant, une méthode plus simple : l’enterrer sous un énorme bloc de béton. Encore faudrait-il qu’il n’y ait, pour des millénaires, ni tremblements de terre ni explosions de bombes, et que les générations futures surveillent soigneusement ces nécropoles atomiques !<note place="bottom">Pierre <hi rend="sc">Samuel</hi>, <hi rend="i">op. cit.</hi>, p. 103-104.</note></p></quote>
           </div>
           <div>
             <head>Qui croire ?</head>
@@ -522,10 +523,10 @@
             <p>La majorité des politiciens de nos pays, nostalgiques sans jamais se l’avouer de la monarchie absolue, se livrent à l’empire de ces structures obscurément ressenties comme celles du Pouvoir même : c’est qu’ils veulent commander. La majorité des contribuables se laissent tondre sans résistance, dans l’idée d’assurer leur confort, mais surtout, leur sécurité : c’est qu’ils veulent être commandés. Et tous les imbéciles répètent qu’on n’arrêtera pas le Progrès.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="3.">
           <pb n="89" xml:id="p89"/>
-          <head>3
-            <lb/>La clé du système ou l’État-nation</head>
+          <head type="kicker">3</head>
+<head>La clé du système ou l’État-nation</head>
           <div>
             <head>La clé</head>
             <p>La crise de l’Occident mondial a pour caractère spécifique de résulter non de l’échec mais de la réalisation de l’utopie industrielle, de moins en moins gênée par les freins naturels et humains.</p>
@@ -743,10 +744,10 @@
         <pb n="121" xml:id="p121"/>
         <head>Deuxième partie
           <lb/>De la prévision</head>
-        <div type="chapter">
+        <div type="chapter" n="4.">
           <pb n="123" xml:id="p123"/>
-          <head>4
-            <lb/>Un « Essai sur l’Avenir » en 1948</head>
+          <head type="kicker">4</head>
+<head>Un « Essai sur l’Avenir » en 1948</head>
           <p>Au lendemain de la Seconde Guerre mondiale et de la bombe d’Hiroshima, je publiais un texte bref, qui me paraît, à le relire aujourd’hui, inaugural, et peut-être augural.</p>
           <div>
             <head>Essai sur l’avenir<note place="bottom">Paru dans le recueil de Mélanges pour le Professeur Gerhardus van der Leeuw, intitulé <hi rend="b"><hi rend="i">Pro regno, pro</hi><hi rend="i">sancluario</hi>,</hi> G.F. Callenbach, Nijkerk, 1948.</note>
@@ -796,10 +797,10 @@
             </div>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="5.">
           <pb n="131" xml:id="p131"/>
-          <head>5
-            <lb/>Naissance de la prospective</head>
+          <head type="kicker">5</head>
+<head>Naissance de la prospective</head>
           <div>
             <head>Lieux et dates</head>
             <p>Un peu avant le milieu de notre siècle, quelques experts lucides et donc inquiets s’avisent que l’avenir, non seulement de la culture mais de la Nature, dépend de plus en plus de nos options de fait, délibérées ou non, conscientes ou non. Nous sommes seuls responsables de l’avenir humain : mieux vaut le savoir et cesser de nous cacher derrière toutes sortes de prétendues fatalités (collectives, sacrées, ou techniques), transparents paravents de nos inerties intellectuelles, quand ce n’est pas de nos lâchetés morales.</p>
@@ -882,10 +883,10 @@
             <p>Mais tout cela ne prouve rien contre la prospective : ses vraies difficultés ne sont pas dans nos erreurs, mais dans la nature même de l’Avenir.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="6.">
           <pb n="145" xml:id="p145"/>
-          <head>6
-            <lb/>L’avenir sensible au cœur</head>
+          <head type="kicker">6</head>
+<head>L’avenir sensible au cœur</head>
           <div>
             <head>Paradoxes de la prospective</head>
             <p>Jouvenel observe une chose très simple : c’est que nous ne pouvons connaître avec quelque certitude que le passé, mais sans pouvoir le changer ; alors que nous avons liberté et puissance de changer l’avenir, mais sans le connaître<note place="bottom">Bertrand de <hi rend="sc">Jouvenel</hi>, <hi rend="b"><hi rend="i">L’Art de la Conjecture, op. cit.</hi>,</hi> p. 17.</note>.</p>
@@ -996,10 +997,10 @@
             <p>Or, personne n’aurait pu prévoir la résultante du croisement fortuit de deux histoires de fous.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="7.">
           <pb n="161" xml:id="p161"/>
-          <head>7
-            <lb/>Première histoire de fous : l’Auto</head>
+          <head type="kicker">7</head>
+<head>Première histoire de fous : l’Auto</head>
           <p>Les jeunes gens d’aujourd’hui n’imaginent pas le monde et la vie quotidienne sans l’auto, ni par suite que l’auto puisse avoir une histoire, qu’elle ait donc commencé, voire à une date récente : le centenaire de sa conception dans l’esprit d’un petit campagnard d’Amérique tombait en 1975. C’était hier, et personne ne s’en est aperçu.</p>
           <p>L’histoire de la nouvelle religion commence à l’automne de 1875. Elle est rapportée par Henry Ford dans ses mémoires, avec la simplicité qui convient.</p>
           <p>« Le plus mémorable événement de ces années de ma jeunesse fut la rencontre d’une locomotive routière à huit milles de Detroit, un jour où je me rendais avec mon père à cette ville. J’avais alors douze ans. Je me rappelle la locomotive comme si je l’avais vue hier, car c’était le premier véhicule non attelé que je voyais… Ce fut la rencontre de cet appareil<note place="bottom">Il ne s’agissait encore que d’un véhicule à vapeur, marchant au charbon, comme les locomotives sur rail.</note> qui m’orienta vers le transport automoteur… Dès l’instant où je l’aperçus, jusqu’au jour présent, ma grande et constante ambition a été de construire une bonne machine routière. »</p>
@@ -1122,10 +1123,10 @@
             <p>Ainsi prévoyaient-ils, dès 1932, les triomphes et le désastre, également « nécessaires », d’Adolf Hitler.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="8.">
           <pb n="183" xml:id="p183"/>
-          <head>8
-            <lb/>Deuxième histoire de fous : Hitler</head>
+          <head type="kicker">8</head>
+<head>Deuxième histoire de fous : Hitler</head>
           <p>Individu quelconque et quasi nul en soi, phénomène d’envergure mondiale, tel fut l’homme, tel demeure son mystère. Les effets fracassants déclenchés dans le siècle par son apparition sont bien connus : on n’y retrouve pas à l’analyse la moindre trace spécifique de sa personne. Il fut ces effets et rien d’autre. Démontrer qu’il n’a pas existé serait un jeu : père inconnu, cadavre disparu, témoignages vagues ou contradictoires de ceux qui l’ont approché ou servi. (Et ses photos donnent toutes l’impression d’un truquage.) La catastrophe du <num>xx<hi rend="sup">e</hi></num> siècle européen atteste seule sa réalité.</p>
           <p>Le plus grand théologien contemporain, Karl Barth, a écrit : « Un prophète n’a pas de biographie. Il se lève et tombe avec sa mission. » Ainsi d’Hitler, l’antiprophète de notre temps, le prophète d’un Pouvoir vide, d’un Passé mort, d’une Catastrophe totale dont il allait devenir l’agent. Avec son insondable vulgarité, sa mégalomanie, sa malformation sexuelle et son magnétisme psychotique, ce quasi-néant d’homme, ridicule et tragique, a été le prophète du Néant collectif, où il a presque réussi à entraîner toute sa génération. C’est ainsi que je l’ai senti, éprouvé de tout l’être, enregistré au radar de quelque intuition subconsciente. C’est ainsi que je n’ai cessé de le prophétiser de son vivant, avec cette sorte d’infaillibilité qui est celle des actes involontaires, irréparables gaffes ou métaphores géniales : je n’y puis rien, mais j’en donnerai quelques exemples.</p>
           <p>En mars 1932, au lendemain d’une rencontre de jeunesses<pb n="184" xml:id="p184"/>révolutionnaires françaises et allemandes, qui s’était tenue dans un Francfort « en proie au carnaval et à l’angoisse », je parlais du « dernier carnaval de cette bourgeoisie dont je viens d’admirer les trésors patinés dans la haute demeure familiale des Goethe<note place="bottom"><hi rend="b"><hi rend="i">Nouvelle Revue française</hi>,</hi> Hommage à Goethe, mars 1932. <hi rend="b"><hi rend="i">Cf. Journal d’une Époque</hi>,</hi> Gallimard, Paris, 1969, p. 322.</note> ». L’accession d’Hitler au pouvoir se produisait onze mois plus tard exactement.</p>
@@ -1231,10 +1232,10 @@
         <pb n="199" xml:id="p199"/>
         <head>Troisième partie
           <lb/>Repartir de l’Homme</head>
-        <div type="chapter">
+        <div type="chapter" n="9.">
           <pb n="201" xml:id="p201"/>
-          <head>9
-            <lb/>Devenir soi-même</head>
+          <head type="kicker">9</head>
+<head>Devenir soi-même</head>
           <div>
             <head>Notre affaire</head>
             <p>Trois grandes affaires apparaissent symboliques de l’ère où nous sommes entrés au troisième tiers du <num>xx<hi rend="sup">e</hi></num>siècle : dans l’ordre matériel, l’Économie ; dans l’ordre de la Nature, l’Écologie ; dans l’ordre spirituel, l’Œcuménisme. Or, ces trois termes sont des composés du grec <hi rend="i">oikos</hi> qui signifie <hi rend="i">maison</hi>, et il s’agit dans les trois cas :</p>
@@ -1332,10 +1333,10 @@
             <p><pb n="213" xml:id="p213"/> Mais chez les hommes de chair et sang, la personne est toujours instante, c’est une <hi rend="i">virtualité universelle</hi>, encore qu’elle ne se réalise que par et dans les actes qui l’engagent, ou dans l’œuvre qu’elle crée, qui l’exprime et la forme, et qui est la preuve de son existence. Or, tout homme est capable d’une œuvre, et presque tout homme en fait une, en conduit même plusieurs de front, le plus souvent à son insu. Son mariage. Son métier. Sa carrière. Le visage de sa maturité. Un certain équilibre entre soi et le monde, un déséquilibre orienté, ou assumé. Une manière de regarder ou d’être fasciné. Un rythme, un effort acharné, le réseau des approches d’une découverte, un certain style de vie, soi-même enfin, ma personne même en train de se faire, et cela c’est le grand-œuvre, l’œuvre par excellence — le salut. C’est ce jeu qu’il est sacrilège d’interrompre, sous prétexte d’une « simple vérification », de saccager ou de prétendre organiser. Or, c’est exactement ce que font nos États, et qu’ils feront toujours plus grossièrement, tant que la société ne sera pas reconstruite en vue de cet homme créateur.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="10.">
           <pb n="215" xml:id="p215"/>
-          <head>10
-            <lb/>Passage de la personne à la Cité</head>
+          <head type="kicker">10</head>
+<head>Passage de la personne à la Cité</head>
           <div>
             <head>Gouverner, c’est orienter</head>
             <p>Le but ultime de la Cité ou société humaine organisée — telle du moins qu’un Occidental peut la concevoir aujourd’hui — sera de favoriser en chacun la personne, donc le passage de sa virtualité à sa réalité vécue en acte. À cette fin, l’on disposera tout dans la Cité — éducation, lois et morale — en vue de ce progrès seul authentique qui est le progrès de l’homme même, non du nombre des choses autour de lui. Plus simplement : c’est la personne qui est le but de la société, et non pas la vente des autos, comme serait conduit à le penser un enquêteur intelligent débarqué parmi nous du fond de l’espace.</p>
@@ -1515,10 +1516,10 @@
             <p>Il s’agit de savoir comment, au-delà des entassements de solitaires urbains, nous pourrons reformer des espaces<pb n="239" xml:id="p239"/>civiques, des groupes, et un climat qui permette l’exercice de nos responsabilités, donc de nos libertés personnelles. Un milieu favorable au développement normal de la <hi rend="i">dimension communautaire</hi>, celle qui lie la personne au prochain, et sans laquelle la dimension vocative, celle qui distingue ma personne de toutes les autres, resterait une vue de l’intellect, lequel serait alors une trahison de l’esprit par refus de son incarnation.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="11.">
           <pb n="241" xml:id="p241"/>
-          <head>11
-            <lb/>Les variétés de l’expérience communautaire</head>
+          <head type="kicker">11</head>
+<head>Les variétés de l’expérience communautaire</head>
           <div>
             <head>« D’un néo-christianisme à un pré-socialisme »</head>
             <p>À cet appel, dès qu’il s’entend, répond aussitôt dans l’esprit de la plupart de mes contemporains le mot <hi rend="i">hippies.</hi> Plus rarement, la notion d’un ordre ou d’une communauté religieuse rénovée (Boquen, Taizé).</p>
@@ -1763,10 +1764,10 @@
             <p><hi rend="i">b)</hi> Le maire, le syndic ou l’échevin, n’est plus le Monsieur qui saura décrocher des subventions de l’État central, mais le citoyen responsable — bien moins devant le Préfet que devant les électeurs — et qui a besoin de savoir, besoin de s’informer sur tous ces problèmes scientifiques — à vrai dire politiques et sociaux. Il a trop de pouvoir dans certains domaines (immobilier, aménagement du territoire) et pas assez de moyens financiers pour mener une vraie politique, et pour s’entourer de conseillers dans les domaines de l’écologie, de l’énergie, de l’éducation, de l’agriculture, etc. Il n’a que faire d’informations prodiguées « au niveau national ». Il a besoin d’informations utiles à son échelle municipale. Elles lui manquent, et ce manque appelle la Région. Comme l’appellent à vrai dire tant d’autres « manques » dans les secteurs vitaux de notre société. Et c’est au lieu de convergence de ces appels que va se former <hi rend="i">en creux</hi> le modèle de la Région.« </p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="12.">
           <pb n="277" xml:id="p277"/>
-          <head>12
-            <lb/>Que tout appelle les Régions</head>
+          <head type="kicker">12</head>
+<head>Que tout appelle les Régions</head>
           <div>
             <head>L’autonomie des communes appelle les Régions</head>
             <p>Pour devenir, enfin, l’école de la liberté que Tocqueville voyait en elle, la commune doit se rendre autonome. Mais les moyens de cette autonomie — savoir, technique et pouvoir financier — excèdent dans bien des cas les ressources locales, même dans les pays où l’État central n’en draine pas 80 % à son profit. Faudra-t-il de nouveau les mendier à l’État ? Non, car en les donnant d’une main, il reprendrait de l’autre notre autonomie. Qu’il s’agisse d’avoir notre école, de mener notre lutte locale contre spéculateurs et pollueurs, d’épurer nos rivières ou d’améliorer les voies de communication sans détruire nos cultures et nos rues, le problème est le même pour les communes voisines, et la solution qui s’impose est celle du syndicat intermunicipal. Or, ce système, qui se répand sans bruit dans toute l’Europe, trouve son lieu et sa formule dans la Région : il nous permet de définir celle-ci, en première approximation, comme une <hi rend="i">grappe de communes</hi>, puis, avec un peu plus de précision, comme l’ensemble de plusieurs <hi rend="i">syndicats de communes</hi>, répondant chacun aux nécessités d’un domaine spécifique — écoles, environnement, transports, aménagement du territoire, etc., chacun groupant celles des communes qui le désirent, qui en ont besoin, sans obligation pour les autres.</p>
@@ -1853,10 +1854,10 @@
             <p>3. — <hi rend="i">La Région est à faire</hi>, elle n’est pas une donnée. Elle n’est pas pré-formée dans le ciel des idées mais potentielle dans nos besoins et nos désirs. De même que la personne qui se fait tous les jours par ses actes imprévisibles, elle n’est jamais achevée, toujours instante, toujours à inventer au jour le jour à venir. La Région vit et veut la vie, et c’est pourquoi, l’État-nation la hait, lui qui n’est fait que pour la guerre.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="13.">
           <pb n="289" xml:id="p289"/>
-          <head>13
-            <lb/>Les variétés de l’expérience régionale</head>
+          <head type="kicker">13</head>
+<head>Les variétés de l’expérience régionale</head>
           <p>Alors que les Communautés de Bruxelles abordaient la Région, au départ<note place="bottom">Cf. <hi rend="b"><hi rend="i">Documents de la Conférence sur les économies régionales</hi>, </hi>Bruxelles, 6-8 décembre 1961. Communauté économique européenne, 2 vol., 1963.</note>, comme un problème de <hi rend="i">développement</hi>, j’en parle ici comme d’un problème décisif de <hi rend="i">participation</hi> civique et <hi rend="i">d’animation</hi>, ou réanimation <hi rend="i">in extremis</hi> — d’une Société menacée à la fois d’anémie politique (mal compensée par ses fièvres politiciennes), de désertion civique, et de colonisation économique.</p>
           <p>C’est le tissu de la vie sociale qu’il s’agit de reconstituer dans toute l’Europe ; et les variétés du tissu préfigurant les organes en formation.</p>
           <p>S’il s’agit de « reconnaître » une région, ce ne sera pas seulement en la tâtant du doigt sur une carte en relief, mais en vivant dans son climat social et coutumier, en évoquant les possibilités communautaires latentes dans certains milieux, villes et villages, et qu’il serait tentant de faire émerger, d’inciter à une prise de conscience. Non, ce n’est pas au terme d’une enquête sociologique ou économétrique qu’aura lieu la « reconnaissance » créatrice, mais plutôt au cours d’une soirée de discussions « sur tout et le reste » avec les animateurs de tous âges d’un mouvement régionaliste.</p>
@@ -1942,10 +1943,10 @@
             <p>Tout ce qu’on a dit jusqu’ici dans ce livre appelle, prépare et qualifie la participation civique. Or, celle-ci implique et appelle comme condition première de son exercice ce qu’on nommait <hi rend="i">l’autonomie</hi> dans la Cité-État des Grecs anciens — le fait de se donner ses propres lois — et ce qu’on nomme aujourd’hui <hi rend="i">l’autogestion</hi> — le fait de décider soi-même de ses affaires.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="14.">
           <pb n="305" xml:id="p305"/>
-          <head>14
-            <lb/>L’autogestion politique</head>
+          <head type="kicker">14</head>
+<head>L’autogestion politique</head>
           <div>
             <head>« Se gouverner vaut mieux qu’être bien gouvernés »</head>
             <p>Les Régions, en dernière analyse, sont l’expression de la volonté d’autogestion de l’homme en lutte contre l’aliénation statolâtrique, civile ou militaire, fasciste ou communiste, dictatoriale ou démocratique.</p>
@@ -2058,10 +2059,10 @@
             <p>Ici l’on voit paraître la nécessité d’un organisme qui assumerait au plan continental la concertation politique, l’arbitrage entre les Régions, et leur information sans retards ni réserves, condition de leur autonomie.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="15.">
           <pb n="325" xml:id="p325"/>
-          <head>15
-            <lb/>Stratégie</head>
+          <head type="kicker">15</head>
+<head>Stratégie</head>
           <div>
             <head>Des Régions à la Fédération européenne</head>
             <p>Point de Régions sans Fédération. Mais si les vraies Régions sont des grappes de communes, il faudra qu’une vraie Fédération de l’Europe soit une grappe de Régions et non d’États : c’est ce qu’on oublie généralement dans le monde stato-national et dans son système de valeurs. Une vraie Fédération ne se fonde pas sur des États coalisés, mais sur des groupes antérieurs en quête d’une garantie de leurs libertés.</p>

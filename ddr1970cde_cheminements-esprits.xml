@@ -34,7 +34,8 @@
   <text>
     <body>
       <div type="chapter">
-        <head>Préface <lb/>Cheminements</head>
+        <head>Préface
+          <lb/>Cheminements</head>
         <p>Aux yeux de ses contemporains et pour l’Histoire, Robert Schuman restera l’homme d’État grâce auquel la première Communauté européenne put voir le jour. Ce que l’on sait moins, c’est qu’il fut aussi le président de deux institutions d’un tout autre ordre, au sort desquelles j’avais eu le bonheur de l’intéresser activement : le Centre européen de la culture, à Genève, puis, née du Centre, la Fondation européenne, aujourd’hui présidée par S. A. R. le prince Bernhard des Pays-Bas.</p>
         <p>Dans quel esprit l’homme politique que fut essentiellement Robert Schuman jugeait-il la fonction de ces deux entreprises, si modestes au regard des réalisations de Luxembourg, puis de Bruxelles ? Relisant le précieux recueil de textes <hi rend="i">Pour l’Europe</hi>, réunis à la fin de sa vie, je trouve ces mots qu’on ne saurait souhaiter plus éclairants, et qui servent de titre au deuxième chapitre : <hi rend="i">L’Europe, avant d’être une alliance militaire ou une entité politique, doit être une communauté culturelle</hi>. Et dans ce chapitre, je souligne cette phrase : <hi rend="i">L’unité de l’Europe ne se fera ni uniquement ni principalement par des institutions européennes ; leur création suivra le cheminement des esprits.</hi></p>
         <p>Les liens nécessaires et vitaux entre culture et politique, le « cheminement des esprits » vers des institutions européennes qui favorisent la liberté plutôt que la puissance, et les personnes plutôt que les États, tel est sans aucun doute le thème commun à tous les textes ici réunis par le prétexte d’un anniversaire : le Centre européen de la culture aura vingt ans à l’automne 1970.</p>
@@ -52,10 +53,10 @@
         <p>Ce souci d’équilibre dans un mouvement d’ensemble, ou de pondération dynamique, explique la présence dans ce recueil de quelques textes sur la technique, ou l’université, ou le destin des arts, dont l’occasion ne fut pas l’une des activités propres du Centre, mais le service de l’Europe, qui est sa fin générale.</p>
         <p rend="right">D. de R.</p>
       </div>
-      <div>
+      <div n="I.">
         <pb n="1" xml:id="p1"/>
         <head>Historique</head>
-        <div type="chapter">
+        <div type="chapter" n="I.1">
           <head>Le mouvement européen<note place="bottom">Article paru dans la <hi rend="i">Revue de Paris</hi> d’avril 1949.</note></head>
           <div subtype="level3">
             <head>Nécessité et urgence de l’union</head>
@@ -119,7 +120,7 @@
             <p>Il n’est point d’ordre économique possible sans une volonté préalable de mise en ordre politique. Il n’est point d’ordre politique qui serve l’homme, s’il n’est orienté dès le départ par une <hi rend="i">vision</hi> libératrice et fascinante. L’Europe se fera, en dépit des experts (qui savent toujours que c’est Dewey qui sera élu), parce qu’une équipe de véritables Résistants — ceux qui résistent à la fatalité — l’auront vue et marchent vers elle. Il se peut que la vision qui les guide, éclairant le chemin sous leurs pas, cache une réalité finale qui les surprenne. Christophe Colomb voyait les Indes, ou nommait ainsi sa vision. Contre vents et marées, contre tous les experts de son époque, il se mit en route pour la joindre. Mais nous, quel continent nouveau, tout imprévu, risquons-nous d’aborder ? Et quel bonheur, auquel il suffirait peut-être d’oser croire ? Se peut-il que ce soit tout simplement l’Europe, redécouverte à la faveur de son union ? Une Europe rajeunie qui deviendrait soudain, pour nos yeux étonnés, la Terre Promise.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="I.2.">
           <pb n="11" xml:id="p11"/>
           <head>Rapport général présenté à la Conférence européenne de la culture, Lausanne, du 8 au 12 décembre 1949</head>
           <p>Il est vrai que l’Europe est en train de se défaire : elle n’a jamais été plus menacée, plus divisée devant le péril, plus angoissée et sceptique à la fois. Mais il n’est pas moins vrai que pour la première fois, dans toute sa longue histoire, consciemment, l’Europe est en train de se faire. Telle est la situation contradictoire dans laquelle nous sommes engagés. Il dépend de nous, en partie, que l’espoir ait raison du désespoir, mais il faut aller vite et bien voir où l’on va.</p>
@@ -128,7 +129,8 @@
           <p><pb n="12" xml:id="p12"/> Mais sous peine de se perdre dans des généralités ambitieuses et sans conséquences, le Congrès fera bien de reconnaître d’abord l’état réel de la culture en Europe, les misères dont elle souffre, les dangers qui la guettent. C’est pourquoi les deux thèmes qui serviront de point de départ aux débats seront d’une part <hi rend="i">les conditions matérielles et morales de la vie et de l’esprit en Europe</hi>, et d’autre part <hi rend="i">l’étude des institutions et réformes souhaitables pour développer l’esprit européen</hi>.</p>
           <div subtype="level3">
             <pb n="13" xml:id="p13"/>
-            <head>Première section <lb/>Les conditions matérielles et morales de la vie de l’esprit en Europe</head>
+            <head>Première section
+              <lb/>Les conditions matérielles et morales de la vie de l’esprit en Europe</head>
             <p><hi rend="i">Destruction</hi>. — Les destructions directes causées par la guerre sont encore cruellement sensibles dans quelques pays comme l’Allemagne (bibliothèques, musées, maisons d’éditions) et la Grèce (laboratoires détruits ou pillés dans leur presque totalité). Non moins graves sont les destructions indirectes et la stérilisation temporaire de sources de culture, dont souffrent la plupart des pays qui participèrent aux hostilités : beaucoup de livres de fonds, de classiques, de manuels, n’ont pas été réédités depuis 1940, et très souvent l’équipement des laboratoires n’a pas été renouvelé. Il faut aller chercher les livres des philosophes dans les bibliothèques publiques. Non seulement, il est très difficile de se procurer les œuvres de J.-S. Bach, par suite de la destruction totale des maisons qui éditaient la musique classique en Allemagne, mais encore en France même on ne trouve pas de réédition de Debussy !</p>
             <p>Ces destructions matérielles, toutefois, semblent plus faciles à réparer que les destructions humaines résultant des déportations et de la vie dans les camps. Il faut rappeler ici le problème tragique des intellectuels réfugiés des pays de l’Est. Faute de pouvoir trouver dans l’Europe de l’Ouest un emploi correspondant à leurs capacités, la plupart se voient contraints d’émigrer hors d’Europe, et souvent d’accepter un travail de manœuvre ou d’ouvrier agricole. Ils sont ainsi perdus à la fois pour l’Europe et pour la Culture. Ils forment dans les camps de DP le « résidu » que des organisations comme l’OIR ne parviennent pas à « réduire ».</p>
             <p><pb n="14" xml:id="p14"/><hi rend="i">Moyens matériels insuffisants dans chaque pays</hi>. — Le cadre national est devenu trop étroit. Dans chaque pays, on constate que les recherches scientifiques deviennent plus coûteuses, cependant que les fonds privés s’amenuisent, et que les obstacles aux échanges obligent à un degré croissant d’autarcie, régime onéreux.</p>
@@ -173,7 +175,8 @@
           </div>
           <div subtype="level3">
             <pb n="24" xml:id="p24"/>
-            <head>Deuxième section <lb/>Institutions spécifiquement européennes</head>
+            <head>Deuxième section
+              <lb/>Institutions spécifiquement européennes</head>
             <p>À la suppression des obstacles matériels et des entraves morales aux échanges doit correspondre un effort positif. Il serait en effet insuffisant et vain de vouloir revenir à la condition libérale qui était celle de l’esprit en Europe avant la guerre de 1914, puisqu’elle n’a pas suffi à réduire les nationalismes, mais que c’est elle qui, par la suite, a succombé devant leurs exigences. Il faut faire un grand pas de plus, et créer des institutions qui garantissent et manifestent l’unité de nos cultures dans leur diversité. Il faut doter l’Europe unie d’instruments de travail à l’échelle continentale.il faut aussi former les jeunes hommes qui deviendront les porteurs de l’<hi rend="i">idée fédérale</hi>, sans laquelle nos réformes techniques et matérielles resteront lettre morte.</p>
             <p>Une civilisation est vivante quand elle fait des plans. Elle a son unité, elle la démontre et la défend effectivement, quand elle invente ses formes institutionnelles et préfigure ainsi son avenir.</p>
             <p>Sur les institutions européennes à fonder, ce rapport sera bref : les documents et rapports spéciaux mis à la disposition de la Conférence donnent le détail des projets à l’étude. Nous nous bornerons donc ici à motiver la politique générale qui devrait présider à ces diverses créations.</p>
@@ -227,7 +230,7 @@
             <p>Conclusion du discours de présentation du Rapport général, lors de la séance inaugurale du 8 décembre 1949.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="I.3.">
           <pb n="31" xml:id="p31"/>
           <head>Naissance du Centre<note place="bottom">Fragments d’un discours pour l’inauguration du Centre européen de la culture, à Genève, le 7 octobre 1950.</note></head>
           <p>Le Centre est né pour tâcher de répondre à certaines exigences d’une situation qui est celle de l’Europe d’aujourd’hui, c’est-à-dire d’une Europe mise en question dans son existence même, matérielle et morale, d’une Europe qui ne peut se sauver qu’en regroupant ses forces et qu’en les refondant sur les bases les plus sûres de son histoire…</p>
@@ -241,7 +244,7 @@
           <p>Paracelse avait cette devise plus orgueilleuse qu’impérialiste : « Que rien ne soit d’un autre qui puisse être de moi »<note place="bottom"><hi rend="i">Alterius non sit qui suus esse potest.</hi></note>. La devise du Centre est inverse : « Que rien ne soit à moi qui puisse être à un autre ». Car <pb n="33" xml:id="p33"/> l’important, c’est que les choses se fassent. L’idéal d’un institut comme le nôtre doit être de disparaître une fois que tout est fait, et de s’évanouir dans son propre succès…</p>
           <p>Notre programme n’est pas systématique, et il n’est pas non plus rigide. Il reste ouvert à l’événement. J’oserais dire qu’à certains égards, il est moins décisif en soi que l’existence même de ce Centre par où j’entends que le principal, c’est qu’il y ait en Europe un lieu de plus où des hommes en équipes consacrent leurs efforts, sans relâche, à l’union de l’Europe, c’est-à-dire au service d’une cause qui se confond aujourd’hui avec celle des hommes libres.</p>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="I.4.">
           <pb n="34" xml:id="p34"/>
           <head>Naissance d’une Fondation</head>
           <p>
@@ -303,7 +306,7 @@
             </p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="I.5.">
           <head>Trois initiales, ou raison d’être et objectifs du CEC<note place="bottom"><hi rend="i">Introduction à la brochure intitulée</hi> Dix ans d’activité du CEC<hi rend="i">, 1960.</hi></note></head>
           <p>Notre nom même provoque généralement les trois questions suivantes :</p>
           <p>— qu’entendez-vous par <hi rend="i">culture</hi> ?</p>
@@ -354,10 +357,10 @@
           </div>
         </div>
       </div>
-      <div>
+      <div n="II.">
         <pb n="47" xml:id="p47"/>
         <head>Diagnostics de la culture</head>
-        <div type="chapter">
+        <div type="chapter" n="II.1.">
           <pb n="49" xml:id="p49"/>
           <head>L’Europe contestée par elle-même</head>
           <epigraph>
@@ -435,7 +438,7 @@
             <p>Je souhaite ici qu’un <hi rend="i">dialogue atlantique</hi> s’institue et s’anime, non point pour échanger des préjugés stupides — vous êtes « barbares » et nous sommes « décadents » — mais pour échanger des espoirs. Que chacun dise à l’autre ce qu’il attend de lui, espère de lui. J’ai connu des malades qu’on a sauvés en leur disant seulement au creux de l’oreille : « Tu sais que j’ai besoin de toi. »</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="II.2.">
           <pb n="62" xml:id="p62"/>
           <head>Préface à « L’Œuvre du <num>xx<hi rend="sup">e</hi></num> siècle »</head>
           <p>
@@ -462,7 +465,7 @@
           <p>Le choix de la ville n’est pas sans signification. Paris fut, pendant ce demi-siècle, le lieu géométrique de l’aventure moderne : cubisme, Apollinaire, ballets de Diaghilev, École de Paris, Groupe des Six, surréalisme, Proust, Gide et Valéry, et leurs commentateurs et adversaires de tout bord, et le foyer mondial de leur marché comme de leur gloire.</p>
           <p>Cette aventure va-t-elle nous apparaître comme un passé déjà, ou comme l’effervescence d’un ordre neuf en son état naissant ? L’<hi rend="i">Œuvre du <num>xx<hi rend="sup">e</hi></num> Siècle</hi> s’inaugure dans le vrai style de notre époque : la réponse qu’elle apporte, d’une part, est, de l’autre, une remise en question.</p>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="II.3.">
           <pb n="66" xml:id="p66"/>
           <head>Conclusions sur l’avenir et la liberté de la culture</head>
           <p>
@@ -499,7 +502,7 @@
             <p>Pour terminer, une simple citation. Elle est d’un Espagnol, c’est dire qu’elle frappe une de ces notes d’éloquence à la fois sèche, dure et profonde qui manque trop souvent aujourd’hui, et par la faute d’une dictature encore, à notre grand concert européen. C’est une phrase de Miguel de Unamuno dans son <hi rend="i">Commentaire à Don Quichotte</hi> : « Mets-toi en marche tout seul, tous les autres solitaires se joindront à toi, à tes côtés sans que tu les voies, et chacun pensera qu’il va seul ; mais vous formerez un bataillon sacré, celui de la sainte, de l’inachevable croisade. »</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="II.4.">
           <pb n="70" xml:id="p70"/>
           <head>À la Table Ronde du Conseil de l’Europe</head>
           <p>
@@ -536,7 +539,7 @@
           <p>Les Croisés, débarqués devant Constantinople exigeaient un tribut avant de s’éloigner : dix millions de francs or, environ. L’Empereur en versa la moitié, puis se mit à pleurer misère. Les riches ne l’aidèrent point, se disant tous ruinés, et refusant de faire le <hi rend="i">pool</hi> patriotique des faibles sommes qui devaient assurer leur salut. L’assaut fut décidé après des mois d’attente, Byzance fut mise à sac. Les produits du pillage s’élevèrent après trois jours à plus de cent millions, sans compter le trésor inestimable des œuvres d’art et des objets sacrés, dilapidés ou « réquisitionnés ». Les richesses de Byzance, enfin « mises en commun » furent emportées par l’occupant.</p>
           <p>Il dépend de vous. Messieurs de la Table Ronde, il dépend d’efforts comme le vôtre, il dépend de nous tous Européens, d’écrire une autre histoire pour une Europe nouvelle.</p>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="II.5.">
           <pb n="75" xml:id="p75"/>
           <head>Pronostics 1969 (une interview)<note place="bottom">Une interview d’Anouchka von Heuer et Christian Roux-Pétel, parue dans plusieurs journaux en juillet 1969.</note></head>
           <p>
@@ -580,10 +583,10 @@
           </p>
         </div>
       </div>
-      <div>
+      <div n="III.">
         <pb n="81" xml:id="p81"/>
         <head>Champs d’activité</head>
-        <div type="chapter">
+        <div type="chapter" n="III.1.">
           <pb n="83" xml:id="p83"/>
           <head>Éducation, civisme et culture<note place="bottom">Introduction à deux stages de la Campagne d’éducation civique européenne, Bruxelles, 1963, et Vienne, 1964.</note></head>
           <p>Que l’on s’occupe d’enseignement de l’histoire, de la géographie ou de l’économie, dans le cadre d’une campagne d’éducation civique, voilà qui va de soi et personne ne demandera quel est le lien entre ces matières et la préparation civique des élèves.</p>
@@ -618,14 +621,16 @@
           <ab type="ornament">⁂</ab>
           <p><pb n="88" xml:id="p88"/> Revenant maintenant aux problèmes plus spécifiques de l’enseignement des arts, je voudrais formuler quelques propositions méthodologiques, déduites des considérations générales qui précèdent.</p>
           <div subtype="level3">
-            <head>Premier thème <lb/>Tradition et Innovation dans les arts en Europe</head>
+            <head>Premier thème
+              <lb/>Tradition et Innovation dans les arts en Europe</head>
             <p>Je partirai de deux citations d’écrivains anglais contemporains : « Continuité dans les changements, unité dans la diversité, semblent bien être les constituantes d’une culture vivante, et plus spécifiquement d’une culture européenne », écrit Arthur Koestler. Et Stephen Spender de son côté, pense que « seule la culture européenne a su allier la plus grande force révolutionnaire au sens hautement développé des traditions ».</p>
             <p>André Malraux, dans <hi rend="i">Les Voix du Silence</hi>, a développé un thème voisin, en illustrant par de nombreux exemples le fait que l’artiste européen, formé à l’école des grands prédécesseurs, affirme sa personnalité en prenant le contre-pied de leur style. « Tous les artistes de génie commencent par en copier d’autres » ou encore : « Toute destinée d’artiste commence par le pastiche », mais c’est en s’opposant aux « derniers grands » parmi les maîtres de leur jeunesse que les peintres fondent une nouvelle école, et découvrent leur style. Or, presque toujours, ils redécouvrent en même temps les mérites, curieusement « modernes » à leurs yeux, de peintres beaucoup plus anciens, et que leurs successeurs immédiats avaient fait oublier. C’est ainsi qu’à l’époque du cubisme et du fauvisme, qui rompent avec les réalistes et les impressionnistes, on redécouvre successivement le Gréco, puis Piero della Francesca, Paolo Ucello et Georges de La Tour, tandis qu’un Raphaël, qu’un Van Dyck, qu’un Ribera ou un Holbein s’effacent — de même qu’avec Strawinsky s’effacent Wagner, Berlioz, Schumann et Gluck, tandis qu’on redécouvre Vivaldi, Monteverdi, les Flamands.</p>
             <p>Ainsi, de rupture en révolution, l’art occidental renoue et enrichit sa tradition, la redécouvre avec des yeux neufs. Quoi de plus révolutionnaire qu’un Picasso, qu’un Joyce ? Mais quoi de plus traditionnel que leurs sources et modèles ! L’<hi rend="i">Ulysse</hi> de Joyce est une transposition de l’<hi rend="i">Odyssée</hi> au <num>xx<hi rend="sup">e</hi></num> siècle, et Picasso, parti de Toulouse-Lautrec, tantôt <pb n="89" xml:id="p89"/> remonte au dessin des vases grecs, tantôt s’amuse à refaire les Ménines de Velasquez, ou s’inspire de statues crétoises, etc. Jamais un siècle n’avait été plus farouchement iconoclaste que le nôtre, jamais aucun n’avait ressuscité autant de modes et d’œuvres du passé européen et même mondial.</p>
             <p>Ceci donc est typique de l’Europe : la présence et l’action simultanées de la tradition et de la révolution, se nourrissant, se fécondant l’une l’autre. Et l’historien peut en donner d’innombrables exemples, mais ils seront rarement aussi parlants et convaincants que les chefs-d’œuvre de nos arts, comparés et compris dans leur généalogie et dans leurs « messages » propres.</p>
           </div>
           <div subtype="level3">
-            <head>Deuxième thème <lb/>L’unité de la culture européenne, antérieure et supérieure aux « cultures nationales »</head>
+            <head>Deuxième thème
+              <lb/>L’unité de la culture européenne, antérieure et supérieure aux « cultures nationales »</head>
             <p>Ce qui s’oppose à l’union de l’Europe et à la formation d’une conscience commune — condition préalable de tout civisme européen — c’est le nationalisme ; et chacun sait que le nationalisme a été propagé par l’École et ses manuels depuis le milieu du <num>xix<hi rend="sup">e</hi></num> siècle. Les manuels de mon enfance — histoire et géographie, mais histoire de l’art aussi — présentaient l’Europe comme un puzzle de nations et sa culture comme l’addition d’une vingtaine de « cultures nationales » bien distinctes, autonomes et rivales.</p>
             <p>Cette conception n’est pas seulement responsable des guerres absurdes, justifiées aux yeux des masses par le chauvinisme culturel — les Français de 1914 croyaient défendre la Civilisation contre les Allemands qui croyaient défendre leur Kultur — elle se dissipe comme brume au soleil à la lumière de l’Histoire, et très particulièrement de l’histoire des arts, de la peinture et de la musique.</p>
             <p>Je voudrais proposer ici un seul exemple : celui de l’évolution de la musique en Europe.</p>
@@ -636,7 +641,8 @@
           </div>
           <div subtype="level3">
             <pb n="91" xml:id="p91"/>
-            <head>Troisième thème <lb/>L’Art comme activité de tous</head>
+            <head>Troisième thème
+              <lb/>L’Art comme activité de tous</head>
             <p>Pendant longtemps, lire et écrire fut réservé aux clercs, puis à une élite restreinte. Puis il y eut l’instruction universelle, gratuite et obligatoire. Et de même, dans nos démocraties, tout homme peut être un citoyen. Pourquoi l’art serait-il seul à rester une spécialité de luxe, réservée aux seuls artistes professionnels ? Alors que la vie quotidienne et la Cité ont besoin d’être aménagées esthétiquement autant que socialement et politiquement.</p>
             <p>L’enseignement de l’histoire des arts, depuis le Romantisme, est dominé par la notion de chefs-d’œuvre ou d’œuvre individuelle faisant date, marquant un tournant, une nouveauté, une rupture, un nouveau départ, etc. C’est l’équivalent de l’histoire événementielle, qui ne tenait compte que des batailles, des règnes, des traités. Ainsi, l’on en est venu à séparer radicalement « l’artiste » de la masse de ceux qui auraient bien voulu mais n’ont pas pu (ou l’inverse) et des amateurs qui se contentent d’acheter les œuvres cotées des professionnels, ou d’en parler.</p>
             <p>Or une culture n’est pas vivante et n’est pas saine, si elle reste l’activité des seuls artistes, savants ou écrivains professionnels, tout le reste étant passif et en dehors du coup. Une culture saine doit être vivante dans chaque membre de la communauté.</p>
@@ -649,7 +655,7 @@
             <p>Voilà pourquoi notre Campagne pour l’éducation civique des jeunes Européens doit comporter une campagne pour l’éducation artistique des futurs citoyens — et peut-être même, doit-elle commencer par là.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="III.2.">
           <pb n="93" xml:id="p93"/>
           <head>Le civisme commence au respect des forêts<note place="bottom">Introduction à un stage de la Campagne d’éducation civique européenne sur « L’environnement », Sion (Valais), le 29 juin 1970.</note></head>
           <p>J’ai proposé le thème de ce stage il y a deux ans, parce que j’en étais venu depuis longtemps à penser que l’écologie, art et science des équilibres vivants entre l’homme et son milieu (tant social et urbain que rural), est le plus grand problème <hi rend="i">politique</hi> de ce siècle. Aujourd’hui je voudrais présenter quelques arguments sur le thème de l’écologie à l’école, et des exemples à discuter en classe.</p>
@@ -701,7 +707,7 @@
           <p>En leur montrant la situation réelle de notre société, les menaces qui pèsent sur le milieu humain (psychologique et social, autant que physique), en leur montrant que ces problèmes exigent des solutions européennes (au-delà des frontières de leur nation) et régionales (en deçà de ces frontières), vous les amènerez à choisir l’Europe qu’ils souhaitent. Ce sera vraiment là « faire l’Europe », c’est-à-dire faire de l’Europe, tâche passionnante, au lieu d’assister simplement à la conclusion d’accords commerciaux longuement marchandés entre États « souverains ».</p>
           <p>Ce sera aussi la meilleure occasion de leur faire sentir, dans le concret de la vie civique, la nécessité de choisir, en cas de conflit, entre niveau et mode de vie. Choix qui se ramène peut-être à la parole évangélique : « Que servirait à un homme de gagner le monde s’il perdait son âme ? »</p>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="III.3.">
           <pb n="98" xml:id="p98"/>
           <head>Sur la fabrication des nouvelles et des faits<note place="bottom">Allocution au Congrès des journalistes européens, Évian, 1958.</note></head>
           <p>Qu’est-ce qu’une nouvelle ? — Admettons-le avec l’homme de la rue et le dernier speaker de la Radio française avant la grève qui a doublé, cette fois-ci, la trêve des confiseurs : il ne se passe jamais rien dans le monde entre le 24 décembre et le 2 janvier, les discours bénisseurs remplaçant les nouvelles.</p>
@@ -727,7 +733,7 @@
           <p>Je ne parle pas ici des fausses nouvelles, très rares et trop vite démenties par les agences rivales : ce procédé qui obsède encore les foules est périmé. Ce n’est plus l’exactitude des nouvelles publiées qui est en question, mais leur choix, leur présentation, et ce que l’on a convenu de taire. La nouvelle vraie devient fausse par sa seule mise en page, par les omissions qu’elle suppose, et par le fait qu’on ne l’a choisie qu’en vue de la vente. Mais qui peut actuellement, et qui pourrait demain, imposer à la presse une méthode scientifique de choix et de présentation, qui permettrait de donner une image plus conforme de la réalité globale ? Du nombre immense des événements de tous les ordres qu’on peut connaître à tout instant, seuls des cerveaux électroniques seraient capables de dégager certaines résultantes plus valables. Mais qui donnerait à ces cerveaux le programme sans lequel ils ne savent que penser ? Qui leur donnerait le code, les hiérarchies à observer dans le choix fabricateur des « faits » ? Ce serait précisément une politique. Si l’on y parvenait, d’ailleurs, l’information devenant une science exacte, c’en serait fait des dernières libertés qui nous restent — celle de ne pas croire ou de croire ce qui nous plaît, celle de douter, ou de soupçonner un piège. En bref, la liberté de critique. Or c’est précisément notre plus sûr recours.</p>
           <p>Réformer la presse d’information me paraît impossible ou dangereux. En revanche, développer la résistance critique des esprits exposés à la presse n’est pas seulement possible mais indispensable. Je demande qu’on institue dans les écoles publiques des cours de lecture des journaux. Proposition toute naturelle d’ailleurs, si l’on veut bien se rappeler qu’apprendre à lire à tous ne sert qu’à préparer des lecteurs aux journaux, dans quatre-vingt-dix cas sur cent.</p>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="III.4.">
           <pb n="103" xml:id="p103"/>
           <head>Université et universalité dans l’Europe d’aujourd’hui<note place="bottom">« Discours solennel » prononcé à l’Université de Göttingen pour l’inauguration de la III<hi rend="sup">e</hi> Assemblée de la Conférence permanente des recteurs et vice-chanceliers d’Europe, le 1<hi rend="sup">er</hi> septembre 1964.</note></head>
           <p>Le mythe de la Tour de Babel est resté l’un des plus vivants, des plus actuels, et aussi des plus angoissants de ceux que nous a légués l’antiquité proche-orientale, si étroitement mêlée aux origines helléniques et bibliques de la culture d’Europe. Sa meilleure interprétation me paraît être celle que Dante en a donnée dans son <hi rend="i">Traité de l’éloquence vulgaire</hi>. Traduisons son latin savoureux, cela donne à peu près ceci :</p>
@@ -796,7 +802,7 @@
           <p>Vraie université, puisqu’elle traiterait spécifiquement du général, en vue d’entretenir ou de former une image cohérente du Tout. Vraiment européenne, puisqu’elle aurait pour fin de recréer l’union dans la diversité, qui est la formule de notre grand passé et de notre avenir fédéré, le seul possible.</p>
           <p>L’Europe, c’est très peu de chose plus une culture. Quatre pour cent des terres du globe, multipliés par une culture qui a fait le Monde et qui doit aujourd’hui, plus que jamais, faire des hommes.</p>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="III.5.">
           <pb n="118" xml:id="p118"/>
           <head>Le rôle de la recherche en Europe<note place="bottom">Discours prononcé lors de l’inauguration du Battelle Memorial Institute, Genève, 26 novembre 1954.</note></head>
           <p>On m’a prié de vous parler aujourd’hui du rôle de la recherche dans notre monde et plus spécialement eu Europe. N’étant ni technicien, ni savant, je me verrai contraint de vous dire des choses très simples et d’une portée très générale. Je crains qu’elles vous paraissent parfois bien éloignées des problèmes précis qu’ont à résoudre les industriels, et qu’un institut spécialisé comme le Battelle Memorial s’est donné pour mission d’étudier scientifiquement. Mais il n’est jamais inutile, et il est même parfois indispensable, de prendre de la distance par rapport à l’action quotidienne, afin de mieux voir d’où elle vient, où elle va, et dans quel ensemble humain elle se situe.</p>
@@ -824,7 +830,7 @@
           <p>Ainsi, grâce au génie d’Euler, au milieu culturel de Bâle et au piétisme, des milliers d’ouvriers et d’ingénieurs gagnent leur vie, des paquebots traversent l’océan, d’énormes capitaux s’amassent dans le pays.</p>
           <p>Cette histoire vraie peut servir d’épigraphe à une journée dévouée à l’éloge de la recherche.</p>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="III.6.">
           <pb n="124" xml:id="p124"/>
           <head>Culture et technique en Europe et dans le monde</head>
           <p><hi rend="i">De deux conférences, l’une au Séminaire de Copenhague sur</hi> La culture et l’économie<hi rend="i">, organisée par la Fondation européenne de la culture en 1962, l’autre à</hi> l’École polytechnique universitaire<hi rend="i"> de Lausanne en 1963, lors du Congrès des anciens élèves de l’EPUL, on a gardé ici les éléments communs et quelques vues complémentaires.</hi></p>
@@ -935,7 +941,7 @@
             <p>Ainsi, qu’on le veuille ou non, c’est la technique elle-même qui nous oblige à reconsidérer d’une manière tout à fait concrète la question des vraies fins de notre vie et de la vraie nature de l’homme. Ne serait-ce pas là, peut-être, son plus grand miracle ?</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="III.7.">
           <pb n="142" xml:id="p142"/>
           <head>Pour une politique de la recherche<note place="bottom">Introduction à un questionnaire au sujet d’un Conseil européen de la recherche, suggéré par l’auteur, en décembre 1958.</note></head>
           <div subtype="level3">
@@ -973,7 +979,7 @@
             <p>Mais pour qu’une politique de ce genre porte effet, il faut absolument que les responsables de notre vie économique et politique saisissent la réalité du <num>xx<hi rend="sup">e</hi></num> siècle : <hi rend="i">c’est le pool des cerveaux qui fera marcher les autres</hi>, et l’Europe gagnera la maîtrise de la paix si elle se décide enfin à soutenir puissamment la culture, son meilleur atout.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="III.8.">
           <pb n="147" xml:id="p147"/>
           <head>Il n’y a pas de « musique moderne »</head>
           <p>
@@ -993,7 +999,7 @@
           <p>Au mois de mai 1952, <hi rend="i">l’Œuvre du <num>xx<hi rend="sup">e</hi></num> siècle</hi> a donné à Paris plus de cent symphonies, concertos, opéras et ballets, durant trente jours, sans que s’y glisse une mesure de musique composée avant l’an 1900 : tous les soirs, les salles étaient pleines. Il y a là, semble-t-il, un bel encouragement pour ceux des festivals européens qui tentent de donner du « nouveau », c’est-à-dire de rejoindre le siècle. Mais n’est-il pas étrange que de vivre en son temps soit devenu de nos jours une exception notable, une aventure, un risque financier ?</p>
           <p>À la question que je citais au début, je répondrai maintenant sans hésiter : « J’aime la musique moderne de tous les temps, et même du nôtre — la plus rare. »</p>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="III.9.">
           <pb n="151" xml:id="p151"/>
           <head>L’Europe, l’été…<note place="bottom">Introduction à un volume illustré sur l’Association européenne des festivals de musique, à paraître pour son XX<hi rend="sup">e</hi> anniversaire.</note></head>
           <p>L’Europe, l’été, devient un parc immense aux bosquets enchantés de musique.</p>
@@ -1030,7 +1036,7 @@
           <p>Pas un seul festival de notre Association n’est « national », soulignons-le : régionaux ou municipaux, chacun d’eux correspond à une communauté réelle dont la ville où ils se jouent forme le foyer rayonnant. Chacun d’eux tente d’exprimer un <hi rend="i">genius loci</hi>, non point encore en produisant ses propres œuvres, son dialecte musical particulier, mais bien par une certaine manière qui n’est qu’à lui de mettre en œuvre et d’accueillir la musique d’hier et d’aujourd’hui, bien commun et œuvre commune de la culture européenne.</p>
           <p>« <hi rend="i">L’art est l’état d’esprit d’un jour de fête</hi> » disait Flaubert. Et la définition citée plus haut rappelait qu’un festival est d’abord une fête, c’est-à-dire l’acte exceptionnel, symbolique et mémorial d’une communauté. Il est beau que ce soit à la musique, plutôt qu’à quelque mascarade dite folklorique que déjà tant de nos <hi rend="i">Régions</hi> aillent demander l’expression publique et sensible de leur être communautaire — de leur âme.</p>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="III.10.">
           <pb n="158" xml:id="p158"/>
           <head>Le Dialogue des cultures<note place="bottom">Conférence au Cénacle de Beyrouth, le 22 octobre 1962.</note></head>
           <p>J’arrive parmi vous d’un pays montagneux au carrefour des grands axes de l’Europe, et dont la culture propre est un dialogue entretenu depuis des siècles entre trois langues, deux confessions religieuses, et vingt-cinq États « souverains » mais très étroitement fédérés. Votre situation de Libanais est peut-être encore plus complexe : car votre État, beaucoup plus jeune, s’est édifié sur trois à quatre millénaires de sédimentations raciales et religieuses. Les différences entre nous sautent aux yeux, et cependant les solutions que nous avons à trouver désormais, face au monde du <num>xx<hi rend="sup">e</hi></num> siècle, et sur le plan culturel tout au moins, sont à bien des égards comparables.</p>
@@ -1133,7 +1139,7 @@
           <p>Ce que nous pourrons trouver dans le Dialogue mondial, c’est donc, et finalement, notre personne véritable, plus de sens dans la vie de plus d’hommes et de femmes, par plus de possibilités offertes à chacun. C’est <pb n="174" xml:id="p174"/> le risque et la chance d’un progrès ambigu mais désormais irréversible.</p>
           <p>Nous ne serons jamais sauvés en masse, par races ou par nations, par cultures ou par groupes (quelle que soit l’excellence de leur dialogue), mais seulement un à un, chacun pour soi, comme chacun naît et meurt tout seul. Alors, c’est donc « Chacun pour soi et Dieu pour tous », penserez-vous ? Ce proverbe est l’expression cynique de l’égoïsme pour ceux qui croient qu’ils ne croient pas en Dieu. Mais on peut le comprendre autrement. « Chacun pour soi » signifie l’appropriation nécessairement personnelle du vrai ; « Dieu pour tous » est le principe originel de l’unité dernière du genre humain, dans l’infinie diversité des vocations.</p>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="III.11.">
           <pb n="175" xml:id="p175"/>
           <head>L’Europe des régions<note place="bottom">Propos recueillis par Bernard Gygi pour la revue <hi rend="i">Europa</hi>, n° 5, 1968. Les citations sont extraites d’un article de D. de <hi rend="sc">Rougemont</hi>, « Au-delà des nations » paru dans la revue <hi rend="i">Janus</hi>, n° 15, 1967.</note></head>
           <div subtype="level3">
@@ -1196,7 +1202,7 @@
             <p>R. — Nous avons déjà constaté qu’au point de vue politique l’unité fondée sur les États-nations est en panne depuis vingt ans ! N’importe quel autre système d’édification a des chances d’être plus rapide. D’ailleurs, le processus de régionalisation est beaucoup plus avancé qu’on ne le pense généralement. Je crois qu’en définitive on ne construira même pas une Europe supranationale — difficilement réalisable — mais une Europe non nationale, mieux encore : métanationale, celle des Régions précisément.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="III.12.">
           <pb n="184" xml:id="p184"/>
           <head>Fécondité des études régionales</head>
           <p>La Région, unité opérationnelle du fédéralisme européen, sera sans doute le thème politique le plus important des prochaines décennies. Mais en même temps, les études régionales paraissent propres à renouveler non seulement la méthode, mais les conditions concrètes d’un grand nombre d’activités culturelles en Europe.</p>
@@ -1223,7 +1229,8 @@
       </div>
       <div type="chapter">
         <pb n="188" xml:id="p188"/>
-        <head>Postface <lb/>L’écrivain et l’événement<note place="bottom">Réponse à une enquête de la <hi rend="i">Gazette littéraire</hi>, de Lausanne, été 1969.</note></head>
+        <head>Postface
+          <lb/>L’écrivain et l’événement<note place="bottom">Réponse à une enquête de la <hi rend="i">Gazette littéraire</hi>, de Lausanne, été 1969.</note></head>
         <p>J’ai longtemps réfléchi aux rapports de l’écrivain et de l’événement se définissant l’un par l’autre, se mettant l’un l’autre en question. Mon premier livre paru à Paris s’ouvrait par un chapitre sur « l’engagement du clerc », sa nécessité et sa vanité, voire son « ridicule » toujours possible. Depuis ce temps lointain, la notion d’engagement a fait demi-tour dans l’esprit du public : on croit bonnement qu’un auteur engagé est celui qui s’en est remis une fois pour toutes à la politique d’un Parti, quand il s’agit de prendre une position publique. L’engagement supposait à mon sens tout le contraire : <hi rend="i">responsabilité</hi> pleine et entière -— non seulement publiée mais assumée, non seulement frondeuse mais aimante et, à l’extrême, sacrificielle — d’une personne et de sa pensée en corps à corps avec l’époque. « Présence au monde et à soi-même conjointement », disais-je en 1932. Mais on a glissé depuis lors à un sens partisan ou militaire du terme. Mon sens était plutôt poétique, si j’ose dire, moral, philosophique et religieux. De l’intime à l’ultime, il supposait un passage obligé par le « proxime », la proximité, le prochain, c’est-à-dire la Cité humaine, et ce passage était le lieu de l’engagement. Est-il encore praticable ? Autrement dit : quelle peut être aujourd’hui, au fait et au prendre, la responsabilité de l’écrivain dans la Cité ?</p>
         <p>Responsable est celui qui peut dire, dans une situation donnée : j’en réponds ! Mais de quoi l’écrivain comme tel peut-il répondre, sinon de son œuvre elle-même, de sa pensée et de son style ? C’est par son œuvre et non par quelque prise de position occasionnelle face à l’événement historique qu’un écrivain est engagé ou non. Dans le fait, dans le concret vécu, il n’y a pas l’écrivain d’un côté et l’événement de l’autre, deux <pb n="189" xml:id="p189"/> objets qu’on pourrait isoler, séparer ou rapprocher à volonté. Nul événement social ou politique n’existe en soi sans qu’on l’ait exprimé, nommé, écrit, avant ou après la date que l’Histoire lui attribue — Histoire qui est le produit de l’écriture ! Nul écrivain digne du nom qui ne soit par lui-même événement, et dont l’œuvre ne constitue une partie de la réalité qu’elle croit décrire quand elle l’écrit…</p>
         <p>On ne peut donc parler que de différents modes de relations entre l’œuvre et l’époque. Pour simplifier, je distinguerai trois types d’auteurs qui se définissent par leur rapport à l’événement : le ludion, le contestataire, et le prophète, que certains nomment l’utopiste.</p>

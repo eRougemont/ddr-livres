@@ -95,7 +95,7 @@
       <div>
         <head>Première partie
           <lb/>Le paysan du Danube</head>
-        <div type="chapter">
+        <div type="chapter" n="I.1.">
           <pb n="25"/>
           <head>Une « tasse de thé » au palais C…<note place="bottom">C’est ainsi qu’était formulée l’invitation au bal du célèbre banquier Castiglioni.</note></head>
           <epigraph>
@@ -127,7 +127,7 @@
           <p>La joie du jour, hélas, la plus forte…</p>
           <dateline>Vienne, 1928.</dateline>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="I.2.">
           <pb n="33"/>
           <head>Voyage en Hongrie</head>
           <epigraph>
@@ -291,7 +291,7 @@
             <dateline>1929.</dateline>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="I.3.">
           <pb n="62"/>
           <head>Le balcon sur l’eau</head>
           <p>Tu es appuyée debout contre moi, et nous regardons à nos pieds l’eau vivante. La brume est proche. Une haute muraille derrière nous ferme le monde. Tu ne trembles plus, tu t’appuies. Nos reflets ondulent très peu, gris sur le blanc doucement luisant de la surface ; mais le silence a des vagues profondes.</p>
@@ -310,7 +310,7 @@
           <p>… C’est le domaine de l’homme qui n’a pas d’empressement. »</p>
           <bibl><hi rend="sc">Senancour</hi> (Obermann).</bibl>
         </epigraph>
-        <div type="chapter">
+        <div type="chapter" n="II.1.">
           <pb n="65"/>
           <head>Châteaux en Prusse</head>
           <p>Au loin passaient des voiles claires parmi les blés violents ; le ciel paraissait plus grand que la terre. Des bois de pins s’approchaient, s’écartaient, livrant passage à la chaussée impériale dont brillaient les grandes portées blanches sur les ondulations sablonneuses de la plaine. Des prairies doucement soulevées s’arrêtaient au bord du ciel, devant la lumière maritime ; puis cédaient de l’épaule et l’on voyait le golfe violacé écumer sous la masse du soleil. Une lisière qui nous accompagnait vira largement, nous fit front, et il n’y eut plus qu’une piste de terre entre les sapins noirs, la rumeur du rivage et du soleil derrière nous décroissant, tumulte d’un matin d’été. Maintenant une odeur fine de benzine traverse les odeurs de la forêt, et le moteur halète au ralenti, dans la fraîcheur sobre. L’on s’éveille enfin du long voyage nocturne, les yeux cessent de cligner, le corps se détend. Là devant, un chauffeur immobile guette les ornières profondes où les roues s’enfoncent parfois avec un cahot mou. Le silence grandit ; cris de pics, vibration basse des cylindres. On voit paraître de plus hauts arbres et bientôt un vaste portail, aux piles couronnées de grands cerfs de bronze. La piste se fait plane, la forêt s’ordonne. Échappée sur des étangs couverts de mousse jaune. (Tout à fait réveillé et attentif, maintenant.) Jardin anglais. Soudain, des pelouses <pb n="66"/> filent à gauche et à droite entre des hêtres rouges, piquées au loin de massifs éclatants, le gravier d’une allée fait son bruit luxueux, tout s’éclaire : cent fenêtres, sur la gauche, dans une façade de grès Louis XV. Nous la longeons, nous montons une rampe pavée qui s’engage sous un porche couvert aux colonnes enguirlandées de roses. Toute une famille de géants, debout sur un seuil solennel, me regarde piquer du nez à l’arrêt brusque.</p>
@@ -363,7 +363,7 @@
             <p>En 1945, tous les châteaux de la Prusse orientale ont été rasés par les Russes, sous prétexte de communisme. Personne n’a dénoncé ce crime, nul n’en ayant tiré profit.</p>
           </div>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="II.2.">
           <pb n="77"/>
           <head>La tour de Hölderlin</head>
           <p>« Je lui ai raconté qu’il habite une chaumière au bord d’un ruisseau, qu’il dort les portes ouvertes, et pendant des heures récite des odes grecques au murmure de l’eau ; la princesse de Homburg lui a fait cadeau d’un piano dont il a coupé les cordes, mais pas toutes, en sorte que plusieurs touches sonnent encore, et c’est là-dessus qu’il improvise, oh ! j’aimerais tant aller là-bas, cette folie m’apparaît comme une chose si douce et si grande… »<note place="bottom">Bettina von Arnim-Brentano : <hi xml:lang="de" rend="i">Die Günderode</hi>.</note></p>
@@ -376,10 +376,10 @@
           <p>On rougirait à moins. — « Je ne puis pas parler de lui, ici à Francfort, écrivait Bettina, car aussitôt l’on se met à raconter les choses les plus affreuses sur son compte, simplement parce qu’il a aimé une femme, pour écrire <hi rend="i">Hyperion</hi>, et pour les gens d’ici, aimer, c’est seulement vouloir se marier… » — Et puis plus tard on encadre les lettres des amants, on propose le couple à l’admiration des écoliers en promenade, et le guide désigne familièrement l’image d’une femme par le nom qu’elle portait au mystère de l’amour.</p>
           <p>Trois petites fenêtres ornées de cactus miséreux, une pipe qui traîne sur l’appui ; le jardinet avec son banc et ses lilas fleuris qui trempent. Tout est familier, paisible au soleil. Il passait des heures devant cette fenêtre, à marmotter. Trente sept ans dans cette chambre, avec le bruit de l’eau et cette complainte de malade épuisé après un grand accès de fièvre… <pb n="80"/></p>
           <quote>
-            <l>L’agrément de ce monde, je l’ai vécu.
-              <lb/>Les joies de la jeunesse, voilà si longtemps, si longtemps qu’elles ont fui.
-              <lb/>Avril et mai et juillet sont lointains,
-              <lb/>Je ne suis plus rien, je n’aime plus vivre.</l>
+            <l>L’agrément de ce monde, je l’ai vécu.</l>
+            <l>Les joies de la jeunesse, voilà si longtemps, si longtemps qu’elles ont fui.</l>
+            <l>Avril et mai et juillet sont lointains,</l>
+            <l>Je ne suis plus rien, je n’aime plus vivre.</l>
           </quote>
           <p>Il y avait encore plus de paix que maintenant. La grande allée sur l’île n’existait pas, en face, ni les maisons. Il voyait des prairies et des collines basses, de l’autre côté de l’eau jaune et verte… Quel est donc ce sommeil « dans la nuit de la vie » — et cet aveu mystérieux : « …<hi rend="i">la perfection n’a pas de plainte</hi>… » Vivait-il encore ?</p>
           <p>Ce lieu soudain m’angoisse. Mais le gardien : il y est comme chez lui. — Dormez-vous dans ce lit ? — Oh ! répond-il, je pourrais aussi bien habiter la chambre. Il ne vient pas tant de visiteurs, et seulement de 2 à 4.</p>
@@ -390,7 +390,7 @@
           <p>Le tragique de la facilité, c’est qu’elle n’est qu’un oubli. Et pourtant, comme elle paraît ici bien établie, triomphante, à beau fixe. Pourquoi troubler le miroir innocent <pb n="82"/> de ces eaux, ces âmes indulgentes à leur banalités ? Est-ce qu’ils ne soupçonnent jamais rien ? Ou bien, peut-être, seulement, quand l’amour leur donne une petite fièvre, — cette semaine de leur jeunesse où ils ont cru pressentir de grandes choses généreuses autour d’eux… Cela s’oublie. Et l’amour, tout justement, nous fait comprendre, dans le temps même qu’il nous entr’ouvre le ciel, qu’il est bon qu’il y ait la terre… Mais que cette musique vulgaire, par quel hasard, donne l’accord qui m’ouvre un vrai silence : déjà je leur échappe — je t’échappe ô douceur de vivre ! Tout redevient autour de moi insuffisant, transitoire, allusif. Tout se remet à signifier l’absence.</p>
           <dateline>1929.</dateline>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="II.3.">
           <pb n="83"/>
           <head>Petit journal de Souabe</head>
           <p>À la tombée d’une nuit froide, en avril, le voyageur descend dans un vieux bourg de Souabe, — quelques lumières au milieu d’une étroite vallée où le train longtemps côtoya une rivière, des forêts. Les rues sont vides jusqu’au cœur de la ville, où l’attend une ample demeure.</p>
@@ -557,7 +557,7 @@
           </div>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="III.">
         <pb n="107"/>
         <head>Quand je me souviens — C’est l’Europe</head>
         <p>Ces pages sont nées à des dates différentes d’un même état de sensibilité, dont j’ai remarqué qu’il se révèle en moi par une même allure d’écriture, toutes les fois que se trouve atteint le seuil de ce que j’ai nommé <hi rend="i">le sentiment européen</hi>. Nom de code, mais aussi vrai nom — par cela même précisé — de mon <hi rend="i">Europe</hi>. Et vrai sujet, tout au moins manifeste, de cette suite d’entrevisions des temps mêlés — « Ce présent que je vis déjà comme un passé dans le futur que j’anticipe » — et qui devait me conduire à une action : celle que je n’ai cessé de mener depuis, pour l’avenir du sens de nos vies.</p>
@@ -705,8 +705,8 @@
       </div>
       <div>
         <head>Suite neuchâteloise</head>
-        <div type="chapter">
-          <head><num>i</num></head>
+        <div type="chapter" n="IV.1.">
+          <head>I</head>
           <p>On se trompe en croyant qu’un voyageur à longueur de chemin perd sa patrie : c’est souvent elle qu’il découvre le mieux quand il parcourt le globe et vit chez l’étranger. Non qu’il y pense toujours, mais les hommes qu’il fréquente la voient en lui d’abord, l’en tiennent pour responsable, et par l’erreur la plus commune, l’en nomment si bien le représentant qu’il lui faut à la fin se la représenter comme il n’eût jamais fait en y restant. Dans sa cité, il était d’une famille, et pour sa famille un prénom ; à l’étranger, il devient toute une race. Serait-ce vrai ? se dit-il. Le voient-ils mieux que moi ? Mais que voient-ils, dont je n’ai pas conscience et que je croyais bien quitté ? Il se retourne et le voilà tout étonné… Désormais, nul n’est plus curieux des apparences et des secrets de son pays. Il songe : c’est là-bas que le mystère m’attend, et que ne vais-je pas y découvrir, à mon retour, que jamais je n’ai su regarder ?</p>
           <p>On lui dit : — Vous êtes Suisse ? Vous en avez de la chance ! Mais vous avez si peu l’air suisse.</p>
           <p>— C’est qu’il n’y a pas d’air suisse, ou qu’il en a vingt-deux.</p>
@@ -719,22 +719,18 @@
           <p>Et voici les brumes sur le lac, les murs de vignes séculaires, et ce toit qui demande aux voyageurs, en grandes lettres de tuiles blanches : <hi rend="sc">êtes-vous sauvés du péché ?</hi> Tout de suite les questions personnelles, et ce besoin de réformer le prochain…</p>
           <p>Est-ce que ceux qui vivent sous ce toit sont tellement sûrs de leur affaire ?</p>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="IV.2.">
           <pb n="136"/>
-          <head>
-            <num>ii</num>
-          </head>
+          <head>II</head>
           <p>L’irruption du souvenir est aussi mystérieuse que celle de l’invention, dans notre esprit. Peu s’en faut, si j’y pense, que je ne les distingue plus. Tout se passe comme si la mémoire inventait soudain quelque forme que vient emplir le flot de l’émotion, mais n’est-ce pas le même piège que posera l’invention, en le tournant dans l’autre sens, comme pour se souvenir de ce qui vient ? D’où remontent ces rythmes de mots, cette épithète, ce nœud d’idées, où je ne reconnais rien de déjà lu ? Et de quel ciel me tombent ces visions surprenantes, où je reconnais bientôt ce que j’ai déjà vécu ? Certes, dans les deux cas, c’est moi que je découvre, puisqu’il s’agit d’un souvenir, d’une invention, sans autre précédent que moi. Mais la volonté n’y peut rien. Pourquoi maintenant, à cet instant précis, et non pas hier ni même une seule seconde plus tôt ? Quel mouvement ai-je donc fait par mégarde, qui m’accorde à la longueur d’ondes d’un passé, d’un avenir toujours présents ? Proust a surpris le mécanisme du souvenir conditionné. Il nous livre à l’accidentel, et ses accidents sont petits : une madeleine trempée dans du thé, un pavé qui bascule sous la semelle. Mais les grands accidents de la vie raniment de tout autres mystères. Ils nous font découvrir plus que nous-même.</p>
           <p><pb n="137"/> Je l’ignorais encore quand on m’a proposé d’écrire ces pages sur mon pays natal. On insistait amicalement : je venais de rentrer, c’était le moment propice… Un bouquet pour le Centenaire<note place="bottom">Principauté souveraine depuis le Moyen Âge, Neuchâtel a choisi de se confédérer avec la Suisse le 1<hi rend="sup">er</hi> mai 1848, après une brève révolution qui renversa le régime monarchique et aristocratique.</note>, quelques paysages du souvenir… j’hésitais, j’allais me récuser. Des souvenirs ? me disais-je, mais je n’en suis pas là. (Ainsi l’on croit savoir où l’on se tient, quel âge on a, et vers quoi l’on chemine. Mais au carrefour d’autres destins croisés, soudain le rythme change en nous aussi, rompant la prévision, cette inertie.)</p>
           <p>Dix jours plus tard mourait mon père. Et tout en moi se tourne vers ses origines, au-delà de ma propre mémoire.</p>
           <p>Ces mouvements les plus profonds de l’être nous semblent déclenchés par un destin absurde, et nous les subissons d’abord comme une force tout étrangère. Pourtant, ils nous rapportent à quelque chose en nous qui n’est pas moins intime que la conscience, mais qui lui est antérieur et qui lui survivra ; quelque chose que l’on peut désigner d’un mot simple, et qui figure dans l’ordre naturel comme un reflet de la communion des saints : notre histoire, le passé qui passe en chacun de nous ; qui par nous, maintenant, <hi rend="i">se passe</hi>, lié à toute l’histoire des autres hommes ; et sans lequel il n’y aurait jamais de plénitude du présent.</p>
           <p>Dans le silence d’une vaste pièce où j’étais seul devant l’admirable visage, debout au pied du lit, prolongeant le gisant, j’ai su que j’étais d’une lignée.</p>
         </div>
-        <div type="chapter">
+        <div type="chapter" n="IV.3.">
           <pb n="138"/>
-          <head>
-            <num>iii</num>
-          </head>
+          <head>III</head>
           <p>C’est l’un des traits les moins connus de notre pays que la <hi rend="i">continuité</hi> de ses familles, ailleurs rompue par des révolutions ou de fréquents changements de condition sociale. Nos archives sont intactes, minutieusement tenues par les communes les plus modestes, et tenues depuis plusieurs siècles pour une beaucoup plus grande proportion d’habitants que dans d’autres nations de l’Europe. La plupart des citoyens suisses, qu’ils soient bourgeois, ouvriers ou paysans, pourraient sans peine reconstituer leur ascendance jusqu’à des époques où n’atteignent, chez nos voisins, que les familles de la noblesse. La Suisse n’est pas démocratique pour avoir tardivement aboli ce que l’on nomme les privilèges, mais pour les avoir étendus, dès l’origine, au plus grand nombre.</p>
           <p>Le « Rôle des Bourgeois » de Neuchâtel illustre cette continuité jusqu’au <num>xvi<hi rend="sup">e</hi></num> siècle. Au-delà tout devient fort étrange. Voyez plutôt ces noms relevés au hasard dans le rôle de 1353 : Malifer, Conoz Bazin, Rollin d’Orouse, Perrod Tornarre, Jeannin Estorcy, Williermo Sacrement, Perrod Budivilie, Conier Civylin, Rolin Wavra, Cassiour, Boncrossare, Chocrus, Malsain, Viczo, Ellurdy, Escoferat, Moschauz, Cristin de Pomer, Quiquyrily, Quicu…</p>
           <p>On dirait des injures en patois ! De tous ces noms, <pb n="139"/> tantôt si proches du latin populaire et tantôt du dialecte burgonde, un seul subsistera cent ans plus tard, tandis que la grande majorité des patronymes de consonance moderne et francisée, qui figurent sur le rôle de 1580, ont subsisté jusqu’à nos jours. Beaucoup d’autres s’y sont ajoutés dans le cours du <num>xix<hi rend="sup">e</hi></num> siècle. Sur les trois cent soixante familles nouvellement agrégées à notre bourgeoisie dans les douze ans précédant 1900, deux tiers portent des noms allemands. Elles nous ont apporté un dynamisme neuf, et un accent qui défie la pudeur…</p>
@@ -754,10 +750,8 @@
           <p>« En 1818 déjà — écrit M. Arthur Piaget dans sa remarquable <hi rend="i">Histoire de la Révolution Neuchâteloise</hi> — le Procureur général de Rougemont… considérait la monarchie comme fatalement condamnée » (II. 242). « Il jugeait ridicule et dangereux l’esprit de caste et de famille qui régnait à Neuchâtel. <hi rend="i">Dieu nous préserve</hi>, écrivait-il, <hi rend="i">des parvenus par droit de naissance et de fortune qui clabaudent contre ceux qui parviennent par droits de talents et de vertus. Il estimait ces prétentions déplacées dans un pays où la plus ancienne noblesse n’est pas chapitrale, où les trois quarts de la noblesse trouvent des paysans aux quatrième et cinquième échelons en remontan</hi>t » (II. 63). Et il avait été, en 1814, l’un des principaux artisans du « cantonnement » de Neuchâtel, c’est-à-dire <pb n="142"/> de son inclusion, mais sans changer de régime, dans le Corps helvétique.</p>
           <p>Dès la chute de Napoléon, et malgré la Restauration, l’on s’aperçut que ce beau mouvement d’horlogerie fine retardait sans espoir sur l’heure du siècle, avancée pour le reste de l’Europe par la Révolution, puis par l’Empire, dans le sens des droits individuels et de la tyrannie collective. La population s’accroissait, le commerce prospérait, l’industrie naissait, les radicaux triomphaient partout. Il était temps d’adopter l’heure de Berne. Et ce fut 1848.</p>
         </div>
-        <div type="chapter">
-          <head>
-            <num>iv</num>
-          </head>
+        <div type="chapter" n="IV.4.">
+          <head>IV</head>
           <p>…Une lignée. Une famille parmi d’autres, et qui n’a guère cherché d’illustration en dehors des limites de la communauté qu’elle a servie pendant cinq siècles.</p>
           <p>Dans l’ascendance directe de mon père, je trouve d’abord, dès la Réforme, deux « Ministres du Saint Évangile » et deux juges. À partir du <num>xvii<hi rend="sup">e</hi></num> siècle, les généalogies que j’ai pu consulter ne mentionnent plus que des charges publiques : lieutenant des Assises, membres du Petit Conseil, conseiller d’État, enfin Procureur général de la Principauté. Puis survient la révolution dont nous allons célébrer le centenaire, et le dessaisissement du patriciat ; de là cette notice symbolique : Denis-François-Henry, rentier. (Un rentier n’est qu’un chômeur riche.) Suivent mon grand-père, professeur de théologie, et mon père, pasteur. Cela fait, au début et à la fin, pas mal de robes et de rabats, soit de justice, soit d’église ; et entre temps plus de deux siècles de participation continuelle au gouvernement du pays.</p>
           <p><pb n="143"/> Au <num>xix<hi rend="sup">e</hi></num> siècle, Neuchâtel ayant cessé d’être ce qu’il conviendrait de nommer une aristocratie républicaine au Prince lointain, cette dynastie de conseillers d’État se tourne vers la vie intellectuelle. D’où septante-six ouvrages publiés par des Rougemont en Suisse, en France et en Allemagne, entre 1830 et 1900. Et cela va d’un essai sur <hi rend="i">Socrate et Jésus-Christ</hi> jusqu’à des <hi rend="i">Observations sur l’organe détonant du Brachinus crepitans</hi>, en passant par un <hi rend="i">Précis de géographie comparée</hi> et <hi rend="i">Quelques mots sur les nombres rythmiques de la prophétie</hi>…</p>
@@ -782,10 +776,8 @@
           <p>Jours prolongés, non pas multipliés. (Ce n’est pas une recette pour mourir centenaire !) Prolongés vers cet au-delà de la mémoire individuelle, le passé qui se passe en nous, et sans lequel il n’y aurait jamais de plénitude du <pb n="147"/> présent. Jours prolongés comme un accord qui réveille au loin l’harmonique et qui fait vibrer tous les temps, créant notre avenir aussi, parce qu’il ouvre l’attente ardente de sa résolution — de son pardon.</p>
           <p>Jours de nos vies, comptés de toute éternité, mais prolongés par l’acte de piété à la durée des siècles écoulés et futurs de ce « pays que Dieu nous donne ».</p>
         </div>
-        <div type="chapter">
-          <head>
-            <num>v</num>
-          </head>
+        <div type="chapter" n="IV.5.">
+          <head>V</head>
           <p>J’ai refermé les livres, les mémoires. L’année finit. J’écris sans hâte. Quel silence ! Et je m’attarde à suivre encore ces harmoniques, comme à l’écoute clandestine, l’oreille au son d’un passé qui faiblit mais qui n’a pas terminé son message. Il me parle ce soir de plus loin, d’au-delà de mon petit pays, dans l’espace et le temps d’une plus vaste patrie.</p>
           <p>Les perspectives changent à vue, vertige et grisaille du temps. Une lignée, une famille parmi d’autres… Je la voyais dans son canton ; mais dans la Suisse, mais dans l’Europe, que devient ce fil rouge que je croyais tenir ? Où vont se perdre les sentiers de la mémoire, ces voies ouvertes à l’imagination ?</p>
           <p>Il y a la petite patrie, la terre du père, celle qu’on peut parcourir en une journée et chaque jour de la vie sans se lasser, celle qu’un regard embrasse et détaille à loisir. Au-delà de ses paysages et de sa proche histoire, il n’y a que l’imaginaire. Les nations, les plus vastes patries n’ont jamais été vues par personne : c’est l’esprit qui les croit comme il croit au passé, à la tradition, à l’avenir. Plus tard, dans les archives et les voyages, dans l’aventure <pb n="148"/> et dans l’action, il ira vérifier ce qu’il rêvait. Mais c’est en lui qu’est la réalité sans laquelle il n’eût pas bougé.</p>
@@ -803,10 +795,8 @@
           <p>Nous ne savons presque rien de l’hérédité. Mais quand on m’aura démontré que le sentiment d’obscure reconnaissance qui m’a toujours saisi dans ces provinces ne doit rien aux mystères du sang, une idée chimérique ne cessera de me plaire : sur ces lieux où jadis des hommes dont je <pb n="150"/> descends exercèrent leurs droits de seigneurs, je garde encore un droit de rêve, d’imaginaire intimité.</p>
           <p>Voilà un privilège qui ne peut gêner personne ! Pourquoi ceux qui vivent pour l’avenir et dans les voies de l’ambition jalouseraient-ils ceux qui parfois se plaisent à remonter dans leur passé pour l’agrandir ? Leurs imaginations se valent.</p>
         </div>
-        <div type="chapter">
-          <head>
-            <num>vi</num>
-          </head>
+        <div type="chapter" n="IV.6.">
+          <head>VI</head>
           <p>Ces retours sur l’histoire d’un pays, où je cherchais à mieux situer les miens, m’ont proposé chemin faisant quelques énigmes, et permis d’entrevoir quelques réponses. Voici pourtant un fait que je m’explique très mal, et qui touche à ma profession : Neuchâtel, pour tant de culture, pour tant de livres lus, relus, et de bon choix, accumulés depuis des siècles dans les maisons publiques et privées ; pour tant de livres publiés, aussi, n’a rien produit qui marque dans la langue, à part la Bible d’Ostervald.</p>
           <p>Les ouvrages distingués ne manquent pas. Mais les seuls qui aient franchi nos limites sont ceux de nos théologiens, Ostervald encore, puis Godet ; et le <hi rend="i">Droit des gens</hi> de Vattel. Nous avons eu d’excellents historiens : l’auteur de la <hi rend="i">Chronique des Chanoines</hi> (apocryphe), Chambrier pour l’ancien régime, Arthur Piaget pour la Révolution, Philippe Godet pour Madame de Charrière. Un moraliste au style subtil et naturel, Félix Bovet. Mais la littérature au sens étroit du terme — le roman, le poème, l’essai, le jeu d’idées — est restée chez nous pauvre ou nulle. Nous n’avons rien tiré de grand ou d’émouvant d’une culture solide et variée, d’une nature <pb n="151"/> contrastée de charme et de tristesse, ni même de la tension des contraintes morales, dont vécut le roman victorien. Faut-il penser que cette culture fut trop mêlée, cette nature trop vantée pour nous troubler ? Que ces contraintes furent ou bien trop pesantes, ou au contraire trop aisément tournées ? Je ne sais. Et tout cela, sauf la nature, est en train de changer rapidement. L’accent se gâte, la rhétorique n’est plus enseignée ni connue. L’histoire et la théologie fuient le discours, ignorent le style. Entendrons-nous un jour quelqu’un qui chante, ou crie, après des siècles où nul n’a prononcé un mot plus haut que l’autre, ou plus bas, de plus près ? J’ai vu percer quelques poètes à nos vitrines de libraires…</p>
           <p>Les Vaudois ont produit ou toléré Constant, Alexandre Vinet, Ramuz ; les Genevois Calvin, de Bèze, Rousseau, Madame de Staël, Töpffer, Amiel… Je ne parle pas des vivants ; et je ne cite que ceux dont un homme cultivé, dans toute l’Europe, connaît au moins le nom. Nous n’avons rien de ce rang-là. Les visiteurs de Lausanne, de Coppet, des coteaux de Cologny ou de Montreux, furent éclatants et parfois scandaleux. Mais la « petite histoire » littéraire se borne à mentionner chez nous des rendez-vous de voyageurs discrets, inaperçus et bientôt disparus. Un seul s’est fait remarquer, ce fut le premier en date, et les gamins de Môtiers lui jetèrent des cailloux. Avertis par ce précédent, dont le bruit s’élargit à l’Europe, les successeurs de l’Arménien ne sont venus chez nous qu’à pas feutrés. Certains d’ailleurs avaient de bonnes raisons de ne point publier leur séjour.</p>
@@ -818,10 +808,8 @@
           <p>Il a fallu le prix Nobel pour qu’on s’aperçût un beau jour qu’il était parmi nous, caché dans sa pèlerine.</p>
           <p>Une semaine plus tôt, chez les Heyd, nous avions joué au jeu des questions et réponses. L’un écrit trois <pb n="153"/> questions, et l’autre en même temps trois réponses. Puis on lit à haute voix les deux papiers. Jeu de hasard, ou de télépathie. J’avais écrit, dernière question : — <hi rend="i">Qu’est-ce que le style</hi> ? Catherine, la fille de Gide, lut sa dernière réponse : — <hi rend="i">L’originalité de mon père</hi>. Gide s’éclaircit la voix pour observer que le jeu devenait bien personnel, et proposa des bouts rimés.</p>
         </div>
-        <div type="chapter">
-          <head>
-            <num>vii</num>
-          </head>
+        <div type="chapter" n="IV.7.">
+          <head>VII</head>
           <p>« Combien j’aimai ce lac aux rives glauques ! sans rien d’alpestre, et dont les eaux, comme celles d’un marécage, longtemps se mêlent à la terre et filtrent entre les roseaux. » (<hi rend="i">L’Immoraliste</hi>).</p>
           <p>Près de ces eaux, ma vie sentimentale est née. Et depuis lors elle est restée lacustre. « Odeur de l’eau — pour toute la vie » écrivait un <hi rend="i">Paysan du Danube</hi>, et vingt ans ne l’ont pas démenti.</p>
           <p>Je dénombre mes lacs et ne puis retrouver que du bonheur à ces souvenirs. Non qu’ils me parlent tous de jours heureux, mais la mémoire des plus amers ou des plus seuls a gardé le charme des eaux. Faut-il penser que la souffrance au bord d’un lac n’est jamais sans quelque douceur ?</p>
@@ -841,15 +829,13 @@
           <p>Mais soudain la tempête a fait silence autour de lui, et seul reste distinct le bruit profond des vagues. Il roule maintenant dans l’ombre tiède et abritée d’un bois de pins. Que vient-il donc chercher sur ces rivages désertés par le crépuscule ? Quelle est cette hâte inconnue, qu’il se flattait de n’éprouver jamais, bien au contraire, avant un rendez-vous ? Cette envie de crier : « J’accours ! Attends !… » Ah ! mais qu’est-ce qu’il m’arrive ? se dit-il. Il faut en avoir le cœur net. (Tout son orgueil réside en la maîtrise de soi, idéal de sportif plus que de puritain.) Il ralentit, pose un pied sur le sol, et s’appuie de la main au tronc d’un pin. Ce qui lui arrive est solennel, comme l’attente du pays sous le ciel orageux. Oui, c’est bien cela qu’il sent, il ne peut s’y tromper : la brûlure douce au cœur, le sang plus vite, le soulèvement plus ample de la respiration. Tout ce que disent les poètes qu’il dédaigne, tous leurs clichés, c’était donc vrai ? Il ne sait quelle ardeur le pénètre… Mais il sent qu’il va dire les grands mots impossibles, dans un fol abandon, et ce sera vrai. Comme tout est facile et violent quand les portes du cœur ont cédé !</p>
           <p>Le lac était d’un bleu très sombre, le ciel bas, des éclairs de chaleur palpitaient dans la nue, et le jeune homme savait en repartant sur les sentiers obscurs, vers les roseaux, qu’avant le rendez-vous ce qui l’avait rejoint, <pb n="158"/> c’était cette chose absurde et magnifique, entre haut-mal et bien-suprême, qu’on nomme si légèrement l’amour.</p>
         </div>
-        <div type="chapter">
-          <head>
-            <num>viii</num>
-          </head>
+        <div type="chapter" n="IV.8.">
+          <head>VIII</head>
           <p>On peut écrire aussi contre les lacs, ces endormeurs, et porter sa louange à des lieux plus sévères. Mais plutôt il convient d’alterner ces agréments et ces vertus. Qui nous parlera des forêts ? Pour ma part, j’ai trop peu vécu sous les sapins, dans les vallées du Jura. J’y suis né, certes, mais les vraies patries sont celles où l’on naît à l’amour.</p>
           <p>Un portrait de notre pays, peint de là-haut, ne ressemblerait guère à mes esquisses. Au lieu de la lumière souvent voilée du lac, on y verrait un éclairage cru, des ombres longues et givrées, des couchants d’incendie sur les menées moroses des hauts plateaux boisés de noir. Ils vont jusqu’au Tibet, me disait un jour Ramuz (dont la géographie se passait bien d’atlas). C’est la même civilisation, les mêmes fumées sur les tourbières, les mêmes chants tristes, la même vie intérieure… Il me disait aussi que les paysans huguenots des Cévennes et du Languedoc sont en réalité des musulmans, qu’il suffit de les voir, tout noirs dans leurs cuisines, fatalistes et irréductibles… J’aime tous ceux qui prolongent ou qui ouvrent des voies. Je garde ma méfiance pour l’espèce de mensonge qui rend la vie plus petite que nature, sous prétexte d’exactitude.</p>
           <p>Pays des horlogers à domicile, des longues veillées, des inventions pratiques, et de beaucoup de dignité cordiale dans le commerce quotidien, c’est le nord du canton qui a gagné et nous a faits républicains, voilà cent ans. Il nous donne aujourd’hui nos meilleurs socialistes. C’est un pays qui est « avancé » par tradition.</p>
           <p><pb n="159"/> Dans ma vallée natale, où se réfugia Jean-Jacques, Bakounine présida, me dit-on, les réunions secrètes d’où devait sortir la Première Internationale, aussitôt confisquée par Marx.</p>
-          <p>De cette enfance il me reste un cauchemar, l’école primaire, dont j’ai parlé ailleurs<note place="bottom">[NdE] Voir <ref>Les Méfaits de l’Instruction publique</ref>.</note> ; l’idée que mon village ne ressemble à aucun autre ; une connaissance intime de la neige ; le désir des pays chauds ; et un petit lièvre<anchor xml:id="_GoBack"/>.</p>
+          <p>De cette enfance il me reste un cauchemar, l’école primaire, dont j’ai parlé ailleurs<note place="bottom">[NdE] Voir <ref>Les Méfaits de l’Instruction publique</ref>.</note> ; l’idée que mon village ne ressemble à aucun autre ; une connaissance intime de la neige ; le désir des pays chauds ; et un petit lièvre.</p>
           <p>Je me souviens de ce retour du Creux-du-Van, à travers les grands pâturages parsemés de sapins majestueux et coupés çà et là de murs bas faits de grosses pierres entassées avec art. Nous passions les clédars (beau mot celtique, l’un des rares qui subsistent chez nous) et les refermions avec soin, pour que les vaches n’aillent point changer de propriétaire. Nous marchions à grandes enjambées, joyeux de sentir nos gros talons cloutés mordre dans le sol élastique. Soudain je suspendis mon pas : au bout de mon pied, dans un creux d’herbe, un petit lièvre frémissait, immobile et terrorisé. Nous nous sommes regardés un moment, de tout près. Un seul geste rapide eût suffi pour l’attraper par les oreilles. J’imaginai en une seconde la gloire que me vaudrait cette aventure, ma rentrée triomphale à la maison. (Faut-il avouer que je la regrette encore ?) Mais je restais là sans mouvement, fasciné par l’aubaine et plus encore ému par ce petit être tremblant. C’était trop beau… Le lièvre détala. Combien d’occasions merveilleuses ai-je laissé détaler depuis ! Ce sont peut-être celles qui m’ont le plus appris. Ma gloire ou mon plaisir en ont pâti, mais j’en tire une satisfaction plus secrète et qui les vaut bien. Chaque fois qu’une chance offerte un instant fuit d’un bond, parce qu’un scrupule ou un respect, ou quelque obscure sagesse ont retenu ma main, je me dis : c’est encore un petit lièvre ! et poursuis mon chemin plus léger. <pb n="160"/></p>
           <p>Si je l’avais attrapé, m’en souviendrais-je encore ? Je n’en parlerais pas ici.</p>
           <p>Des Montagnes au lac, cependant, malgré tous les contrastes qu’on a vus, c’est bien le même peuple et c’est le même accent. J’entends les mêmes allures, le même accent de l’âme, du cœur et de la poignée de main ; mais hélas ! aussi du langage. Et à ce propos…</p>

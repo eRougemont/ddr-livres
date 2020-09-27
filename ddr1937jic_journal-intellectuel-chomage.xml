@@ -45,9 +45,10 @@
         <p>Je revois, je revis si bien cette traversée, cette tempête courte, brusquement dramatique, cette étrange coupure qu’elle a faite dans ma vie, entre les derniers jours passés à Paris non sans fièvre et cette arrivée au soleil dans une liberté naïve et nue, pauvre et joyeuse… Mais je vois bien qu’il me faut expliquer pourquoi nous venions dans cette île à la saison où il convient plutôt de la quitter quand on le peut.</p>
         <p>Si, par cette aube de novembre, sur les grands quais de ce port atlantique, j’en étais à considérer d’un œil brûlé par l’insomnie les flots de l’océan maussade et les pauvres rivages du détroit, c’est fort apparemment que je n’avais rien de mieux à<pb n="10" xml:id="p10"/>faire. J’étais chômeur depuis trois mois. On m’offrait un abri quelque part, une maison vide pendant l’hiver, une occasion de solitude désirée en secret dès longtemps. Je voudrais bien n’avoir pas l’air trop romantique : mes dernières années de Paris m’avaient appris que cette ville, au moins pour la jeunesse sans argent, est la ville des gérants ignobles et des concierges, des Lieux-sombres-et-populeux où il faut pénétrer l’âme basse et la petite enveloppe à la main. Tant d’autres disent : Allons-nous-en, et restent faute d’imagination. Et pourtant il suffit de bien peu pour partir : la France a des milliers de maisons vides. Dites autour de vous que vous en cherchez une, et vous en trouverez, pour rien, ou pas grand-chose. Encore faut-il savoir comment on y peut « vivre ». C’est à cette question judicieuse que j’ai voulu répondre par ce livre. Peut-être mon récit n’a-t-il pas d’autre but que de décrire un précédent, d’affirmer que cela peut se faire, que cela s’est fait, qu’il y a là un bonheur…</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="I.">
         <pb n="11" xml:id="p11"/>
-        <head>Première partie <lb/>N’habitez pas les villes !</head>
+        <head type="kicker">Première partie</head>
+        <head>N’habitez pas les villes !</head>
         <div>
           <pb n="13" xml:id="p13"/>
           <head>Début de novembre 1933</head>
@@ -159,8 +160,8 @@
           <head>10 décembre 1933</head>
           <p><hi rend="sc">Un discours de l’instituteur</hi>. — Hier soir, séance de Pathé-Baby organisée par l’instituteur dans la salle de l’école des garçons. Il me tardait de voir une fois les habitants du village réunis, leur façon d’être ensemble, et surtout la jeunesse, d’ordinaire invisible, au point que je doutais même qu’elle existât. Elle était là. Elle occupait les longs bancs rangés en chevrons derrière le petit appareil de projection placé à trois ou quatre mètres de l’écran. (Un drap de lit sur le tableau noir.) Une quarantaine de filles et de gars peu bruyants, presque tous laids de visage et très épais de corps. Nous étions assis derrière eux. Au fond, sur deux armoires basses, siégeaient une dizaine d’hommes. Deux ou trois coiffes de paysannes seulement. Et des enfants autour du trépied de l’appareil, empressés à tendre les bobines de film à l’instituteur.</p>
           <p>Ilfallut un certain temps pour mettre au point la projection. Les jeunes gens étouffaient des rires, chatouillaient les filles. Devant moi une grosse luronne s’agitait sur son banc. Je voyais une puce circuler sur sa nuque grasse. Un des garçons s’en aperçoit, attrape la puce en pinçant la fille, et les rires redoublent. L’instituteur réclame le silence, et la projection commence. C’est un film d’avant-guerre, <hi rend="i" xml:lang="fr">la Course au Flambeau</hi>, tiré de la pièce de Paul Hervieu. Entre chaque épisode reparaissent les mêmes éphèbes grecs, porteurs de torches qu’ils se passent avec<pb n="35" xml:id="p35"/>des gestes lents, hallucinants, à grands sauts ralentis — le courant électrique n’étant sans doute pas assez fort pour faire tourner l’appareil au rythme normal. Tout le monde a l’air très content, bien que le film m’apparaisse à peu près incompréhensible.</p>
-          <p>La course au flambeau terminée, on rallume. L’instituteur monte à sa chaire et annonce qu’il va prononcer, comme chaque semaine désormais, un petit discours. « Je serai bref ! » C’est un jeune homme d’allure énergique et de visage intelligent, la chevelure noire en bataille qu’il saisit à pleines mains dans les moments pathétiques. Il annonce le sujet de ce soir : <hi rend="i" xml:lang="fr">Qu’est-ce qu’être laïque</hi> ? — « Messieurs, chers amis ! Je vous rappellerai tout d’abord les circonstances qui m’ont fait choisir ce sujet. Il y a… tout près d’ici… quelqu’un — je ne veux pas le nommer, je n’attaquerai personne, moi ! — il y a, dis-je, quelqu’un qui a osé prétendre que je suis un empoisonneur des consciences ! » Récit détaillé des calomnies que le curé répand sur son compte, dans les foyers et jusque dans la presse<note place="bottom">Deux petits journaux paraissent dans l’île. L’un est aux mains de M. T…, député de droite, et des « curés ». L’autre est « républicain et antifasciste ».</note> ! « Je n’ai pas cherché la guerre, moi ! Eh bien ! je saurai me défendre ! Et malgré les persécutions de ceux qui ont intérêt à étouffer la vérité, etc. » La chevelure s’agite, les bras s’agitent, la voix s’enfle. « J’étais au dernier Congrès des instituteurs qui s’est tenu à Paris, et bien ! citoyens ! lors de ce Congrès, il a été stipulé qu’à l’avenir… » La fin de la phrase<pb n="36" xml:id="p36"/>étant particulièrement sonore, des applaudissements éclatent au fond de la salle. Le jeune orateur électrisé se lance dans une définition vibrante de la laïcité. « Être laïque, c’est vouloir la Justice et l’Égalité pour tous ! Être laïque, c’est vouloir l’instruction libre et gratuite pour tous, sans distinction de fortune ou de religion ! Être laïque… » Ah ! surtout être laïque, ce n’est pas combattre les religions, comme le prétend le voisin, « car je les respecte toutes, les religions, sauf quand elles viennent m’attaquer dans mon activité professionnelle,
-            que je considère comme sacrée ! » En somme, être laïque, c’est être religieux au vrai sens du mot, selon les paroles de Gambetta, d’Ernest Lavisse et de quelques autres. Être laïque, c’est finalement « aimer son prochain » ! Je n’ai pas plus tôt soufflé à l’oreille de ma femme « C’est un sermon ! » que l’orateur, au comble de son éloquence, s’écrie : « Et, <hi rend="i" xml:lang="fr">mes frères</hi> ! si l’on vient encore vous dire que je suis un empoisonneur des consciences, vous saurez maintenant me défendre ! etc. »</p>
+          <p>La course au flambeau terminée, on rallume. L’instituteur monte à sa chaire et annonce qu’il va prononcer, comme chaque semaine désormais, un petit discours. « Je serai bref ! » C’est un jeune homme d’allure énergique et de visage intelligent, la chevelure noire en bataille qu’il saisit à pleines mains dans les moments pathétiques. Il annonce le sujet de ce soir : <hi rend="i" xml:lang="fr">Qu’est-ce qu’être laïque</hi> ? — « Messieurs, chers amis ! Je vous rappellerai tout d’abord les circonstances qui m’ont fait choisir ce sujet. Il y a… tout près d’ici… quelqu’un — je ne veux pas le nommer, je n’attaquerai personne, moi ! — il y a, dis-je, quelqu’un qui a osé prétendre que je suis un empoisonneur des consciences ! » Récit détaillé des calomnies que le curé répand sur son compte, dans les foyers et jusque dans la presse<note place="bottom">Deux petits journaux paraissent dans l’île. L’un est aux mains de M. T…, député de droite, et des « curés ». L’autre est « républicain et antifasciste ».</note> ! « Je n’ai pas cherché la guerre, moi ! Eh bien ! je saurai me défendre ! Et malgré les persécutions de ceux qui ont intérêt à étouffer la vérité, etc. » La chevelure s’agite, les bras s’agitent, la voix s’enfle. « J’étais au dernier Congrès des instituteurs qui s’est tenu à Paris, et bien ! citoyens ! lors de ce Congrès, il a été stipulé qu’à l’avenir… » La fin de la phrase<pb n="36" xml:id="p36"/>étant particulièrement sonore, des applaudissements éclatent au fond de la salle. Le jeune orateur électrisé se lance dans une définition vibrante de la laïcité. « Être laïque, c’est vouloir la Justice et l’Égalité pour tous ! Être laïque, c’est vouloir l’instruction libre et gratuite pour tous, sans distinction de fortune ou de religion ! Être laïque… » Ah ! surtout être laïque, ce n’est pas combattre les religions, comme le prétend le voisin, « car je les respecte toutes, les religions, sauf quand elles viennent m’attaquer dans mon activité professionnelle, que
+            je considère comme sacrée ! » En somme, être laïque, c’est être religieux au vrai sens du mot, selon les paroles de Gambetta, d’Ernest Lavisse et de quelques autres. Être laïque, c’est finalement « aimer son prochain » ! Je n’ai pas plus tôt soufflé à l’oreille de ma femme « C’est un sermon ! » que l’orateur, au comble de son éloquence, s’écrie : « Et, <hi rend="i" xml:lang="fr">mes frères</hi> ! si l’on vient encore vous dire que je suis un empoisonneur des consciences, vous saurez maintenant me défendre ! etc. »</p>
           <p>C’est fini. L’instituteur s’éponge. Les hommes du fond ont applaudi brièvement. Mellouin a même crié : Très bien ! Les jeunes trouvent qu’« il cause bien ». Pour terminer la soirée, on passe un dessin animé, le <hi rend="i" xml:lang="fr">Petit Poucet</hi>, qui remporte un gros succès.</p>
           <p>En sortant, nous passons devant la salle du curé, qui donne aussi ce soir une séance de cinéma. On entend rire des enfants.</p>
           <p>J’ai rencontré le curé ce matin, suivi comme<pb n="37" xml:id="p37"/>d’habitude d’une bande de petits garçons. Il n’a pas répondu à mon salut.</p>
@@ -582,9 +583,10 @@
           <p>Il ne se passe pas grand-chose dans ces pages, mais ce peu m’a suffi pendant des mois, et qui sait si plusieurs de mes semblables ne seraient pas contents de l’apprendre ? Ce n’est pas une nouvelle bouleversante, c’est même plutôt une sorte de secret que je donnerais là, une « recette pour vivre de peu »… Qui sait si beaucoup n’aimeraient pas qu’un homme parle devant eux de ce qu’ils aiment ou voudraient aimer ? de cette vie attentive et sans intrigue, de cette « lenteur<pb n="132" xml:id="p132"/>des choses » dont la moitié des hommes tire tout ce qu’elle a de contentement ? Je songe à ceux qui voudraient fuir les villes, et qui peut-être en me lisant, se diraient un instant que c’est possible…</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="II.">
         <pb n="133" xml:id="p133"/>
-        <head>Deuxième partie <lb/>Pauvre province</head>
+        <head type="kicker">Deuxième partie</head>
+        <head>Pauvre province</head>
         <div>
           <pb n="135" xml:id="p135"/>
           <head>22 septembre 1934. A… (Gard)</head>
@@ -1093,9 +1095,10 @@
           <p>— Demain, il faut remettre en place les aquarelles, les guéridons et les dessus de cheminée. Après demain, nous partons. Nous fuyons.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="III.">
         <pb n="235" xml:id="p235"/>
-        <head>Troisième partie <lb/>L’été parisien</head>
+        <head type="kicker">Troisième partie</head>
+        <head>L’été parisien</head>
         <div>
           <pb n="237" xml:id="p237"/>
           <head>2 juillet 1935</head>
@@ -1189,7 +1192,10 @@
           </p>
           <p rend="center">
             <pb n="251" xml:id="p251"/>
-            <hi rend="i">Moyens de communication : <lb/>2 autobus pour venir de Chartres. <lb/>2 autobus pour retourner à Chartres. <lb/>Le samedi 3 dans les deux sens.</hi>
+            <hi rend="i">Moyens de communication :
+              <lb/>2 autobus pour venir de Chartres.
+              <lb/>2 autobus pour retourner à Chartres.
+              <lb/>Le samedi 3 dans les deux sens.</hi>
           </p>
           <p/>
           <p rend="right">1933-1935</p>

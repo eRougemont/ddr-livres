@@ -35,7 +35,8 @@
     <body>
       <div type="chapter">
         <pb n="7"/>
-        <head>Introduction <lb/>Que la connaissance du vrai danger nous guérit des fausses peurs</head>
+        <head>Introduction
+          <lb/>Que la connaissance du vrai danger nous guérit des fausses peurs</head>
         <p><pb n="9"/> Au dessert nous étions d’accord : ce qui manque le plus aux démocraties en général, et à l’Amérique en particulier, c’est de croire au Diable. On sortit de table. C’était au club. Tandis que nous attendions l’ascenseur, je dis au Philosophe :</p>
         <p>— Fort bien, mais si je parlais du Diable, c’est moi qui passerais aussitôt pour un personnage diabolique, ou qui sait, pour le Diable lui-même !</p>
         <p>— Peut-être devriez vous accepter le risque ? répondit-il avec sa grande douceur.</p>
@@ -54,9 +55,10 @@
         <p>La plupart des auteurs qui se sont occupés du Diable, au cours des siècles, me paraissent d’accord sur ce point : comme tous ceux qui ne croient pas au bien, à la délicatesse, à la grandeur, à l’âme, — le Malin est un homme à trucs. C’est l’agent double, triple, centuple, l’agent multiple à l’infini. Bornons-nous à ses tours les plus simples, ceux qui prennent à coup sûr le plus grand nombre d’hommes dans les basses époques spirituelles.</p>
         <p>Encore un mot. On se tromperait sur l’intention de ce petit traité, si l’on y voyait un effort pour « démontrer » l’existence du Diable. Il ne s’agit ici que d’un essai d’interpréter certains déboires de notre temps, en les rapportant à l’action du seul être qui s’en réjouisse.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="I.">
         <pb n="15"/>
-        <head>Première partie <lb/>L’Incognito et la Révélation</head>
+        <head type="kicker">Première partie</head>
+        <head>L’Incognito et la Révélation</head>
         <div subtype="level2">
           <pb n="17"/>
           <head>1. Le premier tour</head>
@@ -177,9 +179,10 @@
           <p>Un an s’écoula, sans progrès. Le médecin commençait à désespérer, il envisageait même d’abandonner la cure. (Et vous savez pourtant si rien égale la patience d’un psychanalyste !) Enfin, par un beau jour d’été, la malade vint pour une dernière tentative. Il faisait une chaleur torride. Jung possède une villa sur les rives du lac de Zurich. Il proposa que la séance eût lieu dans un petit pavillon au bord de l’eau. On sort, la dame la première ; et sitôt dans le jardin, conclut Jung, eh bien… <hi rend="i">les oiseaux l’attaquaient</hi> !</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="II.">
         <pb n="43"/>
-        <head>Deuxième partie <lb/>Hitler ou l’alibi</head>
+        <head type="kicker">Deuxième partie</head>
+        <head>Hitler ou l’alibi</head>
         <div subtype="level2">
           <pb n="45"/>
           <head>13. Où paraît la nécessité d’un alibi</head>
@@ -245,9 +248,10 @@
           <p>Ce n’est pas d’envahir un petit pays qui est diabolique, cela s’est fait de tous les temps, c’était, si l’on peut dire, égoïsme normal, soif de richesses, vulgaire impérialisme ; ce qui est diabolique, c’est d’appeler cela « consolider la paix » ou « fonder le nouvel ordre ». Ce n’est pas d’annexer la Tchécoslovaquie qui est diabolique, mais c’est de le faire au lendemain d’un discours où l’on invoque « le droit des peuples à disposer d’eux-mêmes ». Ce n’est pas de transformer le territoire du voisin en champ de carnage et de bombardement, mais c’est d’appeler ce champ de mort « espace vital ». Ce n’est pas de violer les Traités, mais c’est de vouloir s’innocenter en proclamant en tête d’un nouveau Code : « Le Droit est ce qui sert le peuple allemand. » <pb n="61"/> Ce n’est pas d’attaquer les Églises, mais c’est de le faire en nationalisant la Providence, et en son Nom. Ce qui est proprement diabolique, c’est moins de faire le mal que de le baptiser bien, quand on le fait. C’est de vider tous les mots de leur sens, de les retourner et de les lire à rebours, selon la coutume des messes noires. C’est d’invertir et de ruiner par l’intérieur les critères mêmes de la vérité. Et c’est enfin d’aller loger le mensonge, de préférence, dans une parole de vérité !</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="III.">
         <pb n="63"/>
-        <head>Troisième partie <lb/>Le Diable démocrate</head>
+        <head type="kicker">Troisième partie</head>
+        <head>Le Diable démocrate</head>
         <div subtype="level2">
           <pb n="65"/>
           <head>21. Erreur fatale des démocrates</head>
@@ -309,9 +313,10 @@
           <p>— Si vous voulez déjouer le premier tour du Diable, et son second tour du même coup, si vous tenez sérieusement à l’attraper, je vais vous dire où vous le trouverez le plus sûrement : <hi rend="i">dans le fauteuil où vous êtes assis</hi>.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="IV.">
         <pb n="83"/>
-        <head>Quatrième partie <lb/>Le Diable dans nos dieux et dans nos maladies</head>
+        <head type="kicker">Quatrième partie</head>
+        <head>Le Diable dans nos dieux et dans nos maladies</head>
         <div subtype="level2">
           <pb n="85"/>
           <head>27. Le Diable dans nos dieux</head>
@@ -527,15 +532,18 @@
           <p>Mais j’entendais un chant plein de force et de grâce, quelque part au secret de la vie, quand la clameur du néant s’abaissait, quelque part au-dessus de la mort, comme une grande fugue puissante et soutenue, quand tout semblait perdu, gâché et sans remède, un chant profond qui ne cesse jamais, inaltérable et dominant, ah ! taisons-nous, le voici qui revient, et ce n’est pas encore notre consolation, mais il est plus dur que la mort et le mutisme de la mort, il est plus pur que nos douleurs, je l’ai nommé : cantique au bleu du ciel.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" n="V.">
         <pb n="155"/>
-        <head>Cinquième partie <lb/>Le bleu du ciel</head>
+        <head type="kicker">Cinquième partie</head>
+        <head>Le bleu du ciel</head>
         <div subtype="level2">
           <pb n="157"/>
           <head>43. La lutte contre le Diable</head>
           <quote>
-            <l>Ne réponds pas à l’insensé selon sa folie <lb/>De peur que tu ne lui ressembles toi-même.</l>
-            <l>Réponds à l’insensé selon sa folie <lb/>Afin qu’il ne se regarde pas comme sage…</l>
+            <l>Ne réponds pas à l’insensé selon sa folie
+              <lb/>De peur que tu ne lui ressembles toi-même.</l>
+            <l>Réponds à l’insensé selon sa folie
+              <lb/>Afin qu’il ne se regarde pas comme sage…</l>
           </quote>
           <p>C’est ainsi que l’auteur des Proverbes<note place="bottom">Proverbes 26, 4 et 5.</note> exprime le paradoxe du combat contre le mal en général, qu’il s’agisse de la résistance d’une âme au Diable, ou de la guerre des démocraties contre Hitler.</p>
           <p>Si vous opposez au Diable la ruse, la subtilité, l’ironie et l’intelligence froide, vous risquez de devenir méchants, c’est-à-dire que plus vous cherchez à être forts à la manière du Diable, plus vous lui donnez d’avantages, son seul but étant de vous rendre semblables à lui. Mais si vous ne le faites pas, vous serez joués, le mal triomphera, <pb n="158"/> et il se fera passer pour le bien. <hi rend="i">Alors</hi> tout sera perdu.</p>
@@ -556,7 +564,30 @@
           <p>L’imagerie populaire de l’Archange peut passer pour une histoire pieuse, une mythologie médiévale. Ne souffrons pas qu’elle masque plus longtemps le moment décisif du drame de notre histoire, le principe même de toute victoire sur le Malin ! Aux grandes époques de notre évolution, c’est l’événement lui-même qui répercute le cri de guerre de l’Archange lumineux. Avez-vous des oreilles pour l’entendre ? Le malheur de ce temps les ouvrira ! Et c’est ici que m’apparaît dans sa grandeur le rôle ironiquement providentiel des Tyrans. Écoutez le prophète</p>
           <p><pb n="162"/> Ézéchiel, lorsqu’il s’adresse à nos démocraties capitalistes et commerçantes :</p>
           <quote>
-            <l>Fils de l’homme, dis au prince de Tyr : <lb/>Ainsi parle le Seigneur, l’Éternel. <lb/>Ton cœur s’est élevé et tu as dit : Je suis Dieu, <lb/>Je suis assis sur le siège de Dieu au sein des mers ! <lb/>Toi tu es homme, et non Dieu. <lb/>Par ta sagesse et par ton intelligence <lb/>Tu t’es acquis des richesses <lb/>Tu as amassé de l’or et de l’argent <lb/>Dans tes coffres-forts ; <lb/>Par ta grande sagesse et par ton commerce <lb/>Tu as accru tes capitaux, <lb/>Et par tes capitaux ton cœur s’est élevé. <lb/>C’est pourquoi ainsi parle le Seigneur, l’Éternel : <lb/>Parce que tu prends ta volonté pour la volonté de Dieu <lb/>Voici, je ferai venir contre toi des étrangers, <lb/>Les plus violents d’entre les peuples ; <lb/>Ils tireront l’épée contre ton éclatante sagesse, <lb/>Et ils souilleront ta beauté. <lb/>Ils te précipiteront dans la fosse <lb/><pb n="163"/> Et tu mourras comme ceux qui tombent percés de coups <lb/>Au milieu des mers. <lb/>En face de ton meurtrier, diras-tu : Je suis Dieu ? <lb/>Tu seras homme, et non Dieu <lb/>Sous la main de celui qui te tuera.</l>
+            <l>Fils de l’homme, dis au prince de Tyr :</l>
+            <l>Ainsi parle le Seigneur, l’Éternel.</l>
+            <l>Ton cœur s’est élevé et tu as dit : Je suis Dieu,</l>
+            <l>Je suis assis sur le siège de Dieu au sein des mers !</l>
+            <l>Toi tu es homme, et non Dieu.</l>
+            <l>Par ta sagesse et par ton intelligence</l>
+            <l>Tu t’es acquis des richesses</l>
+            <l>Tu as amassé de l’or et de l’argent</l>
+            <l>Dans tes coffres-forts ;</l>
+            <l>Par ta grande sagesse et par ton commerce</l>
+            <l>Tu as accru tes capitaux,</l>
+            <l>Et par tes capitaux ton cœur s’est élevé.</l>
+            <l>C’est pourquoi ainsi parle le Seigneur, l’Éternel :</l>
+            <l>Parce que tu prends ta volonté pour la volonté de Dieu</l>
+            <l>Voici, je ferai venir contre toi des étrangers,</l>
+            <l>Les plus violents d’entre les peuples ;</l>
+            <l>Ils tireront l’épée contre ton éclatante sagesse,</l>
+            <l>Et ils souilleront ta beauté.</l>
+            <l>Ils te précipiteront dans la fosse</l>
+            <l><pb n="163"/> Et tu mourras comme ceux qui tombent percés de coups</l>
+            <l>Au milieu des mers.</l>
+            <l>En face de ton meurtrier, diras-tu : Je suis Dieu ?</l>
+            <l>Tu seras homme, et non Dieu</l>
+            <l>Sous la main de celui qui te tuera.</l>
           </quote>
           <p>En face d’Hitler tout devient clair et décisif. À l’épreuve de la guerre et du meurtre, nos illusions, immédiatement châtiées, se dénoncent comme illusions. La tactique et la stratégie d’Hitler illustrent aux yeux des plus sceptiques et des plus lourds, par des images simples et frappantes, la tactique et la stratégie du Diable. Elles nous aident, elles nous <hi rend="i">forcent</hi> à reconnaître, par la plus évidente analogie, l’action de Satan dans nos vies et le mensonge de l’éternelle Tentation. C’est déjà la moitié de la victoire.</p>
           <p>Ah, pour tout l’or du monde je ne souhaiterais pas d’être né dans un autre temps ! Tout signifie, autour de nous, tout s’amplifie aux dimensions de la plus vaste poésie ! Tout ce qui m’est arrivé ces jours-ci est à l’image de l’histoire mondiale. Jamais nos objectifs ne furent plus manifestes. Hitler m’indique en lettres gigantesques tout ce qu’il me faut combattre dans ma vie, tout ce qui <pb n="164"/> reflète sa « grande stratégie » dans la confusion de nos mœurs.</p>
