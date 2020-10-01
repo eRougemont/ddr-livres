@@ -61,7 +61,7 @@
           <p><pb n="11" xml:id="p11"/> Je vais tenter de repérer les principaux facteurs de crise qui sont en jeu dans le monde d’aujourd’hui, de décrire leurs liaisons réelles ou alléguées, d’évaluer quelques-unes de leurs interactions, afin de faire sentir l’urgence d’une politique, c’est-à-dire d’un programme d’intervention sur certains points stratégiques du système, et d’en montrer la possibilité.</p>
         </div>
       </div>
-      <div n="I">
+      <div n="I.">
         <pb n="13" xml:id="p13"/>
         <head type="kicker">Première partie</head>
         <head>Système de la crise</head>
@@ -740,7 +740,7 @@
           </div>
         </div>
       </div>
-      <div n="II">
+      <div n="II.">
         <pb n="121" xml:id="p121"/>
         <head type="kicker">Deuxième partie</head>
         <head>De la prévision</head>
@@ -1228,7 +1228,7 @@
           </div>
         </div>
       </div>
-      <div n="III">
+      <div n="III.">
         <pb n="199" xml:id="p199"/>
         <head type="kicker">Troisième partie</head>
         <head>Repartir de l’Homme</head>
