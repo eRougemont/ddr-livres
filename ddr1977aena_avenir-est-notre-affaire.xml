@@ -36,7 +36,7 @@
       <div type="chapter">
         <pb n="7" xml:id="p7"/>
         <head>Introduction
-          <lb/> Crise de l’Avenir</head>
+          <lb/>Crise de l’Avenir</head>
         <p>Quand les grandes villes déjà ne sont plus gouvernables, quand on ne peut plus y trouver ni solitude féconde ni vraie communauté, et l’on nous dit pourtant qu’avant la fin du siècle quatre cinquièmes des hommes s’y seront entassés ; quand nos richesses s’accroissent aux dépens de la Terre, de ses sols, de ses eaux, de son air, Terre qui peut-être un jour assez prochain refusera de nourrir l’humanité qui l’exploite et qui l’empoisonne ; Terre si belle encore vue de l’espace, bleue, verte et blanche dans le noir éternel ; en ce moment de mise en crise majeure de l’espèce humaine par elle-même, <hi rend="i">pour la première fois dans l’Histoire, l’homme se voit contraint de choisir librement son avenir et celui de l’espèce, et il s’y voit contraint du seul fait qu’il en a, pour la première fois, la liberté, donc la responsabilité.</hi></p>
         <p>Il se voit <hi rend="i">contraint</hi> de choisir, parce que ne pas choisir serait s’abandonner aux « impératifs » du désastre dont l’Occident industriel est en train d’agencer les mécanismes ; et de choisir <hi rend="i">librement</hi>, c’est-à-dire délibérément, après mûre réflexion, en connaissance de causes et surtout de fins désirées, non pas à tout hasard et puis on verra bien… et non plus en se fondant sur les nécessités alléguées par la prévision économique. Car le hasard, ici, ne serait que l’alibi du refus d’être responsable, tout comme il va de ces « nécessités » que l’homme invente quand il ne veut plus assumer sa liberté.</p>
         <p>Si nous ne choisissons pas librement notre avenir, il n’y aura plus d’avenir humain au-delà du cataclysme inévitable <pb n="8" xml:id="p8"/> que les rares survivants ne raconteront pas, faute de public : fin du récit des civilisations, fin de l’Histoire.</p>
@@ -61,14 +61,14 @@
           <p><pb n="11" xml:id="p11"/> Je vais tenter de repérer les principaux facteurs de crise qui sont en jeu dans le monde d’aujourd’hui, de décrire leurs liaisons réelles ou alléguées, d’évaluer quelques-unes de leurs interactions, afin de faire sentir l’urgence d’une politique, c’est-à-dire d’un programme d’intervention sur certains points stratégiques du système, et d’en montrer la possibilité.</p>
         </div>
       </div>
-      <div>
+      <div n="I.">
         <pb n="13" xml:id="p13"/>
-        <head>Première partie
-          <lb/>Système de la crise</head>
+        <head type="kicker">Première partie</head>
+        <head>Système de la crise</head>
         <div type="chapter" n="1.">
           <pb n="15" xml:id="p15"/>
           <head type="kicker">1</head>
-<head>La religion de la croissance</head>
+          <head>La religion de la croissance</head>
           <div>
             <head>Croissance démographique : il faudra bien qu’elle s’arrête un jour</head>
             <p>Partons de l’explosion démographique, la bombe P, dont tout le monde a entendu parler, parce que ses perspectives angoissantes n’ont pas peu contribué à sensibiliser notre conscience écologique, mais aussi parce qu’elle sert d’argument principal aux partisans de la croissance à tout prix.</p>
@@ -157,8 +157,8 @@
             <p>De là, deux séries de conséquences : la pollution, sous toutes ses formes, et l’épuisement, à terme prévisible, des ressources terrestres non-renouvelables utilisées par l’industrie.</p>
             <p>Ces deux désastres sont plus que complices : ils ne font qu’un, si l’on observe que l’exploitation forcenée des réserves naturelles de mercure et de pétrole, par exemple, se traduit par une pollution correspondante des lacs et des océans, et qu’en retour la raréfaction de l’oxygène respirable va résulter de la pollution des océans autant que de la destruction des forêts dont on fait nos journaux — et ce livre…</p>
             <p>Plus de cent ans avant la crise déclarée sous nos yeux, alors que les villes, au sens actuel de la Chose, n’étaient encore que des faubourgs ouvriers, et que les sols n’avaient pas encore subi l’agression massive du béton, des pesticides et des engrais chimiques, une page des plus lucides du <hi rend="i">Capital</hi> met en évidence la liaison — plutôt prévue que constatée — entre dégradation urbaine de l’homme et dégradation de la Terre par la pollution et l’épuisement des ressources non renouvelables ; l’une et l’autre résultant du même système de production industrielle.</p>
-              <p>Avec la prépondérance toujours croissante de la population des villes qu’elle agglomère dans de grands centres, la production capitaliste, d’une part, accumule la force motrice historique de la société, d’autre part, détruit non seulement<pb n="29" xml:id="p29"/>la santé physique des ouvriers urbains et la vie intellectuelle des travailleurs ruraux, mais encore trouble la circulation matérielle entre l’homme et la terre, en rendant de plus en plus difficile la restitution de ses éléments de fertilité, des ingrédients chimiques qui lui sont enlevés et usés sous forme d’aliments, de vêtements, etc.</p>
-              <quote><p>…Chaque progrès de l’agriculture capitaliste est un progrès non seulement dans l’art d’exploiter le travailleur, mais encore dans l’art de dépouiller le sol ; chaque progrès dans l’art d’accroître sa fertilité pour un temps, un progrès dans la ruine de ses sources durables de fertilité. Plus un pays, les États-Unis du Nord de l’Amérique par exemple, se développe sur la base de la grande industrie, plus ce progrès de destruction s’accomplit rapidement. La production capitaliste ne développe donc la technique et la combinaison du procès de production sociale qu’en épuisant en même temps les deux sources d’où jaillit toute richesse : la terre et le travailleur<note place="bottom"><hi rend="sc">K. Marx</hi> : <hi rend="b"><hi rend="i">Das Kapital</hi>,</hi> Berlin, 1971, t. I, chap. 13, p. 528 et 529-530. Trad. française : <hi rend="b"><hi rend="i">Œuvres</hi>,</hi> La Pléiade, NRF, I, Ch. XV.</note>.</p></quote>
+            <p>Avec la prépondérance toujours croissante de la population des villes qu’elle agglomère dans de grands centres, la production capitaliste, d’une part, accumule la force motrice historique de la société, d’autre part, détruit non seulement<pb n="29" xml:id="p29"/>la santé physique des ouvriers urbains et la vie intellectuelle des travailleurs ruraux, mais encore trouble la circulation matérielle entre l’homme et la terre, en rendant de plus en plus difficile la restitution de ses éléments de fertilité, des ingrédients chimiques qui lui sont enlevés et usés sous forme d’aliments, de vêtements, etc.</p>
+            <quote><p>…Chaque progrès de l’agriculture capitaliste est un progrès non seulement dans l’art d’exploiter le travailleur, mais encore dans l’art de dépouiller le sol ; chaque progrès dans l’art d’accroître sa fertilité pour un temps, un progrès dans la ruine de ses sources durables de fertilité. Plus un pays, les États-Unis du Nord de l’Amérique par exemple, se développe sur la base de la grande industrie, plus ce progrès de destruction s’accomplit rapidement. La production capitaliste ne développe donc la technique et la combinaison du procès de production sociale qu’en épuisant en même temps les deux sources d’où jaillit toute richesse : la terre et le travailleur<note place="bottom"><hi rend="sc">K. Marx</hi> : <hi rend="b"><hi rend="i">Das Kapital</hi>,</hi> Berlin, 1971, t. I, chap. 13, p. 528 et 529-530. Trad. française : <hi rend="b"><hi rend="i">Œuvres</hi>,</hi> La Pléiade, NRF, I, Ch. XV.</note>.</p></quote>
             <p>Une fois de plus, le prophète n’a pas été suivi par les partis qui se réclament de lui au <num>xx<hi rend="sup">e</hi></num>siècle. Je vois des responsables communistes animés d’une profonde méfiance à l’endroit de l’écologie politique — si lucidement anticipée par Marx dans cette page. Ils n’y veulent voir, comme le Tiers Monde, qu’une « dernière défense » des nantis. La technologie dure, agressive et polluante, reste à leurs yeux l’arme par excellence du Progrès, qui ne saurait être que matérialiste, quantitatif d’abord, sans vains scrupules de belle âme devant la Nature. Position bien normale et nécessaire, dès lors que le Progrès ne saurait être défini que selon les intérêts de l’État, qui le gère. D’où la similitude des réactions (hargneuses) à la critique écologique, chez les responsables socialistes et chez les capitalistes ; correspondant à l’absence de toute différence entre la pollution produite par l’industrie socialiste à l’Est et par l’industrie capitaliste à l’Ouest.</p>
             <p>Ce que Marx a bien vu, presque seul de son temps, c’est que le mal qu’on fait à l’homme des villes, on le fait aussi nécessairement à l’agriculteur et à sa terre, par une seule et même procédure d’exploitation, ruinant aussi<pb n="30" xml:id="p30"/>« la circulation matérielle entre l’homme et la terre » dans les campagnes.</p>
             <p>Je trouve un raisonnement de même forme chez le psychiatre H. Ellenberger, qui nous dit avoir observé que la manière dont l’homme traite les animaux, annonce la manière dont il va traiter les hommes : camps pour cages et destructions d’espèces animales pour « nouvelles politiques de peuplement », comme l’URSS les a pratiquées sous Staline. La vérité frappante de cette remarque est avant tout d’ordre psychologique, mais telle est bien aussi la vraie portée de la page de Marx : dans les deux cas, il ne s’agit que d<hi rend="i">’attitudes de l’homme</hi> et de leurs suites : tout en dépend, et d’abord notre avenir.</p>
@@ -266,8 +266,8 @@
             <pb n="48" xml:id="p48"/>
             <head>Le mythe de Prométhée</head>
             <p>Le mythe de Prométhée domine l’aventure assumée par notre culture occidentale. J’y trouve la clé de l’anxiété qui sous-tend nos essais de prospective.</p>
-            <p>Prométhée, comme son nom l’indique en grec, est « celui qui voit d’avance » « réfléchit avant d’agir », fait de la prospective comme il respire, tandis que son frère Épiméthée voit après coup, et n’arrive à voir vraiment que ce qui est arrivé déjà. Prométhée crée les premiers hommes qui ne sont pas simplement issus du sol comme des légumes, ainsi que cela se passait auparavant. Il les façonne de terre glaise et, pour leur insuffler une âme, vole par ruse le feu de l’Olympe. Notons qu’il ne vole pas l’éclair, feu de la connaissance, de l’illumination instantanée : Zeus, le Père, le garde pour lui. Il vole seulement le feu utilitaire, celui qui permettra notre technologie. Or, Zeus « qui voit très loin » <hi rend="i">(Zeus euruopé</hi> ou <hi rend="i">Zeus europos</hi><note place="bottom">Voir mes <ref target="https://www.unige.ch/rougemont/livres/ddr1961vhse/2#body-2-5"><title>Vingt-huit siècles d’Europe,</title> chap. V, « Les Étymologies », p. 31 et 32.</ref></note>) — parce qu’il regarde de très haut — sait qu’au-delà des projets à court terme de Prométhée, son entreprise tournera mal. Les hommes qu’il forme de l’argile et dote d’une âme aventureuse ne pourront qu’abuser de leurs pouvoirs. Et c’est ce qu’ils font, à peine créés. À tel point que le Père, Zeus, décide de supprimer ce genre humain pétri d’argile par Prométhée : il conçoit le projet d’un déluge qui anéantira la race perverse et permettra une nouvelle création. Mais Athéna (jouant ici le rôle de la <hi rend="i">Sophia aeterna</hi> dans la gnose<note place="bottom">Sur la Sophia aeterna, co-éternelle avec Dieu (correspondant à Athéna épouse de Zeus) vénérée par tous les gnostiques, et parfois assimilée à la Dame des cathares ou à leur Église, voir <hi rend="sc">C. G. Jung</hi>, <hi rend="b"><hi rend="i">Antwort auf Hiob</hi>,</hi> Rascher Verlag, Zurich, 1963.</note>) avertit secrètement Deucalion, le fils unique de Prométhée, et lui commande de construire une arche, grâce à laquelle, avec sa femme Pyrrha, il échappera au désastre total. Tout se passe comme
-              les dieux l’ont prévu et se termine comme dans la Genèse, sauf que c’est le corbeau, non la colombe, qui apporte en son bec un rameau d’olivier, amorçant la fin du déluge. La vie repart. Les descendants de Deucalion connaîtront le même sort que ceux<pb n="49" xml:id="p49"/>de Noé. Deucalion signifie vin nouveau, et l’on sait que Noé était un peu ivrogne. L’humanité nouvelle prend son départ sous ces auspices doublement dionysiaques. Or, toute recherche de l’ivresse trahit une anxiété secrète et n’a peut-être d’autre fin que de la faire taire.</p>
+            <p>Prométhée, comme son nom l’indique en grec, est « celui qui voit d’avance » « réfléchit avant d’agir », fait de la prospective comme il respire, tandis que son frère Épiméthée voit après coup, et n’arrive à voir vraiment que ce qui est arrivé déjà. Prométhée crée les premiers hommes qui ne sont pas simplement issus du sol comme des légumes, ainsi que cela se passait auparavant. Il les façonne de terre glaise et, pour leur insuffler une âme, vole par ruse le feu de l’Olympe. Notons qu’il ne vole pas l’éclair, feu de la connaissance, de l’illumination instantanée : Zeus, le Père, le garde pour lui. Il vole seulement le feu utilitaire, celui qui permettra notre technologie. Or, Zeus « qui voit très loin » <hi rend="i">(Zeus euruopé</hi> ou <hi rend="i">Zeus europos</hi><note place="bottom">Voir mes <ref target="https://www.unige.ch/rougemont/livres/ddr1961vhse/2#body-2-5"><title>Vingt-huit siècles d’Europe,</title> chap. V, « Les Étymologies », p. 31 et 32.</ref></note>) — parce qu’il regarde de très haut — sait qu’au-delà des projets à court terme de Prométhée, son entreprise tournera mal. Les hommes qu’il forme de l’argile et dote d’une âme aventureuse ne pourront qu’abuser de leurs pouvoirs. Et c’est ce qu’ils font, à peine créés. À tel point que le Père, Zeus, décide de supprimer ce genre humain pétri d’argile par Prométhée : il conçoit le projet d’un déluge qui anéantira la race perverse et permettra une nouvelle création. Mais Athéna (jouant ici le rôle de la <hi rend="i">Sophia aeterna</hi> dans la gnose<note place="bottom">Sur la Sophia aeterna, co-éternelle avec Dieu (correspondant à Athéna épouse de Zeus) vénérée par tous les gnostiques, et parfois assimilée à la Dame des cathares ou à leur Église, voir <hi rend="sc">C. G. Jung</hi>, <hi rend="b"><hi rend="i">Antwort auf Hiob</hi>,</hi> Rascher Verlag, Zurich, 1963.</note>) avertit secrètement Deucalion, le fils unique de Prométhée, et lui commande de construire une arche, grâce à laquelle,
+              avec sa femme Pyrrha, il échappera au désastre total. Tout se passe comme les dieux l’ont prévu et se termine comme dans la Genèse, sauf que c’est le corbeau, non la colombe, qui apporte en son bec un rameau d’olivier, amorçant la fin du déluge. La vie repart. Les descendants de Deucalion connaîtront le même sort que ceux<pb n="49" xml:id="p49"/>de Noé. Deucalion signifie vin nouveau, et l’on sait que Noé était un peu ivrogne. L’humanité nouvelle prend son départ sous ces auspices doublement dionysiaques. Or, toute recherche de l’ivresse trahit une anxiété secrète et n’a peut-être d’autre fin que de la faire taire.</p>
             <p>Prométhée volant le feu du ciel — le feu <hi rend="i">utile</hi> — mais pas celui de la connaissance — l’éclair de Zeus — inaugure l’humanité technologique, curieuse de tout au point de passer outre aux interdits, de violer les tabous et d’ouvrir à tous risques la boîte de Pandore, désobéissance qui correspond à l’acte d’Ève croquant la pomme, et qui entraîne les mêmes conséquences selon Hésiode et selon la Genèse : l’homme se voit condamné désormais à gagner son pain à la sueur de son front, la femme à enfanter dans la douleur, tous les deux sont chassés du Jardin, exilés sur une terre « <hi rend="i">au sol maudit à cause d’eux</hi> », à cause de leur péché contre l’ordre du monde, qui est aussi la loi du Père, et voués au « retour à la poussière d’où ils ont été pris ».</p>
             <p>Au jugement des modernes, il va de soi que l’action de Prométhée est celle d’un héros. Nous avons perdu le sens de ce qu’il pouvait y avoir de criminel dans le vol du feu. Essayons cependant de nous replacer dans la situation pré-technique.</p>
             <p>Les dieux estiment que ce n’est pas l’affaire d’un homme — fût-il de la race des Titans, ou de fonction cosmique dominante<note place="bottom">« Dieu créa l’homme à son image, il créa l’homme et la femme. Dieu les bénit et leur dit : Soyez féconds, multipliez, remplissez la Terre et l’assujettissez, et <hi rend="b"><hi rend="i">dominez</hi></hi> sur les poissons de la mer, sur les oiseaux du ciel, et sur tout animal qui se meut sur la Terre », <hi rend="b"><hi rend="i">Genèse</hi></hi> X, 27-28.</note>, demi-dieu ou seulement « à l’image de Dieu » — que de disposer d’une puissance aussi fondamentale que le feu. Car il est incapable de voir d’assez haut, donc d’assez loin, les conséquences de ses actes créateurs. Zeus, qui est le dieu de la prévision globale déduite des fins de l’évolution, donc le dieu politique par excellence, a pour domaine réservé la stratégie générale du cosmos et du rôle de l’homme dans le cosmos. Il sait que si l’homme s’empare des clés de l’action sur la matière et sur la vie, il n’en fera rien de bon <hi rend="i">en fin de compte —</hi> car il ne peut prévoir qu’à brève distance dans le <pb n="50" xml:id="p50"/> temps de l’histoire et l’espace cosmique. Entraîné, égaré par ses pouvoirs, il perdra donc un jour le sens de la mesure, des limites. Il le pressent d’ailleurs, s’en inquiète sourdement, « se ronge les sangs », comme on dit, se ronge l’âme. Ainsi la torture par l’aigle signifie la souffrance des pulsions animiques prises dans les serres et les lois de la matière inanimée.</p>
@@ -324,7 +324,7 @@
         <div type="chapter" n="2.">
           <pb n="61" xml:id="p61"/>
           <head type="kicker">2</head>
-<head>Le grand litige</head>
+          <head>Le grand litige</head>
           <div>
             <head>« Fatalités », ou la peur d’être libre</head>
             <p>Le débat de l’énergie nucléaire dramatise d’une manière exemplaire toutes les motivations formulées jusqu’ici. Il implique tous les éléments du cercle de la crise où nous nous enfermons. Et c’est à travers lui que se manifeste, dans l’inconscience ou le cynisme, l’option générale du système — qui n’est pas le bonheur, on s’en doute, et encore moins les libertés de la personne, mais la Puissance sous ses formes brutales, industrielles, financières, militaires, finalement stato-nationales.</p>
@@ -526,7 +526,7 @@
         <div type="chapter" n="3.">
           <pb n="89" xml:id="p89"/>
           <head type="kicker">3</head>
-<head>La clé du système ou l’État-nation</head>
+          <head>La clé du système ou l’État-nation</head>
           <div>
             <head>La clé</head>
             <p>La crise de l’Occident mondial a pour caractère spécifique de résulter non de l’échec mais de la réalisation de l’utopie industrielle, de moins en moins gênée par les freins naturels et humains.</p>
@@ -740,14 +740,14 @@
           </div>
         </div>
       </div>
-      <div>
+      <div n="II.">
         <pb n="121" xml:id="p121"/>
-        <head>Deuxième partie
-          <lb/>De la prévision</head>
+        <head type="kicker">Deuxième partie</head>
+        <head>De la prévision</head>
         <div type="chapter" n="4.">
           <pb n="123" xml:id="p123"/>
           <head type="kicker">4</head>
-<head>Un « Essai sur l’Avenir » en 1948</head>
+          <head>Un « Essai sur l’Avenir » en 1948</head>
           <p>Au lendemain de la Seconde Guerre mondiale et de la bombe d’Hiroshima, je publiais un texte bref, qui me paraît, à le relire aujourd’hui, inaugural, et peut-être augural.</p>
           <div>
             <head>Essai sur l’avenir<note place="bottom">Paru dans le recueil de Mélanges pour le Professeur Gerhardus van der Leeuw, intitulé <hi rend="b"><hi rend="i">Pro regno, pro</hi><hi rend="i">sancluario</hi>,</hi> G.F. Callenbach, Nijkerk, 1948.</note>
@@ -800,7 +800,7 @@
         <div type="chapter" n="5.">
           <pb n="131" xml:id="p131"/>
           <head type="kicker">5</head>
-<head>Naissance de la prospective</head>
+          <head>Naissance de la prospective</head>
           <div>
             <head>Lieux et dates</head>
             <p>Un peu avant le milieu de notre siècle, quelques experts lucides et donc inquiets s’avisent que l’avenir, non seulement de la culture mais de la Nature, dépend de plus en plus de nos options de fait, délibérées ou non, conscientes ou non. Nous sommes seuls responsables de l’avenir humain : mieux vaut le savoir et cesser de nous cacher derrière toutes sortes de prétendues fatalités (collectives, sacrées, ou techniques), transparents paravents de nos inerties intellectuelles, quand ce n’est pas de nos lâchetés morales.</p>
@@ -886,7 +886,7 @@
         <div type="chapter" n="6.">
           <pb n="145" xml:id="p145"/>
           <head type="kicker">6</head>
-<head>L’avenir sensible au cœur</head>
+          <head>L’avenir sensible au cœur</head>
           <div>
             <head>Paradoxes de la prospective</head>
             <p>Jouvenel observe une chose très simple : c’est que nous ne pouvons connaître avec quelque certitude que le passé, mais sans pouvoir le changer ; alors que nous avons liberté et puissance de changer l’avenir, mais sans le connaître<note place="bottom">Bertrand de <hi rend="sc">Jouvenel</hi>, <hi rend="b"><hi rend="i">L’Art de la Conjecture, op. cit.</hi>,</hi> p. 17.</note>.</p>
@@ -1000,7 +1000,7 @@
         <div type="chapter" n="7.">
           <pb n="161" xml:id="p161"/>
           <head type="kicker">7</head>
-<head>Première histoire de fous : l’Auto</head>
+          <head>Première histoire de fous : l’Auto</head>
           <p>Les jeunes gens d’aujourd’hui n’imaginent pas le monde et la vie quotidienne sans l’auto, ni par suite que l’auto puisse avoir une histoire, qu’elle ait donc commencé, voire à une date récente : le centenaire de sa conception dans l’esprit d’un petit campagnard d’Amérique tombait en 1975. C’était hier, et personne ne s’en est aperçu.</p>
           <p>L’histoire de la nouvelle religion commence à l’automne de 1875. Elle est rapportée par Henry Ford dans ses mémoires, avec la simplicité qui convient.</p>
           <p>« Le plus mémorable événement de ces années de ma jeunesse fut la rencontre d’une locomotive routière à huit milles de Detroit, un jour où je me rendais avec mon père à cette ville. J’avais alors douze ans. Je me rappelle la locomotive comme si je l’avais vue hier, car c’était le premier véhicule non attelé que je voyais… Ce fut la rencontre de cet appareil<note place="bottom">Il ne s’agissait encore que d’un véhicule à vapeur, marchant au charbon, comme les locomotives sur rail.</note> qui m’orienta vers le transport automoteur… Dès l’instant où je l’aperçus, jusqu’au jour présent, ma grande et constante ambition a été de construire une bonne machine routière. »</p>
@@ -1126,7 +1126,7 @@
         <div type="chapter" n="8.">
           <pb n="183" xml:id="p183"/>
           <head type="kicker">8</head>
-<head>Deuxième histoire de fous : Hitler</head>
+          <head>Deuxième histoire de fous : Hitler</head>
           <p>Individu quelconque et quasi nul en soi, phénomène d’envergure mondiale, tel fut l’homme, tel demeure son mystère. Les effets fracassants déclenchés dans le siècle par son apparition sont bien connus : on n’y retrouve pas à l’analyse la moindre trace spécifique de sa personne. Il fut ces effets et rien d’autre. Démontrer qu’il n’a pas existé serait un jeu : père inconnu, cadavre disparu, témoignages vagues ou contradictoires de ceux qui l’ont approché ou servi. (Et ses photos donnent toutes l’impression d’un truquage.) La catastrophe du <num>xx<hi rend="sup">e</hi></num> siècle européen atteste seule sa réalité.</p>
           <p>Le plus grand théologien contemporain, Karl Barth, a écrit : « Un prophète n’a pas de biographie. Il se lève et tombe avec sa mission. » Ainsi d’Hitler, l’antiprophète de notre temps, le prophète d’un Pouvoir vide, d’un Passé mort, d’une Catastrophe totale dont il allait devenir l’agent. Avec son insondable vulgarité, sa mégalomanie, sa malformation sexuelle et son magnétisme psychotique, ce quasi-néant d’homme, ridicule et tragique, a été le prophète du Néant collectif, où il a presque réussi à entraîner toute sa génération. C’est ainsi que je l’ai senti, éprouvé de tout l’être, enregistré au radar de quelque intuition subconsciente. C’est ainsi que je n’ai cessé de le prophétiser de son vivant, avec cette sorte d’infaillibilité qui est celle des actes involontaires, irréparables gaffes ou métaphores géniales : je n’y puis rien, mais j’en donnerai quelques exemples.</p>
           <p>En mars 1932, au lendemain d’une rencontre de jeunesses<pb n="184" xml:id="p184"/>révolutionnaires françaises et allemandes, qui s’était tenue dans un Francfort « en proie au carnaval et à l’angoisse », je parlais du « dernier carnaval de cette bourgeoisie dont je viens d’admirer les trésors patinés dans la haute demeure familiale des Goethe<note place="bottom"><hi rend="b"><hi rend="i">Nouvelle Revue française</hi>,</hi> Hommage à Goethe, mars 1932. <hi rend="b"><hi rend="i">Cf. Journal d’une Époque</hi>,</hi> Gallimard, Paris, 1969, p. 322.</note> ». L’accession d’Hitler au pouvoir se produisait onze mois plus tard exactement.</p>
@@ -1228,14 +1228,14 @@
           </div>
         </div>
       </div>
-      <div>
+      <div n="III.">
         <pb n="199" xml:id="p199"/>
-        <head>Troisième partie
-          <lb/>Repartir de l’Homme</head>
+        <head type="kicker">Troisième partie</head>
+        <head>Repartir de l’Homme</head>
         <div type="chapter" n="9.">
           <pb n="201" xml:id="p201"/>
           <head type="kicker">9</head>
-<head>Devenir soi-même</head>
+          <head>Devenir soi-même</head>
           <div>
             <head>Notre affaire</head>
             <p>Trois grandes affaires apparaissent symboliques de l’ère où nous sommes entrés au troisième tiers du <num>xx<hi rend="sup">e</hi></num>siècle : dans l’ordre matériel, l’Économie ; dans l’ordre de la Nature, l’Écologie ; dans l’ordre spirituel, l’Œcuménisme. Or, ces trois termes sont des composés du grec <hi rend="i">oikos</hi> qui signifie <hi rend="i">maison</hi>, et il s’agit dans les trois cas :</p>
@@ -1336,7 +1336,7 @@
         <div type="chapter" n="10.">
           <pb n="215" xml:id="p215"/>
           <head type="kicker">10</head>
-<head>Passage de la personne à la Cité</head>
+          <head>Passage de la personne à la Cité</head>
           <div>
             <head>Gouverner, c’est orienter</head>
             <p>Le but ultime de la Cité ou société humaine organisée — telle du moins qu’un Occidental peut la concevoir aujourd’hui — sera de favoriser en chacun la personne, donc le passage de sa virtualité à sa réalité vécue en acte. À cette fin, l’on disposera tout dans la Cité — éducation, lois et morale — en vue de ce progrès seul authentique qui est le progrès de l’homme même, non du nombre des choses autour de lui. Plus simplement : c’est la personne qui est le but de la société, et non pas la vente des autos, comme serait conduit à le penser un enquêteur intelligent débarqué parmi nous du fond de l’espace.</p>
@@ -1519,13 +1519,13 @@
         <div type="chapter" n="11.">
           <pb n="241" xml:id="p241"/>
           <head type="kicker">11</head>
-<head>Les variétés de l’expérience communautaire</head>
+          <head>Les variétés de l’expérience communautaire</head>
           <div>
             <head>« D’un néo-christianisme à un pré-socialisme »</head>
             <p>À cet appel, dès qu’il s’entend, répond aussitôt dans l’esprit de la plupart de mes contemporains le mot <hi rend="i">hippies.</hi> Plus rarement, la notion d’un ordre ou d’une communauté religieuse rénovée (Boquen, Taizé).</p>
             <p>Or, je ne pense pas qu’il y ait là <hi rend="i">la</hi> réponse à la crise fondamentale que j’ai décrite, parce que cette crise est celle d’une société urbaine, de la technique du <num>xx<hi rend="sup">e</hi></num> siècle, tandis que les ordres religieux répondaient depuis deux mille ans à des besoins d’une tout autre nature, et cela dans toutes les civilisations dont nous croyons pouvoir nous former quelque idée : ashrams de l’Inde, couvents du Tibet, sanghas bouddhistes, écoles zen, confréries manichéennes et mandéennes, et dans notre ère européenne, ordres celtes, bénédictins, franciscains, jésuites…</p>
-            <p>Quant aux hippies, je les trouve décrits dans les chroniques du <num>xii<hi rend="sup">e</hi></num> siècle : ils suivent par monts et vaux quelque saint homme, comme Robert d’Arbrissel, moine vagabond<note place="bottom">Il jouera un rôle important dans les conflits spirituels d’où va sortir, à la cour de Poitiers, par l’œuvre de Guillaume, IX<hi rend="sup">e</hi> duc d’Aquitaine, la poésie des Troubadours. <hi rend="i">Cf.</hi> mon <ref target="https://www.unige.ch/rougemont/livres/ddr1972ao/11#body-11-8"><title>Amour et l’Occident</title>, éd. défin., Plon, Paris, 1972, p. 280 à 287</ref>.</note> et ils sont facilement reconnaissables à la luxuriance de leurs barbes (<hi rend="i">barbarum prolixitate notabiles</hi>, dit une chronique de l’époque), et à leurs vêtements largement rapiécés — mode à laquelle la plupart des non-conformistes <pb n="242" xml:id="p242"/>finissent par se conformer. Si proches qu’ils soient parfois des ordres catholiques — des fratelli de Saint-François, notamment — ils relèvent de la tradition des spirituels anti-ecclésiastiques, manichéens de toutes gnoses, bogomiles, patarins puis cathares, et à partir du catharisme, lollards anglais, beghards et béguines des Flandres et de la Rhénanie, joachimites en Italie (et jusque sur le trône papal pour peu de temps), Amis de Dieu disciples de Suso : ils traversent l’Europe en cortèges de pèlerins chantant des « chansons d’aubes » spirituelles, ils dansent, ils tissent ou ne font rien, ils fondent des béguinages ou bâtissent des moutiers au fond d’un val, se dispersent en missionnaires allant par deux, plus rarement en solitaires édifiant leur cellule dans les Alpes, et certains deviennent de la sorte le cœur et l’âme d’un peuple qui attend leur conseil<note place="bottom">Au <num>xv<hi rend="sup">e</hi></num> siècle, Nicolas de Flue, affilié aux Amis de Dieu, jouera ce rôle pour les Suisses. Jeanne d’Arc était peut-être une béguine, et ses « voix » les messages transmis par les envoyés de l’ordre, ou « anges »…</note>. Toutes leurs communautés sont
-              communistes. Presque toutes, comme presque tous les mystiques, se verront condamnées par l’Église.</p>
+            <p>Quant aux hippies, je les trouve décrits dans les chroniques du <num>xii<hi rend="sup">e</hi></num> siècle : ils suivent par monts et vaux quelque saint homme, comme Robert d’Arbrissel, moine vagabond<note place="bottom">Il jouera un rôle important dans les conflits spirituels d’où va sortir, à la cour de Poitiers, par l’œuvre de Guillaume, IX<hi rend="sup">e</hi> duc d’Aquitaine, la poésie des Troubadours. <hi rend="i">Cf.</hi> mon <ref target="https://www.unige.ch/rougemont/livres/ddr1972ao/11#body-11-8"><title>Amour et l’Occident</title>, éd. défin., Plon, Paris, 1972, p. 280 à 287</ref>.</note> et ils sont facilement reconnaissables à la luxuriance de leurs barbes (<hi rend="i">barbarum prolixitate notabiles</hi>, dit une chronique de l’époque), et à leurs vêtements largement rapiécés — mode à laquelle la plupart des non-conformistes <pb n="242" xml:id="p242"/>finissent par se conformer. Si proches qu’ils soient parfois des ordres catholiques — des fratelli de Saint-François, notamment — ils relèvent de la tradition des spirituels anti-ecclésiastiques, manichéens de toutes gnoses, bogomiles, patarins puis cathares, et à partir du catharisme, lollards anglais, beghards et béguines des Flandres et de la Rhénanie, joachimites en Italie (et jusque sur le trône papal pour peu de temps), Amis de Dieu disciples de Suso : ils traversent l’Europe en cortèges de pèlerins chantant des « chansons d’aubes » spirituelles, ils dansent, ils tissent ou ne font rien, ils fondent des béguinages ou bâtissent des moutiers au fond d’un val, se dispersent en missionnaires allant par deux, plus rarement en solitaires édifiant leur cellule dans les Alpes, et certains deviennent de la sorte le cœur et l’âme d’un peuple qui attend leur conseil<note place="bottom">Au <num>xv<hi rend="sup">e</hi></num> siècle, Nicolas de Flue, affilié aux Amis de Dieu, jouera ce rôle pour les Suisses. Jeanne d’Arc était peut-être une béguine, et ses « voix » les messages transmis par les
+                envoyés de l’ordre, ou « anges »…</note>. Toutes leurs communautés sont communistes. Presque toutes, comme presque tous les mystiques, se verront condamnées par l’Église.</p>
             <p>À la Réforme, dont ils sont l’une des origines en Allemagne — Luther lecteur de Tauler et de Suso, et laudateur de leur disciple Nicolas de Flue — ils passent très vite dans l’opposition avec Thomas Münzer et les Anabaptistes, qui se réclament aussi de Joachim de Flore. Plus tard, les Frères moraves fondent des communautés en Bohême, en Allemagne, en Suisse ; elles seront à l’origine (ou très voisines) de nombreuses dissidences piétistes et millénaristes, qui émigrent en Amérique aux débuts du <num>xix<hi rend="sup">e</hi></num> siècle, où elles vont rencontrer des amis imprévus. Les Prophètes cévenols, guerriers mystiques chassés par les dragons du Roy et réfugiés en Angleterre, où on les nomme les <hi rend="i">French Prophets</hi>, ont fondé des groupes de disciples, les <hi rend="i">English Prophets</hi>, dont certains choisiront l’Amérique pour y bâtir leurs cités idéales : ainsi, en 1774, le mouvement des Shakers ou Trembleurs, fondé en Angleterre par une adepte des Quakers, Ann Lee<note place="bottom">Shaker et Quaker ont à peu près le même sens, Trembleur, Secoueur, Secoué.</note>. Ils fonderont dix-huit communautés peuplées cent ans plus tard par environ cinq mille personnes.</p>
             <p><pb n="243" xml:id="p243"/>L’expérience communautaire des Shakers est sans aucun doute la plus longue de toutes celles du même genre, qui s’en sont inspirées en Amérique, et que l’on peut répartir en quatre groupes<note place="bottom">On suit ici la classification proposée par Henri <hi rend="sc">Desroches</hi> dans un ouvrage essentiel sur le sujet des communautés : <hi rend="b"><hi rend="i">Les Shakers américains, d’un néo-christianisme à un pré-socialisme</hi>, </hi>Éd. de Minuit, Paris, 1955. Voir aussi ses études sur Oneida et sur le fouriérisme, 1973 et 1974.</note> :</p>
             <p>— Les communautés d’origine allemande : Ephrata, les Rappites d’Harmony, les Séparatistes de Zoar, les Inspirationnistes d’Amana, sans tenir compte ici des colonies mennonites, moraves, amish, etc., poursuivant dans le Nouveau Monde des traditions subversives plus anciennes et moins spécifiquement communautaires.</p>
@@ -1767,7 +1767,7 @@
         <div type="chapter" n="12.">
           <pb n="277" xml:id="p277"/>
           <head type="kicker">12</head>
-<head>Que tout appelle les Régions</head>
+          <head>Que tout appelle les Régions</head>
           <div>
             <head>L’autonomie des communes appelle les Régions</head>
             <p>Pour devenir, enfin, l’école de la liberté que Tocqueville voyait en elle, la commune doit se rendre autonome. Mais les moyens de cette autonomie — savoir, technique et pouvoir financier — excèdent dans bien des cas les ressources locales, même dans les pays où l’État central n’en draine pas 80 % à son profit. Faudra-t-il de nouveau les mendier à l’État ? Non, car en les donnant d’une main, il reprendrait de l’autre notre autonomie. Qu’il s’agisse d’avoir notre école, de mener notre lutte locale contre spéculateurs et pollueurs, d’épurer nos rivières ou d’améliorer les voies de communication sans détruire nos cultures et nos rues, le problème est le même pour les communes voisines, et la solution qui s’impose est celle du syndicat intermunicipal. Or, ce système, qui se répand sans bruit dans toute l’Europe, trouve son lieu et sa formule dans la Région : il nous permet de définir celle-ci, en première approximation, comme une <hi rend="i">grappe de communes</hi>, puis, avec un peu plus de précision, comme l’ensemble de plusieurs <hi rend="i">syndicats de communes</hi>, répondant chacun aux nécessités d’un domaine spécifique — écoles, environnement, transports, aménagement du territoire, etc., chacun groupant celles des communes qui le désirent, qui en ont besoin, sans obligation pour les autres.</p>
@@ -1857,7 +1857,7 @@
         <div type="chapter" n="13.">
           <pb n="289" xml:id="p289"/>
           <head type="kicker">13</head>
-<head>Les variétés de l’expérience régionale</head>
+          <head>Les variétés de l’expérience régionale</head>
           <p>Alors que les Communautés de Bruxelles abordaient la Région, au départ<note place="bottom">Cf. <hi rend="b"><hi rend="i">Documents de la Conférence sur les économies régionales</hi>, </hi>Bruxelles, 6-8 décembre 1961. Communauté économique européenne, 2 vol., 1963.</note>, comme un problème de <hi rend="i">développement</hi>, j’en parle ici comme d’un problème décisif de <hi rend="i">participation</hi> civique et <hi rend="i">d’animation</hi>, ou réanimation <hi rend="i">in extremis</hi> — d’une Société menacée à la fois d’anémie politique (mal compensée par ses fièvres politiciennes), de désertion civique, et de colonisation économique.</p>
           <p>C’est le tissu de la vie sociale qu’il s’agit de reconstituer dans toute l’Europe ; et les variétés du tissu préfigurant les organes en formation.</p>
           <p>S’il s’agit de « reconnaître » une région, ce ne sera pas seulement en la tâtant du doigt sur une carte en relief, mais en vivant dans son climat social et coutumier, en évoquant les possibilités communautaires latentes dans certains milieux, villes et villages, et qu’il serait tentant de faire émerger, d’inciter à une prise de conscience. Non, ce n’est pas au terme d’une enquête sociologique ou économétrique qu’aura lieu la « reconnaissance » créatrice, mais plutôt au cours d’une soirée de discussions « sur tout et le reste » avec les animateurs de tous âges d’un mouvement régionaliste.</p>
@@ -1946,7 +1946,7 @@
         <div type="chapter" n="14.">
           <pb n="305" xml:id="p305"/>
           <head type="kicker">14</head>
-<head>L’autogestion politique</head>
+          <head>L’autogestion politique</head>
           <div>
             <head>« Se gouverner vaut mieux qu’être bien gouvernés »</head>
             <p>Les Régions, en dernière analyse, sont l’expression de la volonté d’autogestion de l’homme en lutte contre l’aliénation statolâtrique, civile ou militaire, fasciste ou communiste, dictatoriale ou démocratique.</p>
@@ -2062,7 +2062,7 @@
         <div type="chapter" n="15.">
           <pb n="325" xml:id="p325"/>
           <head type="kicker">15</head>
-<head>Stratégie</head>
+          <head>Stratégie</head>
           <div>
             <head>Des Régions à la Fédération européenne</head>
             <p>Point de Régions sans Fédération. Mais si les vraies Régions sont des grappes de communes, il faudra qu’une vraie Fédération de l’Europe soit une grappe de Régions et non d’États : c’est ce qu’on oublie généralement dans le monde stato-national et dans son système de valeurs. Une vraie Fédération ne se fonde pas sur des États coalisés, mais sur des groupes antérieurs en quête d’une garantie de leurs libertés.</p>
@@ -2363,7 +2363,8 @@
       </div>
       <div type="chapter">
         <pb n="367" xml:id="p367"/>
-        <head>Conclusion <lb/>« Sentinelle, que dis-tu de la nuit ? »</head>
+        <head>Conclusion
+          <lb/>« Sentinelle, que dis-tu de la nuit ? »</head>
         <p>Il y a quelques années, ayant écrit que l’action politique par excellence allait consister désormais à prendre des mesures conservatoires de l’Humain, quelqu’un demanda : « Pourquoi voulez-vous donc que ça dure ? » Question morbide, mais lucide, et qu’on ne peut simplement écarter.</p>
         <p>Je veux que l’homme dure à cause de l’espérance. À quoi s’ajoute un raisonnable espoir. La fin de l’homme, tout à l’heure, serait au moins prématurée. Nous voyons aujourd’hui certaines causes du péril où l’humain risque de s’anéantir, et nous disons : ce serait trop bête ! Nous venons d’entrevoir la guérison possible. Nous avons les moyens de sauver « l’environnement » — la Nature et nos habitats — <hi rend="i">in extremis.</hi> Mais que serait la beauté du Monde sans l’œil de l’homme ? C’était si beau, la Terre de la Vie, bleue, verte et blanche dans le noir éternel… Mais sauver le paysage et les décors n’aura plus de sens si nous ne sommes plus là, ou ce qui revient au même, si nous sommes encore là mais aliénés, devenus incapables même de nostalgie pour ce qui fut un jour notre vie menacée. Mais il n’est pas de prévision d’avenir meilleur qui ne passe par un homme meilleur. <hi rend="i">Car il arrivera… ce que nous sommes.</hi> Et quoi d’autre peut-il arriver ? Et venant d’où ? (À part les tremblements de terre.) Il nous faut donc vouloir que le meilleur gagne — en nous. Et il nous faut d’abord nous le représenter, nous le rendre présent, l’anticiper.</p>
         <p><pb n="368" xml:id="p368"/>On peut anticiper l’avenir et le prévoir par les yeux de la foi, « substance des choses espérées, ferme assurance de celles qu’on ne voit pas ». Mais à l’aide d’appareils scientifiques, on ne peut voir que du passé, des <hi rend="i">faits</hi>, c’est-à-dire du <hi rend="i">factum</hi>, du déjà fait.</p>
