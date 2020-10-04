@@ -66,7 +66,7 @@
           <hi rend="i">à Ferney, le 5 mai 1967</hi>. </p>
         <p rend="right">D. de R.</p>
       </div>
-      <div>
+      <div n="I.">
         <pb n="11" xml:id="p11"/>
         <head>Le paysan du Danube</head>
         <div type="chapter" n="I.1.">
@@ -726,10 +726,10 @@
         <p>La société qui m’employait depuis près de quatre ans déposa son bilan à la fin de l’été 1933. Une petite compagnie d’éditions devait lui survivre pour exploiter le fonds précieux des auteurs qu’elle avait traduits et introduits en France : Luther, Kierkegaard, Berdiaeff, Karl Barth et ses premiers disciples, à quoi s’ajoutaient plusieurs tomes de rapports importants du Conseil <pb n="110" xml:id="p110"/> œcuménique des Églises, origine d’un autre mouvement de fédération, qui lui aussi va s’épanouir après la guerre, et qui sera l’une des motivations de Vatican II.</p>
         <p>Chercher d’autres moyens de vivre à Paris ? Je ne l’essayai pas bien fort, à vrai dire. Je saisis l’occasion de plonger dans ma liberté, dans ses risques.</p>
       </div>
-      <div>
-        <div type="chapter" n="III.">
-          <pb n="111" xml:id="p111"/>
-          <head>Journal d’un intellectuel en chômage</head>
+      <div n="III.">
+        <pb n="111" xml:id="p111"/>
+        <head>Journal d’un intellectuel en chômage</head>
+        <div type="chapter">
           <pb n="113" xml:id="p113"/>
           <head>Préambule</head>
           <p>Une vague vient se jeter sur la bâche qui couvre l’avant du bateau, et de l’eau gicle sur nos visages glacés. « Tire le gramophone entre tes jambes, là, sous ton imperméable, que le cuir ne soit pas mouillé. (C’est qu’on nous l’a prêté, il faut le soigner…) Nous sortons du port, et tout de suite la mer est forte. Un éclair sur l’eau verte, un gros coup de vent : voilà nos compagnons de voyage, le médecin de l’île et trois représentants de commerce, qui se précipitent dans la cabine de la cale par une espèce de trappe. Nous restons seuls sur le pont, ma femme et moi, à entasser nos valises tant bien que mal à l’abri. Un autre éclair siffle et claque tout près. La tempête est venue brusquement avec l’aube. Depuis une heure nous battions la semelle sur les quais déserts de ce port fantomatique, sans ville derrière lui, vaguement américain et militaire, sous un ciel bas couleur d’acier où rien ne bougeait, et voilà tout d’un coup cet orage de novembre qui crible et bat les flots durant la courte traversée, puis s’apaise non moins subitement à l’instant où nous touchons l’île. La colère du détroit nous a salués ! J’accepte cet augure à double sens, certifiant la présence d’un destin.</p>
@@ -1936,10 +1936,10 @@
           <p>Trois semaines plus tard, j’étais nommé.</p>
         </div>
       </div>
-      <div>
-        <div type="chapter" n="IV.">
-          <pb n="281" xml:id="p281"/>
-          <head>Journal d’Allemagne</head>
+      <div n="IV.">
+        <pb n="281" xml:id="p281"/>
+        <head>Journal d’Allemagne</head>
+        <div type="chapter">
           <pb n="283" xml:id="p283"/>
           <head>Avertissement</head>
           <p>Voici des notes qui, par leurs dates, prennent la suite du <ref target="https://www.unige.ch/rougemont/livres/ddr1937jic"><hi rend="i">Journal d’un intellectuel en chômage</hi></ref>. Mais il ne s’agit plus de chômage. L’auteur vit en Allemagne hitlérienne, et il y vit de son travail. (Des cours à l’Université d’une ville que l’on n’a pas jugé utile de nommer.)</p>
@@ -2501,10 +2501,10 @@
           <p>Voici venir le temps des <hi rend="i">vrais</hi> dangers, c’est-à-dire des vrais <hi rend="i">luttes</hi> et des vrais engagements.</p>
         </quote>
       </div>
-      <div>
-        <div type="chapter" n="VI.">
-          <pb n="375" xml:id="p375"/>
-          <head>Journal des deux mondes</head>
+      <div n="VI.">
+        <pb n="375" xml:id="p375"/>
+        <head>Journal des deux mondes</head>
+        <div type="chapter">
           <pb n="377" xml:id="p377"/>
           <head>Avertissement</head>
           <p>Le <ref target="https://www.unige.ch/rougemont/livres/ddr1937jic"><hi rend="i">Journal d’un intellectuel en chômage</hi></ref> décrivait la France de l’entre-deux-guerres. Le <ref target="https://www.unige.ch/rougemont/livres/ddr1938ja"><hi rend="i">Journal d’Allemagne</hi></ref> montrait l’hitlérisme dressé contre elle et contre toute l’Europe. Ce troisième récit qui se passe surtout en Suisse et en Amérique pendant la guerre, mais aussi dans d’autres pays — Hollande, Portugal, Argentine —, a pour véritable sujet non plus une nation, un régime, mais le désordre de l’époque, vu de près.</p>

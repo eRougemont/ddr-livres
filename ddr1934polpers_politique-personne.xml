@@ -101,10 +101,10 @@
           <p>II. En mettant sous une même couverture quelques <hi rend="i">essais de circonstance</hi> qui n’ont parfois rien d’autre en commun pour la forme que les défauts de l’improvisation, je ne crois pas un instant faire une œuvre ni d’art ni de philosophie. Les objets que diverses occasions tout imprévues — conférences, débats publics, enquêtes — m’invitèrent à traiter sans trop de précautions, se prêtaient peu d’ailleurs à de rigoureux développements. C’est que la politique, redisons-le, n’est pas un art : toute forme pure lui échappe. Elle est toujours en porte-à-faux, appuyée sur des faits qu’on n’a pas à choisir, penchant vers des idées que la logique n’est pas seule à ordonner. Le mieux était de conserver à ces écrits leur possible valeur de témoignages, de parti pris accidentels, plutôt que <pb n="29"/> de leur imposer un style indépendant de leur objet. Faire de la politique, ce n’est pas là mon choix, c’est une obligation à quoi je me résous en maudissant le désordre du temps. L’<hi rend="i">occasion</hi> seule, sous la contrainte de la foi, légitime à mes yeux cette action : il fallait que cela paraisse dans la disposition de ce recueil.</p>
         </div>
       </div>
-      <div n="I">
+      <div n="I.">
         <pb n="31"/>
-        <head>Première partie
-          <lb/>Primauté du spirituel ?</head>
+        <head type="kicker">Première partie</head>
+        <head>Primauté du spirituel ?</head>
         <div type="chapter" n="1.">
           <pb n="33"/>
           <head type="kicker">I.</head>
@@ -254,10 +254,10 @@
           <p>Le marxisme apparaît ainsi comme une vision du monde essentiellement évolutive, en face du christianisme essentiellement révolutionnaire.</p>
         </div>
       </div>
-      <div>
+      <div n="II.">
         <pb n="83"/>
-        <head>Deuxième partie
-          <lb/>Principes d’une politique du pessimisme actif</head>
+        <head type="kicker">Deuxième partie</head>
+        <head>Principes d’une politique du pessimisme actif</head>
         <div type="chapter" n="4.">
           <pb n="85"/>
           <head type="kicker">IV.</head>
@@ -330,10 +330,10 @@
           <p>C’est ce que le communisme ne peut pas accepter. Entre le communiste et le chrétien, il y a cet humour dernier, irréductible, et qui joue toujours aux dépens du communiste. Le communiste prend au tragique « jusqu’à la gauche » son sort terrestre. <pb n="105"/> C’est que le salut, pour lui, est lié au succès de son effort. Pas d’ironie possible vis-à-vis de son œuvre. Si tous les hommes n’arrivent pas au bonheur moyen, tout sera perdu. Si je crève de faim, tout sera perdu. Le chrétien dit : tout est déjà perdu, et bien plus que vous ne croyez, mais aussi tout est déjà sauvé. Crever de faim n’est pas le pire des risques que je cours. Le pire des risques, c’est de manquer cet acte par lequel je saisis le salut qui m’est promis<note place="bottom">Cet acte — faut-il le répéter encore ? — n’est pas l’acte d’un solitaire, mais bien l’acte de miséricorde par lequel je deviens le <hi rend="i" xml:lang="fr">prochain</hi> de mon frère. C’est l’acte personnel qui fonde la seule communauté vivante.</note>, salut gagé sur le fait historique de la mort et de la résurrection de Jésus-Christ. Ce fait existe. Mon action consiste à m’en rendre contemporain. Au terme de mon action, il y aura un échec ou un succès terrestre, peu importe : ce qui importe, c’est que l’action ait été faite en vertu de la foi, car « c’est la foi qui sauve ».</p>
         </div>
       </div>
-      <div>
+      <div n="III.">
         <pb n="107"/>
-        <head>Troisième partie
-          <lb/>Idoles</head>
+        <head type="kicker">Troisième partie</head>
+        <head>Idoles</head>
         <epigraph rend="center">
           <p>« Idola tribus »</p>
           <bibl>
@@ -498,10 +498,10 @@
           </div>
         </div>
       </div>
-      <div>
+      <div n="IV.">
         <pb n="157"/>
-        <head>Quatrième partie
-          <lb/>Problèmes de la révolution personnaliste</head>
+        <head type="kicker">Quatrième partie</head>
+        <head>Problèmes de la révolution personnaliste</head>
         <div type="chapter" n="11.">
           <pb n="159"/>
           <head type="kicker">XI.</head>
