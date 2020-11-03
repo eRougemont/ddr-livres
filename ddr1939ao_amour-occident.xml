@@ -781,8 +781,7 @@
           <head>Premières conclusions</head>
           <p>Compte tenu du changement de registre qui s’opère dans les expressions poétiques de l’amour courtois, lorsqu’on passe du Midi des troubadours au Nord plus barbare des trouvères, nous sommes en mesure de voir dorénavant dans le chef-d’œuvre de Béroul l’aboutissement de toutes nos pérégrinations. Les religions antiques, certaines mystiques du Proche-Orient, l’hérésie qui les fit revivre en Languedoc, le contrecoup de cette hérésie dans la conscience occidentale et dans les coutumes féodales, tout cela vient sourdement retentir dans le mythe.</p>
           <p>Nous avons donc rejoint le <emph>Roman de Tristan</emph> et situé sa nécessité à telle date, à l’intersection de telles traditions hérétiques et de telles institutions qui les condamnaient farouchement, les obligeant par cette condamnation à s’exprimer en symboles équivoques et à revêtir la forme d’un mythe.</p>
-          <p>De l’ensemble de ces convergences, il est temps de tirer la conclusion : <hi xml:lang="fr" rend="i">l’amour-passion glorifié par le mythe fut réellement au douzième siècle, date de son apparition, une</hi>
-            <hi rend="sc">religion</hi>
+          <p>De l’ensemble de ces convergences, il est temps de tirer la conclusion : <hi xml:lang="fr" rend="i">l’amour-passion glorifié par le mythe fut réellement au douzième siècle, date de son apparition, une</hi> <hi rend="sc">religion</hi>
             <emph>dans toute la force de ce terme, et spécialement</emph>
             <hi rend="sc">une hérésie chrétienne historiquement déterminée.</hi></p>
           <p>D’où l’on pourra déduire.</p>
@@ -945,15 +944,15 @@
           <p>S’agit-il d’influences littéraires ? Ou de courants hérétiques souterrains ? Ou d’une recréation autonome, qui pourrait s’expliquer en partie sur la base des remarques que nous faisions au précédent chapitre ? « Comment savoir, écrit J. Baruzi, si certaines images que Jean de la Croix emprunte au <emph>Cantique des Cantiques</emph> sont extraites uniquement du poème biblique, ou ne sont pas en même temps des images retrouvées, vérifiées pour ainsi dire, traduisant une joie recomposée ?<note resp="author"><emph>Saint Jean de la Croix et l’expérience mystique</emph>, p. 343.</note> »</p>
           <p>Je ne pense pas que personne, de nos jours, soit en mesure de trancher toutes ces questions. Les spécialistes les mieux informés hésitent encore lorsqu’il s’agit d’attribuer à tel mystique fort bien connu, et orthodoxe par-dessus le marché (Ruysbroek ou sainte Thérèse par exemple) l’origine de termes précis dont saint Jean de la Croix fait usage. Nous pouvons cependant, pour sainte Thérèse, retrouver quelques sources certaines.</p>
           <p>« On a souvent signalé le goût des mystiques pour la littérature chevaleresque. Sainte Thérèse raffolait dans sa jeunesse des romans de chevalerie (voir sa <emph>Vie</emph> par elle-même, chap. <num>ii</num>) ; elle eut même, parait-il, l’idée d’en composer un en collaboration avec son frère Rodrigue.<note resp="author">Maxime <hi rend="sc">de Montmorand</hi>, <emph>Psychologie des mystiques catholiques orthodoxes</emph>.</note> » Nous savons d’autre part que les auteurs religieux dont elle faisait sa nourriture intellectuelle <pb n="147" xml:id="p147"/> étaient tous fortement imbus de rhétorique courtoise et chevaleresque. La question a d’ailleurs été traitée, par un auteur qui offre toutes les garanties de sérieux et d’information<note resp="author">Gaston <hi rend="sc">Etchegoyen</hi>, <emph>l’Amour divin, essai sur les sources de sainte Thérèse</emph>, IV<hi rend="sup">e</hi> partie : l’Expression de l’amour divin.</note>, et en des termes qui me paraissent trop significatifs pour que j’hésite à les reproduire :</p>
-         <quote>
-          <p>Si l’on se borne à la conception de l’amour dans les romans de chevalerie et dans les traités spirituels du seizième siècle, on observe d’intéressantes analogies de fond et de forme.</p>
-          <p><emph>a)</emph> le noble langage d’<emph>Amadis</emph>, ses métaphores érotiques, ses subtiles préciosités se retrouvent chez Francisco de Ossuna, Bernardino de Laredo et Malou de Chaide [maîtres de sainte Thérèse], aussi bien que dans les <emph>Exclamations</emph> et le <emph>Château intérieur</emph>.</p>
-          <p><emph>b)</emph> En Espagne, les auteurs de romans de chevalerie comme ceux des traités mystiques se caractérisent par le même réalisme quand ils sacrifient le sentiment du merveilleux à celui d’une intimité plus familière et plus émouvante, comme ils tendent à mettre l’humain et le divin sur le même plan, <emph>soit en contemplant le divin avec des yeux profanes, soit en considérant l’humain sous une interprétation divine</emph>. [C’est moi qui souligne.]</p>
-          <p><emph>c)</emph> Surtout l’amour courtois et l’amour divin s’exaltent l’un et l’autre dans la même conception héroïque de l’obligation morale, de l’action et de la foi. La devise d’Amadis des Gaules et celle de sainte Thérèse pourrait être également « aimer pour agir ». [Ici, je ferais quelques réserves : l’amour courtois, dans sa pureté première, aime pour souffrir, pour « pâtir »…]</p>
-          <p><emph>d)</emph> Ce n’est pas dans les pauvres extravagances des romans de chevalerie mystique (la <emph>Gallarda Espirituel</emph>, <pb n="148" xml:id="p148"/>
-            <emph>El divino Escarraman</emph>) qu’il faut chercher la synthèse de l’amour divin et de l’amour courtois, mais chez les troubadours provençaux du douzième siècle. Les plus féconds éléments de leur doctrine, de leur symbolisme et de leur terminologie passent dans la mystique du treizième siècle par l’intermédiaire de saint François d’Assise.</p>
-          <p>En se limitant à l’évolution de sainte Thérèse, on constate que les romans de chevalerie ont eu sur elle une influence psychologique, et une influence littéraire qui apparaît surtout dans le symbolisme guerrier du combat spirituel et du Château intérieur.</p>
-         </quote>
+          <quote>
+            <p>Si l’on se borne à la conception de l’amour dans les romans de chevalerie et dans les traités spirituels du seizième siècle, on observe d’intéressantes analogies de fond et de forme.</p>
+            <p><emph>a)</emph> le noble langage d’<emph>Amadis</emph>, ses métaphores érotiques, ses subtiles préciosités se retrouvent chez Francisco de Ossuna, Bernardino de Laredo et Malou de Chaide [maîtres de sainte Thérèse], aussi bien que dans les <emph>Exclamations</emph> et le <emph>Château intérieur</emph>.</p>
+            <p><emph>b)</emph> En Espagne, les auteurs de romans de chevalerie comme ceux des traités mystiques se caractérisent par le même réalisme quand ils sacrifient le sentiment du merveilleux à celui d’une intimité plus familière et plus émouvante, comme ils tendent à mettre l’humain et le divin sur le même plan, <emph>soit en contemplant le divin avec des yeux profanes, soit en considérant l’humain sous une interprétation divine</emph>. [C’est moi qui souligne.]</p>
+            <p><emph>c)</emph> Surtout l’amour courtois et l’amour divin s’exaltent l’un et l’autre dans la même conception héroïque de l’obligation morale, de l’action et de la foi. La devise d’Amadis des Gaules et celle de sainte Thérèse pourrait être également « aimer pour agir ». [Ici, je ferais quelques réserves : l’amour courtois, dans sa pureté première, aime pour souffrir, pour « pâtir »…]</p>
+            <p><emph>d)</emph> Ce n’est pas dans les pauvres extravagances des romans de chevalerie mystique (la <emph>Gallarda Espirituel</emph>, <pb n="148" xml:id="p148"/>
+              <emph>El divino Escarraman</emph>) qu’il faut chercher la synthèse de l’amour divin et de l’amour courtois, mais chez les troubadours provençaux du douzième siècle. Les plus féconds éléments de leur doctrine, de leur symbolisme et de leur terminologie passent dans la mystique du treizième siècle par l’intermédiaire de saint François d’Assise.</p>
+            <p>En se limitant à l’évolution de sainte Thérèse, on constate que les romans de chevalerie ont eu sur elle une influence psychologique, et une influence littéraire qui apparaît surtout dans le symbolisme guerrier du combat spirituel et du Château intérieur.</p>
+          </quote>
           <p>Extraordinaire retour et assomption de l’hérésie, par le détour d’une rhétorique qu’elle a créée contre l’Église, et que l’Église lui reprend par ses saints ! Résumons les étapes de l’aventure : l’hérésie des « parfaits » descend de l’Éros à Vénus, elle va jusqu’à se confondre avec la poésie d’un amour qui serait tout profane ; elle espère par ce déguisement échapper aux persécutions et sauver le « secret » juré ; mais sa ruse réussit trop bien, flatte trop bien les désirs naturels ; peu à peu, l’hérésie disparaît aux yeux des mondains abusés par le charme trompeur de l’art : ils n’en gardent que la poésie ; et voici que cent ans et trois cents ans plus tard, ce vêtement dont on a oublié qu’il cachait autre chose que la nature, — c’est la mystique chrétienne qui vient le reprendre pour en revêtir Agapè !</p>
           <ab type="ornament">⁂</ab>
           <p>Quant à la psychologie dont relèverait cette préférence pour le langage passionnel, elle a été interprétée généralement selon la superstition matérialiste<note resp="author">Travaux de Max Nordau, Krafft-Ebing, Murisier, Leuba, Freud, pour s’en tenir aux plus célèbres.</note>. On <pb n="149" xml:id="p149"/> a « ramené » tout ce qu’on pouvait — et un peu plus — à l’instinct sexuel « dévoyé ». Le dix-neuvième siècle, dans l’ensemble, n’est jamais plus heureux que lorsqu’il peut « ramener » le supérieur à l’inférieur, le spirituel au matériel, le significatif à l’insignifiant. Et c’est ce qu’il appelle « expliquer ». Que ce soit, la plupart du temps, au prix des pires dénis du sens critique, je n’ai pas à le montrer ici dans le détail : j’ai dit ailleurs<note resp="author">Dans <ref target="file:///var/www/html/Rougemont/work/2019-11-13/livres/ddr1936pm"><emph>Penser avec les mains</emph></ref>, II<hi rend="sup">e</hi> partie.</note> qu’à mon avis, cette propension moderne est le signe d’un <emph>ressentiment</emph> profond à l’endroit de la poésie, et en général, de toute activité créatrice — donc risquée — de l’esprit.</p>
@@ -2043,363 +2042,403 @@
           <trailer>FIN</trailer>
         </div>
       </div>
-      <div type="chapter" n="VIII.">
+      <div type="chapter">
         <pb n="329" xml:id="p329"/>
-        <head type="kicker">Appendices</head>
-       <div n="VIII.1.">
-        <head>1. – Caractère sacré de la légende</head>
-        <p>Pour éviter tout malentendu, je préciserai ici que mon analyse se borne à la légende <emph>écrite</emph> de Tristan. C’est d’elle seule que je parle quand je parle du mythe « primitif ». Il serait aisé de se prévaloir du caractère sacré que certains auteurs du siècle dernier ont cru pouvoir attribuer aux personnages de Tristan et d’Iseut (ou <emph>Essylt</emph>) dans la mythologie celtique. Dès le septième siècle, Tristan aurait été un demi-dieu, le héraut symbolique des mystères, le « gardien des marcassins sacrés », c’est-à-dire des élèves des Druides, rival de son oncle Markh, le roi-cheval, et amant d’Essylt, dont on a pu supposer que le nom signifiait « spectacle mystérieux, objet de contemplation », fée irlandaise, cavale aux crins blancs, ou encore figuration de l’eau de la chaudière de Cerridwen, qui donne l’inspiration aux bardes, guérit et ressuscite, c’est-à-dire élève l’initié à la vie de l’esprit. Tout cela est vraisemblable, et contesté. Dans les <emph>Mabinogion</emph>, recueil des légendes galloises, on ne trouve que cette seule indication très brève sur la légende originelle : « <emph>Drystan, fils de Tallwch, gardien des porcs de Markh, amant d’Essylt.</emph> » (C’est dans une énumération des amants fameux de la Bretagne.) On a voulu voir également dans la rivalité de Tristan et de Marc le symbole de la lutte entre les Bretons armoricains et les Gallo-Francs. Il est incontestable que maints éléments de la tradition bardique (orale) sont incorporés dans la légende. (Cf. livre II, chap. 11.) Mais il est non moins certain que Béroul, Thomas, Eilhart, <pb n="330" xml:id="p330"/> l’auteur du Roman en prose et celui de la Folie Tristan <emph>n’étaient pas initiés à cette tradition</emph>. Ils ignoraient le sens primitivement sacré et symbolique des personnages dont ils nous content les amours. Et les traces qui subsistent, dans leur texte, d’anciennes pratiques de magie montrent bien que l’usage de ces dernières est oublié ; à l’époque et dans
-          les pays où ils écrivent. Tout cela n’est plus qu’ornements d’art, pittoresque, anecdotes interprétées par la fantaisie individuelle du poète. Les faits que nous décrit l’auteur de <emph>la Folie Tristan</emph> étaient sans doute à l’origine tout autre chose qu’une suite d’extravagances. Chaque parole et chaque geste du héros devaient correspondre à des symboles déterminés. La <emph>maison de verre</emph> par exemple, dans laquelle Tristan fou veut emmener Iseut, était dans la mythologie druidique le vaisseau de la mort qui s’en va par-delà les nuages jusqu’au cercle céleste du Gwynfyd. Dans <emph>la Folie Tristan</emph>, la maison de verre n’est plus qu’une image émouvante née de la fantaisie poétique de l’amoureux. De même, chez Thomas, le départ de Tristan pour la Bretagne n’a plus aucun sens « historique » défini ; etc… C’est pour toutes ces raisons que je ne tiens compte, dans mon analyse, que de la légende rédigée, et réinventée quant au sens, par les poètes du douzième siècle : <emph>elle seule agit encore sur nous</emph>, en tant que mythe de l’amour-passion.</p>
-       </div>
-        <div n="VIII.2"> 
-        <head>2. – Chevalerie sacrée</head>
-        <quote>
-          <p>La pensée médiévale en général est saturée de conceptions religieuses. De la même manière, dans une sphère plus restreinte, la pensée de tous ceux qui vivent dans les cercles de la cour et de la noblesse est imprégnée de l’idéal chevaleresque. Cette conception envahit même le domaine de la religion : la prouesse de l’archange saint Michel était « la première milicie et prouesse chevaleureuse qui oncques fut mise en exploict » ; c’est de là que procède la chevalerie qui, en tant que « milicie terrienne et chevalerie humaine », est une imitation des chœurs des anges autour du trône de Dieu. Le poète espagnol Juan Manuel l’appelle une espèce de sacrement, qu’il compare au Baptême et au Mariage. (J. Huizinga : <emph>le Déclin du moyen âge</emph>, p. 78.)</p>
-          <p><pb n="331" xml:id="p331"/>La conception chevaleresque constituait pour l’esprit superficiel de ces auteurs [Froissart, Monstrelet, Chastellain, La Marche…] une clef magique à l’aide de laquelle ils s’expliquaient les événements contemporains. En réalité, les guerres, tout comme la politique de leur temps, étaient extrêmement informes, et apparemment incohérentes. La guerre était un état chronique d’escarmouches isolées s’étendant sur un vaste domaine ; la diplomatie, un instrument compliqué et défectueux, dominé d’une part par des idées traditionnelles très générales, et d’autre part, par un ensemble inextricable de questions de droit isolées et mesquines. L’histoire, n’étant pas en mesure de discerner un réel développement social, se servait de la fiction de l’idéal chevaleresque à l’aide de laquelle elle réduisait le monde aux proportions d’une belle image d’honneur princier et de vertu courtoise, et créait l’illusion de l’ordre. (<emph>Ibid.</emph>, p. 80.)</p>
-        </quote>
+        <head>Appendices</head>
+        <div>
+          <head>1. – Caractère sacré de la légende</head>
+          <p>Pour éviter tout malentendu, je préciserai ici que mon analyse se borne à la légende <emph>écrite</emph> de Tristan. C’est d’elle seule que je parle quand je parle du mythe « primitif ». Il serait aisé de se prévaloir du caractère sacré que certains auteurs du siècle dernier ont cru pouvoir attribuer aux personnages de Tristan et d’Iseut (ou <emph>Essylt</emph>) dans la mythologie celtique. Dès le septième siècle, Tristan aurait été un demi-dieu, le héraut symbolique des mystères, le « gardien des marcassins sacrés », c’est-à-dire des élèves des Druides, rival de son oncle Markh, le roi-cheval, et amant d’Essylt, dont on a pu supposer que le nom signifiait « spectacle mystérieux, objet de contemplation », fée irlandaise, cavale aux crins blancs, ou encore figuration de l’eau de la chaudière de Cerridwen, qui donne l’inspiration aux bardes, guérit et ressuscite, c’est-à-dire élève l’initié à la vie de l’esprit. Tout cela est vraisemblable, et contesté. Dans les <emph>Mabinogion</emph>, recueil des légendes galloises, on ne trouve que cette seule indication très brève sur la légende originelle : « <emph>Drystan, fils de Tallwch, gardien des porcs de Markh, amant d’Essylt.</emph> » (C’est dans une énumération des amants fameux de la Bretagne.) On a voulu voir également dans la rivalité de Tristan et de Marc le symbole de la lutte entre les Bretons armoricains et les Gallo-Francs. Il est incontestable que maints éléments de la tradition bardique (orale) sont incorporés dans la légende. (Cf. livre II, chap. 11.) Mais il est non moins certain que Béroul, Thomas, Eilhart, <pb n="330" xml:id="p330"/> l’auteur du Roman en prose et celui de la Folie Tristan <emph>n’étaient pas initiés à cette tradition</emph>. Ils ignoraient le sens primitivement sacré et symbolique des personnages dont ils nous content les amours. Et les traces qui subsistent, dans leur texte, d’anciennes pratiques de magie montrent bien que l’usage de ces dernières est oublié ; à l’époque et
+            dans les pays où ils écrivent. Tout cela n’est plus qu’ornements d’art, pittoresque, anecdotes interprétées par la fantaisie individuelle du poète. Les faits que nous décrit l’auteur de <emph>la Folie Tristan</emph> étaient sans doute à l’origine tout autre chose qu’une suite d’extravagances. Chaque parole et chaque geste du héros devaient correspondre à des symboles déterminés. La <emph>maison de verre</emph> par exemple, dans laquelle Tristan fou veut emmener Iseut, était dans la mythologie druidique le vaisseau de la mort qui s’en va par-delà les nuages jusqu’au cercle céleste du Gwynfyd. Dans <emph>la Folie Tristan</emph>, la maison de verre n’est plus qu’une image émouvante née de la fantaisie poétique de l’amoureux. De même, chez Thomas, le départ de Tristan pour la Bretagne n’a plus aucun sens « historique » défini ; etc… C’est pour toutes ces raisons que je ne tiens compte, dans mon analyse, que de la légende rédigée, et réinventée quant au sens, par les poètes du douzième siècle : <emph>elle seule agit encore sur nous</emph>, en tant que mythe de l’amour-passion.</p>
         </div>
-        <div n="VIII.3"> 
+        <div>
+          <head>2. – Chevalerie sacrée</head>
+          <quote>
+            <p>La pensée médiévale en général est saturée de conceptions religieuses. De la même manière, dans une sphère plus restreinte, la pensée de tous ceux qui vivent dans les cercles de la cour et de la noblesse est imprégnée de l’idéal chevaleresque. Cette conception envahit même le domaine de la religion : la prouesse de l’archange saint Michel était « la première milicie et prouesse chevaleureuse qui oncques fut mise en exploict » ; c’est de là que procède la chevalerie qui, en tant que « milicie terrienne et chevalerie humaine », est une imitation des chœurs des anges autour du trône de Dieu. Le poète espagnol Juan Manuel l’appelle une espèce de sacrement, qu’il compare au Baptême et au Mariage. (J. Huizinga : <emph>le Déclin du moyen âge</emph>, p. 78.)</p>
+            <p><pb n="331" xml:id="p331"/>La conception chevaleresque constituait pour l’esprit superficiel de ces auteurs [Froissart, Monstrelet, Chastellain, La Marche…] une clef magique à l’aide de laquelle ils s’expliquaient les événements contemporains. En réalité, les guerres, tout comme la politique de leur temps, étaient extrêmement informes, et apparemment incohérentes. La guerre était un état chronique d’escarmouches isolées s’étendant sur un vaste domaine ; la diplomatie, un instrument compliqué et défectueux, dominé d’une part par des idées traditionnelles très générales, et d’autre part, par un ensemble inextricable de questions de droit isolées et mesquines. L’histoire, n’étant pas en mesure de discerner un réel développement social, se servait de la fiction de l’idéal chevaleresque à l’aide de laquelle elle réduisait le monde aux proportions d’une belle image d’honneur princier et de vertu courtoise, et créait l’illusion de l’ordre. (<emph>Ibid.</emph>, p. 80.)</p>
+          </quote>
+        </div>
+        <div>
           <head>3. – Chansons de geste et romans courtois</head>
-        <p>Les chansons de geste sont nées au onzième siècle, et pas avant, comme l’a montré Joseph Bédier. Elles furent composées, pour la plupart, par des clercs, et dans des intentions précises : c’étaient en quelque sorte des poèmes publicitaires, destinés à attirer la gloire et la foule à tel pèlerinage ou abbaye en magnifiant ses reliques miraculeuses et ses héroïques fondateurs. Il est compréhensible que ces chansons de clercs parlent très peu ou point d’amour.</p>
-        <p>Une seule, <emph>la Légende de Girard de Roussillon</emph> (composée entre 1150 et 1180 selon Bédier) contient une épisode d’amour courtois. Elle est écrite dans un dialecte intermédiaire entre le français et le provençal. À tous égards, elle marque la transition de l’épopée française au « roman » proprement dit.</p>
-        <p>L’épisode d’amour nous intéresse d’autant plus qu’il décrit une situation fort analogue — dans sa forme — à celle du <emph>Roman de Tristan</emph>. Or il est évident que cette situation ne peut être qu’une invention courtoise (elle tranche nettement sur le reste de la légende qui est cléricale et féodale). Cette analogie avec <emph>Tristan</emph> nous donne un repère pour apprécier la transformation que les Béroul <pb n="332" xml:id="p332"/> et les Thomas firent subir au vieux mythe celtique. Elle nous permet de mesurer l’influence <emph>décisive</emph> de l’amour courtois sur les auteurs du cycle breton.</p>
-        <p>Voici la donnée : le duc Girard de Roussillon a été quérir une fiancée pour Charles le Chauve, son suzerain. Accompagné du pape, il va à Constantinople demander à l’empereur ses deux filles : l’aînée, Berthe, épousera Charles, la cadette, Elissent, sera la femme de Girard. Lorsque Charles voit les deux princesses, il s’éprend d’Elissent, déjà fiancée à Girard. Après un long débat, Girard consent à céder Elissent, <emph>à condition qu’il cesse d’être vassal du roi</emph>. Il épouse Berthe, tandis qu’Elissent devient reine. Au jour où les deux couples se séparent, Girard prend à part deux témoins, ainsi que Berthe sa femme, et la reine.</p>
-        <quote>
-          <p>Femme de roi, dit-il, que pensez-vous de l’échange que j’ai fait de vous ? Je sais bien que vous me tenez pour méprisable. — Non, Seigneur, mais pour un homme de valeur et de prix. Vous m’avez faite reine, et ma sœur, vous l’avez épousée pour l’amour de moi. Écoutez-moi, vous, comtes Bertolai et Gervais. Et vous, ma chère sœur, recevez-en la confidence, et vous surtout, Jésus mon rédempteur, je vous prends pour garants et témoins que par cet anneau je donne à jamais mon amour au duc Girard. Je lui donne de mon <emph>oscle</emph> la fleur, parce que je l’aime plus que mon père et plus que mon mari ; et le voyant partir, je ne puis me défendre de pleurer… » Dès ce moment, ajoute le poète, « dura toujours l’amour de Girard et d’Elissent, pur de tout reproche, sans qu’il y eût entre eux autre chose que bon vouloir et entente cachée. Et pourtant Charles en conçut une telle jalousie que, pour un autre grief dont il chargea le duc, il se montra farouche et irrité. Ils en firent bataille par les plaines herbues…</p>
-        </quote>
-        <p>L’analogie avec <emph>Tristan</emph> est très frappante. Il s’agit dans les deux cas :</p>
-        <p>D’un vassal puissant chargé de la « quête » d’une fiancée lointaine ; — d’une rivalité entre le vassal et son suzerain ; — d’un conflit entre l’hommage dû au suzerain et l’hommage donné à la femme ; — d’un mariage de consolation du vassal (ici avec la sœur de son amie, là avec son homonyme) — enfin dans les deux légendes, l’amour <pb n="333" xml:id="p333"/> courtois et sa fidélité triomphent idéalement du mariage et de sa fidélité, en même temps que des liens féodaux.</p>
-        <p>Mais les différences ne sont pas moins significatives. Dans <emph>Tristan</emph>, c’est la jalousie d’Iseut aux blanches mains qui provoque la catastrophe, tandis que dans <emph>Girard</emph>, c’est la jalousie du suzerain. Ainsi dans le premier cas, la situation trouve un dénouement romanesque, tandis que dans le second, il est épique. Là, c’est l’amour qui conduit à la mort ; ici, ce sont les intérêts féodaux qui entraînent à des guerres sans fin.</p>
-        <p>— Voici deux autres textes « courtois ». Ils nous permettent également de concevoir que Béroul et Thomas n’ont gardé du mythe druidique guère davantage que les noms et le support matériel de l’action.</p>
-        <p>1. Sur le mariage en général : <emph>Jugement de la comtesse de Champagne</emph> :</p>
-        <quote>
-          <p>Par la teneur des présentes, nous disons et soutenons que l’amour ne peut étendre ses droits entre mari et femme. Les amants s’accordent toute chose réciproquement et gratuitement, sans aucune obligation de nécessité, tandis que les époux sont tenus par devoir à toutes les volontés l’un de l’autre. Que ce jugement que nous prononçons avec une extrême maturité, après avoir ouï plusieurs nobles dames, ait à passer pour vérité constante et irréfragable. Donné l’an 1174, le troisième des calendes de mai, indiction VII.</p>
-        </quote>
-        <p>2. À rapprocher du mariage blanc de Tristan : <emph>Jugement de la reine Éléonore</emph> :</p>
-        <quote>
-          <p><emph>Demande</emph>. Un amant heureux avait demandé à sa dame la permission d’offrir ses hommages à une autre : il y fut autorisé et cessa de sentir pour sa première amie la tendresse qu’il lui avait portée d’abord. Après un mois, il revient à elle, proteste de ne pas s’être épris ailleurs, et de n’avoir pris aucune liberté avec l’autre dame, mais d’avoir voulu seulement mettre à l’épreuve la constance de sa maîtresse. Celle-ci l’a privé de son amour, disant qu’il s’en est rendu indigne en implorant et en acceptant pareille licence.</p>
-          <p><emph>Arrêt de la reine Éléonore</emph>. Telle est la nature de l’amour : les amants feignent souvent de souhaiter d’autres nœuds, pour s’assurer davantage de la fidélité et de la constance <pb n="334" xml:id="p334"/> de la personne aimée. C’est léser le droit des amants que de refuser, sous un prétexte semblable, ses embrassements ou sa tendresse, hormis le cas où il y aurait certitude que l’amant eût manqué à ses devoirs et à la foi promise.</p>
-        </quote>
-        <p>Or on n’a pas oublié que Tristan épouse la seconde Iseut alors qu’il croit que la première le néglige. Ce n’est point tant la constance de son amie que la sienne propre qu’il veut mettre à l’épreuve. À cette variante près — c’est plutôt un « transfert » au sens freudien — la situation juridique est bien du même ordre.</p>
+          <p>Les chansons de geste sont nées au onzième siècle, et pas avant, comme l’a montré Joseph Bédier. Elles furent composées, pour la plupart, par des clercs, et dans des intentions précises : c’étaient en quelque sorte des poèmes publicitaires, destinés à attirer la gloire et la foule à tel pèlerinage ou abbaye en magnifiant ses reliques miraculeuses et ses héroïques fondateurs. Il est compréhensible que ces chansons de clercs parlent très peu ou point d’amour.</p>
+          <p>Une seule, <emph>la Légende de Girard de Roussillon</emph> (composée entre 1150 et 1180 selon Bédier) contient une épisode d’amour courtois. Elle est écrite dans un dialecte intermédiaire entre le français et le provençal. À tous égards, elle marque la transition de l’épopée française au « roman » proprement dit.</p>
+          <p>L’épisode d’amour nous intéresse d’autant plus qu’il décrit une situation fort analogue — dans sa forme — à celle du <emph>Roman de Tristan</emph>. Or il est évident que cette situation ne peut être qu’une invention courtoise (elle tranche nettement sur le reste de la légende qui est cléricale et féodale). Cette analogie avec <emph>Tristan</emph> nous donne un repère pour apprécier la transformation que les Béroul <pb n="332" xml:id="p332"/> et les Thomas firent subir au vieux mythe celtique. Elle nous permet de mesurer l’influence <emph>décisive</emph> de l’amour courtois sur les auteurs du cycle breton.</p>
+          <p>Voici la donnée : le duc Girard de Roussillon a été quérir une fiancée pour Charles le Chauve, son suzerain. Accompagné du pape, il va à Constantinople demander à l’empereur ses deux filles : l’aînée, Berthe, épousera Charles, la cadette, Elissent, sera la femme de Girard. Lorsque Charles voit les deux princesses, il s’éprend d’Elissent, déjà fiancée à Girard. Après un long débat, Girard consent à céder Elissent, <emph>à condition qu’il cesse d’être vassal du roi</emph>. Il épouse Berthe, tandis qu’Elissent devient reine. Au jour où les deux couples se séparent, Girard prend à part deux témoins, ainsi que Berthe sa femme, et la reine.</p>
+          <quote>
+            <p>Femme de roi, dit-il, que pensez-vous de l’échange que j’ai fait de vous ? Je sais bien que vous me tenez pour méprisable. — Non, Seigneur, mais pour un homme de valeur et de prix. Vous m’avez faite reine, et ma sœur, vous l’avez épousée pour l’amour de moi. Écoutez-moi, vous, comtes Bertolai et Gervais. Et vous, ma chère sœur, recevez-en la confidence, et vous surtout, Jésus mon rédempteur, je vous prends pour garants et témoins que par cet anneau je donne à jamais mon amour au duc Girard. Je lui donne de mon <emph>oscle</emph> la fleur, parce que je l’aime plus que mon père et plus que mon mari ; et le voyant partir, je ne puis me défendre de pleurer… » Dès ce moment, ajoute le poète, « dura toujours l’amour de Girard et d’Elissent, pur de tout reproche, sans qu’il y eût entre eux autre chose que bon vouloir et entente cachée. Et pourtant Charles en conçut une telle jalousie que, pour un autre grief dont il chargea le duc, il se montra farouche et irrité. Ils en firent bataille par les plaines herbues…</p>
+          </quote>
+          <p>L’analogie avec <emph>Tristan</emph> est très frappante. Il s’agit dans les deux cas :</p>
+          <p>D’un vassal puissant chargé de la « quête » d’une fiancée lointaine ; — d’une rivalité entre le vassal et son suzerain ; — d’un conflit entre l’hommage dû au suzerain et l’hommage donné à la femme ; — d’un mariage de consolation du vassal (ici avec la sœur de son amie, là avec son homonyme) — enfin dans les deux légendes, l’amour <pb n="333" xml:id="p333"/> courtois et sa fidélité triomphent idéalement du mariage et de sa fidélité, en même temps que des liens féodaux.</p>
+          <p>Mais les différences ne sont pas moins significatives. Dans <emph>Tristan</emph>, c’est la jalousie d’Iseut aux blanches mains qui provoque la catastrophe, tandis que dans <emph>Girard</emph>, c’est la jalousie du suzerain. Ainsi dans le premier cas, la situation trouve un dénouement romanesque, tandis que dans le second, il est épique. Là, c’est l’amour qui conduit à la mort ; ici, ce sont les intérêts féodaux qui entraînent à des guerres sans fin.</p>
+          <p>— Voici deux autres textes « courtois ». Ils nous permettent également de concevoir que Béroul et Thomas n’ont gardé du mythe druidique guère davantage que les noms et le support matériel de l’action.</p>
+          <p>1. Sur le mariage en général : <emph>Jugement de la comtesse de Champagne</emph> :</p>
+          <quote>
+            <p>Par la teneur des présentes, nous disons et soutenons que l’amour ne peut étendre ses droits entre mari et femme. Les amants s’accordent toute chose réciproquement et gratuitement, sans aucune obligation de nécessité, tandis que les époux sont tenus par devoir à toutes les volontés l’un de l’autre. Que ce jugement que nous prononçons avec une extrême maturité, après avoir ouï plusieurs nobles dames, ait à passer pour vérité constante et irréfragable. Donné l’an 1174, le troisième des calendes de mai, indiction VII.</p>
+          </quote>
+          <p>2. À rapprocher du mariage blanc de Tristan : <emph>Jugement de la reine Éléonore</emph> :</p>
+          <quote>
+            <p><emph>Demande</emph>. Un amant heureux avait demandé à sa dame la permission d’offrir ses hommages à une autre : il y fut autorisé et cessa de sentir pour sa première amie la tendresse qu’il lui avait portée d’abord. Après un mois, il revient à elle, proteste de ne pas s’être épris ailleurs, et de n’avoir pris aucune liberté avec l’autre dame, mais d’avoir voulu seulement mettre à l’épreuve la constance de sa maîtresse. Celle-ci l’a privé de son amour, disant qu’il s’en est rendu indigne en implorant et en acceptant pareille licence.</p>
+            <p><emph>Arrêt de la reine Éléonore</emph>. Telle est la nature de l’amour : les amants feignent souvent de souhaiter d’autres nœuds, pour s’assurer davantage de la fidélité et de la constance <pb n="334" xml:id="p334"/> de la personne aimée. C’est léser le droit des amants que de refuser, sous un prétexte semblable, ses embrassements ou sa tendresse, hormis le cas où il y aurait certitude que l’amant eût manqué à ses devoirs et à la foi promise.</p>
+          </quote>
+          <p>Or on n’a pas oublié que Tristan épouse la seconde Iseut alors qu’il croit que la première le néglige. Ce n’est point tant la constance de son amie que la sienne propre qu’il veut mettre à l’épreuve. À cette variante près — c’est plutôt un « transfert » au sens freudien — la situation juridique est bien du même ordre.</p>
         </div>
-        <div n="VIII.4"> 
+        <div>
           <head>4. – Conceptions orientales de l’amour</head>
-        <p>Il est bien entendu que j’appelle Orient une certaine attitude totale de l’homme qui s’est manifestée principalement chez les peuples et dans les religions de l’Asie. L’Iran, l’Islam, l’Arabie et le Judaïsme ne sont pas cet Orient-là, et se rattachent directement (<ref target="https://www.unige.ch/rougemont/livres/ddr1939ao/3#body-3-1">Livre II, chap. 2</ref> et <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao/3#body-3-9">9</ref>) aux cycles religieux occidentaux. Il en va tout autrement des Indes, de la Chine, du Thibet, du Japon.</p>
-        <p>Dans un très beau recueil posthume de poèmes et d’essais de Leo Ferrero : <emph>Désespoirs</emph>, je trouve cette relation d’un entretien qu’a eu l’auteur avec un jeune Chinois :</p>
-        <quote>
-          <p>« Le concept d’amour » n’existe pas en Chine. Le verbe « aimer » est employé seulement pour définir les rapports entre la mère et les fils. Le mari n’aime pas la femme : « il a de l’affection pour elle », plus ou moins. Quant aux rapports entre la femme et l’enfant on dit : « <hi xml:lang="fr" rend="i">It is romance</hi> » ; mais Daj n’a pas trouvé le verbe avec lequel ils définissent leurs sentiments.</p>
-          <p>La philosophie de Motse (taoïste) — la seule un peu chrétienne, qui a pour fondement quelque chose qui se rapproche du mot « amour », est oubliée tout de suite pendant la dynastie Han.</p>
-          <p>Les Chinois sont mariés très jeunes par leurs parents, et le problème de l’amour ne se pose pas. Ils n’ont pas à poursuivre toute la vie cette ombre : l’amour, ce sentiment aussi vague, incertain, indéfini que tous les autres, et dont nous voulons être sûrs.</p>
-          <p>L’attitude de l’Européen qui se demande toute sa vie : « Est-ce de l’amour ou non ? Est-ce que j’aime vraiment <pb n="335" xml:id="p335"/> cette femme, ou est-ce que j’ai de l’affection pour elle ? Est-ce que j’aime Dieu ou est-ce que j’ai seulement envie de l’aimer ? Est-ce que j’aime cet être ou est-ce que j’aime l’amour ? », etc., son désespoir quand il découvre après une analyse acharnée, que non il n’aime pas cette femme ; il a seulement envie de l’aimer — cette attitude pourrait être considérée par un psychiatre chinois comme un symptôme de folie. Nous sommes fous sans nous en rendre compte ; toute notre vie est fondée sur la passion et nous voulons la paix, la tranquillité ! Je suis moi-même le plus fou de tous les fous, hélas ! Mais au moins maintenant je le sais.</p>
-        </quote>
-        <p>Et encore :</p>
-        <quote>
-          <p>La civilisation chinoise est fondée sur la famille, et la famille sur l’absence d’amour. Les traditions chinoises insistent sur ce point. Toute manifestation de tendresse entre mari et femme est jugée inconvenante.</p>
-        </quote>
-        </div>div
-        <div n="VIII.5"> 
+          <p>Il est bien entendu que j’appelle Orient une certaine attitude totale de l’homme qui s’est manifestée principalement chez les peuples et dans les religions de l’Asie. L’Iran, l’Islam, l’Arabie et le Judaïsme ne sont pas cet Orient-là, et se rattachent directement (<ref target="https://www.unige.ch/rougemont/livres/ddr1939ao/3#body-3-1">Livre II, chap. 2</ref> et <ref target="https://www.unige.ch/rougemont/livres/ddr1939ao/3#body-3-9">9</ref>) aux cycles religieux occidentaux. Il en va tout autrement des Indes, de la Chine, du Thibet, du Japon.</p>
+          <p>Dans un très beau recueil posthume de poèmes et d’essais de Leo Ferrero : <emph>Désespoirs</emph>, je trouve cette relation d’un entretien qu’a eu l’auteur avec un jeune Chinois :</p>
+          <quote>
+            <p>« Le concept d’amour » n’existe pas en Chine. Le verbe « aimer » est employé seulement pour définir les rapports entre la mère et les fils. Le mari n’aime pas la femme : « il a de l’affection pour elle », plus ou moins. Quant aux rapports entre la femme et l’enfant on dit : « <hi xml:lang="fr" rend="i">It is romance</hi> » ; mais Daj n’a pas trouvé le verbe avec lequel ils définissent leurs sentiments.</p>
+            <p>La philosophie de Motse (taoïste) — la seule un peu chrétienne, qui a pour fondement quelque chose qui se rapproche du mot « amour », est oubliée tout de suite pendant la dynastie Han.</p>
+            <p>Les Chinois sont mariés très jeunes par leurs parents, et le problème de l’amour ne se pose pas. Ils n’ont pas à poursuivre toute la vie cette ombre : l’amour, ce sentiment aussi vague, incertain, indéfini que tous les autres, et dont nous voulons être sûrs.</p>
+            <p>L’attitude de l’Européen qui se demande toute sa vie : « Est-ce de l’amour ou non ? Est-ce que j’aime vraiment <pb n="335" xml:id="p335"/> cette femme, ou est-ce que j’ai de l’affection pour elle ? Est-ce que j’aime Dieu ou est-ce que j’ai seulement envie de l’aimer ? Est-ce que j’aime cet être ou est-ce que j’aime l’amour ? », etc., son désespoir quand il découvre après une analyse acharnée, que non il n’aime pas cette femme ; il a seulement envie de l’aimer — cette attitude pourrait être considérée par un psychiatre chinois comme un symptôme de folie. Nous sommes fous sans nous en rendre compte ; toute notre vie est fondée sur la passion et nous voulons la paix, la tranquillité ! Je suis moi-même le plus fou de tous les fous, hélas ! Mais au moins maintenant je le sais.</p>
+          </quote>
+          <p>Et encore :</p>
+          <quote>
+            <p>La civilisation chinoise est fondée sur la famille, et la famille sur l’absence d’amour. Les traditions chinoises insistent sur ce point. Toute manifestation de tendresse entre mari et femme est jugée inconvenante.</p>
+          </quote>
+        </div>
+        <div>
           <head>5. – Mystique et amour courtois</head>
-        <p>Dans un appendice à son beau livre sur <emph>la Théologie mystique de saint Bernard</emph> (Paris, 1934, pp. 193 à 216), M. Étienne Gilson examine le problème d’une influence possible de la mystique cistercienne sur les troubadours. En effet, « chronologiquement parlant, les deux mouvements sont à peu près contemporains. » On a donc supposé une filiation des cisterciens aux troubadours. M. Gilson réfute cette hypothèse en montrant : 1° que <emph>l’objet</emph> de l’amour n’est pas le même pour saint Bernard et pour les troubadours, ces derniers exaltant, selon lui, la sensualité naturelle ; 2° que la <emph>nature</emph> de l’amour est très différente dans les deux cas, malgré d’apparentes analogies d’expression. M. Gilson conclut qu’il ne peut donc s’agir que « de deux produits indépendants de la civilisation du douzième siècle », ayant tout au plus en commun quelques figures de langage. Je souscris sans réserve à ce jugement. Mais je le rejoins par de tout autres voies. Car l’opposition évidente entre la courtoisie et la mystique de saint Bernard n’est pas seulement, comme l’a vu M. Gilson, celle de la « chair » et de l’« esprit » au sens paulinien de ces termes, mais surtout celle de l’hérésie et de l’orthodoxie.</p>
-        <p>Cependant certains arguments invoqués par M. Gilson <pb n="336" xml:id="p336"/> me paraissent appeler une mise au point très opportune dans notre débat.</p>
-        <p><emph>a</emph>) « <emph>On ne peut hésiter — écrit notre auteur — sur l’objet et la nature de l’amour mystique tel que le conçoit saint Bernard : c’est un amour spirituel, par opposition à tout amour charnel</emph> » (p. 195). L’amour courtois serait au contraire « <emph>l’expression poétique de la concupiscence</emph> » (p. 200). Certes, une opinion assez répandue prête aux troubadours une attitude idéaliste du même genre que celle de saint Bernard. Pour dissiper cette illusion, M. Gilson — après M. Jeanroy — invoque le langage « <emph>d’une crudité intraduisible</emph> » d’un Marcabru et même d’un Rudel.</p>
-        <p>Mais tirer argument de cette crudité en faveur de la thèse sensualiste et contre la symboliste, c’est flatter un « bon sens » des modernes qui n’est sans doute que le résidu de préjugés scientifiques dépassés. Il se pourrait que nous tenions là un bel exemple d’anachronisme. A-t-on seulement remarqué que les siècles passés usaient très couramment d’un langage plus « grossier » que le nôtre, — signe d’une sensibilité sexuelle peu énervée — tandis que notre langage décoloré et faussement puritain correspond à une érotisation sans précédent des mœurs ? S’il fallait inférer des métaphores courtoises « grossières » aux mœurs des troubadours, ma déduction serait inverse de celle des savants modernes. Marcabru n’hésite pas à nommer un chat un chat : c’est que cela ne choque personne — et non du tout qu’il est un débauché. Ayant choisi le symbolisme amoureux, il joue le jeu le plus naturel, selon la coutume de son temps<note resp="author">Faut-il préciser qu’à mon sens, ce sont précisément les expressions par trop raffinées de l’amour qui sont les plus suspectes chez les troubadours ? Au point que l’on se demande parfois s’ils n’en venaient pas à confondre la « chasteté » avec la jouissance stérile…</note>. Ou si l’on tient que le langage érotique traduit nécessairement une sensualité déchaînée, que pensera-t-on d’une sainte Thérèse, d’un Ruysbroek !</p>
-        <p><emph>b</emph>) « <emph>On n’a jamais entendu saint Bernard souhaiter d’être débarrassé de l’amour de Dieu.</emph> » Or les troubadours gémissent sous le joug de l’Amour. Donc cet amour n’est pas spirituel. — Mais plus tard, d’autres mystiques catholiques, sainte Thérèse et saint Jean de la Croix, reprendront <pb n="337" xml:id="p337"/> bel et bien les expressions des troubadours, et souhaiteront d’être libérés des tourments de l’amour divin : c’est là bien entendu, comme chez les troubadours, une manière d’exprimer la violence de leur passion, une sorte d’antiphrase. Mais encore une fois, si l’on veut déduire d’un tel « refus » que l’Amour courtois était purement sensuel, la déduction vaudrait aussi pour sainte Thérèse ; ce dont M. Gilson ne saurait se réjouir.</p>
-        <p><emph>c</emph>) Les troubadours chantent l’amour malheureux. Mais l’amour divin des cisterciens obtient au contraire sa récompense. « <emph>On lui est uni</emph> (à la Béatitude) <emph>du fait même qu’on l’aime.</emph> » — Or M. Gilson dit fort bien, deux pages plus loin, que « <emph>si Dieu est immanent sans être transcendant, il n’y a pas de problème mystique au sens où les chrétiens l’entendent. Ce qu’ils ont à expérimenter… c’est l’immanence d’un Dieu qui est et reste transcendant</emph> ». Mais alors, lorsqu’une créature aime son Dieu, l’obstacle de la transcendance introduit dans l’amour un <emph>malheur</emph> essentiel (quoi qu’en ait dit tout à l’heure M. Gilson). On retrouve donc la situation du troubadour vis-à-vis de l’amour des êtres. Certes : « <emph>la pureté de l’amour courtois sépare les amants, au lieu que celle de l’amour mystique les unit</emph> ». Mais il faut voir que les amants courtois ne sont séparés sur la terre qu’en vertu de cet amour mystique qui les unit à la divinité ! Au contraire, l’amour mystique orthodoxe n’<emph>unit</emph> pas de cette façon, mais fait seulement <emph>communier</emph>.</p>
-        <p><emph>d</emph>) Pour démontrer que l’amour courtois est sensuel, M. Gilson cite encore une strophe de Thibaut de Champagne :</p>
-        <quote>
-          <l>Douce dame, s’il vos plesoit un soir</l>
-          <l>M’avriez vos plus de joie doné</l>
-          <l>C’onques Tristans, qui en fist son pouoir</l>
-          <l>N’en pust avoir nul jor de son ané.</l>
-        </quote>
-        <p>Et il commente : « À moins de réformer sérieusement notre conception des amours d’Yseult et de Tristan, nous ne pouvons avoir de doutes sur la nature des sentiments dont Thibaut est animé. » Précisément, l’objet de mon ouvrage est, entre autres, de « réformer sérieusement notre conception des amours d’Yseult et de Tristan »…</p>
-        <pb n="338" xml:id="p338"/>
+          <p>Dans un appendice à son beau livre sur <emph>la Théologie mystique de saint Bernard</emph> (Paris, 1934, pp. 193 à 216), M. Étienne Gilson examine le problème d’une influence possible de la mystique cistercienne sur les troubadours. En effet, « chronologiquement parlant, les deux mouvements sont à peu près contemporains. » On a donc supposé une filiation des cisterciens aux troubadours. M. Gilson réfute cette hypothèse en montrant : 1° que <emph>l’objet</emph> de l’amour n’est pas le même pour saint Bernard et pour les troubadours, ces derniers exaltant, selon lui, la sensualité naturelle ; 2° que la <emph>nature</emph> de l’amour est très différente dans les deux cas, malgré d’apparentes analogies d’expression. M. Gilson conclut qu’il ne peut donc s’agir que « de deux produits indépendants de la civilisation du douzième siècle », ayant tout au plus en commun quelques figures de langage. Je souscris sans réserve à ce jugement. Mais je le rejoins par de tout autres voies. Car l’opposition évidente entre la courtoisie et la mystique de saint Bernard n’est pas seulement, comme l’a vu M. Gilson, celle de la « chair » et de l’« esprit » au sens paulinien de ces termes, mais surtout celle de l’hérésie et de l’orthodoxie.</p>
+          <p>Cependant certains arguments invoqués par M. Gilson <pb n="336" xml:id="p336"/> me paraissent appeler une mise au point très opportune dans notre débat.</p>
+          <p><emph>a</emph>) « <emph>On ne peut hésiter — écrit notre auteur — sur l’objet et la nature de l’amour mystique tel que le conçoit saint Bernard : c’est un amour spirituel, par opposition à tout amour charnel</emph> » (p. 195). L’amour courtois serait au contraire « <emph>l’expression poétique de la concupiscence</emph> » (p. 200). Certes, une opinion assez répandue prête aux troubadours une attitude idéaliste du même genre que celle de saint Bernard. Pour dissiper cette illusion, M. Gilson — après M. Jeanroy — invoque le langage « <emph>d’une crudité intraduisible</emph> » d’un Marcabru et même d’un Rudel.</p>
+          <p>Mais tirer argument de cette crudité en faveur de la thèse sensualiste et contre la symboliste, c’est flatter un « bon sens » des modernes qui n’est sans doute que le résidu de préjugés scientifiques dépassés. Il se pourrait que nous tenions là un bel exemple d’anachronisme. A-t-on seulement remarqué que les siècles passés usaient très couramment d’un langage plus « grossier » que le nôtre, — signe d’une sensibilité sexuelle peu énervée — tandis que notre langage décoloré et faussement puritain correspond à une érotisation sans précédent des mœurs ? S’il fallait inférer des métaphores courtoises « grossières » aux mœurs des troubadours, ma déduction serait inverse de celle des savants modernes. Marcabru n’hésite pas à nommer un chat un chat : c’est que cela ne choque personne — et non du tout qu’il est un débauché. Ayant choisi le symbolisme amoureux, il joue le jeu le plus naturel, selon la coutume de son temps<note resp="author">Faut-il préciser qu’à mon sens, ce sont précisément les expressions par trop raffinées de l’amour qui sont les plus suspectes chez les troubadours ? Au point que l’on se demande parfois s’ils n’en venaient pas à confondre la « chasteté » avec la jouissance stérile…</note>. Ou si l’on tient que le langage érotique traduit nécessairement une sensualité déchaînée, que pensera-t-on d’une sainte Thérèse, d’un Ruysbroek !</p>
+          <p><emph>b</emph>) « <emph>On n’a jamais entendu saint Bernard souhaiter d’être débarrassé de l’amour de Dieu.</emph> » Or les troubadours gémissent sous le joug de l’Amour. Donc cet amour n’est pas spirituel. — Mais plus tard, d’autres mystiques catholiques, sainte Thérèse et saint Jean de la Croix, reprendront <pb n="337" xml:id="p337"/> bel et bien les expressions des troubadours, et souhaiteront d’être libérés des tourments de l’amour divin : c’est là bien entendu, comme chez les troubadours, une manière d’exprimer la violence de leur passion, une sorte d’antiphrase. Mais encore une fois, si l’on veut déduire d’un tel « refus » que l’Amour courtois était purement sensuel, la déduction vaudrait aussi pour sainte Thérèse ; ce dont M. Gilson ne saurait se réjouir.</p>
+          <p><emph>c</emph>) Les troubadours chantent l’amour malheureux. Mais l’amour divin des cisterciens obtient au contraire sa récompense. « <emph>On lui est uni</emph> (à la Béatitude) <emph>du fait même qu’on l’aime.</emph> » — Or M. Gilson dit fort bien, deux pages plus loin, que « <emph>si Dieu est immanent sans être transcendant, il n’y a pas de problème mystique au sens où les chrétiens l’entendent. Ce qu’ils ont à expérimenter… c’est l’immanence d’un Dieu qui est et reste transcendant</emph> ». Mais alors, lorsqu’une créature aime son Dieu, l’obstacle de la transcendance introduit dans l’amour un <emph>malheur</emph> essentiel (quoi qu’en ait dit tout à l’heure M. Gilson). On retrouve donc la situation du troubadour vis-à-vis de l’amour des êtres. Certes : « <emph>la pureté de l’amour courtois sépare les amants, au lieu que celle de l’amour mystique les unit</emph> ». Mais il faut voir que les amants courtois ne sont séparés sur la terre qu’en vertu de cet amour mystique qui les unit à la divinité ! Au contraire, l’amour mystique orthodoxe n’<emph>unit</emph> pas de cette façon, mais fait seulement <emph>communier</emph>.</p>
+          <p><emph>d</emph>) Pour démontrer que l’amour courtois est sensuel, M. Gilson cite encore une strophe de Thibaut de Champagne :</p>
+          <quote>
+            <l>Douce dame, s’il vos plesoit un soir</l>
+            <l>M’avriez vos plus de joie doné</l>
+            <l>C’onques Tristans, qui en fist son pouoir</l>
+            <l>N’en pust avoir nul jor de son ané.</l>
+          </quote>
+          <p>Et il commente : « À moins de réformer sérieusement notre conception des amours d’Yseult et de Tristan, nous ne pouvons avoir de doutes sur la nature des sentiments dont Thibaut est animé. » Précisément, l’objet de mon ouvrage est, entre autres, de « réformer sérieusement notre conception des amours d’Yseult et de Tristan »…</p>
+          <pb n="338" xml:id="p338"/>
         </div>
-          <div n="VIII.6"> 
-            <head>6. – Dante hérétique</head>
-        <p>Tout à fait indépendamment des travaux très sérieux d’un Asin Palacios, il convient de mentionner la thèse hardie et quelque peu aventureuse de deux auteurs du siècle dernier : Eugène Aroux et, à sa suite, Péladan. Aroux expose le résultat de ses inductions dans un ouvrage aujourd’hui presque introuvable intitulé : <emph>Dante, révolutionnaire, hérétique et socialiste</emph> (1854). Non seulement Dante faisait partie de l’ordre des Templiers, mais encore cet ordre aurait été lié à l’hérésie cathare — en dépit de certaines apparences — comme le bras séculier à l’autorité spirituelle. Dès lors, toute la <emph>Comédie</emph>, le <emph>Convito</emph>, et même le <emph>De vulgari eloquentia</emph> devraient être interprétés symboliquement. Dans un opuscule postérieur, Aroux précise son interprétation. La brochure porte un titre significatif : <emph>Clef de la Comédie anticatholique de Dante Alighieri, pasteur de l’Église albigeoise de la ville de Florence, affilié à l’ordre du Temple, — donnant l’explication du langage symbolique des fidèles d’Amour dans les compositions lyriques, romans et épopées chevaleresques des troubadours</emph> (1856). C’est un lexique donnant la traduction d’environ 500 termes, comme par exemple :</p>
-        <p>« <emph>Arbres morts</emph> ». — Les catholiques. Les troubadours traitaient les membres du clergé catholique d’arbres <emph>automnals morts</emph>.</p>
-        <p>« <emph>Albigéisme, Albigeois</emph> ». — Mots introuvables dans la <emph>Comédie</emph>, quand l’idée est partout présente.</p>
-        <p>« <emph>Dames</emph> ». — Les initiés du templarisme albigeois, qui par un dédoublement mystique de l’âme et du corps, étaient censés avoir les deux sexes, hommes en tant que corps et forme matérielle, et femmes en tant qu’intelligence et pensée libre des liens de la matière.</p>
-        <p>« <emph>Lancelot</emph> ». — …Il faut toute la préoccupation de la lettre, chez les déchiffreurs de vieux manuscrits, pour qu’une littérature entière soit passée sous leurs yeux sans qu’ils y aient vu autre chose que des contes à dormir debout, obtenant une vogue européenne, et des amours d’une pureté angélique à servir de modèles aux races futures ! »</p>
-        <p>Je ne prends pas à mon compte toutes ces « explications » <pb n="339" xml:id="p339"/> parfois très pénétrantes, souvent très arbitraires. Mais il reste que l’histoire littéraire et religieuse n’a fait que confirmer, plus tard, l’exactitude de bien des vues centrales d’Aroux. (Gaston Paris établissant vers 1880 la filiation troubadours-trouvères roman breton ; Asin Palacios reprenant la question de l’hérésie chez Dante, etc.).</p>
+        <div>
+          <head>6. – Dante hérétique</head>
+          <p>Tout à fait indépendamment des travaux très sérieux d’un Asin Palacios, il convient de mentionner la thèse hardie et quelque peu aventureuse de deux auteurs du siècle dernier : Eugène Aroux et, à sa suite, Péladan. Aroux expose le résultat de ses inductions dans un ouvrage aujourd’hui presque introuvable intitulé : <emph>Dante, révolutionnaire, hérétique et socialiste</emph> (1854). Non seulement Dante faisait partie de l’ordre des Templiers, mais encore cet ordre aurait été lié à l’hérésie cathare — en dépit de certaines apparences — comme le bras séculier à l’autorité spirituelle. Dès lors, toute la <emph>Comédie</emph>, le <emph>Convito</emph>, et même le <emph>De vulgari eloquentia</emph> devraient être interprétés symboliquement. Dans un opuscule postérieur, Aroux précise son interprétation. La brochure porte un titre significatif : <emph>Clef de la Comédie anticatholique de Dante Alighieri, pasteur de l’Église albigeoise de la ville de Florence, affilié à l’ordre du Temple, — donnant l’explication du langage symbolique des fidèles d’Amour dans les compositions lyriques, romans et épopées chevaleresques des troubadours</emph> (1856). C’est un lexique donnant la traduction d’environ 500 termes, comme par exemple :</p>
+          <p>« <emph>Arbres morts</emph> ». — Les catholiques. Les troubadours traitaient les membres du clergé catholique d’arbres <emph>automnals morts</emph>.</p>
+          <p>« <emph>Albigéisme, Albigeois</emph> ». — Mots introuvables dans la <emph>Comédie</emph>, quand l’idée est partout présente.</p>
+          <p>« <emph>Dames</emph> ». — Les initiés du templarisme albigeois, qui par un dédoublement mystique de l’âme et du corps, étaient censés avoir les deux sexes, hommes en tant que corps et forme matérielle, et femmes en tant qu’intelligence et pensée libre des liens de la matière.</p>
+          <p>« <emph>Lancelot</emph> ». — …Il faut toute la préoccupation de la lettre, chez les déchiffreurs de vieux manuscrits, pour qu’une littérature entière soit passée sous leurs yeux sans qu’ils y aient vu autre chose que des contes à dormir debout, obtenant une vogue européenne, et des amours d’une pureté angélique à servir de modèles aux races futures ! »</p>
+          <p>Je ne prends pas à mon compte toutes ces « explications » <pb n="339" xml:id="p339"/> parfois très pénétrantes, souvent très arbitraires. Mais il reste que l’histoire littéraire et religieuse n’a fait que confirmer, plus tard, l’exactitude de bien des vues centrales d’Aroux. (Gaston Paris établissant vers 1880 la filiation troubadours-trouvères roman breton ; Asin Palacios reprenant la question de l’hérésie chez Dante, etc.).</p>
         </div>
-          <div n="VIII.7"> 
+        <div>
           <head>7. – « Coup de foudre » et conversion</head>
-        <p>Le premier regard des amants, qui va changer toute leur vie, correspond à la première touche de l’amour divin, à la conversion du chrétien. Gottfried de Strasbourg peignant l’amour de Rivalen pour Blanchefleur (ce sont les parents de Tristan) accumule les expressions religieuses les plus insistantes :</p>
-        <quote>
-          <l>Alors la vraie Minne</l>
-          <l>La fougueuse déesse</l>
-          <l>Le pénétra de ses ardeurs</l>
-          <l>Et son cœur brûlant</l>
-          <l>Lui révéla la source</l>
-          <l>Des peines dont il souffrait.</l>
-          <l>Alors commença pour lui une autre vie.</l>
-          <l>Il entra dans une vie nouvelle</l>
-          <l>Où tout son être fut changé.</l>
-          <l>Il devint un autre homme.</l>
-          <l>Tout ce qu’il faisait</l>
-          <l>Était comme entremêlé de folie</l>
-          <l>Et frappé d’aveuglement.</l>
-          <l>Ses sens étaient troublés</l>
-          <l>Égarés par la Minne</l>
-          <l>Et comme délivrés</l>
-          <l>De leur frein naturel.</l>
-          <l>Sa vie se consumait.</l>
-          <bibl>(Traduction Bossert.)</bibl>
-        </quote>
-        <p>Les trois derniers vers sont une parfaite confirmation de ma définition de la passion opposée à l’amour naturel.</p>
-          </div>    
-            <div n="VIII.8"> 
-            <head>8. – Passion et Ascèse</head>
-        <p>Dans le <emph>Tristan</emph> de Gottfried de Strasbourg, la grotte où se réfugient les amants (correspondant à la Forêt de <pb n="340" xml:id="p340"/> Morrois chez Béroul) est décrite en détail, et chaque détail comporte un sens symbolique commenté par l’auteur. La « fossure » a été construite par des géants. C’est une voûte dont la clef est faite de pierres précieuses. Au milieu trône un lit de cristal, etc. Mais voici ce qui nous intéresse :</p>
-        <quote>
-          <l>Ce n’est pas sans raison</l>
-          <l>Que la fossure est reléguée</l>
-          <l>Dans cette contrée sauvage.</l>
-          <l>Cela veut dire</l>
-          <l>Que le lieu de l’amour</l>
-          <l>N’est pas dans les routes battues</l>
-          <l>Ni autour des habitations humaines.</l>
-          <l>Il hante les déserts.</l>
-          <l>Le chemin qui conduit à sa retraite</l>
-          <l>Est dur et pénible.</l>
-          <bibl>(Traduction Bossert.)</bibl>
-        </quote>
-        <p>Pour qui conserverait des doutes sur la nature de l’amour en question, précisons que Gottfried confesse qu’il a, lui aussi, erré au désert, mais sans y rencontrer la « récompense » de ses peines. (Il n’est pas devenu Parfait) :</p>
-        <quote>
-          <l>J’ai connu la fossure</l>
-          <l>Quand je n’avais que onze ans</l>
-          <l>Mais je ne suis jamais allé en Cornouailles.</l>
-        </quote>
-        <p>Comment pourrait-il s’agir d’amour physique ? Et le dernier vers indique bien que la « fossure » est purement symbolique, puisqu’elle peut exister ailleurs qu’en Cornouailles. (Temple ou grotte d’hérétiques ?)</p>
+          <p>Le premier regard des amants, qui va changer toute leur vie, correspond à la première touche de l’amour divin, à la conversion du chrétien. Gottfried de Strasbourg peignant l’amour de Rivalen pour Blanchefleur (ce sont les parents de Tristan) accumule les expressions religieuses les plus insistantes :</p>
+          <quote>
+            <l>Alors la vraie Minne</l>
+            <l>La fougueuse déesse</l>
+            <l>Le pénétra de ses ardeurs</l>
+            <l>Et son cœur brûlant</l>
+            <l>Lui révéla la source</l>
+            <l>Des peines dont il souffrait.</l>
+            <l>Alors commença pour lui une autre vie.</l>
+            <l>Il entra dans une vie nouvelle</l>
+            <l>Où tout son être fut changé.</l>
+            <l>Il devint un autre homme.</l>
+            <l>Tout ce qu’il faisait</l>
+            <l>Était comme entremêlé de folie</l>
+            <l>Et frappé d’aveuglement.</l>
+            <l>Ses sens étaient troublés</l>
+            <l>Égarés par la Minne</l>
+            <l>Et comme délivrés</l>
+            <l>De leur frein naturel.</l>
+            <l>Sa vie se consumait.</l>
+            <bibl>(Traduction Bossert.)</bibl>
+          </quote>
+          <p>Les trois derniers vers sont une parfaite confirmation de ma définition de la passion opposée à l’amour naturel.</p>
         </div>
-        <div n="VIII.9"> 
+        <div>
+          <head>8. – Passion et Ascèse</head>
+          <p>Dans le <emph>Tristan</emph> de Gottfried de Strasbourg, la grotte où se réfugient les amants (correspondant à la Forêt de <pb n="340" xml:id="p340"/> Morrois chez Béroul) est décrite en détail, et chaque détail comporte un sens symbolique commenté par l’auteur. La « fossure » a été construite par des géants. C’est une voûte dont la clef est faite de pierres précieuses. Au milieu trône un lit de cristal, etc. Mais voici ce qui nous intéresse :</p>
+          <quote>
+            <l>Ce n’est pas sans raison</l>
+            <l>Que la fossure est reléguée</l>
+            <l>Dans cette contrée sauvage.</l>
+            <l>Cela veut dire</l>
+            <l>Que le lieu de l’amour</l>
+            <l>N’est pas dans les routes battues</l>
+            <l>Ni autour des habitations humaines.</l>
+            <l>Il hante les déserts.</l>
+            <l>Le chemin qui conduit à sa retraite</l>
+            <l>Est dur et pénible.</l>
+            <bibl>(Traduction Bossert.)</bibl>
+          </quote>
+          <p>Pour qui conserverait des doutes sur la nature de l’amour en question, précisons que Gottfried confesse qu’il a, lui aussi, erré au désert, mais sans y rencontrer la « récompense » de ses peines. (Il n’est pas devenu Parfait) :</p>
+          <quote>
+            <l>J’ai connu la fossure</l>
+            <l>Quand je n’avais que onze ans</l>
+            <l>Mais je ne suis jamais allé en Cornouailles.</l>
+          </quote>
+          <p>Comment pourrait-il s’agir d’amour physique ? Et le dernier vers indique bien que la « fossure » est purement symbolique, puisqu’elle peut exister ailleurs qu’en Cornouailles. (Temple ou grotte d’hérétiques ?)</p>
+        </div>
+        <div>
           <head>9. – Saint François d’Assise et les Cathares</head>
-        <p>Paul Sabatier, dans sa fameuse biographie de saint François, se pose la question d’une influence possible de l’hérésie courtoise sur la mystique franciscaine. Il commence par nier toute communication directe de l’une à l’autre. (L’argument avancé me convainc peu : l’hérésie était de nature dogmatique, et saint François ne s’occupait pas de doctrine… Mais croit-on que tous les Cathares dogmatisaient ? Il y a de plus sérieuses raisons de nier l’hérésie du saint.) Cependant, il décrit fort bien l’ambiance cathare de l’Italie au temps de la jeunesse de François. <pb n="341" xml:id="p341"/> Les hérétiques, baptisés <emph>Gazzari</emph> en Italie (Bulgares ou Bougres dans les pays du Nord) s’étaient emparés du gouvernement de plusieurs municipalités. Le podestat d’Assise était un hérétique, avant 1204 ! Dans les cités avoisinantes, il y eut de nombreux soulèvements et émeutes occasionnés par le conflit religieux. D’autre part, on sait bien que saint François avait été le disciple enthousiaste des poètes français (d’où son nom même). Il partageait l’engouement des Italiens du Nord pour les troubadours qui y séjournaient fréquemment (tels Peire Vidal, Peire d’Auvergne, Raimbaut de Vaqueiras, Bernart de Ventadour). Enfin, l’influence de Joachim de Flore sur saint François ne saurait faire de doute. Ce fameux ermite annonçait le règne de l’Esprit, l’approche de la troisième période de l’humanité, le régime de la grâce et de l’Amour. Certains troubadours le connurent. (Richard Cœur de Lion par exemple). Les deux doctrines ont bien des points de ressemblance.</p>
-        <p>Il reste que saint François, s’il fut influencé par l’atmosphère de la religion d’Amour, en transporta toute la passion dans l’Église et l’orthodoxie, auxquelles il demeura toujours fidèle. Et Sabatier remarque, non sans profondeur, que la charité franciscaine obtint sans faire couler le sang la résorption de l’hérésie en Italie, alors que la brutalité des cléricaux dans le Midi n’y parvint — et en apparence — qu’au prix d’effroyables massacres. Seule Agapè peut triompher d’Éros. Mars déchaîné, même contre Éros, n’est guère qu’un autre aspect du mal qu’il veut détruire, et plus barbare.</p>
-        <label>10. – Sur le sadisme</label>
-        <p>Je trouve une confirmation de mon analyse du crime sadique dans deux études remarquables de Pierre Klossowski : <emph>le Mal et la négation d’autrui dans la philosophie de D. A. F. de Sade et Temps et Agressivité</emph>. (<emph>Recherches philosophiques</emph>, tomes IV et V.)</p>
-        <p>L’auteur montre que pour Sade, le mal est l’unique élément de la Nature. On lit dans la <emph>Nouvelle Justine</emph> : « Oui, j’abhorre la Nature : et c’est parce que je la connais trop bien que je la déteste : instruit de ses affreux secrets… j’ai éprouvé une sorte de plaisir à copier ses noirceurs. » <pb n="342" xml:id="p342"/> (D’où le désir sadique de se libérer des tyrannies sensuelles par l’excès de débauche.)</p>
-        <p>Autre condamnation vraiment manichéenne de la Création : « Le principe de vie dans tous les êtres n’est autre que celui de la mort ; nous les recevons et les nourrissons dans nous tous deux à la fois. » P. Klossowski oppose cette opinion de Sade à celle de Freud, qui voit une antithèse entre l’instinct de mort et Éros. L’analyse du mythe nous a montré que cette antithèse est purement apparente.</p>
-        <p>Mais si la vie et la Nature créée ne sont que noirceurs et cruauté, il faut alors pour s’en délivrer renchérir sur cette cruauté et ces noirceurs. Il n’y a qu’une alternative : exercer la cruauté sur soi ou sur le prochain. Sade choisit le prochain : il veut être criminel plutôt que victime. Ainsi la conscience sadique est l’inverse de la conscience romantique. Le romantique (Pétrarque) se châtie pour conserver l’objet aimé, tandis que Sade veut le tuer.</p>
-        <label>11. – Au-delà de nos sécurités</label>
-        <p>Faut-il aller encore plus loin que Kierkegaard dans le dépassement du « stade éthique » ? Il m’arrive de le pressentir, et de penser : du point de vue de la foi, il n’y a sans doute aucun profit au « règlement des mœurs » pour les non-chrétiens. C’est une façon de les mettre, au contraire, à l’abri du désespoir réel, humain, qui les conduirait à la foi. Une cure d’âme comprise non pas au sens d’une hygiène morale bourgeoise, mais au sens chrétien — la guérison à obtenir, c’est que l’infidèle croie — devrait conduire à désirer pour l’homme non-chrétien qu’il traverse tout le « bonheur » de la passion. Or on s’efforce de le retenir <emph>en deçà</emph>. Si bien que le seul <emph>au-delà</emph> concret qu’il soit en état de désirer, d’imaginer, c’est le « dérèglement des passions ».</p>
-        <p>Mais voilà ce qu’il faut ajouter : l’homme livré à ses dérèglements conçoit un désespoir dont le remède peut très bien lui apparaître : la loi. Or ce n’est que le renoncement à la loi <emph>ainsi comprise</emph> qui peut nous conduire à la foi.</p>
-      </div>
-        <div type="chapter">
-        <pb n="343" xml:id="p343"/>
-        <head>Notice bibliographique</head>
-        <p>Une bibliographie complète des divers problèmes abordés dans cet ouvrage est pratiquement exclue. On n’indiquera ici que les travaux utilisés par l’auteur, moins pour faire connaître sa science que pour en marquer les limites.</p>
-        <label>I. — Le mythe de Tristan</label>
-        <p>a) <emph>Les textes</emph> :</p>
-        <p><hi rend="sc">Bédier</hi> (J.). Édition du <emph>Tristan</emph> de Thomas, 2 vol., 1902-1905. (Le 2<hi rend="sup">e</hi> tome contient une table de concordance des divers textes primitifs de la légende.)</p>
-        <p>— <emph>Les deux poèmes de la Folie Tristan</emph>, 1907.</p>
-        <p>— <emph>Le Roman de Tristan et Iseult</emph> (transcription moderne, 185<hi rend="sup">e</hi> mille).</p>
-        <p><hi rend="sc">Bossert (A.).</hi>
-          <emph>La Légende chevaleresque de Tristan et Iseult</emph>, 1902 (sur le Tristan de Gottfried de Strasbourg).</p>
-        <p><hi rend="sc">Michel</hi> (Fr.). <emph>Poèmes français et anglo-normands sur Tristan</emph>. 2 vol. Londres, 1835-1839.</p>
-        <p><hi rend="sc">Muret</hi> (E.). Édition du <emph>Tristan et Iseut</emph> de Béroul, 1003.</p>
-        <p><hi rend="sc">Thomas.</hi> Tristan et Iseult, trad. partielle en français moderne par R. Herbomez et J. Beaurieux, 1935.</p>
-        <p><hi rend="sc">Vinaver</hi> (E.). Édition du Roman en prose, 1911.</p>
-        <p>— <emph>Le Roman de Tristan dans l’œuvre de Thomas Malory</emph>, 1925.</p>
-        <p><hi rend="sc">Wagner</hi> (R.). <hi xml:lang="fr" rend="i">Tristan und Isolde</hi>, 1860.</p>
-        <p/>
-        <p>b) <emph>Voir aussi</emph> :</p>
-        <p><hi rend="sc">D’Arbois de Jubainville</hi> (H.) <emph>Cours de littérature celtique</emph>, 12 vol., 1884.</p>
-        <p>— <emph>Le cycle mythol. irlandais et la mythol. celtique</emph>, 1884.</p>
-        <p><pb n="344" xml:id="p344"/><hi rend="sc">Bédier</hi> (J.) <emph>Les légendes épiques</emph>, 4 vol., 1917.</p>
-        <p><hi rend="sc">Caillois</hi> (R.). <emph>Le mythe et l’art : nature de leur opposition</emph>. (II<hi rend="sup">e</hi> Congrès intern, d’esthétique), 1937.</p>
-        <p><hi rend="sc">Dottin</hi> (G.). <emph>L’épopée irlandaise</emph>, 1926.</p>
-        <p><hi rend="sc">Hubert</hi> (H.). Les Celtes, 2 vol., 1932.</p>
-        <p><hi rend="sc">Jaspers</hi> (K.). <hi xml:lang="de" rend="i">Philosophie</hi>, 3 vol. Berlin, 1932.</p>
-        <p><hi rend="sc">Joyce.</hi>
-          <emph>Old Celtic romance</emph>. Londres, 1879.</p>
-        <p><hi rend="sc">Loth</hi> (J.). <emph>Les Mabinogion</emph> (<emph>in</emph> d’Arbois : <emph>Cours de litt. celt.</emph>), 1884.</p>
-        <p><hi rend="sc">Paris</hi> (G.). <emph>Les origines celtiques de Tristan</emph> (<emph>Revue de Paris</emph>, 15 avril 1884).</p>
-        <label>II. — Origines religieuses du mythe</label>
-        <p>a) <emph>Sur les Celtes</emph> :</p>
-        <p>Ouvrages déjà cités de d’Arbois, Hubert, Joyce, Loth ; [plus <hi rend="sc">rahn</hi> (voir plus bas)].</p>
-        <p/>
-        <p>b) <emph>Sur le manichéisme et les Cathares</emph> :</p>
-        <p><hi rend="sc">Alfaric</hi> (P.). <emph>L’évolution intellectuelle de saint Augustin (du manichéisme au néo-platonisme)</emph>, 1918.</p>
-        <p><hi rend="sc">Alphandéry</hi> (P.). <emph>Les idées morales chez les hétérodoxes latins au début du treizième siècle</emph>, 1903.</p>
-        <p><hi rend="sc">Anitchkof</hi> (E.). <emph>Joachim de Flore et les milieux courtois</emph>. Rome, 1931.</p>
-        <p>— <emph>Les survivances manichéennes à l’Occident et chez les Slaves</emph>. (<emph>Revue des études slaves</emph>, VIII), 1928.</p>
-        <p><hi rend="sc">Benvéniste</hi> (E.). <emph>Hymnes manichéens</emph> (<emph>Yggdrasil</emph>, 25 août), 1937.</p>
-        <p><hi rend="sc">Clédat.</hi> <emph>Le Nouveau Testament traduit au treizième siècle en langue provençale</emph>, suivi d’un<emph> Rituel cathare</emph>, 1887.</p>
-        <p><hi rend="sc">Corbin</hi> (H.). <emph>Pour l’hymnologie manichéenne</emph> (<emph>Yggdrasil</emph>), 1937.</p>
-        <p><hi rend="sc">Cuhont</hi> (F.). <emph>La Cosmogonie manichéenne</emph>. Bruxelles, 1908.</p>
-        <p>— <emph>Recherches sur le manichéisme</emph>. Bruxelles, 1912.</p>
-        <p><hi rend="sc">Doellinger.</hi> <hi xml:lang="de" rend="i">Beitrage zur Sektengeschichte des Mittelalters</hi> (gnostiques et manichéens), 1890.</p>
-        <p><hi rend="sc">Douais</hi> (C.). <emph>Les Albigeois, leur origine</emph>, 1879.</p>
-        <p><hi rend="sc">Gilson</hi> (E.). <emph>La Théologie mystique de saint Bernard</emph>, 1934.</p>
-        <p><hi rend="sc">Gui</hi> (B.). <emph>Manuel de l’Inquisiteur</emph> (trad. et introd. G. Mollat), 2 vol. 1920-1927.</p>
-        <p><pb n="345" xml:id="p345"/><hi rend="sc">Guiraud</hi> (J.). <emph>Saint Dominique</emph>, 1923.</p>
-        <p>— <emph>Histoire de l’Inquisition au moyen âge</emph>, 1935.</p>
-        <p><hi rend="sc">Harnack</hi> (A.). <hi xml:lang="de" rend="i">Dogmengeschichte</hi>, 3 vol. Freiburg i. B., 1897.</p>
-        <p><hi rend="sc">Lallemand</hi> (M.). <emph>Notes sur l’histoire occulte du moyen âge</emph>. (<emph>Hermès</emph>, II). Bruxelles, 1933.</p>
-        <p><hi rend="sc">Migne.</hi> <emph>Patrologiæ cursus completus</emph> (<hi xml:lang="fr" rend="i">series latina</hi>) tome CCXII (Chroniques de P. des Vaux de Cernay sur les Albigeois.)</p>
-        <p><hi rend="sc">Molinier</hi> (Ch.). <emph>L’Endura</emph> (<emph>Annales de la Faculté, des Lettres de Bordeaux</emph>, III), 1881.</p>
-        <p><hi rend="sc">Peyrat</hi> (N.). <emph>Histoire des Albigeois</emph>, 2 vol., 1880.</p>
-        <p><hi rend="sc">Roché</hi> (D.). <emph>La doctrine des Albigeois sur le problème du mal</emph>. (<emph>La Science spirituelle</emph>), 1931-1932.</p>
-        <p>— <emph>L’initiation spirituelle des chrétiens albigeois</emph> (<emph>Science spirituelle</emph>), 1925.</p>
-        <p>— <emph>Le catharisme</emph>. Carcassonne, 1937.</p>
-        <p><hi rend="sc">Schmidt</hi> (Ch.). <emph>Histoire et doctrine de la secte des Cathares et Albigeois</emph>, 1849.</p>
-        <p><hi rend="sc">Tocco</hi> (F.). <emph>L’eresia nel medio evo</emph>. Florence, 1884.</p>
-        <p><hi rend="sc">Varga</hi> (L.). <emph>Le Catharisme</emph>. (<emph>Revue de synthèse</emph>), juin 1936.</p>
-        <p/>
-        <p>c) <emph>Sur les troubadours</emph> :</p>
-        <p><hi rend="sc">André le Chapelain.</hi>
-          <emph>De arte honeste amandi</emph> (début du treizième siècle).</p>
-        <p><hi rend="sc">Anglade</hi> (J.). <emph>Les troubadours</emph>, 1924.</p>
-        <p>— <emph>Anthol. des troubadours</emph>, 1927.</p>
-        <p><hi rend="sc">Appel</hi> (K.). <hi xml:lang="de" rend="i">Provenzalische Chrestomathie</hi>. Leipzig, 1907.</p>
-        <p><hi rend="sc">Aroux</hi> (E.). <emph>Clef de la Comédie anticatholique de Dante Alighieri, pasteur de l’Église albigeoise de la ville de Florence, affilié à l’Ordre du Temple, — donnant l’explication du langage symbolique des fidèles d’Amour dans les compositions lyriques, romans et épopées chevaleresques des troubadours</emph>, 1856.</p>
-        <p><hi rend="sc">Bartsch</hi> (K.). <hi xml:lang="de" rend="i">Chrestomathie provençale</hi>. Marburg, 1904.</p>
-        <p><hi rend="sc">Bertoni</hi> (G.). <emph>I trovatori d’Italia</emph>. Modène, 1915.</p>
-        <p><hi rend="sc">Cingria</hi> (C.-A.). <emph>Ieu oc tan</emph> (<emph>Mesures</emph>, n° 2), 1937.</p>
-        <p><hi rend="sc">Diez</hi> (F.). <hi xml:lang="de" rend="i">Die Poesie der Troubadours</hi>, 1883.</p>
-        <p><hi rend="sc">Fauriel.</hi> <emph>Histoire de la poésie provençale</emph>, 1846.</p>
-        <p><hi rend="sc">Jeanroy</hi> (A.). <emph>De nostratibus medii aevi poetis qui primum lyrica aquitaniae carmina imitati sunt</emph>, 1889.</p>
-        <p>— <emph>Anthologie des troubadours</emph>, 1927.</p>
-        <p><pb n="346" xml:id="p346"/><hi rend="sc">Jeanboy</hi> (A.). <emph>La Poésie lyrique des troubadours</emph>, 2 vol., 1934.</p>
-        <p><hi rend="sc">Lee (Vernon).</hi> <emph>Medieval Love</emph> (Euphorion). Londres, 1889.</p>
-        <p><hi rend="sc">Lewis</hi> (C.-S.). <emph>The Allegory of Love</emph>. Oxford, 1936.</p>
-        <p><hi rend="sc">Mauclair (C.).</hi> <emph>Le protestantisme et les romans de chevalerie</emph>. (<emph>Revue de Genève</emph>, mars) 1926.</p>
-        <p><hi rend="sc">Péladan.</hi> <emph>De Parsifal à Don Quichotte : le Secret des troubadours</emph>. 1906.</p>
-        <p><hi rend="sc">Raynouard.</hi> <emph>Choix de poésies originales des troubadours</emph>, 1816-1821.</p>
-        <p><hi rend="sc">Rahn</hi> (O.). <emph>La Croisade contre le Graal</emph>, trad. franç., 1934 (importante bibliographie, surtout pour les ouvrages allemands et pour ceux du dix-neuvième siècle. Lacunes pour les plus récents, surtout français).</p>
-        <p><hi rend="sc">Varga</hi> (L.). <emph>Peire Cardinal était-il hérétique</emph> ? (<emph>Revue Hist, des relig.</emph> mars-juin) 1938.</p>
-        <p><hi rend="sc">Wechssler</hi> (E.). <hi xml:lang="de" rend="i">Frauendienst und Vassalitaet</hi> (<hi xml:lang="de" rend="i">Zeitschrift für. franz. Sprache und Literatur</hi>, XXIV, 159.)</p>
-        <p>— <hi xml:lang="de" rend="i">Das Kulturproblem des Minnesangs</hi>, 2 vol. Halle, 1909.</p>
-        <p/>
-        <p>d) <emph>Sur les mystiques arabes</emph> :</p>
-        <p>Asin <hi rend="sc">Palacios</hi> (Don Miguel). <emph>Un précurseur hispano-musulman de saint Jean de la Croix</emph>. (<emph>Études carmélitaines</emph>, avril 1932.)</p>
-        <p><hi rend="sc">Corbin</hi> (H.). <emph>Un traité persan inédit de Suhrawardî d’Alep</emph>, suivi d’une trad. du <emph>Familier des Amants</emph>. (<emph>Recherches philosophiques</emph>, tome II.)</p>
-        <p><hi rend="sc">Corbin</hi> (H.) et <hi rend="sc">Kraus</hi> (P.). <emph>Le bruissement de l’aile de Gabriel, traité philosophique et mystique de Suhrawardi d’Alep</emph>, introd. trad. et notes. (<emph>Journal asiatique</emph> juillet-septembre 1935.)</p>
-        <p><hi rend="sc">Dermenghem</hi> (E.). <emph>Mortelle Poésie</emph> (<emph>Hermès</emph>, II), 1933, et plusieurs traductions d’Ibn-al-Fahrid dans <emph>Mesures, les Cahiers du Sud, Hermès</emph>.</p>
-        <p><hi rend="sc">Massignon</hi> (L.). <emph>La Passion de al-Hallaj</emph>, 1921.</p>
-        <p>— <emph>Essai sur les origines du lexique technique de la mystique musulmane</emph>, 1922.</p>
-        <p><hi rend="sc">Massignon et Kraus.</hi> <hi xml:lang="de" rend="i">Akhbar al-Hallaj</hi>, 1936.</p>
-        <p/>
-        <p>e) <emph>Sur les cycles romanesques du Nord</emph> :</p>
-        <p><hi rend="sc">Anitchkof</hi> (E.). <emph>Le Saint-Graal et les rites eucharistiques</emph>. (<emph>Romania</emph>, I, <num>lv</num>), 1929.</p>
-        <p><pb n="347" xml:id="p347"/><hi rend="sc">Boulenger</hi> (J.). <emph>Les romans de la Table Ronde</emph>, 4 vol., 1923.</p>
-        <p><hi rend="sc">Faral</hi> (G.). <emph>La légende arthurienne</emph> (3 vol.), 1929.</p>
-        <p><hi rend="sc">Haggerty-Krappe</hi> (A.). <emph>La légende de Tannhäuser</emph>. (<emph>Mercure de France</emph>, 1<hi rend="sup">er</hi> juin.) 1938.</p>
-        <p><hi rend="sc">Paris</hi> (G.). <emph>La Littérature française au moyen âge</emph>, 1899.</p>
-        <p><hi rend="sc">Suhtscheck.</hi> (<hi rend="sc">F. von).</hi> <hi xml:lang="fr" rend="i">La traduction du Parsiwalmana par Wolfram d’Eschenbach</hi>. (<hi xml:lang="de" rend="i">Forschungen und Fortschritt</hi>, n° 10.) Berlin, 1931.</p>
-        <p><hi rend="sc">Wechssler</hi> (E.). <hi xml:lang="de" rend="i">Die Sage vom heiligen Graal in ihrer Entwicklung bis auf R. Wagners Parsifal</hi>, 1898.</p>
-        <p><hi rend="sc">Weston</hi> (J.-L.). <emph>The Grail and the rites of Adonis</emph> (<hi rend="i">Folk-Lore</hi>). Londres, 1907.</p>
-        <p>Voir aussi les ouvrages cités II a) ; les œuvres de Chrétien de Troyes et de Robert de Boron ; <emph>la Queste du Sainl-Graal</emph> éditée par A. Pauphilet, 1921 ; les traductions de Wolfram d’Eschenbach par E. Tonnelat, et par M. Wilmotte ; enfin la <emph>Croisade contre le Graal</emph>, de Rahn.</p>
-        <p/>
-        <p>f)<emph> Divers</emph> :</p>
-        <p><hi rend="sc">Boulanger</hi> (A.). <emph>Orphée, rapports de l’orphisme et du christianisme</emph>, 1925.</p>
-        <p><hi rend="sc">Dawson</hi> (Chr.). <emph>Les origines de l’Europe et de la civilisation européenne</emph>, trad. franç., 1932.</p>
-        <p><hi rend="sc">Monod</hi> (W.). <emph>Le Problème du Bien</emph>, 3 vol. 1934.</p>
-        <p><hi rend="sc">Nitobé (I.).</hi>
-          <emph>Le Bushido</emph> (sur la chevalerie japonaise), trad. franç :, 1927.</p>
-        <p><hi rend="sc">Schultz</hi> (W.). <hi xml:lang="fr" rend="i">Dokumente der Gnosis</hi>. Iéna, 1910.</p>
-        <label>III. — Le mythe et la mystique</label>
-        <p><hi rend="sc">Baruzi</hi> (Jean). <emph>Saint Jean de la Croix et l’expérience mystique</emph> (2<hi rend="sup">e</hi> éd.), 1931.</p>
-        <p>— <emph>Introduction à des recherches sur le langage mystique</emph>. (<emph>Recherches philosophiques</emph>, tome I.)</p>
-        <p><hi rend="sc">Bruno de</hi> J.-M. (P. Fr.). <emph>Saint Jean de la Croix</emph> (préface de J. Maritain.), 1929.</p>
-        <p><hi rend="sc">Chuzeville</hi> (J.). <emph>Les mystiques allemands</emph>, 1935. (Trad., et introd. fertiles en erreurs de tous genres.)</p>
-        <p><hi rend="sc">Eckhart.</hi> <emph>Œuvres</emph>, éditées par Franz Pfeiffer, 1857 et 1924.</p>
-        <p><pb n="348" xml:id="p348"/><hi rend="sc">Eckhart.</hi> <emph>Sermons</emph>, trad. franç. par Mayrisch Saint-Hubert. Introduction par B. Groethuysen. (<emph>Hermès</emph>, n° IV), 1937.</p>
-        <p><hi rend="sc">Etchegoyen</hi> (G.). <emph>L’amour divin, essai sur les sources de sainte Thérèse</emph>, 1923.</p>
-        <p><hi rend="sc">Félice</hi> (Ph. <hi rend="sc">de).</hi> <emph>Poisons sacrés, ivresses divines</emph>, 1936.</p>
-        <p><hi rend="sc">Gilson</hi> (E.). <emph>La théologie mystique de saint Bernard</emph>, 1934.</p>
-        <p><hi rend="sc">Gout</hi> (R.). <emph>Le Miroir des dames chrétiennes</emph>, 1935.</p>
-        <p><hi rend="sc">James</hi> (W.). <emph>L’expérience religieuse</emph> (2<hi rend="sup">e</hi> éd.) Trad. Abauzit, 1931.</p>
-        <p><hi rend="sc">Saint Jean de la Croix.</hi> <emph>Œuvres</emph>, trad. et introd. H. Hoornaert. Bruges, 1928.</p>
-        <p><hi rend="sc">Labande-Jeanroy</hi> (Th.). <emph>Les mystiques italiens</emph> (anthol. et introd.), 1929.</p>
-        <p><hi rend="sc">Lamm</hi> (M.). <emph>Swendenborg</emph>, trad. franç., préface de P. Valéry, 1936.</p>
-        <p><hi rend="sc">Maréchal</hi> (R. P.). <emph>Études sur la psychologie des mystiques</emph>, 2 vol., 1924 et 1937.</p>
-        <p><hi rend="sc">Minkowski</hi> (D<hi rend="sup">r</hi> E.). <emph>Vers une cosmologie</emph>, 1936.</p>
-        <p><hi rend="sc">Montmorand (M. de). </hi> <emph>Psychologie des mystiques catholiques orthodoxes</emph>, 1920.</p>
-        <p><hi rend="sc">Otto</hi> (R.). <hi xml:lang="de" rend="i">Westöstliche Mystik</hi>, Gotha, 1929.</p>
-        <p><hi rend="sc">Rémusat</hi> (Ch. <hi rend="sc">de</hi>) <emph>Abélard</emph>, 1845.</p>
-        <p><hi rend="sc">Ruysbroek.</hi> <emph>Œuvres</emph>, 5 vol. trad. des Bénédictins de Saint-Paul de Wisques. Bruxelles, 1921-1930.</p>
-        <p>— Numéro spécial de la revue <emph>Hermès</emph> (II, 1933). Bruxelles.</p>
-        <p><hi rend="sc">Sabatier</hi> (P.). <emph>Vie de saint François d’Assise</emph>, éd. définitive, 1931.</p>
-        <p><hi rend="sc">Sainte</hi> Thérèse d’Avila. <emph>Œuvres</emph>, trad. des Carmélites, 1907.</p>
-        <label>IV. — Le mythe dans la littérature</label>
-        <p>Les œuvres littéraires analysées dans ce livre IV sont bien connues et facilement accessibles ; il est donc inutile d’en surcharger ce mémento. On ne trouvera ci-après que les travaux spéciaux que j’ai utilisés et cités.</p>
-        <p><hi rend="sc">Asin Palacios</hi> (D. M.). <emph>La Escatologia musulmana en la Divina comedia</emph>. Madrid, 1919.</p>
-        <p><hi rend="sc">Aroux (E.).</hi> <emph>Dante hérétique, révolutionnaire et socialiste</emph>, 1845.</p>
-        <p><pb n="349" xml:id="p349"/><hi rend="sc">Béguin</hi> (A.). <emph>L’Âme romantique et le rêve</emph>, 2 vol. Marseille, 1937.</p>
-        <p><hi rend="sc">Bertoni (G.</hi>), <emph>I trovatori d’Italia</emph>. Modène, 1915.</p>
-        <p><hi rend="sc">Breton</hi> (A.). <emph>L’amour fou</emph>, 1937.</p>
-        <p><hi rend="sc">Cingria</hi> (C.-A.). <emph>Pétrarque</emph>. Lausanne, 1932.</p>
-        <p><hi rend="sc">Cochin</hi> (H.). <emph>Pétrarque</emph> (anthol. et intr.), 1928.</p>
-        <p><hi rend="sc">De Ligt</hi> (B.). <emph>La Paix créatrice</emph>, 2 vol. 1934.</p>
-        <p><hi rend="sc">Divers.</hi>
-          <emph>Le Romantisme allemand</emph>. (Numéro spécial des <emph>Cahiers du Sud</emph>.) Marseille, 1937.</p>
-        <p><hi rend="sc">Fichte</hi>. <hi xml:lang="de" rend="i">Grundlage der gesamten Wissenschaftslehre</hi>, 1794.</p>
-        <p><hi rend="sc">Goncourt</hi> (E. et <hi rend="sc">J. de).</hi> <emph>La Femme au dix-huitième siècle</emph>, 1862.</p>
-        <p><hi rend="sc">Guénon</hi> (R.). <emph>L’ésotérisme de Dante</emph>, 1919.</p>
-        <p><hi rend="sc">Huch</hi> (R.). <emph>Les Romantiques allemands</emph>, trad. franç. (défectueuse), 1933.</p>
-        <p><hi rend="sc">Klossowski</hi> (P.). <emph>Le mal est la négation d’autrui dans la philosophie de Sade</emph>. (<emph>Recherches philosophiques</emph>, tome IV).</p>
-        <p>— <emph>Temps et agressivité</emph>. (<emph>Recherches philosophiques</emph>, t. V.)</p>
-        <p><hi rend="sc">Labande-Jeanroy</hi> (Th.). <emph>La poésie italienne avant Pétrarque</emph>, 1929.</p>
-        <p><hi rend="sc">Luther</hi>, <emph>Œuvres complètes</emph>, édition de Weimar.</p>
-        <p><hi rend="sc">Ortega y Gasset</hi> (J.). <hi xml:lang="de" rend="i">Über die Liebe</hi>, trad. allemande. Berlin, 1933. (Recueil d’essais dispersés dans les œuvres espagnoles de l’auteur.)</p>
-        <p><hi rend="sc">Péladan</hi> (J.). <emph>La doctrine de Dante</emph>, 1907.</p>
-        <p><hi rend="sc">Pourtalès</hi> (<hi rend="sc">G. de).</hi>
-          <emph>Wagner</emph>, 1932.</p>
-        <p><hi rend="sc">Quézel</hi> (R.). <emph>Dante</emph> (anthol. trad. des œuvres mineures), 1927.</p>
-        <p><hi rend="sc">Rank</hi> (O.). <hi xml:lang="fr" rend="i">Don Juan</hi>, trad. franç., 1925.</p>
-        <p><hi rend="sc">Saurat (D.).</hi> <emph>Milton et le matérialisme chrétien en Angleterre</emph>, 1928.</p>
-        <p><hi rend="sc">Schmidt</hi> (A.-M.). <emph>Saint-Évremond ou l’humaniste impur</emph>, 1932.</p>
-        <p><hi rend="sc">Shakespeare.</hi> <emph>Roméo et Juliette</emph>, trad. P.-J. Jouve et G. Pitoëff, introd. par P.-J. Jouve, 1937.</p>
-        <p><hi rend="sc">Walzel</hi> (O.). <hi xml:lang="de" rend="i">Deutsche Romantik</hi>, 2 vol. Leipzig, 1926.</p>
-        <label>V. — Amour et guerre</label>
-        <p><hi rend="sc">Benoist-Méchin</hi> (J.). <emph>Histoire de l’armée allemande</emph> (1918-1938), 2 vol., 1936 et 1938.</p>
-        <p><hi rend="sc">Boulenger</hi> (J.). <emph>Le Grand Siècle</emph>, 1915.</p>
-        <p><pb n="350" xml:id="p350"/><hi rend="sc">Bovet</hi> (P.). <emph>L’instinct combatif</emph>, 2<hi rend="sup">e</hi> éd., 1931.</p>
-        <p><hi rend="sc">Burckhardt</hi> (J.). <hi xml:lang="de" rend="i">Die Kultur der Renaissance in Italien</hi> (éd. Phaidon). Vienne, s. d.</p>
-        <p><hi rend="sc">Castiglione</hi> (B.). <emph>Il Cortigiano</emph>, Venise, 1549. Milan, 1928.</p>
-        <p><hi rend="sc">Chastellain</hi> (G.). <emph>Œuvres</emph>, 8 vol. Bruxelles, 1863-1866.</p>
-        <p><hi rend="sc">Ferrero</hi> (G.). <emph>La fin des aventures</emph>, 1931.</p>
-        <p><hi rend="sc">Foch</hi> (F.). <emph>Les Principes de la guerre</emph>, 1903 et 1929.</p>
-        <p><hi rend="sc">Freud</hi> (S.). <emph>Œuvres</emph>, trad. en français, chez Alcan et chez, Gallimard. (Voir aussi la collection de la <emph>Revue française de psychanalyse</emph>.)</p>
-        <p><hi rend="sc">Guichardin</hi>. <emph>Histoire d’Italie</emph>, 3 vol. trad. franç. Londres, 1738.</p>
-        <p><hi rend="sc">Hirschfeld</hi> (D<hi rend="sup">r</hi> M.). <hi xml:lang="de" rend="i">Sittengeschichte des Weltkrieges</hi>, 2 vol. Vienne et Leipzig, 1930.</p>
-        <p><hi rend="sc">Hitler</hi> <hi xml:lang="fr" rend="i">Mein Kampf</hi>, 1924.</p>
-        <p><hi rend="sc">Huizinga</hi> (J.). <emph>Le déclin du moyen âge</emph>, trad. franç., 1932.</p>
-        <p>— <hi xml:lang="de" rend="i">Im Schatten von Morgen</hi>, trad. allemande. Leipzig, 1936.</p>
-        <p><hi rend="sc">Jünger</hi> (E.). <emph>La Guerre, notre Mère</emph>, trad. franç., 1934.</p>
-        <p><hi rend="sc">La Marche</hi> (O. de). <emph>Mémoires</emph>, 4 vol., rééd. 1883-1888.</p>
-        <p><hi rend="sc">Monglond</hi> (A.). <emph>Le Préromantisme français</emph>, 2 vol. Grenoble, 1925.</p>
-        <p><hi rend="sc">Salomon</hi> (E. von.) <emph>Les Réprouvés</emph>, trad. franç., 1930.</p>
-        <label>VI et VII. — Le mythe et le mariage</label>
-        <p><hi rend="sc">Bachofen</hi>. <hi xml:lang="de" rend="i">Mutterrecht und Urreligion</hi> (éd. Kröner). Leipzig, s. d.</p>
-        <p><hi rend="sc">Brunner</hi> (E.). <hi xml:lang="de" rend="i">Eros und Liebe</hi> (<hi xml:lang="de" rend="i">Neue Schweizer Rundschau</hi>). Zurich, septembre 1933.</p>
-        <p><hi rend="sc">Croce</hi> (B.). <emph>Etica e Politica</emph>. Bari, 1931.</p>
-        <p><hi rend="sc">Calvin.</hi> <emph>Institution de la religion chrétienne</emph> (texte 1560), 1865. — (Texte de 1541) 3 vol. parus, 1936-1938.</p>
-        <p><hi rend="sc">Divers.</hi> Numéro spécial de <emph>Foi et Vie</emph> sur les problèmes du mariage chrétien, novembre-décembre 1936. (Études de <hi rend="sc">E. Thurneysen</hi>, W.-<hi rend="sc">A. Visser’t Hooft</hi>, etc.).</p>
-        <p><hi rend="sc">Engels</hi> (F.). <emph>L’Origine de la Famille, de la Propriété et de l’État</emph>, trad. franç., 1931.</p>
-        <p><hi rend="sc">Ferrero</hi> (Leo). <emph>Désespoirs</emph>, 1937.</p>
-        <p><hi rend="sc">Fiorentino</hi> (U). <emph>Essai sur le mariage</emph>, 1936.</p>
-        <p><hi rend="sc">Gasparri</hi>. <emph>Tractatus canonicus de matrimonio</emph>, 1904.</p>
-        <p><pb n="351" xml:id="p351"/><hi rend="sc">Iswolsky</hi> (H.), <emph>Femmes soviétiques</emph>, 1937.</p>
-        <p><hi rend="sc">Jouhandeau</hi> (M.), <emph>Chroniques maritales</emph>, 1938.</p>
-        <p><hi rend="sc">Jung</hi> (C.-G.). <emph>Essais de psychologie analytique</emph>, trad. franç., 1931.</p>
-        <p><hi rend="sc">Lavaud</hi> (R. P.). <emph>Le monde moderne et le mariage chrétien</emph>, 1934.</p>
-        <p>— <emph>L’idée divine du mariage</emph> (Et. carmélitaines, avril 1936).</p>
-        <p><hi rend="sc">Kierkegaard.</hi> <hi xml:lang="de" rend="i">Religion der Tat</hi> (<hi xml:lang="de" rend="i">Sein Werk im Auswahl</hi>). Traduction allemande de Geismar. Leipzig, 1930.</p>
-        <p><hi rend="sc">Koch</hi> (C.). <hi xml:lang="fr" rend="i">Soeren Kierkegaard</hi>, trad. franç., 1934.</p>
-        <p><hi rend="sc">Marañon</hi> (D<hi rend="sup">r</hi>). <hi xml:lang="fr" rend="i">Amiel, un essai sur la timidité</hi>, trad. franç., 1938.</p>
-        <p><hi rend="sc">Nygren</hi> (A.). <hi xml:lang="de" rend="i">Eros und Agape</hi>, 2 vol. Gütersloh, 1937.</p>
-        <p><hi rend="sc">Pie</hi> X. Encyclique<hi xml:lang="de" rend="i"> Casti Connubii</hi>. Bruges, 1931.</p>
-        <p><hi rend="sc">Pury</hi> (<hi rend="sc">R. de).</hi> <hi xml:lang="de" rend="i">Eros et Agapè</hi> (in <emph>Problèmes de la Sexualité</emph>), 1937.</p>
-        <p><hi rend="sc">Tisseau</hi> (P.). <emph>Kierkegaard et l’amour</emph> (<emph>Foi et Vie</emph>, septembre) 1934.</p>
-        <p><hi rend="sc">Westermarck</hi> (E.). <emph>A short history of marriage</emph>. Londres, 1926.</p>
-        <p>— <emph>Histoire du mariage</emph>, trad. franç., 1934-1935.</p>
-      </div>
+          <p>Paul Sabatier, dans sa fameuse biographie de saint François, se pose la question d’une influence possible de l’hérésie courtoise sur la mystique franciscaine. Il commence par nier toute communication directe de l’une à l’autre. (L’argument avancé me convainc peu : l’hérésie était de nature dogmatique, et saint François ne s’occupait pas de doctrine… Mais croit-on que tous les Cathares dogmatisaient ? Il y a de plus sérieuses raisons de nier l’hérésie du saint.) Cependant, il décrit fort bien l’ambiance cathare de l’Italie au temps de la jeunesse de François. <pb n="341" xml:id="p341"/> Les hérétiques, baptisés <emph>Gazzari</emph> en Italie (Bulgares ou Bougres dans les pays du Nord) s’étaient emparés du gouvernement de plusieurs municipalités. Le podestat d’Assise était un hérétique, avant 1204 ! Dans les cités avoisinantes, il y eut de nombreux soulèvements et émeutes occasionnés par le conflit religieux. D’autre part, on sait bien que saint François avait été le disciple enthousiaste des poètes français (d’où son nom même). Il partageait l’engouement des Italiens du Nord pour les troubadours qui y séjournaient fréquemment (tels Peire Vidal, Peire d’Auvergne, Raimbaut de Vaqueiras, Bernart de Ventadour). Enfin, l’influence de Joachim de Flore sur saint François ne saurait faire de doute. Ce fameux ermite annonçait le règne de l’Esprit, l’approche de la troisième période de l’humanité, le régime de la grâce et de l’Amour. Certains troubadours le connurent. (Richard Cœur de Lion par exemple). Les deux doctrines ont bien des points de ressemblance.</p>
+          <p>Il reste que saint François, s’il fut influencé par l’atmosphère de la religion d’Amour, en transporta toute la passion dans l’Église et l’orthodoxie, auxquelles il demeura toujours fidèle. Et Sabatier remarque, non sans profondeur, que la charité franciscaine obtint sans faire couler le sang la résorption de l’hérésie en Italie, alors que la brutalité des cléricaux dans le Midi n’y parvint — et en apparence — qu’au prix d’effroyables massacres. Seule Agapè peut triompher d’Éros. Mars déchaîné, même contre Éros, n’est guère qu’un autre aspect du mal qu’il veut détruire, et plus barbare.</p>
+          <label>10. – Sur le sadisme</label>
+          <p>Je trouve une confirmation de mon analyse du crime sadique dans deux études remarquables de Pierre Klossowski : <emph>le Mal et la négation d’autrui dans la philosophie de D. A. F. de Sade et Temps et Agressivité</emph>. (<emph>Recherches philosophiques</emph>, tomes IV et V.)</p>
+          <p>L’auteur montre que pour Sade, le mal est l’unique élément de la Nature. On lit dans la <emph>Nouvelle Justine</emph> : « Oui, j’abhorre la Nature : et c’est parce que je la connais trop bien que je la déteste : instruit de ses affreux secrets… j’ai éprouvé une sorte de plaisir à copier ses noirceurs. » <pb n="342" xml:id="p342"/> (D’où le désir sadique de se libérer des tyrannies sensuelles par l’excès de débauche.)</p>
+          <p>Autre condamnation vraiment manichéenne de la Création : « Le principe de vie dans tous les êtres n’est autre que celui de la mort ; nous les recevons et les nourrissons dans nous tous deux à la fois. » P. Klossowski oppose cette opinion de Sade à celle de Freud, qui voit une antithèse entre l’instinct de mort et Éros. L’analyse du mythe nous a montré que cette antithèse est purement apparente.</p>
+          <p>Mais si la vie et la Nature créée ne sont que noirceurs et cruauté, il faut alors pour s’en délivrer renchérir sur cette cruauté et ces noirceurs. Il n’y a qu’une alternative : exercer la cruauté sur soi ou sur le prochain. Sade choisit le prochain : il veut être criminel plutôt que victime. Ainsi la conscience sadique est l’inverse de la conscience romantique. Le romantique (Pétrarque) se châtie pour conserver l’objet aimé, tandis que Sade veut le tuer.</p>
+          <label>11. – Au-delà de nos sécurités</label>
+          <p>Faut-il aller encore plus loin que Kierkegaard dans le dépassement du « stade éthique » ? Il m’arrive de le pressentir, et de penser : du point de vue de la foi, il n’y a sans doute aucun profit au « règlement des mœurs » pour les non-chrétiens. C’est une façon de les mettre, au contraire, à l’abri du désespoir réel, humain, qui les conduirait à la foi. Une cure d’âme comprise non pas au sens d’une hygiène morale bourgeoise, mais au sens chrétien — la guérison à obtenir, c’est que l’infidèle croie — devrait conduire à désirer pour l’homme non-chrétien qu’il traverse tout le « bonheur » de la passion. Or on s’efforce de le retenir <emph>en deçà</emph>. Si bien que le seul <emph>au-delà</emph> concret qu’il soit en état de désirer, d’imaginer, c’est le « dérèglement des passions ».</p>
+          <p>Mais voilà ce qu’il faut ajouter : l’homme livré à ses dérèglements conçoit un désespoir dont le remède peut très bien lui apparaître : la loi. Or ce n’est que le renoncement à la loi <emph>ainsi comprise</emph> qui peut nous conduire à la foi.</p>
         </div>
-      </body>
+        <div>
+          <pb n="343" xml:id="p343"/>
+          <head>Notice bibliographique</head>
+          <p>Une bibliographie complète des divers problèmes abordés dans cet ouvrage est pratiquement exclue. On n’indiquera ici que les travaux utilisés par l’auteur, moins pour faire connaître sa science que pour en marquer les limites.</p>
+          <listBibl>
+            <head>I. — Le mythe de Tristan</head>
+            <listBibl>
+              <head>a) <emph>Les textes</emph> :</head>
+              <bibl><hi rend="sc">Bédier</hi> (J.). Édition du <emph>Tristan</emph> de Thomas, 2 vol., 1902-1905. (Le 2<hi rend="sup">e</hi> tome contient une table de concordance des divers textes primitifs de la légende.)</bibl>
+              <bibl>— <emph>Les deux poèmes de la Folie Tristan</emph>, 1907.</bibl>
+              <bibl>— <emph>Le Roman de Tristan et Iseult</emph> (transcription moderne, 185<hi rend="sup">e</hi> mille).</bibl>
+              <bibl><hi rend="sc">Bossert (A.).</hi>
+                <emph>La Légende chevaleresque de Tristan et Iseult</emph>, 1902 (sur le Tristan de Gottfried de Strasbourg).</bibl>
+              <bibl><hi rend="sc">Michel</hi> (Fr.). <emph>Poèmes français et anglo-normands sur Tristan</emph>. 2 vol. Londres, 1835-1839.</bibl>
+              <bibl><hi rend="sc">Muret</hi> (E.). Édition du <emph>Tristan et Iseut</emph> de Béroul, 1003.</bibl>
+              <bibl><hi rend="sc">Thomas.</hi> Tristan et Iseult, trad. partielle en français moderne par R. Herbomez et J. Beaurieux, 1935.</bibl>
+              <bibl><hi rend="sc">Vinaver</hi> (E.). Édition du Roman en prose, 1911.</bibl>
+              <bibl>— <emph>Le Roman de Tristan dans l’œuvre de Thomas Malory</emph>, 1925.</bibl>
+              <bibl><hi rend="sc">Wagner</hi> (R.). <hi xml:lang="fr" rend="i">Tristan und Isolde</hi>, 1860.</bibl>
+            </listBibl>
+            <listBibl>
+              <head>b) <emph>Voir aussi</emph> :</head>
+              <bibl><hi rend="sc">D’Arbois de Jubainville</hi> (H.) <emph>Cours de littérature celtique</emph>, 12 vol., 1884.</bibl>
+              <bibl>— <emph>Le cycle mythol. irlandais et la mythol. celtique</emph>, 1884.</bibl>
+              <bibl><pb n="344" xml:id="p344"/><hi rend="sc">Bédier</hi> (J.) <emph>Les légendes épiques</emph>, 4 vol., 1917.</bibl>
+              <bibl><hi rend="sc">Caillois</hi> (R.). <emph>Le mythe et l’art : nature de leur opposition</emph>. (II<hi rend="sup">e</hi> Congrès intern, d’esthétique), 1937.</bibl>
+              <bibl><hi rend="sc">Dottin</hi> (G.). <emph>L’épopée irlandaise</emph>, 1926.</bibl>
+              <bibl><hi rend="sc">Hubert</hi> (H.). Les Celtes, 2 vol., 1932.</bibl>
+              <bibl><hi rend="sc">Jaspers</hi> (K.). <hi xml:lang="de" rend="i">Philosophie</hi>, 3 vol. Berlin, 1932.</bibl>
+              <bibl><hi rend="sc">Joyce.</hi>
+                <emph>Old Celtic romance</emph>. Londres, 1879.</bibl>
+              <bibl><hi rend="sc">Loth</hi> (J.). <emph>Les Mabinogion</emph> (<emph>in</emph> d’Arbois : <emph>Cours de litt. celt.</emph>), 1884.</bibl>
+              <bibl><hi rend="sc">Paris</hi> (G.). <emph>Les origines celtiques de Tristan</emph> (<emph>Revue de Paris</emph>, 15 avril 1884).</bibl>
+            </listBibl>
+          </listBibl>
+          <listBibl>
+            <head>II. — Origines religieuses du mythe</head>
+            <listBibl>
+              <head>a) <emph>Sur les Celtes</emph> :</head>
+              <bibl>Ouvrages déjà cités de d’Arbois, Hubert, Joyce, Loth ; [plus <hi rend="sc">rahn</hi> (voir plus bas)].</bibl>
+            </listBibl>
+            <listBibl>
+              <head>b) <emph>Sur le manichéisme et les Cathares</emph> :</head>
+              <bibl><hi rend="sc">Alfaric</hi> (P.). <emph>L’évolution intellectuelle de saint Augustin (du manichéisme au néo-platonisme)</emph>, 1918.</bibl>
+              <bibl><hi rend="sc">Alphandéry</hi> (P.). <emph>Les idées morales chez les hétérodoxes latins au début du treizième siècle</emph>, 1903.</bibl>
+              <bibl><hi rend="sc">Anitchkof</hi> (E.). <emph>Joachim de Flore et les milieux courtois</emph>. Rome, 1931.</bibl>
+              <bibl>— <emph>Les survivances manichéennes à l’Occident et chez les Slaves</emph>. (<emph>Revue des études slaves</emph>, VIII), 1928.</bibl>
+              <bibl><hi rend="sc">Benvéniste</hi> (E.). <emph>Hymnes manichéens</emph> (<emph>Yggdrasil</emph>, 25 août), 1937.</bibl>
+              <bibl><hi rend="sc">Clédat.</hi>
+                <emph>Le Nouveau Testament traduit au treizième siècle en langue provençale</emph>, suivi d’un<emph> Rituel cathare</emph>, 1887.</bibl>
+              <bibl><hi rend="sc">Corbin</hi> (H.). <emph>Pour l’hymnologie manichéenne</emph> (<emph>Yggdrasil</emph>), 1937.</bibl>
+              <bibl><hi rend="sc">Cuhont</hi> (F.). <emph>La Cosmogonie manichéenne</emph>. Bruxelles, 1908.</bibl>
+              <bibl>— <emph>Recherches sur le manichéisme</emph>. Bruxelles, 1912.</bibl>
+              <bibl><hi rend="sc">Doellinger.</hi> <hi xml:lang="de" rend="i">Beitrage zur Sektengeschichte des Mittelalters</hi> (gnostiques et manichéens), 1890.</bibl>
+              <bibl><hi rend="sc">Douais</hi> (C.). <emph>Les Albigeois, leur origine</emph>, 1879.</bibl>
+              <bibl><hi rend="sc">Gilson</hi> (E.). <emph>La Théologie mystique de saint Bernard</emph>, 1934.</bibl>
+              <bibl><hi rend="sc">Gui</hi> (B.). <emph>Manuel de l’Inquisiteur</emph> (trad. et introd. G. Mollat), 2 vol. 1920-1927.</bibl>
+              <bibl><pb n="345" xml:id="p345"/><hi rend="sc">Guiraud</hi> (J.). <emph>Saint Dominique</emph>, 1923.</bibl>
+              <bibl>— <emph>Histoire de l’Inquisition au moyen âge</emph>, 1935.</bibl>
+              <bibl><hi rend="sc">Harnack</hi> (A.). <hi xml:lang="de" rend="i">Dogmengeschichte</hi>, 3 vol. Freiburg i. B., 1897.</bibl>
+              <bibl><hi rend="sc">Lallemand</hi> (M.). <emph>Notes sur l’histoire occulte du moyen âge</emph>. (<emph>Hermès</emph>, II). Bruxelles, 1933.</bibl>
+              <bibl><hi rend="sc">Migne.</hi>
+                <emph>Patrologiæ cursus completus</emph> (<hi xml:lang="fr" rend="i">series latina</hi>) tome CCXII (Chroniques de P. des Vaux de Cernay sur les Albigeois.)</bibl>
+              <bibl><hi rend="sc">Molinier</hi> (Ch.). <emph>L’Endura</emph> (<emph>Annales de la Faculté, des Lettres de Bordeaux</emph>, III), 1881.</bibl>
+              <bibl><hi rend="sc">Peyrat</hi> (N.). <emph>Histoire des Albigeois</emph>, 2 vol., 1880.</bibl>
+              <bibl><hi rend="sc">Roché</hi> (D.). <emph>La doctrine des Albigeois sur le problème du mal</emph>. (<emph>La Science spirituelle</emph>), 1931-1932.</bibl>
+              <bibl>— <emph>L’initiation spirituelle des chrétiens albigeois</emph> (<emph>Science spirituelle</emph>), 1925.</bibl>
+              <bibl>— <emph>Le catharisme</emph>. Carcassonne, 1937.</bibl>
+              <bibl><hi rend="sc">Schmidt</hi> (Ch.). <emph>Histoire et doctrine de la secte des Cathares et Albigeois</emph>, 1849.</bibl>
+              <bibl><hi rend="sc">Tocco</hi> (F.). <emph>L’eresia nel medio evo</emph>. Florence, 1884.</bibl>
+              <bibl><hi rend="sc">Varga</hi> (L.). <emph>Le Catharisme</emph>. (<emph>Revue de synthèse</emph>), juin 1936.</bibl>
+            </listBibl>
+            <listBibl>
+              <head>c) <emph>Sur les troubadours</emph> :</head>
+              <bibl><hi rend="sc">André le Chapelain.</hi>
+                <emph>De arte honeste amandi</emph> (début du treizième siècle).</bibl>
+              <bibl><hi rend="sc">Anglade</hi> (J.). <emph>Les troubadours</emph>, 1924.</bibl>
+              <bibl>— <emph>Anthol. des troubadours</emph>, 1927.</bibl>
+              <bibl><hi rend="sc">Appel</hi> (K.). <hi xml:lang="de" rend="i">Provenzalische Chrestomathie</hi>. Leipzig, 1907.</bibl>
+              <bibl><hi rend="sc">Aroux</hi> (E.). <emph>Clef de la Comédie anticatholique de Dante Alighieri, pasteur de l’Église albigeoise de la ville de Florence, affilié à l’Ordre du Temple, — donnant l’explication du langage symbolique des fidèles d’Amour dans les compositions lyriques, romans et épopées chevaleresques des troubadours</emph>, 1856.</bibl>
+              <bibl><hi rend="sc">Bartsch</hi> (K.). <hi xml:lang="de" rend="i">Chrestomathie provençale</hi>. Marburg, 1904.</bibl>
+              <bibl><hi rend="sc">Bertoni</hi> (G.). <emph>I trovatori d’Italia</emph>. Modène, 1915.</bibl>
+              <bibl><hi rend="sc">Cingria</hi> (C.-A.). <emph>Ieu oc tan</emph> (<emph>Mesures</emph>, n° 2), 1937.</bibl>
+              <bibl><hi rend="sc">Diez</hi> (F.). <hi xml:lang="de" rend="i">Die Poesie der Troubadours</hi>, 1883.</bibl>
+              <bibl><hi rend="sc">Fauriel.</hi>
+                <emph>Histoire de la poésie provençale</emph>, 1846.</bibl>
+              <bibl><hi rend="sc">Jeanroy</hi> (A.). <emph>De nostratibus medii aevi poetis qui primum lyrica aquitaniae carmina imitati sunt</emph>, 1889.</bibl>
+              <bibl>— <emph>Anthologie des troubadours</emph>, 1927.</bibl>
+              <bibl><pb n="346" xml:id="p346"/><hi rend="sc">Jeanboy</hi> (A.). <emph>La Poésie lyrique des troubadours</emph>, 2 vol., 1934.</bibl>
+              <bibl><hi rend="sc">Lee (Vernon).</hi>
+                <emph>Medieval Love</emph> (Euphorion). Londres, 1889.</bibl>
+              <bibl><hi rend="sc">Lewis</hi> (C.-S.). <emph>The Allegory of Love</emph>. Oxford, 1936.</bibl>
+              <bibl><hi rend="sc">Mauclair (C.).</hi>
+                <emph>Le protestantisme et les romans de chevalerie</emph>. (<emph>Revue de Genève</emph>, mars) 1926.</bibl>
+              <bibl><hi rend="sc">Péladan.</hi>
+                <emph>De Parsifal à Don Quichotte : le Secret des troubadours</emph>. 1906.</bibl>
+              <bibl><hi rend="sc">Raynouard.</hi>
+                <emph>Choix de poésies originales des troubadours</emph>, 1816-1821.</bibl>
+              <bibl><hi rend="sc">Rahn</hi> (O.). <emph>La Croisade contre le Graal</emph>, trad. franç., 1934 (importante bibliographie, surtout pour les ouvrages allemands et pour ceux du dix-neuvième siècle. Lacunes pour les plus récents, surtout français).</bibl>
+              <bibl><hi rend="sc">Varga</hi> (L.). <emph>Peire Cardinal était-il hérétique</emph> ? (<emph>Revue Hist, des relig.</emph> mars-juin) 1938.</bibl>
+              <bibl><hi rend="sc">Wechssler</hi> (E.). <hi xml:lang="de" rend="i">Frauendienst und Vassalitaet</hi> (<hi xml:lang="de" rend="i">Zeitschrift für. franz. Sprache und Literatur</hi>, XXIV, 159.)</bibl>
+              <bibl>— <hi xml:lang="de" rend="i">Das Kulturproblem des Minnesangs</hi>, 2 vol. Halle, 1909.</bibl>
+            </listBibl>
+            <listBibl>
+              <head>d) <emph>Sur les mystiques arabes</emph> :</head>
+              <bibl>Asin <hi rend="sc">Palacios</hi> (Don Miguel). <emph>Un précurseur hispano-musulman de saint Jean de la Croix</emph>. (<emph>Études carmélitaines</emph>, avril 1932.)</bibl>
+              <bibl><hi rend="sc">Corbin</hi> (H.). <emph>Un traité persan inédit de Suhrawardî d’Alep</emph>, suivi d’une trad. du <emph>Familier des Amants</emph>. (<emph>Recherches philosophiques</emph>, tome II.)</bibl>
+              <bibl><hi rend="sc">Corbin</hi> (H.) et <hi rend="sc">Kraus</hi> (P.). <emph>Le bruissement de l’aile de Gabriel, traité philosophique et mystique de Suhrawardi d’Alep</emph>, introd. trad. et notes. (<emph>Journal asiatique</emph> juillet-septembre 1935.)</bibl>
+              <bibl><hi rend="sc">Dermenghem</hi> (E.). <emph>Mortelle Poésie</emph> (<emph>Hermès</emph>, II), 1933, et plusieurs traductions d’Ibn-al-Fahrid dans <emph>Mesures, les Cahiers du Sud, Hermès</emph>.</bibl>
+              <bibl><hi rend="sc">Massignon</hi> (L.). <emph>La Passion de al-Hallaj</emph>, 1921.</bibl>
+              <bibl>— <emph>Essai sur les origines du lexique technique de la mystique musulmane</emph>, 1922.</bibl>
+              <bibl><hi rend="sc">Massignon et Kraus.</hi> <hi xml:lang="de" rend="i">Akhbar al-Hallaj</hi>, 1936.</bibl>
+            </listBibl>
+            <listBibl>
+              <head>e) <emph>Sur les cycles romanesques du Nord</emph> :</head>
+              <bibl><hi rend="sc">Anitchkof</hi> (E.). <emph>Le Saint-Graal et les rites eucharistiques</emph>. (<emph>Romania</emph>, I, <num>lv</num>), 1929.</bibl>
+              <bibl><pb n="347" xml:id="p347"/><hi rend="sc">Boulenger</hi> (J.). <emph>Les romans de la Table Ronde</emph>, 4 vol., 1923.</bibl>
+              <bibl><hi rend="sc">Faral</hi> (G.). <emph>La légende arthurienne</emph> (3 vol.), 1929.</bibl>
+              <bibl><hi rend="sc">Haggerty-Krappe</hi> (A.). <emph>La légende de Tannhäuser</emph>. (<emph>Mercure de France</emph>, 1<hi rend="sup">er</hi> juin.) 1938.</bibl>
+              <bibl><hi rend="sc">Paris</hi> (G.). <emph>La Littérature française au moyen âge</emph>, 1899.</bibl>
+              <bibl><hi rend="sc">Suhtscheck.</hi> (<hi rend="sc">F. von).</hi> <hi xml:lang="fr" rend="i">La traduction du Parsiwalmana par Wolfram d’Eschenbach</hi>. (<hi xml:lang="de" rend="i">Forschungen und Fortschritt</hi>, n° 10.) Berlin, 1931.</bibl>
+              <bibl><hi rend="sc">Wechssler</hi> (E.). <hi xml:lang="de" rend="i">Die Sage vom heiligen Graal in ihrer Entwicklung bis auf R. Wagners Parsifal</hi>, 1898.</bibl>
+              <bibl><hi rend="sc">Weston</hi> (J.-L.). <emph>The Grail and the rites of Adonis</emph> (<hi rend="i">Folk-Lore</hi>). Londres, 1907.</bibl>
+              <bibl>Voir aussi les ouvrages cités II a) ; les œuvres de Chrétien de Troyes et de Robert de Boron ; <emph>la Queste du Sainl-Graal</emph> éditée par A. Pauphilet, 1921 ; les traductions de Wolfram d’Eschenbach par E. Tonnelat, et par M. Wilmotte ; enfin la <emph>Croisade contre le Graal</emph>, de Rahn.</bibl>
+            </listBibl>
+            <listBibl>
+              <head>f)<emph> Divers</emph> :</head>
+              <bibl><hi rend="sc">Boulanger</hi> (A.). <emph>Orphée, rapports de l’orphisme et du christianisme</emph>, 1925.</bibl>
+              <bibl><hi rend="sc">Dawson</hi> (Chr.). <emph>Les origines de l’Europe et de la civilisation européenne</emph>, trad. franç., 1932.</bibl>
+              <bibl><hi rend="sc">Monod</hi> (W.). <emph>Le Problème du Bien</emph>, 3 vol. 1934.</bibl>
+              <bibl><hi rend="sc">Nitobé (I.).</hi>
+                <emph>Le Bushido</emph> (sur la chevalerie japonaise), trad. franç :, 1927.</bibl>
+              <bibl><hi rend="sc">Schultz</hi> (W.). <hi xml:lang="fr" rend="i">Dokumente der Gnosis</hi>. Iéna, 1910.</bibl>
+            </listBibl>
+          </listBibl>
+          <listBibl>
+            <head>III. — Le mythe et la mystique</head>
+            <bibl><hi rend="sc">Baruzi</hi> (Jean). <emph>Saint Jean de la Croix et l’expérience mystique</emph> (2<hi rend="sup">e</hi> éd.), 1931.</bibl>
+            <bibl>— <emph>Introduction à des recherches sur le langage mystique</emph>. (<emph>Recherches philosophiques</emph>, tome I.)</bibl>
+            <bibl><hi rend="sc">Bruno de</hi> J.-M. (P. Fr.). <emph>Saint Jean de la Croix</emph> (préface de J. Maritain.), 1929.</bibl>
+            <bibl><hi rend="sc">Chuzeville</hi> (J.). <emph>Les mystiques allemands</emph>, 1935. (Trad., et introd. fertiles en erreurs de tous genres.)</bibl>
+            <bibl><hi rend="sc">Eckhart.</hi>
+              <emph>Œuvres</emph>, éditées par Franz Pfeiffer, 1857 et 1924.</bibl>
+            <bibl><pb n="348" xml:id="p348"/><hi rend="sc">Eckhart.</hi>
+              <emph>Sermons</emph>, trad. franç. par Mayrisch Saint-Hubert. Introduction par B. Groethuysen. (<emph>Hermès</emph>, n° IV), 1937.</bibl>
+            <bibl><hi rend="sc">Etchegoyen</hi> (G.). <emph>L’amour divin, essai sur les sources de sainte Thérèse</emph>, 1923.</bibl>
+            <bibl><hi rend="sc">Félice</hi> (Ph. <hi rend="sc">de).</hi>
+              <emph>Poisons sacrés, ivresses divines</emph>, 1936.</bibl>
+            <bibl><hi rend="sc">Gilson</hi> (E.). <emph>La théologie mystique de saint Bernard</emph>, 1934.</bibl>
+            <bibl><hi rend="sc">Gout</hi> (R.). <emph>Le Miroir des dames chrétiennes</emph>, 1935.</bibl>
+            <bibl><hi rend="sc">James</hi> (W.). <emph>L’expérience religieuse</emph> (2<hi rend="sup">e</hi> éd.) Trad. Abauzit, 1931.</bibl>
+            <bibl><hi rend="sc">Saint Jean de la Croix.</hi>
+              <emph>Œuvres</emph>, trad. et introd. H. Hoornaert. Bruges, 1928.</bibl>
+            <bibl><hi rend="sc">Labande-Jeanroy</hi> (Th.). <emph>Les mystiques italiens</emph> (anthol. et introd.), 1929.</bibl>
+            <bibl><hi rend="sc">Lamm</hi> (M.). <emph>Swendenborg</emph>, trad. franç., préface de P. Valéry, 1936.</bibl>
+            <bibl><hi rend="sc">Maréchal</hi> (R. P.). <emph>Études sur la psychologie des mystiques</emph>, 2 vol., 1924 et 1937.</bibl>
+            <bibl><hi rend="sc">Minkowski</hi> (D<hi rend="sup">r</hi> E.). <emph>Vers une cosmologie</emph>, 1936.</bibl>
+            <bibl><hi rend="sc">Montmorand (M. de). </hi>
+              <emph>Psychologie des mystiques catholiques orthodoxes</emph>, 1920.</bibl>
+            <bibl><hi rend="sc">Otto</hi> (R.). <hi xml:lang="de" rend="i">Westöstliche Mystik</hi>, Gotha, 1929.</bibl>
+            <bibl><hi rend="sc">Rémusat</hi> (Ch. <hi rend="sc">de</hi>) <emph>Abélard</emph>, 1845.</bibl>
+            <bibl><hi rend="sc">Ruysbroek.</hi>
+              <emph>Œuvres</emph>, 5 vol. trad. des Bénédictins de Saint-Paul de Wisques. Bruxelles, 1921-1930.</bibl>
+            <bibl>— Numéro spécial de la revue <emph>Hermès</emph> (II, 1933). Bruxelles.</bibl>
+            <bibl><hi rend="sc">Sabatier</hi> (P.). <emph>Vie de saint François d’Assise</emph>, éd. définitive, 1931.</bibl>
+            <bibl><hi rend="sc">Sainte</hi> Thérèse d’Avila. <emph>Œuvres</emph>, trad. des Carmélites, 1907.</bibl>
+          </listBibl>
+          <listBibl>
+            <head>IV. — Le mythe dans la littérature</head>
+            <bibl>Les œuvres littéraires analysées dans ce livre IV sont bien connues et facilement accessibles ; il est donc inutile d’en surcharger ce mémento. On ne trouvera ci-après que les travaux spéciaux que j’ai utilisés et cités.</bibl>
+            <bibl><hi rend="sc">Asin Palacios</hi> (D. M.). <emph>La Escatologia musulmana en la Divina comedia</emph>. Madrid, 1919.</bibl>
+            <bibl><hi rend="sc">Aroux (E.).</hi>
+              <emph>Dante hérétique, révolutionnaire et socialiste</emph>, 1845.</bibl>
+            <bibl><pb n="349" xml:id="p349"/><hi rend="sc">Béguin</hi> (A.). <emph>L’Âme romantique et le rêve</emph>, 2 vol. Marseille, 1937.</bibl>
+            <bibl><hi rend="sc">Bertoni (G.</hi>), <emph>I trovatori d’Italia</emph>. Modène, 1915.</bibl>
+            <bibl><hi rend="sc">Breton</hi> (A.). <emph>L’amour fou</emph>, 1937.</bibl>
+            <bibl><hi rend="sc">Cingria</hi> (C.-A.). <emph>Pétrarque</emph>. Lausanne, 1932.</bibl>
+            <bibl><hi rend="sc">Cochin</hi> (H.). <emph>Pétrarque</emph> (anthol. et intr.), 1928.</bibl>
+            <bibl><hi rend="sc">De Ligt</hi> (B.). <emph>La Paix créatrice</emph>, 2 vol. 1934.</bibl>
+            <bibl><hi rend="sc">Divers.</hi>
+              <emph>Le Romantisme allemand</emph>. (Numéro spécial des <emph>Cahiers du Sud</emph>.) Marseille, 1937.</bibl>
+            <bibl><hi rend="sc">Fichte</hi>. <hi xml:lang="de" rend="i">Grundlage der gesamten Wissenschaftslehre</hi>, 1794.</bibl>
+            <bibl><hi rend="sc">Goncourt</hi> (E. et <hi rend="sc">J. de).</hi>
+              <emph>La Femme au dix-huitième siècle</emph>, 1862.</bibl>
+            <bibl><hi rend="sc">Guénon</hi> (R.). <emph>L’ésotérisme de Dante</emph>, 1919.</bibl>
+            <bibl><hi rend="sc">Huch</hi> (R.). <emph>Les Romantiques allemands</emph>, trad. franç. (défectueuse), 1933.</bibl>
+            <bibl><hi rend="sc">Klossowski</hi> (P.). <emph>Le mal est la négation d’autrui dans la philosophie de Sade</emph>. (<emph>Recherches philosophiques</emph>, tome IV).</bibl>
+            <bibl>— <emph>Temps et agressivité</emph>. (<emph>Recherches philosophiques</emph>, t. V.)</bibl>
+            <bibl><hi rend="sc">Labande-Jeanroy</hi> (Th.). <emph>La poésie italienne avant Pétrarque</emph>, 1929.</bibl>
+            <bibl><hi rend="sc">Luther</hi>, <emph>Œuvres complètes</emph>, édition de Weimar.</bibl>
+            <bibl><hi rend="sc">Ortega y Gasset</hi> (J.). <hi xml:lang="de" rend="i">Über die Liebe</hi>, trad. allemande. Berlin, 1933. (Recueil d’essais dispersés dans les œuvres espagnoles de l’auteur.)</bibl>
+            <bibl><hi rend="sc">Péladan</hi> (J.). <emph>La doctrine de Dante</emph>, 1907.</bibl>
+            <bibl><hi rend="sc">Pourtalès</hi> (<hi rend="sc">G. de).</hi>
+              <emph>Wagner</emph>, 1932.</bibl>
+            <bibl><hi rend="sc">Quézel</hi> (R.). <emph>Dante</emph> (anthol. trad. des œuvres mineures), 1927.</bibl>
+            <bibl><hi rend="sc">Rank</hi> (O.). <hi xml:lang="fr" rend="i">Don Juan</hi>, trad. franç., 1925.</bibl>
+            <bibl><hi rend="sc">Saurat (D.).</hi>
+              <emph>Milton et le matérialisme chrétien en Angleterre</emph>, 1928.</bibl>
+            <bibl><hi rend="sc">Schmidt</hi> (A.-M.). <emph>Saint-Évremond ou l’humaniste impur</emph>, 1932.</bibl>
+            <bibl><hi rend="sc">Shakespeare.</hi>
+              <emph>Roméo et Juliette</emph>, trad. P.-J. Jouve et G. Pitoëff, introd. par P.-J. Jouve, 1937.</bibl>
+            <bibl><hi rend="sc">Walzel</hi> (O.). <hi xml:lang="de" rend="i">Deutsche Romantik</hi>, 2 vol. Leipzig, 1926.</bibl>
+          </listBibl>
+          <listBibl>
+            <head>V. — Amour et guerre</head>
+            <bibl><hi rend="sc">Benoist-Méchin</hi> (J.). <emph>Histoire de l’armée allemande</emph> (1918-1938), 2 vol., 1936 et 1938.</bibl>
+            <bibl><hi rend="sc">Boulenger</hi> (J.). <emph>Le Grand Siècle</emph>, 1915.</bibl>
+            <bibl><pb n="350" xml:id="p350"/><hi rend="sc">Bovet</hi> (P.). <emph>L’instinct combatif</emph>, 2<hi rend="sup">e</hi> éd., 1931.</bibl>
+            <bibl><hi rend="sc">Burckhardt</hi> (J.). <hi xml:lang="de" rend="i">Die Kultur der Renaissance in Italien</hi> (éd. Phaidon). Vienne, s. d.</bibl>
+            <bibl><hi rend="sc">Castiglione</hi> (B.). <emph>Il Cortigiano</emph>, Venise, 1549. Milan, 1928.</bibl>
+            <bibl><hi rend="sc">Chastellain</hi> (G.). <emph>Œuvres</emph>, 8 vol. Bruxelles, 1863-1866.</bibl>
+            <bibl><hi rend="sc">Ferrero</hi> (G.). <emph>La fin des aventures</emph>, 1931.</bibl>
+            <bibl><hi rend="sc">Foch</hi> (F.). <emph>Les Principes de la guerre</emph>, 1903 et 1929.</bibl>
+            <bibl><hi rend="sc">Freud</hi> (S.). <emph>Œuvres</emph>, trad. en français, chez Alcan et chez, Gallimard. (Voir aussi la collection de la <emph>Revue française de psychanalyse</emph>.)</bibl>
+            <bibl><hi rend="sc">Guichardin</hi>. <emph>Histoire d’Italie</emph>, 3 vol. trad. franç. Londres, 1738.</bibl>
+            <bibl><hi rend="sc">Hirschfeld</hi> (D<hi rend="sup">r</hi> M.). <hi xml:lang="de" rend="i">Sittengeschichte des Weltkrieges</hi>, 2 vol. Vienne et Leipzig, 1930.</bibl>
+            <bibl><hi rend="sc">Hitler</hi> <hi xml:lang="fr" rend="i">Mein Kampf</hi>, 1924.</bibl>
+            <bibl><hi rend="sc">Huizinga</hi> (J.). <emph>Le déclin du moyen âge</emph>, trad. franç., 1932.</bibl>
+            <bibl>— <hi xml:lang="de" rend="i">Im Schatten von Morgen</hi>, trad. allemande. Leipzig, 1936.</bibl>
+            <bibl><hi rend="sc">Jünger</hi> (E.). <emph>La Guerre, notre Mère</emph>, trad. franç., 1934.</bibl>
+            <bibl><hi rend="sc">La Marche</hi> (O. de). <emph>Mémoires</emph>, 4 vol., rééd. 1883-1888.</bibl>
+            <bibl><hi rend="sc">Monglond</hi> (A.). <emph>Le Préromantisme français</emph>, 2 vol. Grenoble, 1925.</bibl>
+            <bibl><hi rend="sc">Salomon</hi> (E. von.) <emph>Les Réprouvés</emph>, trad. franç., 1930.</bibl>
+          </listBibl>
+          <listBibl>
+            <head>VI et VII. — Le mythe et le mariage</head>
+            <bibl><hi rend="sc">Bachofen</hi>. <hi xml:lang="de" rend="i">Mutterrecht und Urreligion</hi> (éd. Kröner). Leipzig, s. d.</bibl>
+            <bibl><hi rend="sc">Brunner</hi> (E.). <hi xml:lang="de" rend="i">Eros und Liebe</hi> (<hi xml:lang="de" rend="i">Neue Schweizer Rundschau</hi>). Zurich, septembre 1933.</bibl>
+            <bibl><hi rend="sc">Croce</hi> (B.). <emph>Etica e Politica</emph>. Bari, 1931.</bibl>
+            <bibl><hi rend="sc">Calvin.</hi>
+              <emph>Institution de la religion chrétienne</emph> (texte 1560), 1865. — (Texte de 1541) 3 vol. parus, 1936-1938.</bibl>
+            <bibl><hi rend="sc">Divers.</hi> Numéro spécial de <emph>Foi et Vie</emph> sur les problèmes du mariage chrétien, novembre-décembre 1936. (Études de <hi rend="sc">E. Thurneysen</hi>, W.-<hi rend="sc">A. Visser’t Hooft</hi>, etc.).</bibl>
+            <bibl><hi rend="sc">Engels</hi> (F.). <emph>L’Origine de la Famille, de la Propriété et de l’État</emph>, trad. franç., 1931.</bibl>
+            <bibl><hi rend="sc">Ferrero</hi> (Leo). <emph>Désespoirs</emph>, 1937.</bibl>
+            <bibl><hi rend="sc">Fiorentino</hi> (U). <emph>Essai sur le mariage</emph>, 1936.</bibl>
+            <bibl><hi rend="sc">Gasparri</hi>. <emph>Tractatus canonicus de matrimonio</emph>, 1904.</bibl>
+            <bibl><pb n="351" xml:id="p351"/><hi rend="sc">Iswolsky</hi> (H.), <emph>Femmes soviétiques</emph>, 1937.</bibl>
+            <bibl><hi rend="sc">Jouhandeau</hi> (M.), <emph>Chroniques maritales</emph>, 1938.</bibl>
+            <bibl><hi rend="sc">Jung</hi> (C.-G.). <emph>Essais de psychologie analytique</emph>, trad. franç., 1931.</bibl>
+            <bibl><hi rend="sc">Lavaud</hi> (R. P.). <emph>Le monde moderne et le mariage chrétien</emph>, 1934.</bibl>
+            <bibl>— <emph>L’idée divine du mariage</emph> (Et. carmélitaines, avril 1936).</bibl>
+            <bibl><hi rend="sc">Kierkegaard.</hi> <hi xml:lang="de" rend="i">Religion der Tat</hi> (<hi xml:lang="de" rend="i">Sein Werk im Auswahl</hi>). Traduction allemande de Geismar. Leipzig, 1930.</bibl>
+            <bibl><hi rend="sc">Koch</hi> (C.). <hi xml:lang="fr" rend="i">Soeren Kierkegaard</hi>, trad. franç., 1934.</bibl>
+            <bibl><hi rend="sc">Marañon</hi> (D<hi rend="sup">r</hi>). <hi xml:lang="fr" rend="i">Amiel, un essai sur la timidité</hi>, trad. franç., 1938.</bibl>
+            <bibl><hi rend="sc">Nygren</hi> (A.). <hi xml:lang="de" rend="i">Eros und Agape</hi>, 2 vol. Gütersloh, 1937.</bibl>
+            <bibl><hi rend="sc">Pie</hi> X. Encyclique <hi xml:lang="la" rend="i">Casti Connubii</hi>. Bruges, 1931.</bibl>
+            <bibl><hi rend="sc">Pury</hi> (<hi rend="sc">R. de).</hi> <hi xml:lang="de" rend="i">Eros et Agapè</hi> (in <emph>Problèmes de la Sexualité</emph>), 1937.</bibl>
+            <bibl><hi rend="sc">Tisseau</hi> (P.). <emph>Kierkegaard et l’amour</emph> (<emph>Foi et Vie</emph>, septembre) 1934.</bibl>
+            <bibl><hi rend="sc">Westermarck</hi> (E.). <emph>A short history of marriage</emph>. Londres, 1926.</bibl>
+            <bibl>— <emph>Histoire du mariage</emph>, trad. franç., 1934-1935.</bibl>
+          </listBibl>
+        </div>
+      </div>
+    </body>
   </text>
 </TEI>

@@ -553,7 +553,7 @@
           <p>Ces mesures, parmi tant d’autres déjà proposées par des scientifiques compétents, ou qui peuvent encore être imaginées, supposent toutes soit un consensus des ministres de la Communauté de Bruxelles, aussitôt offert à la co-signature des États européens non membres ; soit l’institution d’un Conseil européen de l’énergie formé de délégués des <pb n="92"/> vingt-deux États de l’Ouest en attendant que ceux de l’Est puissent s’y joindre, s’ils le désirent. Il n’y a qu’une solution au problème énergétique : l’Europe unie.</p>
         </div>
       </div>
-      <div n="III.">
+      <div type="chapter" n="III.">
         <head type="kicker">III.</head>
         <head>L’environnement</head>
         <div n="III.1.">
@@ -642,7 +642,7 @@
           </div>
         </div>
       </div>
-      <div type="chapter" n="IV">
+      <div type="chapter" n="IV.">
         <pb n="111"/>
         <head type="kicker">IV.</head>
         <head>Les Régions</head>
@@ -913,7 +913,7 @@
         </div>
       </div>
       <div type="chapter" n="VII.">
-        <head>VII.</head>
+        <head type="kicker">VII.</head>
         <head>Programme pour les Européens</head>
         <div n="VII.1.">
           <head>L’Europe n’est pas un parti</head>
