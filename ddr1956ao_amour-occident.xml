@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>L’Amour et l’Occident</title>
+        <title>L’Amour et l’Occident (1956)</title>
         <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
       </titleStmt>
       <editionStmt>
@@ -24,7 +24,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1956"/>
+        <date when="1939"/>
       </creation>
       <langUsage>
         <language ident="fr"/>

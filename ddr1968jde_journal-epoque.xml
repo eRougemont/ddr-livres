@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Journal d’une Époque (1926-1946)</title>
+        <title>Journal d’une Époque — 1926-1946 (1968)</title>
         <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
       </titleStmt>
       <editionStmt>
@@ -24,7 +24,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1968"/>
+        <date from="1926" to="1946"/>
       </creation>
       <langUsage>
         <language ident="fr"/>

@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title><hi rend="i">Les Méfaits de l’instruction publique</hi> (1929), aggravés d’une <hi rend="i">Suite des méfaits</hi></title>
+        <title>Les Méfaits de l’instruction publique (1972)</title>
         <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
       </titleStmt>
       <editionStmt>
@@ -24,7 +24,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1972"/>
+        <date when="1929"/>
       </creation>
       <langUsage>
         <language ident="fr"/>

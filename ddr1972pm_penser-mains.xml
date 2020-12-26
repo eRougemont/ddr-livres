@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Penser avec les mains</title>
+        <title>Penser avec les mains (1972)</title>
         <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
       </titleStmt>
       <editionStmt>
@@ -24,7 +24,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1972"/>
+        <date when="1936"/>
       </creation>
       <langUsage>
         <language ident="fr"/>

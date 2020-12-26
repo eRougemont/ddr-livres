@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>La Part du Diable</title>
+        <title>La Part du Diable (1944)</title>
         <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
       </titleStmt>
       <editionStmt>
@@ -24,7 +24,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1944"/>
+        <date when="1942"/>
       </creation>
       <langUsage>
         <language ident="fre"/>
