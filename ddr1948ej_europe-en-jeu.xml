@@ -579,9 +579,7 @@
           <pb n="170" xml:id="p170"/>
           <head>Quelques chiffres</head>
           <p>Je disais plus haut que l’Europe d’aujourd’hui, entre les deux empires, « nous paraît plus petite que nature ». En effet, si l’on se borne aux seules données physiques, l’Europe ne représente que 4 % de la superficie mondiale. Mais voici d’autres chiffres notables.</p>
-          <p rend="center">
-            <hi rend="b">Population de l’Europe</hi>
-          </p>
+          <p rend="center b">Population de l’Europe</p>
           <table>
             <row>
               <cell>occidentale</cell>
@@ -600,9 +598,7 @@
             </row>
           </table>
           <p/>
-          <p rend="center">
-            <hi rend="b">Population des « deux Grands »</hi>
-          </p>
+          <p rend="center b">Population des « deux Grands »</p>
           <table>
             <row>
               <cell>USA</cell>
