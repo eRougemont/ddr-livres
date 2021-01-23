@@ -33,7 +33,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" when="1972">
         <pb n="7" xml:id="p7"/>
         <head>Préface 1972</head>
         <div n="a.">
