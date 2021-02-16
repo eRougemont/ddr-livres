@@ -50,7 +50,7 @@
           <hi rend="sc">D. de Rougemont.</hi>
         </p>
       </div>
-      <div type="chapter" n="I.">
+      <div n="I.">
         <pb n="9" xml:id="p9"/>
         <head type="kicker">Première partie</head>
         <head>Les Origines d’Hésiode à Charlemagne
@@ -63,7 +63,7 @@
         <p>Nous avons décidé d’aller beaucoup plus haut.</p>
         <p>Cette recherche nous a conduit vers des confins étranges et des temps fabuleux.</p>
         <p>Le premier qui ait écrit le nom d’Europe, c’est Hésiode, qui apparaît vers l’an 900 avant notre ère<note place="bottom">Selon la démonstration de Victor <hi rend="sc">Bérard</hi> dans sa <hi rend="i">Résurrection d’Homère</hi>, chap. VIII, Hésiode aurait vécu vers l’an 900, Homère vers l’an 850 av. J.-C.</note>. Et le premier qui l’ait décrite en la comparant à l’Asie, c’est Hippocrate. Mais la première mention de l’Europe comme unité non seulement géographique, mais humaine, et des « Européens » qui la défendent, ne remonte qu’au <num>viii<hi rend="sup">e</hi></num> siècle de notre ère, après la bataille de Poitiers, qui eut lieu en 732. L’empire carolingien marque un sommet de la conscience d’une Europe unie, puis on redescend vers <pb n="10" xml:id="p10"/> des guerres et des querelles d’investitures : notre enquête sur les Origines se termine donc au <num>xi<hi rend="sup">e</hi></num> siècle de notre ère.</p>
-        <div n="I.1.">
+        <div type="chapter" n="I.1.">
           <head type="kicker">1.</head>
           <head>Proto-histoire d’un continent sans nom</head>
           <p>La quatrième période glaciaire avait recouvert près de la moitié des plaines et des montagnes d’une épaisse calotte, dont la fonte transforma le continent en marécage puis en forêt vierge. Ainsi fut anéantie, vers l’an 8000 av. J.-C., la civilisation qui avait produit les fascinantes peintures rupestres de Lascaux et d’Altamira.</p>
@@ -81,7 +81,7 @@
           <p><pb n="12" xml:id="p12"/> Quant à la pré-histoire, ou mieux proto-histoire dont on vient d’indiquer quelques étapes, c’est celle d’un continent sans nom, lentement peuplé, civilisé et travaillé par des hommes, des idées et des techniques venus des rives du Proche-Orient.</p>
           <p>Mais qui va baptiser ce continent ? À quelle date ? Et sous quels auspices ? Et que signifiera son nom ?</p>
         </div>
-        <div n="I.2.">
+        <div type="chapter" n="I.2.">
           <head type="kicker">2.</head>
           <head>Le mythe de l’enlèvement d’Europe</head>
           <epigraph>
@@ -196,7 +196,7 @@
             </quote>
           </div>
         </div>
-        <div n="I.3.">
+        <div type="chapter" n="I.3.">
           <head type="kicker">3.</head>
           <head>Le Mythe de Japhet</head>
           <p>S’il reste vrai que le mythe du rapt d’Europe se trouve traduire le mouvement général qui a porté d’Est en Ouest, du Proche-Orient sémitique vers le « continent sans nom » des peuplades colonisantes et des éléments de civilisation religieux et techniques, c’est à un autre mythe, moins connu de nos jours, que nous devons attribuer la persistance d’un concept de l’Europe comme continent distinct, même aux époques où le nom d’Europe n’éveillait plus, dans les esprits, que la seule idée géographique d’une des trois grandes régions de l’univers alors connu.</p>
@@ -228,7 +228,7 @@
             </p>
           </quote>
         </div>
-        <div n="I.4.">
+        <div type="chapter" n="I.4.">
           <head type="kicker">4.</head>
           <head>Cadmus ou la quête d’Europe</head>
           <p>Les légendes et l’archéologie révèlent une autre zone de contact ou de contamination entre les deux mythes, le grec et le biblique. Voyons d’abord les légendes grecques.</p>
@@ -250,7 +250,7 @@
           </quote>
           <p>Nous allons voir comment s’explique cette apparente confusion.</p>
         </div>
-        <div n="I.5.">
+        <div type="chapter" n="I.5.">
           <head type="kicker">5.</head>
           <head>Les étymologies</head>
           <p>L’étymologie, trop souvent, nous est donnée pour science par ceux qui la pratiquent sans art. À travers des filiations de signes et de sons qu’il est parfois possible d’établir sans équivoque, elle se propose de rechercher des <hi rend="i">significations</hi>, tenant les primitives pour plus authentiques que les actuelles, qui en seraient dérivées. En tant que science, elle n’en trouve guère, et recense surtout des erreurs, rapprochements abusifs, calembours, pataquès ; en tant qu’art, elle n’en trouve que trop et c’est alors son choix qui est significatif. Elle décrit donc les préférences de celui qui découvre une « vraie » racine, plutôt qu’elle ne statue sur le « vrai » sens d’un mot. Et c’est pourquoi il est intéressant de rappeler ici quelques-unes des « origines » retenues par diverses époques pour expliquer ce nom d’Europe, dont Hérodote pensait que nul mortel ne saurait espérer découvrir le vrai sens.</p>
@@ -288,7 +288,7 @@
           <p>Faut-il rappeler au surplus que Hellén — masculin d’Hélène et ancêtre éponyme de tous les Hellènes — était le fils de Deucalion ? Que celui-ci est le Noé de la mythologie grecque, seul rescapé avec Pyrrha sa femme (grâce à l’Arche en demi-lune que <pb n="33" xml:id="p33"/> Prométhée son père lui a fait construire) d’un déluge dont une colombe lui annonça la fin ? Hellén est donc l’arrière-petit-fils du Japet grec, tandis que Japhet était le fils du Noé biblique. La mère de Hellén, Pyrrha, serait la même que la déesse Ishtar, qui selon la mythologie babylonienne aurait provoqué le Déluge au 3<hi rend="sup">e</hi> millénaire av. J.-C. ; et qui est aussi la déesse des Philistins, peuple venu de Crète en Palestine vers 1200 av. J.-C. (Ishtar = Esther = Astarté.)</p>
           <p>Vertigineuse réfraction des symboles et des mythes ! On n’en finirait pas de les préciser, de les distinguer, de les contraster — jusqu’au moment où ils apparaîtraient, peut-être, comme autant de récits véridiques d’une seule et même histoire, vue par divers témoins.</p>
         </div>
-        <div n="I.6.">
+        <div type="chapter" n="I.6.">
           <head type="kicker">6.</head>
           <head>Le concept géographique</head>
           <p>On a coutume d’attribuer à Paul <hi rend="sc">Valéry</hi> la remarque que l’Europe n’est qu’un cap ou « un appendice de l’Asie ». Voici son texte le plus souvent cité à ce sujet :</p>
@@ -408,7 +408,7 @@
             <p>La Vierge Chrétienne qui a conçu par l’Esprit.</p>
           </quote>
         </div>
-        <div n="I.7.">
+        <div type="chapter" n="I.7.">
           <head type="kicker">7.</head>
           <head>De la géographie à l’histoire</head>
           <p>Des pages qui précèdent, deux conclusions se dégagent : le concept géographique d’Europe <hi rend="i">est beaucoup plus ancien</hi>, et les mythes grecs et sémitiques <hi rend="i">beaucoup moins éloignés de la réalité</hi> qu’on ne l’imagine généralement de nos jours.</p>
@@ -467,7 +467,7 @@
           </quote>
           <p>Ainsi le terme d’<hi rend="i">Européens</hi>, pour la première fois dans notre ère, désigne une communauté continentale, celle qui englobe dans un même destin de défense contre un même ennemi les peuples vivant au nord des Pyrénées et des Alpes. Il se peut que les historiens qui ramènent la bataille de Poitiers à un « mythe » ou à « un incident sans importance » aient raison sur le plan militaire. <pb n="48" xml:id="p48"/> Et il semble bien que les Arabes n’aient qu’à peine enregistré la défaite d’Abdarrahmân : selon leurs historiens de l’époque, elle n’aurait marqué que l’issue malheureuse d’une razzia de plus chez les Francs. Le recul de l’Islam à partir de cette date serait dû à une crise intérieure du monde arabe, et surtout à la défaite subie par la flotte musulmane devant Byzance, dès 718<note place="bottom">Emmanuel <hi rend="sc">Berl</hi>, <hi rend="i">Les Impostures de l’Histoire</hi>, Paris 1959.</note>. Mais il y a cette chronique de l’anonyme espagnol, il y a ce mot <hi rend="i">Europenses</hi> qui suffit à lui seul pour que Poitiers marque une date décisive dans notre histoire. La preuve est là, qu’au <num>viii<hi rend="sup">e</hi></num> siècle, ceux qui défendent ce continent se voient <hi rend="i">naturellement</hi> décrits non comme les défenseurs d’une Romania devenue mythique, ni de l’Occident en général, ni de la Papauté, ni de leur « nation » ou patrie particulière, mais bien comme les membres d’une même famille de peuples.</p>
         </div>
-        <div n="I.8.">
+        <div type="chapter" n="I.8.">
           <head type="kicker">8.</head>
           <head>« Europa vel regnum Caroli »</head>
           <p>Cette conscience commune de l’Europe — remplaçant de plus en plus le concept déprécié ou dépréciatif d’Occident — va s’affermir et se préciser avec les conquêtes de Charlemagne, de 768 à 814.</p>
@@ -516,13 +516,13 @@
           <p>Ici donc prend fin notre enquête sur les origines attestées.</p>
         </div>
       </div>
-      <div type="chapter" n="II.">
+      <div n="II.">
         <pb n="53" xml:id="p53"/>
         <head type="kicker">Deuxième partie</head>
         <head>Prises de conscience européennes
           <lb/>De Pierre de Bois à l’Abbé de Saint-Pierre
           <lb/>(<num>xiv<hi rend="sup">e</hi></num> au <num>xix<hi rend="sup">e</hi></num> siècle)</head>
-        <div n="II.1.">
+        <div type="chapter" n="II.1.">
           <head type="kicker">1.</head>
           <head>Sur plusieurs siècles de silence « européen »</head>
           <p>À partir du milieu du <num>xi<hi rend="sup">e</hi></num> siècle jusqu’à la Renaissance, et spécialement pendant la haute époque du Moyen Âge, peu ou point de textes sur l’Europe. Et pourtant, c’est précisément cette période des <num>xii<hi rend="sup">e</hi></num> et <num>xiii<hi rend="sup">e</hi></num> siècles que tant d’ouvrages récents désignent, dans leurs titres, comme étant celle, par excellence, de « la Naissance », ou de « l’Essor », ou de « l’Ascension », ou de la « Formation », ou même des « Origines » de l’Europe<note place="bottom">On pense ici aux ouvrages de <hi rend="sc">J. Calmette</hi>, de Louis <hi rend="sc">Halphen</hi>, de Friedrich <hi rend="sc">Heer</hi>, de G. de <hi rend="sc">Reynold</hi> et de <hi rend="sc">H. Brugmans.</hi></note>. Ainsi les historiens modernes considéreraient comme le sommet de l’Europe, — son « toit » dit l’un d’entre eux — ces temps où nos ancêtres n’ont manifesté nulle conscience de former une Europe ? Cette période d’unité exemplaire serait aussi celle où le sujet de cette unité eût ignoré qu’il existât ? <hi rend="i">J. Calmette</hi> ouvre son livre sur l’<hi rend="i">Effondrement d’un Empire et la naissance d’une Europe</hi><note place="bottom">Paris, 1941. La date et le lieu sont à noter.</note> par cette phrase paradoxale : « L’Europe occidentale est issue de la désintégration de l’Empire carolingien. » Or, l’Empire carolingien <hi rend="i">était</hi> une Europe occidentale unie. L’Europe serait donc née de la désintégration de son unité politique ?</p>
@@ -533,7 +533,7 @@
           <p>Mais pourquoi les premiers appels à l’union des Princes de l’Europe n’ont-ils été lancés — en vain d’ailleurs — qu’au début du <num>xiv<hi rend="sup">e</hi></num> siècle ? Ne serait-ce point parce qu’en ce temps paraît la première <hi rend="i">nation</hi> qui défie à la fois l’Empire et le Pontife : la France de Philippe le Bel ? (L’attentat d’Anagni date de 1303.) Jusqu’ici les tensions qui animaient le corps chrétien étaient de nature « universelle » ou pouvaient apparaître telles. Elles concernaient tout homme et tout état social. Elles vont devenir, d’une manière avouée, particulières, nationales, donc séparatistes. À la mesure des prétentions dynastiques, régionales et bientôt étatiques, va donc se développer, comme par compensation, la nostalgie de l’unité. Dante en est le premier témoin, viril, sublime et absolu.</p>
           <p>Situons-le dans le débat du siècle, entre l’Empire, la Papauté et les nations.</p>
         </div>
-        <div n="II.2.">
+        <div type="chapter" n="II.2.">
           <head type="kicker">2.</head>
           <head>Premiers plans d’union</head>
           <div n="II.2.a.">
@@ -665,7 +665,7 @@
             </quote>
           </div>
         </div>
-        <div n="II.3.">
+        <div type="chapter" n="II.3.">
           <head type="kicker">3.</head>
           <head>Le problème de la guerre et l’essor des États (<num>xvi<hi rend="sup">e</hi></num> siècle)</head>
           <p>Trois événements majeurs, durant le <num>xvi<hi rend="sup">e</hi></num> siècle, ont transformé l’image du monde et l’image des relations entre les peuples que pouvaient se faire les penseurs et les hommes politiques du temps : ce sont les Grandes Découvertes et les débuts du colonialisme, la Réforme, et l’échec de la grandiose tentative impériale de Charles-Quint. Leurs répercussions sur « l’image de l’Europe » ont été diverses et contradictoires.</p>
@@ -734,7 +734,7 @@
             </quote>
           </div>
         </div>
-        <div n="II.4.">
+        <div type="chapter" n="II.4.">
           <head type="kicker">4.</head>
           <head>« Têtes de Turcs »</head>
           <p>Nous avons dit, au reste, que le <num>xvi<hi rend="sup">e</hi></num> siècle n’apporte rien de neuf quant à l’union de l’Europe : il n’y penserait plus sans les Turcs. Ceux-ci ont certes assiégé Vienne en 1552, au grand effroi de la chrétienté. Mais don Juan d’Autriche a battu leur flotte à Lépante en 1571. Ne voit-on pas que les guerres intestines font plus de mal à l’Europe que le Turc ? Peut-être, mais on n’ose appeler l’union qu’en se réclamant du mythe de la croisade, levier traditionnel, cause bien vue par les princes.</p>
@@ -769,7 +769,7 @@
           </quote>
           <p>Un tel monarque universel ne saurait être que le Roi de France, puisque ce roi descend du fils aîné de Japhet, Gomer, fondateur de la race gallique au témoignage de Josèphe… Toutefois, Postel est loin de se regarder comme un impérialiste « gaulois ». Dans l’un de ses livres intitulé <hi rend="i">La République des Turcs</hi> (1560), il se nomme au contraire et à plusieurs reprises cosmopolite. On le tient aujourd’hui pour l’inventeur du mot, promis à des fortunes diverses.</p>
         </div>
-        <div n="II.5.">
+        <div type="chapter" n="II.5.">
           <head type="kicker">5.</head>
           <head>Les grands desseins du <num>xvii<hi rend="sup">e</hi></num> siècle</head>
           <p>C’est au <num>xvii<hi rend="sup">e</hi></num> siècle qu’il appartenait de tirer certaines conclusions constructives, à la fois philosophiques et proprement politiques, du grand remue-ménage de la Renaissance et de la Réforme.</p>
@@ -1024,7 +1024,7 @@
             <p>Enfin, l’on a fait un sort au mot du <hi rend="i">Cardinal Dubois</hi> : « C’est le rêve d’un homme de bien. » À quoi <hi rend="i">Th. Ruyssen</hi> ajoute : « Mais ce rêve ne cessera de hanter la conscience de l’humanité. »</p>
           </div>
         </div>
-        <div n="II.6.">
+        <div type="chapter" n="II.6.">
           <head type="kicker">6.</head>
           <head>En marge des grands plans, l’utopie prolifère</head>
           <p>Autour des cinq projets majeurs publiés entre 1623 et 1713, gravitent plusieurs douzaines d’utopies politico-mystiques, de plans de fédérations, d’anticipations pacifistes ou d’élucubrations : les titres seuls souvent vaudraient d’être cités, dans la mesure où ils nomment l’Europe comme unité, mais il y faudrait trop de pages. Bornons-nous à quelques exemples choisis aux quatre coins du continent.</p>
@@ -1056,12 +1056,12 @@
           <p>C’est parce que le sol de l’Europe n’est pas le même partout, n’est pas également fertile, produit des fruits différents et des trésors de diverses natures, que les Européens sont appelés à s’unir et à se bien entendre, pour se procurer, par des échanges faciles, tout ce qui peut leur être de nécessité, d’utilité ou de luxe.<note place="bottom">Cf. B. Mirkine <hi rend="sc">Guetzevitch</hi>, <hi rend="i">La Révolution française et les projets d’union européenne</hi> in <hi rend="i">La Révolution Française</hi>, Paris, 1931, Tome 84, p. 321-35.</note></p>
         </div>
       </div>
-      <div type="chapter" n="III.">
+      <div n="III.">
         <pb n="117" xml:id="p117"/>
         <head type="kicker">Troisième partie</head>
         <head>L’ère des philosophes
           <lb/>De Leibniz à Condorcet</head>
-        <div n="III.1.">
+        <div type="chapter" n="III.1.">
           <head type="kicker">1.</head>
           <head>Perspectives élargies</head>
           <div n="III.1.a.">
@@ -1163,7 +1163,7 @@
             </quote>
           </div>
         </div>
-        <div n="III.2.">
+        <div type="chapter" n="III.2.">
           <head type="kicker">2.</head>
           <head>L’Europe des lumières</head>
           <p>En contraste à peu près absolu avec le génie sombre et tendu d’un Vico, voici un hédoniste, un sceptique indulgent, épris d’observations exactes, qui conclut également en faveur de l’Europe, après inventaire du domaine, étude sans préjugé des « relations » lointaines, et considération sympathique du cosmos : c’est Bernard Le Bovier de <hi rend="sc">Fontenelle (1657-1757).</hi> Par ses célèbres <hi rend="i">Entretiens sur la pluralité des mondes</hi>, il est l’ancêtre distingué et tout involontaire de cette immense littérature qui aboutit de nos jours à la <hi rend="i">science-fiction</hi>. Au Sixième Soir de ses promenades avec une marquise, dans un parc, lui ayant expliqué tout ce que l’on sait des autres mondes et ce qu’en permet d’imaginer l’astronomie, la marquise lui fait observer que les Chinois, selon ce qu’elle en a lu, ont décrit la chute de mille étoiles à la fois. Fontenelle en doute. La marquise réitère :</p>
@@ -1341,7 +1341,7 @@
             </quote>
           </div>
         </div>
-        <div n="III.3.">
+        <div type="chapter" n="III.3.">
           <head type="kicker">3.</head>
           <head>Évolution : vers le progrès ou vers la décadence ?</head>
           <p>Pour Montesquieu déjà, Rome telle qu’il l’étudie dans ses « Considérations sur les causes de la grandeur et de la décadence des Romains » formait une sorte d’organisme soumis à des lois immanentes de développement, ou, pour s’en tenir à ses propres <pb n="147" xml:id="p147"/> termes, « à des causes générales » gouvernant le détail des événements, à une « allure principale entraînant avec elle tous les accidents particuliers ».</p>
@@ -1420,7 +1420,7 @@
           </quote>
           <p>Quelques années plus tard, en 1806, Wieland exposera encore <pb n="159" xml:id="p159"/> dans sa revue <hi rend="i">Teutscher Merkur</hi>, un plan de Tribunal européen, comptant cette fois-ci sur Napoléon pour le réaliser. Et là encore, le démenti le plus cruel ne tardera pas à le frapper…</p>
         </div>
-        <div n="III.4.">
+        <div type="chapter" n="III.4.">
           <head type="kicker">4.</head>
           <head>Pendant ce temps, l’Amérique du Nord…</head>
           <p>Tandis que l’Europe intellectuelle s’interrogeait ainsi sur son destin, l’Amérique décidait du sien. Elle devenait l’avenir de l’Europe, ou du moins l’avenir de ces Européens qui désespéraient de réussir sur leur sol l’union nécessaire. C’est ce que Benjamin <hi rend="sc">Franklin (1706-</hi>1790) a bien su voir et dire dans une série de lettres écrites de Paris à ses compatriotes :</p>
@@ -1437,11 +1437,11 @@
           </quote>
         </div>
       </div>
-      <div type="chapter" n="IV.">
+      <div n="IV.">
         <pb n="163" xml:id="p163"/>
         <head type="kicker">Quatrième Partie</head>
         <head>L’Ère de la Révolution de Kant à Hegel</head>
-        <div n="IV.1.">
+        <div type="chapter" n="IV.1.">
           <head type="kicker">1.</head>
           <head>La Révolution Française et l’Europe</head>
           <p>Les illusions d’un Wieland n’ont-elles pas été partagées par ceux-là même qui donnèrent son impulsion première au plus brutal bouleversement subi par l’Europe depuis sa formation carolingienne ? L’éloquence « cosmopolite » et « philanthropique » d’un Mirabeau, d’un Robespierre, est certainement sincère. Mais comme elle change vite de registre quand il s’agit de reconnaître que l’idéal qu’elle exalte ne saurait entrer dans l’Histoire qu’en se confondant avec les intérêts ou la survie militaire d’une nation ! Partie pour instaurer la fraternité mondiale et « la société du genre humain », la Révolution va se voir rapidement entraînée dans une suite de guerres qui créeront le nationalisme moderne. Une déclaration de <hi rend="sc">Mirabeau</hi>, le 25 août 1790, annonce, par le coup de frein des derniers mots, cette dramatique évolution :</p>
@@ -1505,7 +1505,7 @@
             <p>Néologisme, doctrine du gouvernement fédératif. — Le fédéralisme était une des formes politiques les plus communes employées par les sauvages, Châteaubriand, <hi rend="i">Amérique, Gouvernement</hi>. Pendant la révolution, projet attribué aux girondins de rompre l’unité nationale et de transformer la France en une fédération de petits États. — Aux Jacobins, on agita gravement la question du fédéralisme et on souleva mille fureurs contre les girondins, Thiers, <hi rend="i">Hist. de la Rév.</hi></p>
           </quote>
         </div>
-        <div n="IV.2.">
+        <div type="chapter" n="IV.2.">
           <head type="kicker">2.</head>
           <head>Plans d’union européenne contemporains de la Révolution</head>
           <p>En dépit des nombreuses déclamations des Conventionnels invoquant le nom de l’Europe, pas un seul plan sérieux d’union continentale n’est sorti de la Révolution, du moins en France et cela s’explique. L’explosion passionnelle a jeté ses acteurs de l’utopie du « genre humain » à l’idéal nationaliste en sautant le stade réaliste de la fédération de l’Europe. Le résidu concret du phénomène sera la « nationalisation » du sentiment patriotique dans tous nos peuples. Le « qui veut faire l’ange fait la bête » de Pascal se traduit ici par « qui veut le Monde abstrait fait la Nation armée ».</p>
@@ -1616,7 +1616,7 @@
           <p>Tout cela, le jacobinisme l’a compromis ou détruit sur le continent, et l’Angleterre s’en trouve ébranlée sur ses bases. Car, selon Burke, « les principes et les formes de l’antique constitution commune des États européens, améliorés et adaptés à la situation présente de l’Europe, ne se trouvent plus conservés qu’en Angleterre »<note place="bottom"><hi xml:lang="en" rend="i">Reflections on the revolution in France</hi>.</note>.</p>
           <p>Mais de fait, l’Angleterre va devenir l’ennemie du continent conquis par les idées de la Révolution ; et la politique « d’équilibre des Puissances », telle que la Sainte-Alliance pourra la réaliser selon Burke, et par son disciple Gentz notamment, n’opposera qu’une barrière dérisoire à l’essor des nationalismes.</p>
         </div>
-        <div n="IV.3.">
+        <div type="chapter" n="IV.3.">
           <head type="kicker">3.</head>
           <head>Synthèses historico-philosophiques (I)</head>
           <p>Il y avait eu deux grandes figures isolées, qui avaient su voir l’Europe sur l’arrière-plan du Monde : Leibniz, Vico. Puis il y eut le siècle français par excellence, celui du rayonnement européen de la France, de Montesquieu à Condorcet, par Voltaire le cosmopolite et Rousseau le fédéraliste.</p>
@@ -1737,7 +1737,7 @@
             <p>On voit plus d’art, plus de persévérance dans la politique des Européens, dans celle des Orientaux plus de cette énergie momentanée. Nous sommes au milieu du Drame qu’ont ouvert les Géans du Nord, les destructeurs de l’ancien Empire.</p>
           </quote>
         </div>
-        <div n="IV.4.">
+        <div type="chapter" n="IV.4.">
           <head type="kicker">4.</head>
           <head>Napoléon et l’Europe</head>
           <p>Cependant, un nouvel Empire allait s’élever. J. de Müller lui-même, après avoir servi successivement l’Autriche et la Prusse, et combattu toute idée d’hégémonie européenne, estima qu’il était temps « de substituer aux formes surannées de la vieille Europe un nouvel ordre des choses »<note place="bottom">Cf. <hi rend="sc">Gollwitzer</hi>, <hi xml:lang="de" rend="i">op. cit.</hi>, p. 117, d’après <hi xml:lang="de" rend="i">Briefwechsel der Brüder J. Georg und J. v. Müller</hi>, Frauenfeld, 1893. La lettre est de 1804.</note> et devint ministre du roi Jérôme de Westphalie. C’était le temps où la <hi rend="i">Gazette de France</hi> écrivait sous le titre de « Tableau de l’Europe »<note place="bottom">Numéro du 2 janvier 1806.</note> :</p>
@@ -1775,7 +1775,7 @@
             <p>Quoi qu’il en soit, cette agglomération arrivera tôt ou tard, par la force des choses, l’impulsion est donnée, et je ne pense pas qu’après ma chute et la disparition de mon système, il y ait en Europe d’autre grand équilibre possible que l’agglomération et la confédération des grands peuples. Le premier souverain qui, au milieu de la première grande mêlée, embrassera de bonne foi la cause des peuples, se trouvera à la tête de toute l’Europe, et pourra tenter tout ce qu’il voudra.</p>
           </quote>
         </div>
-        <div n="IV.5.">
+        <div type="chapter" n="IV.5.">
           <head type="kicker">5.</head>
           <head>L’Europe des adversaires de l’Empereur</head>
           <p>Napoléon avait raison sur ce dernier point : le seul « équilibre possible » après la chute de son Empire, eût été la Fédération. De fait, l’équilibre impossible de la Sainte-Alliance fut imposé par des souverains qui, très loin d’« embrasser de bonne foi la cause des peuples », ne purent nouer au nom de la stabilité qu’une précaire Ligue des Rois. Toutefois, l’idée européenne avait pris <pb n="199" xml:id="p199"/> assez de force et rassemblé assez d’espoirs divers pour que les négociateurs des Traités de paix se sentissent obligés de l’honorer au moins des lèvres :</p>
@@ -1872,7 +1872,7 @@
           </quote>
           <p>On va retrouver l’écho de cet œcuménisme ou fédéralisme des esprits dans les déclarations de Goethe sur la littérature mondiale.</p>
         </div>
-        <div n="IV.6.">
+        <div type="chapter" n="IV.6.">
           <head type="kicker">6.</head>
           <head>Goethe</head>
           <p>Johann Wolfgang von <hi rend="sc">Goethe (1749-</hi>1832) est inclassable : il mérite à lui seul un chapitre. Dans les 143 volumes <hi rend="i">in octavo</hi> qui forment l’œuvre de ce « grand Européen », on trouve peu de choses sur l’Europe : c’est qu’elle est implicite dans tout ce qu’a pensé Goethe, et tellement immanente à sa personne qu’il ne <pb n="209" xml:id="p209"/> trouve guère l’occasion d’en parler comme d’une entité objective. Les plans d’union le laissent indifférent, comme la chose politique en général. Toutefois, c’est en Européen qu’il réagit aux premières manifestations du nationalisme culturel, tant en France que dans son Allemagne. Mais lorsqu’il est amené à confronter l’Europe à d’autres civilisations, l’Orient dans le <hi rend="i">Divan Occidental-Oriental</hi>, ou la jeune Amérique dans <hi rend="i">Les années de voyage de Wilhelm Meister</hi>, ses prises de position peuvent paraître ambiguës. On a lu sa réponse évasive à Schiller, qui lui vantait les avantages uniques de l’Europe. On va lire ses déclarations contrastées sur les avantages respectifs de l’ancienneté de notre culture et de la nouveauté de l’<hi rend="i">american way of life</hi>. On ne saurait s’en étonner. Ces contradictions apparentes relèvent aussi naturellement de la formule vitale de Goethe que de la formule créatrice de l’Europe. Rien ne serait moins goethéen qu’un « nationalisme européen », rien de plus contraire à l’Europe qu’un refus de la mettre en question, de la comparer objectivement aux autres, et de lui donner tort, cas échéant, quoique au nom même des idéaux universels qu’elle a seule et d’abord conçus et propagés…</p>
@@ -1929,7 +1929,7 @@
             <p>Mais les sentiments des fils sont souvent en opposition avec ceux des pères, et cela se vit encore dans cette occasion. Le jeune homme, envoyé en Europe s’y trouva dans un monde tout nouveau pour lui : cette inestimable culture, née depuis tant de siècles, développée, répandue, gênée, opprimée, jamais entièrement détruite, se ranimant, reprenant une vie nouvelle, et se manifestant, comme autrefois, sous mille et mille formes, lui donna de tout autres idées du point où l’humanité peut parvenir. Il aima mieux prendre part à ces <pb n="213" xml:id="p213"/> immenses avantages, et se perdre dans le mouvement vaste et régulier de la foule, en travaillant avec elle, que de reculer de plusieurs siècles et de jouer, au-delà des mers, le rôle d’Orphée et de Lycurgue. Partout, se disait-il, l’homme a besoin de patience ; partout il a des ménagements à garder, et j’aime mieux m’accommoder avec mon prince, afin qu’il m’accorde tels et tels droits ; j’aime mieux transiger avec mes voisins, pour en obtenir certaines libertés, en leur faisant, d’un autre côté, quelques concessions, que de guerroyer avec les Iroquois, pour les refouler, ou de les tromper par des traités, pour les chasser de leurs marais, ou l’on souffre à mourir de la morsure des moustiques.<note place="bottom"><hi xml:lang="de" rend="i">Wilhelm Meisters Wanderjahre</hi>, I<hi rend="sup">re</hi> partie, chap. 7.</note></p>
           </quote>
         </div>
-        <div n="IV.7.">
+        <div type="chapter" n="IV.7.">
           <head type="kicker">7.</head>
           <head>Synthèses historico-philosophiques (II)</head>
           <p><hi rend="sc">Novalis</hi> (Friedrich von Hardenberg) (1772-1802) avait écrit en 1799 déjà un essai intitulé « La Chrétienté, ou l’Europe », dont il avait donné lecture à un groupe d’amis (parmi lesquels les frères Schlegel et le jeune Schelling), mais que la revue <hi rend="i">Athenæum</hi> avait renoncé à publier, comme trop « catholicisant » selon l’avis de Goethe. L’écrit ne parut qu’en 1826, longtemps après la mort prématurée de son auteur. Mais si son influence ne s’est pas exercée sur la première génération des romantiques, il n’en exprime pas moins, par anticipation, l’idéal romano-germanique qui allait devenir la nostalgie commune de tous les amis de Novalis, penseurs, artistes et poètes, catholiques de naissance ou néophytes comme le fut Novalis lui-même : Schlegel, Schelling, Görres, Baader, Adam Müller, Clemens Brentano… Presque seuls, Fichte et Hegel restent à la fois protestants et tournés vers l’avenir du siècle.</p>
@@ -2042,7 +2042,7 @@
         <head type="kicker">Cinquième Partie</head>
         <head>L’Ère des nations
           <lb/>(de 1848 à 1914)</head>
-        <div n="V.1.">
+        <div type="chapter" n="V.1.">
           <head type="kicker">1.</head>
           <head>De l’harmonie entre les nations libérées à l’anarchie des États souverains</head>
           <p>Vers 1826, un philosophe français spiritualiste et libéral, Théodore <hi rend="sc">Jouffroy</hi> (1798-1842), écrivait dans un ouvrage sur <hi rend="i">L’État actuel de l’Humanité</hi> les phrases suivantes, qu’on croirait d’aujourd’hui, et qui étaient vraies déjà en tant que diagnostic, bien que l’Histoire n’ait guère tenu compte de leur pronostic pendant le siècle qui suivit :</p>
@@ -2186,7 +2186,7 @@
             <p>Il faut d’abord que la révolution, après avoir dissous la société, dissolve les armées permanentes ; en second lieu, que le socialisme en dépouillant les propriétaires éteigne le patriotisme, parce qu’un propriétaire dépouillé n’est pas, ne peut pas être patriote ; en effet, dès que la question a été poussée jusqu’à ce terme, jusqu’à cette angoisse, tout patriotisme meurt au cœur de l’homme ; en troisième heu, il faut que se réalise la confédération puissante de tous les peuples slaves sous l’influence et le protectorat de la Russie. Les nations slaves comptent, messieurs, 80 millions d’habitants. Eh bien, lorsque la révolution aura détruit en Europe les armées permanentes, lorsque les révolutions socialistes auront éteint le patriotisme en Europe, lorsque, à l’orient de l’Europe, se sera accomplie la grande fédération des peuples slaves ; lorsque dans l’Occident il n’y aura plus que deux armées, celle des spoliés et celle des spoliateurs, alors l’heure de la Russie sonnera ; alors la Russie pourra se promener tranquillement l’arme au bras dans notre patrie ; alors le monde assistera au plus grand châtiment qu’ait enregistré <pb n="247" xml:id="p247"/> l’histoire, ce châtiment épouvantable sera le châtiment de l’Angleterre.</p>
           </quote>
         </div>
-        <div n="V.2.">
+        <div type="chapter" n="V.2.">
           <head type="kicker">2.</head>
           <head>Un idéal de compensation : les États-Unis d’Europe</head>
           <p>Quel fut le premier auteur de l’expression ? Cattaneo ? Cobden ? Mazzini ? ou Hugo ? Un obscur orateur de la « campagne des Banquets », qui préluda en 1847 à la révolution, ou le rédacteur anonyme d’un article du <hi rend="i">Moniteur</hi> daté du 26 février 1848<note place="bottom">Cf. <hi rend="sc">P. Renouvin</hi>, <hi rend="i">L’idée de fédération européenne dans la pensée politique du <num>xix<hi rend="sup">e</hi></num> siècle</hi>, Oxford, 1909.</note> ? Les historiens hésitent et concluent fort sagement que l’idée était dans l’air du temps.</p>
@@ -2341,7 +2341,7 @@
             <p>Seul le fédéralisme peut vraiment conduire à ce résultat ; lui seul, si peu compte-t-il dans la politique actuelle, est le principe de l’évolution politique de l’avenir.</p>
           </quote>
         </div>
-        <div n="V.3.">
+        <div type="chapter" n="V.3.">
           <head type="kicker">3.</head>
           <head>Un problème séculaire : la Russie et l’Europe</head>
           <p>Est-ce à la France, à l’Italie ou à l’Allemagne, voire à la Suisse fédéraliste, de faire l’Europe et de s’y fondre, accomplissant ainsi une vocation nationale, universelle ? Non, disent les Russes, c’est à la Russie ! Pour la plupart des penseurs russes du <num>xix<hi rend="sup">e</hi></num> siècle — c’est elle qui a pour mission de régénérer l’Europe et de l’unir, car c’est ainsi seulement que la Russie pourra devenir européenne.</p>
@@ -2554,7 +2554,7 @@
             </quote>
           </div>
         </div>
-        <div n="V.4.">
+        <div type="chapter" n="V.4.">
           <head type="kicker">4.</head>
           <head>De l’historisme au pessimisme</head>
           <p>Lorsqu’on passe sans transition des pages passionnément ambivalentes ou apocalyptiques consacrées par les Russes à l’Europe, aux ouvrages sereins, objectifs et classiques du grand historien allemand Léopold von <hi rend="sc">Ranke</hi> (1795-1886), un sentiment d’incongruité profond s’empare de l’esprit : ou bien les descriptions des Russes sont délirantes et ne reflètent que leur propre esprit, ou bien le sobre interprète de l’Europe n’a simplement pas vu les réalités parmi lesquelles il a vécu pendant près d’un siècle. Les deux mondes en tout cas ne sont pas contemporains, en dépit de leurs dates identiques. Que si l’on demandait lequel est le plus vrai, il serait vain d’espérer aucune réponse sérieuse : les méthodes ne sont pas comparables ici et là, et les fins d’ordres différents.</p>
@@ -2731,11 +2731,11 @@
           <p>Il fallait toucher le fond, c’est fait. L’Europe unie naît à l’histoire parmi les ruines de sa dernière grande guerre civile. Et nous allons voir les prophètes de sa décadence finale controuvés par les faits et réfutés par une génération mieux avertie.</p>
         </div>
       </div>
-      <div type="chapter" n="VI.">
+      <div n="VI.">
         <pb n="311" xml:id="p311"/>
         <head type="kicker">Sixième Partie</head>
         <head>L’Europe en question : de Spengler à Ortega</head>
-        <div n="VI.1.">
+        <div type="chapter" n="VI.1.">
           <head type="kicker">1.</head>
           <head>« Tout s’est senti périr »</head>
           <p>Provoqué par un court-circuit entre tensions nationalistes accumulées depuis un siècle, l’incendie de 1914 ne fut éteint, provisoirement, qu’avec l’aide des Américains et de forts contingents recrutés en Asie, en Australie et en Afrique. Appelés à nous tirer de nos décombres, ils le firent, librement ou non, puis s’en retournèrent chez eux, sans insister, mais édifiés sur notre compte. D’une expérience durement acquise de la réalité européenne, les uns conclurent qu’ils pourraient désormais s’approprier nos forces matérielles et certains de nos principes politiques, quitte à les retourner contre nous profitant de nos faiblesses morales et de nos désunions passionnées : ainsi pensèrent aussi les Soviétiques ; d’autres conclurent que le nationalisme, cause de nos ruines, devait être enfin surmonté, mais à l’échelle de l’arbitrage mondial, c’est-à-dire à l’échelle des troubles que l’Europe venait de fomenter.</p>
@@ -2839,7 +2839,7 @@
             <p>… La prévision n’est jamais un pur savoir mais elle est déjà, en même temps, en tant que savoir, facteur du devenir réel.</p>
           </quote>
         </div>
-        <div n="VI.2.">
+        <div type="chapter" n="VI.2.">
           <head type="kicker">2.</head>
           <head>Crépuscule ou nouvelle aurore ?</head>
           <p>Les diagnostics qu’on vient de lire sont tous sévères, mais on a pu remarquer que, de Spengler à Maritain, une évolution se dessine vers un possible espoir nouveau, en dépit de la montée du péril hitlérien. Au fatalisme, à la nostalgie hautaine ou résignée, succèdent des attitudes plus « militantes ». (Maritain fait allusion, dans la page citée plus haut, au mouvement personnaliste qui, dès 1933, lançait le mot d’ordre de « l’engagement », c’est-à-dire, à ce moment-là, du refus de la démission de l’esprit devant les lois réputées « fatales » de notre décadence.)</p>
@@ -2894,14 +2894,14 @@
           </quote>
         </div>
       </div>
-      <div type="chapter" n="VII.">
+      <div n="VII.">
         <pb n="333" xml:id="p333"/>
         <head type="kicker">Septième Partie</head>
         <head>L’Ère des fédérations
           <lb/>De l’Unité de culture à l’union politique</head>
         <p>Le Grand Dessein de Sully est un projet posthume. L’Abbé de Saint-Pierre ne fut pas écouté. Victor Hugo ne fut qu’applaudi. En revanche, qu’ils le veuillent ou non, ceux qui écrivent sur l’Europe, au <num>xx<hi rend="sup">e</hi></num> siècle, se trouvent engagés dans l’Histoire qui se fait. Certains ont pu s’imaginer qu’ils n’étaient que des commentateurs, des analystes objectifs. Ils oubliaient que les journaux font l’Opinion, d’après laquelle l’homme politique s’oriente, et que les journaux tirent leur doctrine (même s’ils l’ignorent) d’une atmosphère intellectuelle que les auteurs qu’on va citer ont largement contribué à définir.</p>
         <p>Laissons de côté l’ordre chronologique, — qui perd son importance dans une période si courte où chacun réagit à tous les autres et presque simultanément — pour cette partie finale de notre ouvrage. Le choix des textes sera fonction d’un plan dont voici le très simple argument : L’Europe contestée par le Monde et tendant à s’unir pour son salut cherche d’abord à remonter aux <hi rend="i">sources</hi> d’où dérivent ses valeurs constituantes et spécifiques ; pour mieux voir ce qu’elle fut, ce qu’elle est et peut être, elle se compare aux autres civilisations, et par suite elle retrouve à la fois le sens de sa <hi rend="i">fonction mondiale</hi> et le sens de son unité très singulière, qui est <hi rend="i">unité dans la diversité</hi> ; il lui reste à tirer les conséquences de cette reprise de conscience…</p>
-        <div n="VII.1.">
+        <div type="chapter" n="VII.1.">
           <head type="kicker">1.</head>
           <head>Les sources vives</head>
           <p>On ne va pas refaire l’inventaire bien connu des sources historiques de l’Occident : l’Antiquité proche-orientale, Athènes, Rome et Jérusalem, les Germains et les Celtes, et enfin les Arabes. On citera simplement quelques textes-témoins des <hi rend="i">prises</hi>
@@ -3060,7 +3060,7 @@
             <p>À son tour, le Christianisme pose des limites humaines à la neutralité inhumaine de la recherche socratique. Instruisons-nous, bien entendu, par tous les moyens et par toutes les méthodes possibles ; mais le Christianisme tient à ce que toutes les recherches soient, en fin de compte, utiles à l’esprit humain, et à ce que nous n’oublions jamais que nous n’avons pas le droit de faire d’un être humain un simple outil, sans son consentement. Les enquêtes faites par les médecins de Göring sur des prisonniers des camps de concentration pour découvrir la limite de la résistance humaine étaient socratiques, mais n’étaient pas chrétiennes. Elles étaient donc contraires à l’esprit européen.<note place="bottom"><hi rend="sc">S. de Madariaga</hi> :<hi rend="i">L’Esprit de l’Europe</hi>, Mouvement Européen, Bruxelles, 1952.</note></p>
           </quote>
         </div>
-        <div n="VII.2.">
+        <div type="chapter" n="VII.2.">
           <head type="kicker">2.</head>
           <head>Vertus et valeurs européennes</head>
           <p>Tel étant l’héritage européen, que sommes-nous <hi rend="i">décidés</hi> à en tirer, nous les Européens du <num>xx<hi rend="sup">e</hi></num> siècle ? Depuis un tiers de siècle, l’Europe intellectuelle — précédant l’Europe politique, donc la presse, qui fait l’opinion — n’a cessé de s’interroger sur ses vrais buts, sur ceux qu’elle peut et doit donner à ses rêves et à sa volonté.</p>
@@ -3176,7 +3176,7 @@
             <p>Mais crions aussi que, malgré les plus sinistres apparences, ceux qui viendront regarderont peut-être l’angoisse contemporaine avec <pb n="371" xml:id="p371"/> stupéfaction ; et que l’Europe de la prise de Rome, l’Europe de Nicopolis, l’Europe de la chute de Byzance, ne leur sembleront peut-être qu’un remous misérable à côté de l’esprit acharné qui dit aux immenses ombres menaçantes qui commencent à s’étendre sur lui : « De vous comme du reste, nous nous servirons, une fois de plus, pour tirer l’homme de l’argile. »<note place="bottom">Conférence prononcée à la Sorbonne, le 4 novembre 1946, et publiée dans le recueil des <hi rend="i">Conférences de l’UNESCO</hi>, Éditions de la revue Fontaine, Paris, 1947.</note></p>
           </quote>
         </div>
-        <div n="VII.3.">
+        <div type="chapter" n="VII.3.">
           <head type="kicker">3.</head>
           <head>L’Europe et le Monde</head>
           <p>Pour nous connaître mieux, comparons-nous. Nul moins que nous, Européens, ne saurait se soustraire à ce risque, mais il faut se garder de le sous-estimer : aux premiers pas de toute enquête sur les jugements que le Monde porte sur nous, c’est tout d’abord la haine que nous rencontrerons, et d’aveuglantes raisons de douter de nous-mêmes.</p>
@@ -3286,7 +3286,7 @@
             <p>On pourrait, dans ce contraste, trouver la base d’un programme pour l’Europe d’aujourd’hui et de demain. Encore faudrait-il qu’elle conserve un corps, susceptible de servir de support à ce qui lui reste d’âme.</p>
           </quote>
         </div>
-        <div n="VII.4.">
+        <div type="chapter" n="VII.4.">
           <head type="kicker">4.</head>
           <head>L’Unité dans la diversité
             <lb/>Fondement de l’Union fédérale</head>
