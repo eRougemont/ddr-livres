@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
-<?xml-stylesheet type="text/css" href="../Teinte/opentei.css"?>
-<?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/css" href="../teinte/opentei.css"?>
+<?xml-model href="https://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr1961vhse">
   <teiHeader>
     <fileDesc>
@@ -50,7 +50,7 @@
           <hi rend="sc">D. de Rougemont.</hi>
         </p>
       </div>
-      <div n="I.">
+      <div n="I." type="chapter">
         <pb n="9" xml:id="p9"/>
         <head type="kicker">Première partie</head>
         <head>Les Origines d’Hésiode à Charlemagne
@@ -2037,7 +2037,7 @@
           <p>Voilà pourquoi Auguste Comte bornera son étude à « l’explication spéciale de l’agent et du théâtre de l’évolution sociale la plus complète », à l’Europe. Et il exposera dans les volumes qui suivent les raisons pour lesquelles « la race blanche possède, d’une manière si prononcée, le privilège effectif du principal développement social », tandis que « l’Europe a été le lien essentiel de cette civilisation prépondérante ».</p>
         </div>
       </div>
-      <div type="chapter" n="V.">
+      <div n="V.">
         <pb n="231" xml:id="p231"/>
         <head type="kicker">Cinquième Partie</head>
         <head>L’Ère des nations
@@ -2894,7 +2894,7 @@
           </quote>
         </div>
       </div>
-      <div n="VII.">
+      <div n="VII." type="chapter">
         <pb n="333" xml:id="p333"/>
         <head type="kicker">Septième Partie</head>
         <head>L’Ère des fédérations

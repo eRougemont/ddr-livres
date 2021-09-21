@@ -73,10 +73,12 @@
             <head>Croissance démographique : il faudra bien qu’elle s’arrête un jour</head>
             <p>Partons de l’explosion démographique, la bombe P, dont tout le monde a entendu parler, parce que ses perspectives angoissantes n’ont pas peu contribué à sensibiliser notre conscience écologique, mais aussi parce qu’elle sert d’argument principal aux partisans de la croissance à tout prix.</p>
             <p>Au train où elle va, l’humanité va doubler, pour la première fois de toute l’Histoire connue, en trente-cinq ans. Nous serons quelque six milliards en fin de siècle, cela paraît inévitable à la plupart des démographes tandis que j’écris. Si nous devions continuer à croître au taux actuel — supposant donc stabilisée la période de doublement, qui pourtant n’a cessé de raccourcir jusqu’à nous, passant de mille cinq cents ans vers huit mille avant notre ère, à deux cents ans dès 1650, quatre-vingts ans dès 1850, quarante-cinq ans dès 1930, trente-cinq ans dès 1970 — voici le tableau d’avenir que chacun peut dresser :</p>
-            <p rend="left">6 milliards en 2000
-              <lb/>24 milliards en 2070
-              <lb/>192 milliards en 2175
-              <lb/>450 000 milliards en 2575</p>
+            <list rend="-">
+              <item>6 milliards en 2000</item>
+              <item>24 milliards en 2070</item>
+              <item>192 milliards en 2175</item>
+              <item>450 000 milliards en 2575</item>
+            </list>
             <p>Peu après l’an 2600, les humains se touchent tous, et là s’arrêtent forcément mes calculs. « On pourra nourrir tout le monde, m’affirme un diététicien, mais il faudra manger debout. »</p>
             <p><pb n="16" xml:id="p16"/>Tout s’arrêtera d’ailleurs, par la force des choses, bien avant qu’on en arrive là. Un cancer ne peut pas devenir beaucoup plus gros que le corps dont il vit, et qu’il tue (pour mourir avec lui) bien avant de l’avoir matériellement rempli.</p>
             <p>Cela rappelle les jeux de clercs que chaque époque s’amuse à inventer. Les scolastiques désespéraient leurs étudiants en demandant si Dieu, dans sa Toute-Puissance, avait le pouvoir de créer une pierre si lourde qu’il ne pourrait pas la soulever. L’un des passe-temps, à peine moins blasphématoire, des économistes américains, consiste à poser des questions du type suivant : compte tenu du taux d’accroissement actuel, en quelle année la masse du papier imprimé par le gouvernement dépassera-t-elle la masse totale de la Terre ?</p>
@@ -944,11 +946,13 @@
             <p>Mais une fois reconnues ces limites à l’intuition et au calcul, il faut admettre aussi qu’une société humaine n’est pas une mécanique, ou ne l’est que partiellement, et que dans toute la mesure où elle est autre chose — ensemble <pb n="154" xml:id="p154"/> de systèmes plus ou moins intégrés, référentiel de convergences et de tensions entre déséquilibres permanents — les méthodes « scientifiques » échouent nécessairement là où les intuitions « sauvages » ont réussi.</p>
             <p>Un seul exemple, ici, me suffira.</p>
             <p>À la page 54 de l’ouvrage qui l’a rendu célèbre, <hi rend="i">L’An 2000</hi>, Herman Kahn groupe en un tableau les événements du <num>xx<hi rend="sup">e</hi></num> siècle que ses méthodes n’eussent pu prévoir, en tant que « surprenants ou inattendus ». Je relève dans cette liste les cinq événements suivants :</p>
-            <p rend="left"><hi rend="i">— Première Guerre mondiale.
-                <lb/>— Les USA deviennent la première puissance mondiale.
-                <lb/>— Montée du communisme et de l’URSS.
-                <lb/>— Poussée des fascismes, établissement de dictatures.
-                <lb/>— Apparition de nouveaux concepts « plutôt déroutants » ; ceux de Bohr, Einstein, de Broglie, Freud, Schrödinger</hi>.</p>
+            <list rend="-">
+              <item>Première Guerre mondiale.</item>
+              <item>Les USA deviennent la première puissance mondiale.</item>
+              <item>Montée du communisme et de l’URSS.</item>
+              <item>Poussée des fascismes, établissement de dictatures.</item>
+              <item>Apparition de nouveaux concepts « plutôt déroutants » ; ceux de Bohr, Einstein, de Broglie, Freud, Schrödinger.</item>
+            </list>
             <p>Or, ces cinq événements résument l’histoire du siècle.</p>
             <p>Imprévisible par la méthode des « projections sans surprises », ou des scénarios jouant avec les « tendances » de l’avant-garde industrielle des Américains d’avant-hier, on sent que l’auteur, pour débonnaire qu’il soit, les juge en somme déplacés, sans justification sérieuse. Ils ont eu tort de se produire. Et ce dépit est bien compréhensible : car les faits ne pouvant avoir tort, c’est la méthode qui sort ruinée d’un tel échec prévisionnel. D’autant plus qu’il se trouve que ces mêmes événements méthodiquement imprévisibles ont fait l’objet de prévisions, voire de prédictions très remarquables, de type intuitif-prophétique, tout au long du <num>xix<hi rend="sup">e</hi></num> siècle, de Tocqueville à Jacob Burckhardt et de Nietzsche à Georges Sorel, pour ne citer que les plus grands noms.</p>
             <p>Certes, ils ont tous nourri leurs intuitions d’une connaissance directe et passionnée des phénomènes en jeu, sociaux ou politiques. Mais c’est surtout dans la mentalité de l’homme de leur temps, dans les contradictions qu’ils y décelaient entre valeurs alléguées et conduites réelles, c’est donc au secret de la psyché de leur époque qu’ils ont surpris l’avenir comme à l’état naissant. À leurs yeux, la morale du travail et la croyance au Progrès par la production annonçaient à la fois les régimes de dictature puritaine (dont le stalinisme allait donner le modèle) et notre société de consommation — selon que l’on serait au début ou à la fin d’un vaste effort collectif, comme celui de la<pb n="155" xml:id="p155"/>production industrielle. La morale des stato-nationalismes annonçait les deux guerres mondiales, inévitables, refusées certes par la conscience des peuples, mais inscrites dans les inconscients individuels, dans la littérature, donc dans les rêves du temps. L’orgueil occidental, si naïf chez Kipling, annonçait la révolte fatale du Tiers Monde et la décolonisation qui s’ensuivrait. Et l’atomisation individualiste d’une société trop rapidement et sauvagement urbanisée annonçait la venue fonctionnelle des Rassembleurs charismatiques et des « terribles simplificateurs ». Hitler est là, dans les <hi rend="i">Lettres à von Preen</hi> du grand Burckhardt, qui datent de 1887. Et le condominium USA-URSS est là, dès 1856, dans la <hi rend="i">Démocratie en Amérique</hi>, après et avant vingt autres plus obscurs, non moins précis.</p>
