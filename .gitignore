@@ -1,2 +1,14 @@
-docx
-odt
+docx/
+html/
+iramuteq/
+markdown/
+article/
+toc/
+epub/
+kindle/
+*.sqlite
+*.epub
+.DS_Store
+work
+odt/
+
