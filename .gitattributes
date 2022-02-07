@@ -1,4 +1,5 @@
 * text eol=lf
+*.md text
 
 # binary files that git must not modified
 *.db binary
