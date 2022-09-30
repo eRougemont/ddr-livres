@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI type="book" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>

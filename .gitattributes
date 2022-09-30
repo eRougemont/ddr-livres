@@ -1,9 +1,19 @@
 * text eol=lf
 *.md text
 
-# binary files that git must not modified
+# truly binary and should not be modified.
 *.db binary
-*.png binary
-*.jpg binary
 *.docx binary
+*.jar binary
+*.jpg binary
+*.odg binary
 *.odt binary
+*.otf binary
+*.pdf binary
+*.png binary
+*.pptx binary
+*.ttf binary
+*.xlsx binary
+*.woff binary
+*.woff2 binary
+*.zip binary

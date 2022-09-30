@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../Teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="../Teinte/opentei.css"?>
 <?xml-model href="https://oeuvres.github.io/Teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr1982paysan">
+<TEI type="book" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr1982paysan">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -24,7 +24,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1982"/>
+        <date when="1932"/>
       </creation>
       <langUsage>
         <language ident="fre"/>
