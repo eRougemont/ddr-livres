@@ -762,10 +762,10 @@
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Mon Seigneur et mon Dieu, ôte de moi tout ce qui m’éloigne de toi !</p>
+            <p>Mon Seigneur et mon Dieu, donne-moi tout ce qui me rapproche de toi !</p>
+            <p>Mon Seigneur et mon Dieu, arrache-moi à moi-même, et donne-moi tout entier à toi seul !</p>
+            <p>Amen.</p>
           </sp>
-          <p>Mon Seigneur et mon Dieu, donne-moi tout ce qui me rapproche de toi !</p>
-          <p>Mon Seigneur et mon Dieu, arrache-moi à moi-même, et donne-moi tout entier à toi seul !</p>
-          <p>Amen.</p>
           <sp rend="float">
             <speaker>Voix <stage>(du plan 3)</stage>.</speaker>
             <p>Nicolas ! Nicolas !</p>
@@ -943,11 +943,11 @@
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Est-ce vous maintenant, beaux anges, qui campez autour du sommet ?…</p>
+            <stage>(Il atteint le sommet et il étend les bras, en silhouette sur la lumière.)</stage>
+            <p>… Accueillez-moi dans votre joie ! Anges cachés dans la lumière, que j’entende vos voix pures !
+              <pb n="27"/>
+               Louons ensemble l’Éternel ! Louons-le dans ces lieux élevés ! Louons-le par-dessus les glaciers !</p>
           </sp>
-          <stage>(Il atteint le sommet et il étend les bras, en silhouette sur la lumière.)</stage>
-          <p>… Accueillez-moi dans votre joie ! Anges cachés dans la lumière, que j’entende vos voix pures !
-            <pb n="27"/>
-             Louons ensemble l’Éternel ! Louons-le dans ces lieux élevés ! Louons-le par-dessus les glaciers !</p>
           <sp rend="center">
             <speaker>Chœur céleste.</speaker>
             <l>Louons l’Éternel des armées célestes</l>
@@ -1852,9 +1852,9 @@
           <sp rend="float">
             <speaker>Le landamman.</speaker>
             <p>C’est bien. Les sièges sont solides. Si les députés ont la tête aussi bien plantée que le derrière, on peut compter que les débats auront de la tenue. Voici les sièges des villes : Lucerne, Berne, Zurich…</p>
+            <stage>(Chaque nom est ponctué d’un coup sur le siège.)</stage>
+            <p>…Et voici pour les campagnes : Uri, Schwytz, Unterwald, Glaris, Zoug !</p>
           </sp>
-          <stage>(Chaque nom est ponctué d’un coup sur le siège.)</stage>
-          <p>…Et voici pour les campagnes : Uri, Schwytz, Unterwald, Glaris, Zoug !</p>
           <stage>(Même jeu.)</stage>
           <sp rend="float">
             <speaker>Le contremaître.</speaker>
@@ -2031,10 +2031,10 @@
           <sp rend="float">
             <speaker>Waldmann.</speaker>
             <p>… considérant que nos victoires mémorables ont été remportées par l’union, et que le temps de la grandeur et des conquêtes s’ouvre à nous, je vous adjure et je vous dis : Confédérés, faisons taire nos petits égoïsmes, bannissons tout esprit de clocher, jetons ici la base inébranlable d’un État fort et unifié, capable d’affronter les temps nouveaux !</p>
+            <p>Nous proposons que les campagnes acceptent et reçoivent en notre alliance fédérale les bonnes villes de Fribourg et de Soleure. N’ont-elles pas
+              <pb n="58"/>
+               vaillamment combattu, à nos côtés, pendant les guerres de Bourgogne ? À cette condition, nous acceptons que soit dissous et annulé le Pacte qui lie nos trois villes. Que toute alliance particulière soit interdite, et que les Suisses ne se battent plus jamais que sous notre commun drapeau ! J’ai dit.</p>
           </sp>
-          <p>Nous proposons que les campagnes acceptent et reçoivent en notre alliance fédérale les bonnes villes de Fribourg et de Soleure. N’ont-elles pas
-            <pb n="58"/>
-             vaillamment combattu, à nos côtés, pendant les guerres de Bourgogne ? À cette condition, nous acceptons que soit dissous et annulé le Pacte qui lie nos trois villes. Que toute alliance particulière soit interdite, et que les Suisses ne se battent plus jamais que sous notre commun drapeau ! J’ai dit.</p>
           <sp rend="float">
             <speaker>Le président.</speaker>
             <p>La parole est au représentant des campagnes.</p>
@@ -2378,8 +2378,8 @@
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Dieu ! Pardonne à ton serviteur ! Qu’ai-je fait ? Qui suis-je, moi, pour m’opposer à l’œuvre juste de ta main, de ta vengeance !</p>
+            <p>Tu as raison quand tu nous damnes. Tu as raison quand tu nous sauves. Tu as raison quand tu nous jettes dans la guerre. Tu as raison quand tu nous gardes dans la paix. Que ta volonté se fasse !</p>
           </sp>
-          <p>Tu as raison quand tu nous damnes. Tu as raison quand tu nous sauves. Tu as raison quand tu nous jettes dans la guerre. Tu as raison quand tu nous gardes dans la paix. Que ta volonté se fasse !</p>
         </div>
         <div>
           <head>Scène <num>ix</num>. <hi>(Plan 2.)</hi></head>
@@ -2507,9 +2507,8 @@
           <sp rend="float">
             <speaker>Le président <stage>(lisant)</stage>.</speaker>
             <p>Au nom de la vénérable Diète des huit cantons confédérés ! Considérant tous les périls qui nous menacent à l’intérieur comme au dehors de nos frontières, sur le conseil de notre frère Claus inspiré par le Tout-Puissant, nous avons décrété ce qui suit :</p>
-          </sp>
-          <p>La ligue des villes est proclamée dissoute. Les campagnes auront part équitable et juste au partage du butin de Bourgogne. Toute alliance étrangère est interdite soit aux cantons, soit aux partis, et tout subside en nature ou argent, afin que nulle jalousie ne vienne empoisonner les cœurs. Moyennant quoi nous acceptons dans notre Confédération les bonnes villes de Fribourg et de Soleure. Les députés doivent emporter le souvenir de la fidélité, des peines et travaux que le pieux homme, frère Claus, s’est donnés en cette occasion. Qu’il soit de leur devoir, partout et en tout lieu, de célébrer notre reconnaissance et d’illustrer ce mémorable exemple ! Séparons-nous dans la paix et la joie !</p>
-          <pb n="70"/>
+            <p>La ligue des villes est proclamée dissoute. Les campagnes auront part équitable et juste au partage du butin de Bourgogne. Toute alliance étrangère est interdite soit aux cantons, soit aux partis, et tout subside en nature ou argent, afin que nulle jalousie ne vienne empoisonner les cœurs. Moyennant quoi nous acceptons dans notre Confédération les bonnes villes de Fribourg et de Soleure. Les députés doivent emporter le souvenir de la fidélité, des peines et travaux que le pieux homme, frère Claus, s’est donnés en cette occasion. Qu’il soit de leur devoir, partout et en tout lieu, de célébrer notre reconnaissance et d’illustrer ce mémorable exemple ! Séparons-nous dans la paix et la joie !</p>
+          </sp><pb n="70"/>
           <sp rend="float">
             <speaker>Les assistants de gauche.</speaker>
             <p>Un pour tous !</p>
@@ -2524,8 +2523,8 @@
             <stage>(Chœur à bouche fermée.)</stage>
             <p>Parmi nous, peuple, parmi nous, — toi maintenant renais multipliée, dans tous nos cœurs, à tous échos, par mille cloches — ô joie du Pacificateur !</p>
             <p>Du haut des Alpes, qu’elle est belle — la voix de la sentinelle — qui nous avertit du salut !</p>
+            <p>Qu’ils sont beaux sur nos montagnes — les pieds ailés du messager — qui vient publier la paix !</p>
           </sp>
-          <p>Qu’ils sont beaux sur nos montagnes — les pieds ailés du messager — qui vient publier la paix !</p>
           <stage>(Au plan 2, un messager déplie un rouleau.)</stage>
           <sp rend="float">
             <speaker>Le messager.</speaker>
