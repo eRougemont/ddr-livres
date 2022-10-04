@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
-<?xml-stylesheet type="text/css" href="../teinte/opentei.css"?>
+<?xml-stylesheet type="text/css" href="../teinte/author-tei.css"?>
 <?xml-model href="https://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI type="book" xml:id="ddr1977aena" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
