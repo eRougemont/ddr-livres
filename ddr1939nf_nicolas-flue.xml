@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <div>
+      <div type="act">
         <pb n="5"/>
         <head>[PERSONNAGES]</head>
         <castList>
@@ -55,7 +55,7 @@
             <castItem><role>quatre juges</role>.</castItem>
             <castItem><role>le plaignant</role>.</castItem>
             <castItem><role>l’accusé</role>.</castItem>
-            <castItem><role>le landamman</role>.</castItem>
+            <castItem><role>le Landamman</role>.</castItem>
             <castItem><role>le curé</role>.</castItem>
             <castItem><role>trois vieillards</role>.</castItem>
           </castList>
@@ -98,7 +98,7 @@
           <castList>
             <castItem><role>Nicolas de Flue</role>, <roleDesc>64 ans, ermite</roleDesc>.</castItem>
             <castItem><role>Dorothée</role>, <roleDesc>sa femme</roleDesc>.</castItem>
-            <castItem><role>le landamman</role>.</castItem>
+            <castItem><role>le Landamman</role>.</castItem>
             <castItem><role>le contremaitre</role>.</castItem>
             <castItem><role>l’ambassadeur de France</role>.</castItem>
             <castItem><role>l’ambassadeur d’Autriche</role>.</castItem>
@@ -136,23 +136,23 @@
         <label rend="center" type="speaker">Récitatif alterné<note xml:id="fn1">Pendant tous les « récitatifs », le chœur chante à bouche fermée, soutenant la parole du récitant. Seuls les mots imprimés en italique sont articulés par le chœur.</note>.</label>
         <table rend="text">
           <spanGrp type="colgroup">
-            <span rend="col1" style="width: 50%" type="col"/>
+            <span style="width: 50%" type="col"/>
           </spanGrp>
           <row>
             <cell rend="sc">Le récitant.</cell>
-            <cell rend="sc">Le chœur.</cell>
+            <cell rend="sc right">Le chœur.</cell>
           </row>
           <row>
             <cell>En ce temps-là, Confédérés</cell>
-            <cell>Prêtez l’oreille !</cell>
+            <cell rend="right i">Prêtez l’oreille !</cell>
           </row>
           <row>
             <cell>En ce temps-là, déjà,</cell>
-            <cell>Comme aujourd’hui !</cell>
+            <cell rend="right i">Comme aujourd’hui !</cell>
           </row>
           <row>
             <cell>Monta le vent des plaines</cell>
-            <cell>Vent de guerre !</cell>
+            <cell rend="right i">Vent de guerre !</cell>
           </row>
           <row>
             <cell>Vers le Gothard, notre bastion sacré.</cell>
@@ -160,7 +160,7 @@
           </row>
           <row>
             <cell>Alors un homme s’est dressé</cell>
-            <cell>Prêtez l’oreille !</cell>
+            <cell rend="right i">Prêtez l’oreille !</cell>
           </row>
           <row>
             <cell>Témoin de Dieu dans le fracas de la colère.</cell>
@@ -168,7 +168,7 @@
           </row>
           <row>
             <cell>Là-bas, tous crient :</cell>
-            <cell>Ensemble ! Ensemble !</cell>
+            <cell rend="right i">Ensemble ! Ensemble !</cell>
           </row>
           <row>
             <cell>Il reste seul.</cell>
@@ -176,7 +176,7 @@
           </row>
           <row>
             <cell>Tous crient :</cell>
-            <cell>De l’or !</cell>
+            <cell rend="right i">De l’or !</cell>
           </row>
           <row>
             <cell>Il reste pauvre et seul.</cell>
@@ -184,7 +184,7 @@
           </row>
           <row>
             <cell>Tous crient :</cell>
-            <cell>La guerre !</cell>
+            <cell rend="right i">La guerre !</cell>
           </row>
           <row>
             <cell>Et lui tout seul dit : Paix !</cell>
@@ -196,17 +196,17 @@
           <speaker>Chœur céleste.</speaker>
           <l>Paix sur la terre et dans les cieux.</l>
         </sp>
-        <table>
+        <table rend="text">
           <spanGrp type="colgroup">
             <span rend="col1" style="width: 50%" type="col"/>
           </spanGrp>
           <row>
             <cell rend="sc">Le récitant.</cell>
-            <cell rend="sc">Le chœur.</cell>
+            <cell rend="sc right">Le chœur.</cell>
           </row>
           <row>
             <cell>Ce soir encore, Confédérés</cell>
-            <cell>Prêtez l’oreille !</cell>
+            <cell rend="right i">Prêtez l’oreille !</cell>
           </row>
           <row>
             <cell>Notre héros et notre saint nous parle.</cell>
@@ -214,7 +214,7 @@
           </row>
           <row>
             <cell>Là-bas, tous crient :</cell>
-            <cell>Ensemble ! Ensemble !</cell>
+            <cell rend="right i">Ensemble ! Ensemble !</cell>
           </row>
           <row>
             <cell>Il reste seul.</cell>
@@ -222,7 +222,7 @@
           </row>
           <row>
             <cell>Tous crient :</cell>
-            <cell>À mort !</cell>
+            <cell rend="right i">À mort !</cell>
           </row>
           <row>
             <cell>Et lui nous dit : Amour !</cell>
@@ -230,7 +230,7 @@
           </row>
           <row>
             <cell>Tous crient :</cell>
-            <cell>La guerre !</cell>
+            <cell rend="right i">La guerre !</cell>
           </row>
           <row>
             <cell>Et lui, tout seul encore
@@ -239,7 +239,7 @@
           </row>
           <row>
             <cell>Le matin vient !</cell>
-            <cell>Le matin vient !</cell>
+            <cell rend="right i">Le matin vient !</cell>
           </row>
         </table>
         <sp rend="center">
@@ -247,30 +247,30 @@
           <l>Le matin vient ! Et la nuit aussi !</l>
         </sp>
         <stage rend="center">(Quelques mesures d’orchestre.)</stage>
-        <table>
+        <table rend="text">
           <spanGrp type="colgroup">
             <span rend="col1" style="width: 50%" type="col"/>
           </spanGrp>
           <row>
             <cell rend="sc">Le récitant.</cell>
-            <cell rend="sc">Le chœur.</cell>
+            <cell rend="sc right">Le chœur.</cell>
           </row>
           <row>
             <cell>Or écoutez Confédérés !</cell>
-            <cell>Prêtez l’oreille !</cell>
+            <cell rend="right i">Prêtez l’oreille !</cell>
           </row>
         </table>
-        <sp>
+        <sp rend="center">
           <speaker>Tutti.</speaker>
           <p>Commence ici le Jeu de Nicolas !</p>
         </sp>
       </div>
-      <div>
+      <div type="act">
         <pb n="11"/>
         <head>ACTE PREMIER.</head>
         <div type="scene">
           <head>Scène <num>i</num>.</head>
-          <stage rend="center">(Nicolas seul devant sa ferme, au plan 2.)<note xml:id="fn2">Ce drame a été écrit pour une scène sans décors ni rideau, comportant trois degrés ou plans réunis par de larges escaliers, et deux petites scènes latérales à la hauteur du plan 2.</note></stage>
+          <stage rend="center">(Nicolas seul devant sa ferme, au plan 2.)<note xml:id="fn2">Ce drame a été écrit pour une scène sans décors ni rideau, comportant trois degrés ou plans réunis par de larges escaliers, et deux petites scènes latérales à la hauteur du plan 2.</note></stage>
           <sp rend="center">
             <speaker>Chœur des enfants.</speaker>
             <stage>(Tandis qu’ils sortent de la maison.)</stage>
@@ -299,7 +299,7 @@
               <l>Sonnez les merveilles !</l>
             </lg>
           </sp>
-          <stage>(Dorothée apparaît sur le seuil, un bébé dans les bras.)</stage>
+          <stage rend="right">(Dorothée apparaît sur le seuil, un bébé dans les bras.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Jean, donne les tâches de la journée.</p>
@@ -310,7 +310,7 @@
               <pb n="12"/>
                les vaches ; Heini à Stans avec le char. Dorothée et Marguerite aux pommes. Catherine et Véronique à la cuisine. Marche, marche ! À six heures tout le monde ici. Compris ?</p>
           </sp>
-          <stage>(Refrain de la chanson, tandis qu’ils se dispersent et sortent. Les deux plus petites filles ont pris le bébé et rentrent dans la maison.)</stage>
+          <stage rend="right">(Refrain de la chanson, tandis qu’ils se dispersent et sortent. Les deux plus petites filles ont pris le bébé et rentrent dans la maison.)</stage>
         </div>
         <div type="scene">
           <head>Scène <num>ii</num>.</head>
@@ -339,14 +339,14 @@
             <p>Je ne sais pas. C’est une chose étrange qui m’arrive aujourd’hui. Je revois tout ! Ma vie passée, toutes les choses que j’ai dû quitter ! Quelle est cette force qui toujours m’arrachait à tout ce que j’aimais ? C’est le mystère de ma vie, Dorothée. Et voici mon passé devant moi, comme un livre d’images énorme ! Les grandes pages sont tournées l’une après l’autre, et tout est là, vivant, comme dans les rêves. Quand je regarde Jean, c’est ma jeunesse qui est là… Une autre page, c’est ma vie à l’armée ! Dix ans de
               <pb n="13"/>
                guerre, et à la fin, ce soir au camp, après notre dernier combat. J’entends encore notre fanfare dans la nuit, écoute ! Est-ce que tu entends aussi ? <stage>(Fanfare en sourdine.)</stage> Regarde ! Est-ce que tu vois là-bas !…</p>
-            <stage>(Une petite scène latérale, à gauche du plan 2, s’éclaire comme une apparition. Feu de camp devant lequel on aperçoit quatre officiers et des soldats. Les costumes très clairs des personnages, la lumière du projecteur, l’allure des acteurs, tout doit contribuer à donner l’impression d’un rêve.)</stage>
+            <stage>(Une petite scène latérale, à gauche du plan 2, s’éclaire comme une apparition. Feu de camp devant lequel on aperçoit quatre officiers et des soldats. Les costumes très clairs des personnages, la lumière du projecteur, l’allure des acteurs, tout doit contribuer à donner l’impression d’un rêve.)</stage>
             <p>…Regarde comme j’étais !</p>
           </sp>
         </div>
         <div type="scene">
           <head>Scène <num>iii</num>.</head>
           <stage rend="center">(Scène latérale de gauche.)</stage>
-          <stage>(La fanfare est devenue plus forte, puis s’arrête brusquement.)</stage>
+          <stage rend="right">(La fanfare est devenue plus forte, puis s’arrête brusquement.)</stage>
           <sp rend="center">
             <speaker>Le chœur. <stage>(Sourdement.)</stage></speaker>
             <l>Souviens-toi ! Regarde ! Écoute !</l>
@@ -427,12 +427,12 @@
               <pb n="15"/>
                jamais les armes — que s’il faut défendre ma terre !</p>
           </sp>
-          <stage>(Il s’en va lentement vers la coulisse de gauche.)</stage>
+          <stage rend="right">(Il s’en va lentement vers la coulisse de gauche.)</stage>
           <sp rend="float">
             <speaker>Les soldats.</speaker>
             <p>Il a raison ! C’est lui qui a raison ! Vive Nicolas ! C’est le meilleur qui s’en va !</p>
           </sp>
-          <stage>(Nuit sur la scène de gauche.)</stage>
+          <stage rend="right">(Nuit sur la scène de gauche.)</stage>
           <sp rend="center">
             <speaker>Choral <num>i</num>.</speaker>
             <lg>
@@ -453,7 +453,7 @@
         </div>
         <div type="scene">
           <head>Scène <num>iv</num>.</head>
-          <stage>(La scène latérale de droite s’éclaire. On voit cinq juges assis. Nicolas, qui a revêtu la robe, siège au milieu. L’accusé et le plaignant se tiennent debout devant eux. L’accusé est gros et richement vêtu, le plaignant maigre et loqueteux. À gauche et à droite, spectateurs.)</stage>
+          <stage rend="right">(La scène latérale de droite s’éclaire. On voit cinq juges assis. Nicolas, qui a revêtu la robe, siège au milieu. L’accusé et le plaignant se tiennent debout devant eux. L’accusé est gros et richement vêtu, le plaignant maigre et loqueteux. À gauche et à droite, spectateurs.)</stage>
           <sp rend="float">
             <speaker>1<hi rend="sup">er</hi> juge.</speaker>
             <p>Ainsi selon le droit et la coutume de nos ancêtres, nous avons entendu devant tous et chacun les deux parties. Le plaignant que voici dit avoir emprunté 200 gulden à l’accusé. Il dit avoir donné pour gage son jardin. Maintenant le plaignant veut acquitter sa dette, mais l’accusé, que
@@ -470,10 +470,10 @@
           </sp>
           <sp rend="float">
             <speaker>Le juge.</speaker>
-            <p>Qui parlera pour le plaignant ? Qu’il s’annonce ! <stage>(Court silence.)</stage> Personne ! Qui parlera pour l’accusé ? Qu’il s’annonce ! <stage>(Silence, puis plusieurs mains se lèvent.)</stage> La parole est au landamman !</p>
+            <p>Qui parlera pour le plaignant ? Qu’il s’annonce ! <stage>(Court silence.)</stage> Personne ! Qui parlera pour l’accusé ? Qu’il s’annonce ! <stage>(Silence, puis plusieurs mains se lèvent.)</stage> La parole est au Landamman !</p>
           </sp>
           <sp rend="float">
-            <speaker>Le landamman.</speaker>
+            <speaker>Le Landamman.</speaker>
             <p>Cet homme est un bon citoyen. J’en témoigne ! Il a rendu de grands services à sa commune et au canton.</p>
           </sp>
           <sp rend="float">
@@ -500,18 +500,18 @@
             <speaker>Le juge.</speaker>
             <p>C’est trop tard. Tu n’as pas la parole ! <stage>(Aux juges.)</stage> Vous avez entendu la cause. Que ceux qui jugent en faveur du plaignant lèvent la main ! <stage>(Nicolas seul lève la main.)</stage> Que ceux qui jugent en faveur de l’accusé lèvent la main !</p>
           </sp>
-          <stage>(Derrière les quatre autres juges surgissent quatre démons qui leur prennent la main droite et l’élèvent.)</stage>
+          <stage rend="right">(Derrière les quatre autres juges surgissent quatre démons qui leur prennent la main droite et l’élèvent.)</stage>
           <pb n="17"/>
           <sp rend="float">
             <speaker>Le 1<hi rend="sup">er</hi> juge.</speaker>
             <p>Plaignant, tu es débouté. Accusé, nous t’acquittons. La séance est levée.</p>
           </sp>
-          <stage>(Les démons gesticulent joyeusement.)</stage>
+          <stage rend="right">(Les démons gesticulent joyeusement.)</stage>
           <sp rend="float">
             <speaker>Le plaignant.</speaker>
             <p>Lâches ! Voleurs ! Il n’y a plus de justice pour les pauvres en Suisse !</p>
           </sp>
-          <stage>(Il sort en criant, entraîné par les gardes. Remue-ménage parmi les assistants.)</stage>
+          <stage rend="right">(Il sort en criant, entraîné par les gardes. Remue-ménage parmi les assistants.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Concitoyens ! Écoutez-moi ! Pour la première fois parmi nous, c’est l’injustice qui triomphe ! La voix du pauvre est étouffée ! Car ce sont des démons, et non des hommes, qui ont rendu cette sentence inique ! Je les ai vus ! Et j’ai senti la flamme qui sortait de leurs bouches puantes !</p>
@@ -540,9 +540,9 @@
             <speaker>Nicolas.</speaker>
             <p>Oui ! Je fuirai bien loin, dans le désert, car je vois dans notre cité la violence et l’iniquité ! Je déclare déposer ma charge !</p>
           </sp>
-          <stage>(Il ôte sa robe et s’en va par la droite.)</stage>
-          <stage>(Nuit sur la scène de droite.)</stage>
-          <sp rend="float">
+          <stage rend="right">(Il ôte sa robe et s’en va par la droite.)
+            <lb/>(Nuit sur la scène de droite.)</stage>
+          <sp rend="center">
             <speaker>Choral <num>i</num>.</speaker>
             <lg>
               <l>Il s’en va, hélas, il s’en va,</l>
@@ -565,7 +565,7 @@
         </div>
         <div type="scene">
           <head>Scène <num>v</num>.</head>
-          <stage>(Plan 2.)</stage>
+          <stage rend="center">(Plan 2.)</stage>
           <sp rend="float">
             <speaker>Dorothée.</speaker>
             <p>Et maintenant, te voici dans la paix, cher époux. Nous nous aimons et nos enfants grandissent dans le bonheur que Dieu nous donne. Qu’aurions-nous donc à désirer de plus ?</p>
@@ -623,8 +623,8 @@
             <p>Parle, mon Nicolas.</p>
           </sp>
           <sp rend="float">
-            <speaker>Nicolas <stage>(avec difficulté).</stage> — Je crois que Dieu veut que je quitte maintenant… cette maison — et nos enfants,</speaker>
-            <p>et toi… Pour aller vivre seul… comme un ermite… avec Dieu seul…</p>
+            <speaker>Nicolas <stage>(avec difficulté).</stage> </speaker>
+            <p>Je crois que Dieu veut que je quitte maintenant… cette maison — et nos enfants, — et toi… Pour aller vivre seul… comme un ermite… avec Dieu seul…</p>
           </sp>
           <sp rend="float">
             <speaker>Dorothée <stage>(faiblement)</stage>.</speaker>
@@ -654,11 +654,11 @@
             <speaker>Dorothée.</speaker>
             <p>Mon Dieu ! Mon Dieu ! Oh ! je ne suis qu’une pauvre femme ! Comment pourrais-je te comprendre, Nicolas ! — Nicolas, ne m’abandonne pas !</p>
           </sp>
-          <stage>(Elle se jette dans ses bras.)</stage>
+          <stage rend="right">(Elle se jette dans ses bras.)</stage>
         </div>
         <div type="scene">
           <head>Scène <num>vi</num>.</head>
-          <stage>(On entend dans la coulisse le chant des enfants qui s’approchent, puis ils entrent en cortège par la gauche, portant des paniers pleins, deux par deux, et chantent jusqu’à ce qu’ils soient devant la maison. Dorothée est rentrée.)</stage>
+          <stage rend="right">(On entend dans la coulisse le chant des enfants qui s’approchent, puis ils entrent en cortège par la gauche, portant des paniers pleins, deux par deux, et chantent jusqu’à ce qu’ils soient devant la maison. Dorothée est rentrée.)</stage>
           <sp rend="float">
             <speaker>Jean.</speaker>
             <p>Ils ont bien travaillé, les gars ! Nous avons encore ramassé des fraises dans la forêt, en rentrant. Ce sera pour le souper.</p>
@@ -693,7 +693,7 @@
           </sp>
           <sp rend="float">
             <speaker>Walther.</speaker>
-            <p>Moi ? Je veux devenir landamman !</p>
+            <p>Moi ? Je veux devenir Landamman !</p>
           </sp>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
@@ -721,7 +721,7 @@
             <speaker>Nicolas.</speaker>
             <p>Allons, maintenant, au lit tout le monde ! Venez embrasser papa !</p>
           </sp>
-          <stage>(Tous embrassent leur père, l’un après l’autre.)</stage>
+          <stage rend="right">(Tous embrassent leur père, l’un après l’autre.)</stage>
           <sp rend="float">
             <speaker>Véronique.</speaker>
             <p>Est-ce que tu vas partir, papa ? On dirait que tu nous dis adieu !</p>
@@ -738,27 +738,27 @@
             <speaker>Nicolas.</speaker>
             <p>Adieu !</p>
           </sp>
-          <stage>(Ils courent tous dans la maison. Dorothée les suit. On les entend chanter.)</stage>
+          <stage rend="right">(Ils courent tous dans la maison. Dorothée les suit. On les entend chanter.)</stage>
         </div>
         <div type="scene">
           <head>Scène <num>vii</num>.</head>
-          <stage>(La nuit vient. Nicolas est resté seul un instant devant la maison. Des lumières s’allument aux fenêtres. Il s’approche du bord du plan 2.)</stage>
+          <stage rend="right">(La nuit vient. Nicolas est resté seul un instant devant la maison. Des lumières s’allument aux fenêtres. Il s’approche du bord du plan 2.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Qu’ai-je dit ? Adieu !… Je leur ai dit adieu sans le vouloir ! Que m’arrive-t-il ? Trois fois, des voix m’ont appelé ! Mais tu le vois, mon Dieu : tout mon amour, tous mes devoirs sont là, dans la maison de mes ancêtres ! Où me veux-tu ? Où dois-je aller, s’il faut partir ? Ô si un signe, au moins, m’était donné ! Mon Dieu, secours-moi, parle-moi, ne permets pas que je me perde en ces ténèbres qui m’entourent !</p>
           </sp>
           <sp rend="float">
-            <speaker>Voix <stage>(du plan 3)</stage>.</speaker>
+            <speaker>Voix <stage>(du plan 3)</stage>.</speaker>
             <p>Nicolas ! Nicolas !</p>
           </sp>
-          <stage>(Nicolas se dirige lentement vers la gauche du plan 2, puis s’arrête et s’agenouille. La porte de la maison s’entr’ouvre et, dans la faible lumière qui en sort, on voit paraître Dorothée. Elle reste sur le seuil, regarde Nicolas.)</stage>
+          <stage rend="right">(Nicolas se dirige lentement vers la gauche du plan 2, puis s’arrête et s’agenouille. La porte de la maison s’entr’ouvre et, dans la faible lumière qui en sort, on voit paraître Dorothée. Elle reste sur le seuil, regarde Nicolas.)</stage>
           <pb n="22"/>
           <sp rend="center">
             <speaker>Le chœur.</speaker>
             <l>Ô Dieu, ton serviteur élève la voix dans les ténèbres. Écoute-le !</l>
             <l>Détourne le Malin qui rôde ! Ô Dieu…</l>
           </sp>
-          <stage>(Pendant la prière qui suit, — « Gebetlein » — le chœur continue de chanter à bouche fermée.)</stage>
+          <stage rend="right">(Pendant la prière qui suit, — « Gebetlein » — le chœur continue de chanter à bouche fermée.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Mon Seigneur et mon Dieu, ôte de moi tout ce qui m’éloigne de toi !</p>
@@ -767,10 +767,10 @@
             <p>Amen.</p>
           </sp>
           <sp rend="float">
-            <speaker>Voix <stage>(du plan 3)</stage>.</speaker>
+            <speaker>Voix <stage>(du plan 3)</stage>.</speaker>
             <p>Nicolas ! Nicolas !</p>
           </sp>
-          <stage>(Dorothée s’avance de quelques pas vers Nicolas. Nicolas lève la tête vers les voix. Dans un cercle de lumière apparaissent, au plan 3, trois vieillards vêtus de blanc.)</stage>
+          <stage rend="right">(Dorothée s’avance de quelques pas vers Nicolas. Nicolas lève la tête vers les voix. Dans un cercle de lumière apparaissent, au plan 3, trois vieillards vêtus de blanc.)</stage>
           <sp rend="float">
             <speaker>Un des vieillards.</speaker>
             <p>Nicolas, veux-tu te placer corps et âme en notre pouvoir ?</p>
@@ -783,17 +783,17 @@
             <speaker>Un des vieillards.</speaker>
             <p>Puisque tu t’es donné tout entier à ton Dieu, je te promets que dans vingt ans tu seras délivré des peines de ce monde. Reste donc ferme en ta résolution. Tu porteras au ciel une bannière de la milice victorieuse, si tu portes ici-bas, dans la patience, la lourde croix que nous laissons sur tes épaules.</p>
           </sp>
-          <stage>(Les vieillards disparaissent. Nicolas reste agenouillé un moment, tandis que Dorothée s’est furtivement retirée vers la maison.)</stage>
+          <stage rend="right">(Les vieillards disparaissent. Nicolas reste agenouillé un moment, tandis que Dorothée s’est furtivement retirée vers la maison.)</stage>
         </div>
         <div type="scene">
           <pb n="23"/>
           <head>Scène <num>viii</num>.</head>
-          <stage>(Nicolas se relève, fait quelques pas vers la maison.)</stage>
+          <stage rend="right">(Nicolas se relève, fait quelques pas vers la maison.)</stage>
           <sp rend="float">
             <speaker>Nicolas <stage>(sourdement, comme un gémissement)</stage>.</speaker>
             <p>Dorothée. Au secours !</p>
           </sp>
-          <stage>(La porte s’ouvre toute grande. Dorothée s’élance vers Nicolas.)</stage>
+          <stage rend="right">(La porte s’ouvre toute grande. Dorothée s’élance vers Nicolas.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Oh ! Tu veillais ?</p>
@@ -846,7 +846,7 @@
             <speaker>Nicolas.</speaker>
             <p>Ce que Dieu a uni, Dieu peut le séparer. Un jour, plus tard, nous comprendrons.</p>
           </sp>
-          <stage>(Ils disparaissent dans la maison.)</stage>
+          <stage rend="right">(Ils disparaissent dans la maison.)</stage>
           <pb n="24"/>
           <sp rend="center">
             <speaker>Récitatif.</speaker>
@@ -859,7 +859,7 @@
         </div>
         <div type="scene">
           <head>Scène <num>ix</num>.</head>
-          <stage>(Nicolas et Dorothée reparaissent. Nicolas a revêtu la robe grise du pèlerin, il tient un bâton. Ils s’embrassent.)</stage>
+          <stage rend="right">(Nicolas et Dorothée reparaissent. Nicolas a revêtu la robe grise du pèlerin, il tient un bâton. Ils s’embrassent.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Dieu t’a fait cette grâce, ô femme, tu l’acceptes !</p>
@@ -868,17 +868,17 @@
             <speaker>Dorothée.</speaker>
             <p>Je ne suis rien. Je t’aime. Oh ! que je ne sois plus un obstacle sur ton chemin… Prends ceci pour la route, cher époux.</p>
           </sp>
-          <stage>(Elle lui tend un baluchon. Une lueur blanchit derrière le plan 3.)</stage>
+          <stage rend="right">(Elle lui tend un baluchon. Une lueur blanchit derrière le plan 3.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Adieu.</p>
           </sp>
-          <stage>(Il l’embrasse et s’en va par la droite.)</stage>
+          <stage rend="right">(Il l’embrasse et s’en va par la droite.)</stage>
           <sp rend="float">
             <speaker>Dorothée <stage>(tombant à genoux sur le seuil)</stage>.</speaker>
             <p>Le Seigneur me l’avait donné. Le Seigneur le reprend. Que le nom du Seigneur soit béni !</p>
           </sp>
-          <stage>(Nuit totale sur le plan 2. Seul un projecteur suit Nicolas.)</stage>
+          <stage rend="right">(Nuit totale sur le plan 2. Seul un projecteur suit Nicolas.)</stage>
           <pb n="25"/>
           <sp rend="center">
             <speaker>Choral <num>i</num>.</speaker>
@@ -889,15 +889,16 @@
               <l>Qui portera le poids du sacrifice ?</l>
               <l>Père, père, où sont tes fils ?</l>
               <l>Solitaire, où vont tes pas ?</l>
-              <l>Nicolas dans ton exil Souviens-toi de nos périls !</l>
+              <l>Nicolas dans ton exil</l>
+              <l>Souviens-toi de nos périls !</l>
             </lg>
           </sp>
         </div>
         <div type="scene">
           <head>Scène <num>x</num>.</head>
           <stage rend="center">(La montée au Ranft.)</stage>
-          <stage>(Batterie et quelques instruments en sourdine durant toute ta scène.)</stage>
-          <stage>(Première station. Au bas de la rampe qui va du plan 2 vers le plan 3. Nicolas apparaît dans un cercle de lumière, appuyé sur son bâton.)</stage>
+          <stage rend="right">(Batterie et quelques instruments en sourdine durant toute ta scène.)
+            <lb/>(Première station. Au bas de la rampe qui va du plan 2 vers le plan 3. Nicolas apparaît dans un cercle de lumière, appuyé sur son bâton.)</stage>
           <sp rend="center">
             <speaker>Le chœur <stage>(Récitatif.)</stage></speaker>
             <l>Solitaire, où vont tes pas ? Tu nous fuis, tu nous abandonnes !</l>
@@ -906,7 +907,7 @@
             <speaker>Nicolas.</speaker>
             <p>Voici, je fuirai bien loin, j’irai séjourner au désert. Car j’ai vu dans mon peuple la violence et le mépris des lois divines.</p>
           </sp>
-          <stage>(La lumière qui environne Nicolas faiblit. Il reprend sa marche. Deuxième station. Lumière plus vive.)</stage>
+          <stage rend="right">(La lumière qui environne Nicolas faiblit. Il reprend sa marche. Deuxième station. Lumière plus vive.)</stage>
           <sp rend="center">
             <speaker>Le chœur.</speaker>
             <p>Solitaire, où vont tes pas ? Au désert, ton orgueil s’égare !</p>
@@ -916,7 +917,7 @@
             <p>Mon cœur tremble au-dedans de moi, et les terreurs de la mort m’environnent ! Ô mon Seigneur, as-tu trompé ton serviteur ?</p>
           </sp>
           <pb n="26"/>
-          <stage>(La lumière faiblit autour de Nicolas qui gravit la rampe. Dans une subite lueur rouge, les démons se dressent devant lui, barrant sa route.)</stage>
+          <stage rend="right">(La lumière faiblit autour de Nicolas qui gravit la rampe. Dans une subite lueur rouge, les démons se dressent devant lui, barrant sa route.)</stage>
           <sp rend="center">
             <speaker>Le chœur.</speaker>
             <l>Solitaire, où vont tes pas ? Le démon s’offre à les guider.</l>
@@ -925,21 +926,21 @@
             <speaker>Les démons.</speaker>
             <p>Ha ! Ha ! Ha ! Le voilà, celui-là ! Honte à toi ! lâche, infidèle ! Ta couche est vide, et tes enfants t’appellent ! Ha ! Ha ! ton orgueil t’entraîne ! Ha ! Ha ! Ha ! Tu viens à nous !</p>
           </sp>
-          <stage>(Ils dansent.)</stage>
+          <stage rend="right">(Ils dansent.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Chiens de Satan ! Je vous connais ! Vous pouvez aboyer mais non pas mordre ! Au nom du Christ, disparaissez !…</p>
           </sp>
-          <stage>(Il s’avance, les démons passent à côté de lui et disparaissent plus bas, dans l’ombre, en criant. La lumière faiblit de nouveau jusqu’à la quatrième station.)</stage>
+          <stage rend="right">(Il s’avance, les démons passent à côté de lui et disparaissent plus bas, dans l’ombre, en criant. La lumière faiblit de nouveau jusqu’à la quatrième station.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Mes ennemis ont reculé quand j’ai crié ! Je sais que Dieu me défendra ! Car il a délivré mon âme de la mort. Il garantit mon pied de toute chute !</p>
           </sp>
           <sp rend="float">
-            <speaker>Chœur céleste. <stage>(Au plan 3, invisible.)</stage></speaker>
+            <speaker>Chœur céleste. <stage>(Au plan 3, invisible.)</stage></speaker>
             <l>Nicolas ! Nicolas ! Nicolas !</l>
           </sp>
-          <stage>(La lumière faiblit autour de Nicolas et grandit autour du plan 3, qu’il atteint lentement tout en parlant.)</stage>
+          <stage rend="right">(La lumière faiblit autour de Nicolas et grandit autour du plan 3, qu’il atteint lentement tout en parlant.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Est-ce vous maintenant, beaux anges, qui campez autour du sommet ?…</p>
@@ -955,7 +956,7 @@
             <l>Réveillez-vous dans l’ombre des vallées</l>
             <l>Répondez à nos chants !</l>
           </sp>
-          <stage>(Le plan 2 s’éclaire. Dorothée et les enfants sont sortis devant la maison.)</stage>
+          <stage rend="right">(Le plan 2 s’éclaire. Dorothée et les enfants sont sortis devant la maison.)</stage>
           <sp rend="center">
             <speaker>Chœur des enfants.</speaker>
             <lg>
@@ -1003,15 +1004,15 @@
             </lg>
           </sp>
           <stage rend="center">Interlude.</stage>
-          <stage>(Nuit. Quelques mesures d’orchestre, puis reprise du Choral <num>i</num>. Silence.)</stage>
+          <stage rend="right">(Nuit. Quelques mesures d’orchestre, puis reprise du Choral <num>i</num>. Silence.)</stage>
         </div>
       </div>
-      <div>
+      <div type="act">
         <pb n="29"/>
         <head>ACTE II.</head>
-        <div>
+        <div type="scene">
           <head>Prologue.</head>
-          <stage>(Sur le plan 1 : quelques feux. Des ombres debout ou assises autour. D’autres ombres, portant des fanaux, descendent du plan 2, par la droite. Par la gauche, lentement, entre un cortège de pèlerins.)</stage>
+          <stage rend="right">(Sur le plan 1 : quelques feux. Des ombres debout ou assises autour. D’autres ombres, portant des fanaux, descendent du plan 2, par la droite. Par la gauche, lentement, entre un cortège de pèlerins.)</stage>
           <sp rend="center">
             <speaker>Chant des pèlerins.</speaker>
             <lg>
@@ -1072,7 +1073,7 @@
             <speaker>Le pèlerin.</speaker>
             <p>Merci.</p>
           </sp>
-          <stage>(Ils s’approchent.)</stage>
+          <stage rend="right">(Ils s’approchent.)</stage>
           <sp rend="float">
             <speaker>Un autre pèlerin.</speaker>
             <p>Vient-il chaque jour autant de monde ?</p>
@@ -1167,9 +1168,10 @@
             <p>Moi, je dis qu’on n’est pas des saints, nous autres, et qu’il nous reste encore deux heures pour dormir. Bonsoir la compagnie.</p>
           </sp>
         </div>
-        <div>
-          <head>Scène <num>i</num>. <hi>(Plan 3.)</hi></head>
-          <stage>(Aube derrière le plan 3. On aperçoit en silhouette Nicolas et Ulrich, agenouillés, la face tournée vers le fond de la scène.)</stage>
+        <div type="scene">
+          <head>Scène <num>i</num>.</head>
+          <stage rend="center">(Plan 3.)</stage>
+          <stage rend="right">(Aube derrière le plan 3. On aperçoit en silhouette Nicolas et Ulrich, agenouillés, la face tournée vers le fond de la scène.)</stage>
           <sp rend="center">
             <speaker>Chœur céleste<note xml:id="fn4">Librement inspiré d’une Chanson d’aube du troubadour Folquet de Marseille.</note>.</speaker>
             <lg>
@@ -1196,7 +1198,7 @@
               <l>Amen.</l>
             </lg>
           </sp>
-          <stage>(La petite cloche de la cellule de Nicolas tinte. Les solitaires se retournent : un vieil homme noir se tient près de l’abri.)</stage>
+          <stage rend="right">(La petite cloche de la cellule de Nicolas tinte. Les solitaires se retournent : un vieil homme noir se tient près de l’abri.)</stage>
           <sp rend="float">
             <speaker>Ulrich.</speaker>
             <p>Un mendiant ? Par où est-il monté ? Le sentier est encore dans la nuit !</p>
@@ -1222,7 +1224,7 @@
             <speaker>Nicolas.</speaker>
             <p>Je n’ai rien que ma robe, tu le sais, et cette corde qui la tient serrée contre mon corps. Les voici.</p>
           </sp>
-          <stage>(Il dénoue sa ceinture et la tend.)</stage>
+          <stage rend="right">(Il dénoue sa ceinture et la tend.)</stage>
           <sp rend="float">
             <speaker>Le vieil homme.</speaker>
             <p>Garde-les de ma part, et souviens-t’en : rien n’est à toi, pas même cette bure, pas même la corde qui la tient contre ton corps. Un jour nous en aurons besoin.</p>
@@ -1244,9 +1246,9 @@
               <l>Par Jésus au nom très doux.</l>
             </lg>
           </sp>
-          <stage>(Pendant le chant, le vieillard a disparu.)</stage>
+          <stage rend="right">(Pendant le chant, le vieillard a disparu.)</stage>
         </div>
-        <div>
+        <div type="scene">
           <head>Scène <num>ii</num>.</head>
           <sp rend="float">
             <speaker>Ulrich.</speaker>
@@ -1264,13 +1266,13 @@
             <p>Une épreuve sévère est promise à ton peuple. Tu la devines, au plus secret de la lumière trop sereine qui baigne aujourd’hui ces rochers.</p>
             <p>Prends ta garde, ô guetteur ! l’attaque est proche !</p>
           </sp>
-          <stage>(Nicolas s’est retiré dans son abri, et remis à genoux. Ulrich s’avance au bord du plan 3 et regarde au-dessous de lui. La file des pèlerins s’est organisée dans la pénombre, et monte par la gauche, lentement, dans une lumière grandissante, avec des à-coups, des embouteillages.)</stage>
+          <stage rend="right">(Nicolas s’est retiré dans son abri, et remis à genoux. Ulrich s’avance au bord du plan 3 et regarde au-dessous de lui. La file des pèlerins s’est organisée dans la pénombre, et monte par la gauche, lentement, dans une lumière grandissante, avec des à-coups, des embouteillages.)</stage>
           <sp rend="float">
             <speaker>Ulrich.</speaker>
             <p>Ils sont plus nombreux que jamais… L’ermite a fui le monde pour trouver Dieu. Et voici que le monde à présent vient à lui !</p>
           </sp>
         </div>
-        <div>
+        <div type="scene">
           <head>Scène <num>iii</num>.</head>
           <sp rend="float">
             <speaker>Un héraut <stage>(précédant le cortège)</stage>.</speaker>
@@ -1284,7 +1286,7 @@
             <speaker>L’abbé.</speaker>
             <p>Notre cœur brûlait du désir de voir l’homme dont on parle tant. Souffriras-tu que nous t’interrogions sur des miracles qu’on raconte au loin ?</p>
           </sp>
-          <stage>(Deux personnages de la suite s’avancent.)</stage>
+          <stage rend="right">(Deux personnages de la suite s’avancent.)</stage>
           <sp rend="float">
             <speaker>1<hi rend="sup">er</hi> seigneur.</speaker>
             <p>Depuis longtemps, nous nous disputons à ton sujet. Lui prétend que tu t’es vanté
@@ -1325,9 +1327,9 @@
             <speaker>L’abbé.</speaker>
             <p>Tu es rude, frère Claus, comme les vrais montagnards. Mais nous savons apprécier ta franchise. Nous admirons et nous louons en toi les plus solides vertus de notre race ! Puisse-t-elle les conserver toujours ! Et maintenant, cher frère Claus, nous nous recommandons à tes prières et t’accordons notre bénédiction toute spéciale !</p>
           </sp>
-          <stage>(Le cortège s’engage sur le chemin descendant à droite. Un page joue d’un instrument joyeux. En même temps, le cortège des pèlerins monte par la gauche en chantant sa mélopée.)</stage>
+          <stage rend="right">(Le cortège s’engage sur le chemin descendant à droite. Un page joue d’un instrument joyeux. En même temps, le cortège des pèlerins monte par la gauche en chantant sa mélopée.)</stage>
         </div>
-        <div>
+        <div type="scene">
           <head>Scène <num>iv</num>.</head>
           <sp rend="float">
             <speaker>Nicolas <stage>(aux pèlerins)</stage>.</speaker>
@@ -1417,11 +1419,11 @@
             <speaker>Nicolas.</speaker>
             <p>Je reste ici. Ici, je vous aiderai. Si Dieu le veut, j’écarterai la guerre de nos cantons où vous avez trouvé refuge. Mais renoncez vous-même à faire la guerre, car autrement le mal n’a pas de fin. Et souvenez-vous qu’un plus pauvre que vous loue Dieu et lui rend grâce de ses dons !</p>
           </sp>
-          <stage>(Les pèlerins descendent par la droite en chantant, puis le chant se perd, à bouche fermée.)</stage>
+          <stage rend="right">(Les pèlerins descendent par la droite en chantant, puis le chant se perd, à bouche fermée.)</stage>
         </div>
-        <div>
+        <div type="scene">
           <head>Scène <num>v</num>.</head>
-          <stage>(Nicolas est allé s’agenouiller devant son abri. Paraissent sur le chemin de gauche deux personnages richement vêtus.)</stage>
+          <stage rend="right">(Nicolas est allé s’agenouiller devant son abri. Paraissent sur le chemin de gauche deux personnages richement vêtus.)</stage>
           <sp rend="float">
             <speaker>Ulrich.</speaker>
             <p>J’aperçois deux chevaliers qui se hâtent vers nous. <stage>(Au premier, en lui montrant Nicolas en prière.)</stage> Quel souci vous amène en ce lieu, seigneur ?</p>
@@ -1439,7 +1441,7 @@
             <speaker>Hornek.</speaker>
             <p>Le chevalier Burckhardt de Hornek ! J’apporte au frère Claus un très urgent message. De la part de mon noble maître, Sigismond, archiduc d’Autriche.</p>
           </sp>
-          <stage>(Nicolas s’est relevé et vient à eux.)</stage>
+          <stage rend="right">(Nicolas s’est relevé et vient à eux.)</stage>
           <sp rend="center">
             <speaker>Récitatif.</speaker>
             <stage>(Chœur à bouche fermée.)</stage>
@@ -1553,9 +1555,9 @@
             <speaker>Nicolas.</speaker>
             <p>Ce ne serait pas moi qui le dirais, ce mot, ni Dieu par moi, mais le Tentateur exécrable ! <stage>(Il crie.)</stage> Confédérés ! Confédérés ! réveillez-vous, n’écoutez pas le Tentateur !</p>
           </sp>
-          <stage>(Lumière sur le plan 2. Entrée des Suisses armés, par la gauche et la droite. Ils se massent au milieu, entre les pèlerins et la suite d’Einsiedeln.)</stage>
+          <stage rend="right">(Lumière sur le plan 2. Entrée des Suisses armés, par la gauche et la droite. Ils se massent au milieu, entre les pèlerins et la suite d’Einsiedeln.)</stage>
         </div>
-        <div>
+        <div type="scene">
           <head>Scène <num>vi</num>.</head>
           <sp rend="center">
             <speaker>Récitatif.</speaker>
@@ -1564,7 +1566,7 @@
             <p><stage>(Voix d’hommes.)</stage> À l’horizon paraissent des présages. Nous, d’ici, voyons une aurore éclatante de gloire et d’or. Toi, de là-haut, vois l’orage futur et la dévastation des liens sacrés.</p>
             <p><stage>(Voix de femmes.)</stage> Quel est ce rêve qui se lève avec le vent des plaines et de la guerre ? Hélas ! où courons-nous ?</p>
           </sp>
-          <stage>(Pendant ce récitatif, jeu de scène indiquant que les Suisses écoutent de tous côtés, dans l’inquiétude.)</stage>
+          <stage rend="right">(Pendant ce récitatif, jeu de scène indiquant que les Suisses écoutent de tous côtés, dans l’inquiétude.)</stage>
           <sp rend="center">
             <speaker>Choral <num>ii</num>.</speaker>
             <lg>
@@ -1579,7 +1581,7 @@
               <l>Confédérés, écoutez, écoutez !</l>
             </lg>
           </sp>
-          <stage>(Une moitié du groupe des Suisses se tourne vers le plan 3, l’autre moitié vers le plan 1 qui s’illumine. À gauche, les Français dominés par la silhouette de Louis XI, à droite les Autrichiens dominés par l’Empereur vêtu d’or et couronné.)</stage>
+          <stage rend="right">(Une moitié du groupe des Suisses se tourne vers le plan 3, l’autre moitié vers le plan 1 qui s’illumine. À gauche, les Français dominés par la silhouette de Louis XI, à droite les Autrichiens dominés par l’Empereur vêtu d’or et couronné.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Seigneur ! La voix du solitaire est faible. Parle toi-même à tes enfants, je t’en supplie ! Le chant du monde éclate à leurs oreilles et les rend sourds au cri du vieux guetteur !</p>
@@ -1617,10 +1619,10 @@
             <p>Mon Seigneur et mon Dieu, toi seul es notre force ! Toi seul es notre union, toi seul es notre paix ! Dans la détresse, c’est vers toi que je crie ! Seigneur, aie pitié de nous !</p>
           </sp>
         </div>
-        <div>
+        <div type="scene">
           <pb n="45"/>
           <head>Scène <num>vii</num>.</head>
-          <stage>(Le groupe des Suisses se divise brusquement en deux : à gauche les villes, à droite les Waldslatten. Pendant ce temps :)</stage>
+          <stage rend="right">(Le groupe des Suisses se divise brusquement en deux : à gauche les villes, à droite les Waldslatten. Pendant ce temps :)</stage>
           <sp rend="center">
             <speaker>Récitatif.</speaker>
             <stage>(Chœur à bouche fermée.)</stage>
@@ -1698,9 +1700,9 @@
             </lg>
           </sp>
         </div>
-        <div>
+        <div type="scene">
           <head>Scène <num>viii</num>.</head>
-          <stage>(Entre les deux groupes du plan 2 paraît brusquement l’Astrologue de Berne.)</stage>
+          <stage rend="right">(Entre les deux groupes du plan 2 paraît brusquement l’Astrologue de Berne.)</stage>
           <sp rend="float">
             <speaker>L’astrologue.</speaker>
             <stage>(Il débite rapidement quelques formules cabalistiques.)</stage>
@@ -1742,9 +1744,9 @@
             <speaker>L’astrologue <stage>(laissant retomber ses bras)</stage>.</speaker>
             <p>Les signes ont paru. Les sages ont appris. Les fous sont confondus. J’ai dit.</p>
           </sp>
-          <stage>(Puis formule cabalistique, rapidement. Louis XI et Sigismond lancent des sacs d’or à l’astrologue.)</stage>
+          <stage rend="right">(Puis formule cabalistique, rapidement. Louis XI et Sigismond lancent des sacs d’or à l’astrologue.)</stage>
           <sp rend="float">
-            <speaker>Nicolas <stage>(criant du plan 3)</stage>.</speaker>
+            <speaker>Nicolas <stage>(criant du plan 3)</stage>.</speaker>
             <p>Marchand de vent ! Impie ! Voyez qui l’a payé ! Il n’ouvre la bouche que pour mentir, et ne la ferme que pour taire la vérité !</p>
           </sp>
           <sp rend="float">
@@ -1759,12 +1761,12 @@
             <speaker>Le chœur.</speaker>
             <l>Malheur ! Malheur ! Malheur !</l>
           </sp>
-          <stage>(Le jour baisse. Trompette dans le lointain.)</stage>
+          <stage rend="right">(Le jour baisse. Trompette dans le lointain.)</stage>
         </div>
-        <div>
+        <div type="scene">
           <pb n="48"/>
           <head>Scène <num>ix</num>.</head>
-          <stage>(Hornek et Diesbach se sont concertés, tous deux passés à droite du plan 3.)</stage>
+          <stage rend="right">(Hornek et Diesbach se sont concertés, tous deux passés à droite du plan 3.)</stage>
           <sp rend="float">
             <speaker>Hornek.</speaker>
             <p>Holà ! Je vois un messager, là-bas, vers l’Ouest, dans le couchant !</p>
@@ -1785,7 +1787,7 @@
             <speaker>Une voix des suisses.</speaker>
             <p>Ce n’est pas nous, c’est le Destin qui l’a voulu ! Aux armes !</p>
           </sp>
-          <stage>(Le ciel devient rouge.)</stage>
+          <stage rend="right">(Le ciel devient rouge.)</stage>
           <sp rend="center">
             <speaker>Chœur des suisses.</speaker>
             <stage>(Il font un pas lourd en avant et dressent d’un coup leurs hallebardes avec un mugissement bas et bref.)</stage>
@@ -1810,7 +1812,7 @@
             <speaker>L’astrologue.</speaker>
             <p>Et toi, là-haut, sentinelle de malheur, maintenant, que vois-tu venir ? Ouvre les yeux ! Vois l’énorme incendie, l’aurore de notre puissance !</p>
           </sp>
-          <stage>(Des feux rouges balayent la scène.)</stage>
+          <stage rend="right">(Des feux rouges balayent la scène.)</stage>
           <pb n="49"/>
           <sp rend="float">
             <speaker>Une autre voix.</speaker>
@@ -1839,23 +1841,23 @@
           <stage rend="center">(Comme entre les Actes I et II. Reprise du Choral <num>ii</num>.)</stage>
         </div>
       </div>
-      <div>
+      <div type="act">
         <pb n="51"/>
         <head>ACTE III.</head>
-        <div>
+        <div type="scene">
           <head>Scène <num>i</num>.</head>
-          <stage>(Le chœur s’est massé à gauche et à droite du plan 1. Au centre du plan 2, des hommes travaillent à installer des grands sièges de bois. Le landamman les observe. Au plan 3, dans la pénombre, on distingue Nicolas, immobile devant sa cellule.)</stage>
+          <stage rend="right">(Le chœur s’est massé à gauche et à droite du plan 1. Au centre du plan 2, des hommes travaillent à installer des grands sièges de bois. Le Landamman les observe. Au plan 3, dans la pénombre, on distingue Nicolas, immobile devant sa cellule.)</stage>
           <sp rend="float">
             <speaker>Le contremaître.</speaker>
             <p>Hardi, compagnons ! Cognez dur ! Tapez là-dessus comme sur des têtes de Bourguignons ! <stage>(Coups de masse.)</stage> Souvenez-vous de Sempach ! <stage>(Coups.)</stage> Souvenez-vous de Saint-Jacques ! <stage>(Coups.)</stage> Souvenez-vous de Grandson ! <stage>(Coups.)</stage> Souvenez-vous de Morat ! <stage>(Coups.)</stage> Souvenez-vous de Nancy ! <stage>(Coups.)</stage> Souvenez-vous de tout ce que vous voudrez ! <stage>(Grêle de coups.)</stage> Ça y est ? — Monsieur le Landamman, tout est prêt !</p>
           </sp>
           <sp rend="float">
-            <speaker>Le landamman.</speaker>
+            <speaker>Le Landamman.</speaker>
             <p>C’est bien. Les sièges sont solides. Si les députés ont la tête aussi bien plantée que le derrière, on peut compter que les débats auront de la tenue. Voici les sièges des villes : Lucerne, Berne, Zurich…</p>
             <stage>(Chaque nom est ponctué d’un coup sur le siège.)</stage>
             <p>…Et voici pour les campagnes : Uri, Schwytz, Unterwald, Glaris, Zoug !</p>
           </sp>
-          <stage>(Même jeu.)</stage>
+          <stage rend="right">(Même jeu.)</stage>
           <sp rend="float">
             <speaker>Le contremaître.</speaker>
             <p>Ces deux-là <stage>(il tape dessus)</stage>, nous les avons placés à part, selon vos instructions. Pour qui sont-ils ?</p>
@@ -1870,7 +1872,7 @@
             <p>Expliquez-vous, Monsieur le Landamman.</p>
           </sp>
           <sp rend="float">
-            <speaker>Le landamman.</speaker>
+            <speaker>Le Landamman.</speaker>
             <p>Nous avons huit cantons confédérés. Les villes disposent de trois voix : Zurich, Berne, Lucerne. Mais avec leur richesse et leur astuce, cela vaut bien les cinq voix des campagnes. Maintenant si nous acceptons dans l’Alliance deux villes nouvelles — ces deux-là, cela fera cinq contre cinq, mais cinq gros contre cinq petits, comprenez-vous ? Et nous verrons bientôt la fin de notre paix par le triomphe du parti des conquêtes. L’or de Bourgogne les rend fous, tous ceux des villes ! S’ils gagnent, croyez-moi, ce sera la fin de notre libre Confédération.</p>
           </sp>
           <sp rend="float">
@@ -1882,22 +1884,22 @@
             <p>Ce n’est pas ton marteau, mon ami, qui peut arrêter le Destin ! Les délégués sont là, la Diète va s’ouvrir, il est trop tard ! On n’attend plus que les ambassadeurs de l’étranger pour inaugurer les débats. Écoutez ! <stage>(Ils s’arrêtent, les marteaux levés. Fanfare dans la coulisse.)</stage> Les voici !</p>
           </sp>
         </div>
-        <div>
+        <div type="scene">
           <pb n="53"/>
           <head>Scène <num>ii</num>.</head>
-          <stage>(Musique de cortège. Vivats de la foule — le chœur. Par la gauche et la droite du plan 1 entrent les ambassadeurs de France et d’Autriche, puis par la gauche et la droite du plan 2, les ambassadeurs de Venise et de la Savoie, chacun suivi de seigneurs et de valets. Les têtes des quatre cortèges finissent par se rencontrer au centre du plan 1, au-dessous des sièges de la Diète. Les ambassadeurs saluent le landamman, sur les marches qui conduisent au plan 2.)</stage>
+          <stage rend="right">(Musique de cortège. Vivats de la foule — le chœur. Par la gauche et la droite du plan 1 entrent les ambassadeurs de France et d’Autriche, puis par la gauche et la droite du plan 2, les ambassadeurs de Venise et de la Savoie, chacun suivi de seigneurs et de valets. Les têtes des quatre cortèges finissent par se rencontrer au centre du plan 1, au-dessous des sièges de la Diète. Les ambassadeurs saluent le Landamman, sur les marches qui conduisent au plan 2.)</stage>
           <sp rend="float">
             <speaker>L’ambassadeur de France <stage>(présentant ses collègues)</stage>.</speaker>
             <p>L’ambassadeur de la cour de Savoie. — L’ambassadeur de sa très haute grandeur Sigismond, archiduc d’Autriche. — L’ambassadeur de la sérénissime République de Venise. — Et moi je vous salue, Monsieur le Landamman, au nom du Roi mon maître, Louis l’Onzième.</p>
           </sp>
-          <stage>(Saluts.)</stage>
+          <stage rend="right">(Saluts.)</stage>
           <sp rend="float">
             <speaker>Le Landamman.</speaker>
             <p>Que la paix des montagnes, et non point la discorde des hommes, vous accueille aujourd’hui, chers seigneurs, dans ce pays qui domine vos plaines ! <stage>(Aux Suisses.)</stage> Allez dire à nos députés que tout est disposé pour la séance solennelle.</p>
           </sp>
-          <stage>(Il sort avec les Suisses.)</stage>
+          <stage rend="right">(Il sort avec les Suisses.)</stage>
         </div>
-        <div>
+        <div type="scene">
           <head>Scène <num>iii</num>.</head>
           <sp rend="float">
             <speaker>L’ambassadeur de Venise.</speaker>
@@ -1935,13 +1937,13 @@
             <p>Eh bien ! voilà du bon gibier pour messieurs nos agents recruteurs !</p>
           </sp>
         </div>
-        <div>
+        <div type="scene">
           <head>Scène <num>iv</num>.</head>
           <sp rend="float">
             <speaker>Voix dans le chœur.</speaker>
             <p>Les voilà ! Les voilà ! Retirez-vous !</p>
           </sp>
-          <stage>(On entend un chant dans la coulisse, puis une bande armée et costumée fait irruption sur le plan 2. Pendant le chant, entre strophes et refrain, les Compagnons exécutent une danse parmi les groupes du plan 1 et autour des sièges du plan 2.)</stage>
+          <stage rend="right">(On entend un chant dans la coulisse, puis une bande armée et costumée fait irruption sur le plan 2. Pendant le chant, entre strophes et refrain, les Compagnons exécutent une danse parmi les groupes du plan 1 et autour des sièges du plan 2.)</stage>
           <sp rend="center">
             <speaker>Chœur des compagnons de la follevie.</speaker>
             <lg>
@@ -2005,17 +2007,17 @@
             <speaker>4<hi rend="sup">e</hi> partie des compagnons.</speaker>
             <p>Hourrah ! l’Amour !</p>
           </sp>
-          <stage>(Pendant ces répliques, les ambassadeurs tendent des sacs d’or ; les compagnons se précipitent vers les quatre groupes d’étrangers, et dansent avec les sacs. Après quoi, les ambassadeurs et les compagnons boivent et chantent ensemble.)</stage>
+          <stage rend="right">(Pendant ces répliques, les ambassadeurs tendent des sacs d’or ; les compagnons se précipitent vers les quatre groupes d’étrangers, et dansent avec les sacs. Après quoi, les ambassadeurs et les compagnons boivent et chantent ensemble.)</stage>
         </div>
-        <div>
+        <div type="scene">
           <head>Scène <num>v</num>.</head>
-          <stage>(Fanfare. Des soldats entrent par la gauche et chassent les compagnons qui se groupent sur les marches, au-dessous des sièges.)</stage>
+          <stage rend="right">(Fanfare. Des soldats entrent par la gauche et chassent les compagnons qui se groupent sur les marches, au-dessous des sièges.)</stage>
           <sp rend="float">
             <speaker>Les soldats.</speaker>
             <p>Place aux députés ! La Diète va s’ouvrir ! Arrière ! Silence !</p>
           </sp>
           <pb n="57"/>
-          <stage>(Entrent les députés, en cortège. Ils vont prendre place sur les sièges. Derrière chacun d’eux, un soldat debout, portant la bannière du canton représenté.)</stage>
+          <stage rend="right">(Entrent les députés, en cortège. Ils vont prendre place sur les sièges. Derrière chacun d’eux, un soldat debout, portant la bannière du canton représenté.)</stage>
           <sp rend="float">
             <speaker>Le président.</speaker>
             <p>Députés des campagnes et des villes, représentants des huit cantons confédérés ! Pour la dernière fois en cette année, nous déclarons ouverte notre Diète. Quinze assemblées n’ont pas suffi pour concilier les deux partis. C’est aujourd’hui notre suprême chance. De ce débat — songez-y tous ! — sortiront la paix ou la guerre ! Que chacun des partis déclare maintenant les sacrifices qu’il pourra consentir pour le salut de la patrie commune ! La parole est au délégué des villes.</p>
@@ -2079,7 +2081,7 @@
             <speaker>Le président.</speaker>
             <p>Une dernière fois, je vous adjure… salut de notre Confédération !</p>
           </sp>
-          <stage>(Sa voix est couverte par les cris.)</stage>
+          <stage rend="right">(Sa voix est couverte par les cris.)</stage>
           <sp rend="float">
             <speaker>Cris des compagnons.</speaker>
             <p>Assez de par-lottes ! À bas les vieil-lards ! Nous vou-lons un chef !</p>
@@ -2097,13 +2099,13 @@
             <speaker>Waldmann.</speaker>
             <p>Nous tirerons les conséquences !</p>
           </sp>
-          <stage>(Tumulte, cris : À la guerre ! À la guerre !)</stage>
+          <stage rend="right">(Tumulte, cris : À la guerre ! À la guerre !)</stage>
           <sp rend="float">
             <speaker>Le président.</speaker>
             <p>La séance est suspendue ! Gardes ! avancez !</p>
           </sp>
-          <stage>(Les gardes essayent de repousser les compagnons. Ceux-ci s’élancent vers les députés et les chassent, puis renversent et brisent les sièges. Chant des Compagnons, tandis que les ambassadeurs reculent à gauche et à droite du plan 1 et que les députés disparaissent.)</stage>
-          <stage>(Nuit sur le plan 2. Lueur au plan 3. Batterie de tambours assourdis.)</stage>
+          <stage rend="right">(Les gardes essayent de repousser les compagnons. Ceux-ci s’élancent vers les députés et les chassent, puis renversent et brisent les sièges. Chant des Compagnons, tandis que les ambassadeurs reculent à gauche et à droite du plan 1 et que les députés disparaissent.)</stage>
+          <stage rend="right">(Nuit sur le plan 2. Lueur au plan 3. Batterie de tambours assourdis.)</stage>
           <sp rend="center">
             <speaker>Récitatif.</speaker>
             <stage rend="center">(Chœur à bouche fermée.)</stage>
@@ -2112,21 +2114,21 @@
             <p>II. Ah ! nuit de deuil, peuple des monts et des vallées, — qui pourra sauver désormais — renversant les destins, ta patrie ? <hi>Terreur sur nous</hi> !</p>
             <p>Pleurez femmes, sanglotez — sur les foyers désertés — <hi>hou ! hou</hi> ! — Sourde plainte, les tambours — couvrent ta voix déplorable. — Que dis-tu ? — <hi>Demain la guerre.</hi></p>
           </sp>
-          <stage>(Batterie, rythme de tambours, qui se prolongent durant les répliques suivantes.)</stage>
+          <stage rend="right">(Batterie, rythme de tambours, qui se prolongent durant les répliques suivantes.)</stage>
         </div>
-        <div>
+        <div type="scene">
           <head>Scène <num>vi</num>.</head>
           <sp rend="float">
-            <speaker>Voix isolées <stage>(à droite, à gauche, au centre, au plan 1, au plan 2.)</stage></speaker>
+            <speaker>Voix isolées <stage>(à droite, à gauche, au centre, au plan 1, au plan 2.)</stage></speaker>
             <p>Qu’ont-ils dit ? — Demain la guerre ! — Ô notre alliance déchirée ! — Qu’ont-ils dit ? — Demain la mort ! — Ô patrie, patrie déchirée ! Adieu ! Adieu ! Pitié pour nous !</p>
           </sp>
           <sp rend="center">
             <speaker>Le chœur <stage>(parlé)</stage>.</speaker>
             <p>Veillée d’armes ! Qu’entends-tu ? — Minuit sonne ! <stage>(Douze coups.)</stage> D’où nous viendra le salut ? — Kyrie eleison !</p>
           </sp>
-          <stage>(Silence total.)</stage>
+          <stage rend="right">(Silence total.)</stage>
           <sp rend="float">
-            <speaker>Dorothée <stage>(dans une lueur, à gauche du plan 2, près des coulisses)</stage>.</speaker>
+            <speaker>Dorothée <stage>(dans une lueur, à gauche du plan 2, près des coulisses)</stage>.</speaker>
             <p>Monsieur le curé ! Monsieur Haimo ! Réveillez-vous !</p>
           </sp>
           <sp rend="float">
@@ -2145,7 +2147,7 @@
             <speaker>Dorothée <stage>(criant)</stage>.</speaker>
             <p>Ô Dieu ! Mes fils ! Ô seul espoir, tout est perdu !</p>
           </sp>
-          <stage>(Nuit. À droite du plan 2, lumière : on voit Haimo, le bâton à la main, qui s’avance vers les marches conduisant au plan 3.)</stage>
+          <stage rend="right">(Nuit. À droite du plan 2, lumière : on voit Haimo, le bâton à la main, qui s’avance vers les marches conduisant au plan 3.)</stage>
           <pb n="62"/>
           <sp rend="center">
             <speaker>Choral <num>ii</num>.</speaker>
@@ -2159,14 +2161,14 @@
             <l>Ne cesse pas d’implorer Dieu pour nous !</l>
           </sp>
         </div>
-        <div>
+        <div type="scene">
           <head>Scène <num>vii</num>.</head>
-          <stage>(Haimo atteint le plan 3.)</stage>
+          <stage rend="right">(Haimo atteint le plan 3.)</stage>
           <sp rend="float">
             <speaker>Haimo.</speaker>
             <p>Frère Claus ! Frère Claus !</p>
           </sp>
-          <stage>(La porte de la cellule s’ouvre. Dans la lumière jaillie de l’intérieur, Nicolas se tient debout.)</stage>
+          <stage rend="right">(La porte de la cellule s’ouvre. Dans la lumière jaillie de l’intérieur, Nicolas se tient debout.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>La paix soit avec toi, Haimo. Je t’attendais.</p>
@@ -2256,7 +2258,7 @@
             <speaker>Haimo.</speaker>
             <p>Ô ! que Dieu même te délie !</p>
           </sp>
-          <stage>(Il s’agenouille. Silence.)</stage>
+          <stage rend="right">(Il s’agenouille. Silence.)</stage>
           <sp rend="center">
             <speaker>Récitatif.</speaker>
             <stage>(Chœur à bouche fermée.)</stage>
@@ -2290,12 +2292,12 @@
             <speaker>Nicolas.</speaker>
             <p>Dieu lui-même est descendu ! Mon Seigneur s’est abaissé ! Ô Haimo ! j’ai tout quitté pour vivre seul avec mon Dieu, tout près du ciel. Et voici qu’il me faut maintenant quitter aussi ma solitude et redescendre chez les hommes… Écoute-moi. C’est comme un effrayant blasphème… C’est comme si Dieu lui-même m’avait dit : Nicolas, sacrifie ton salut ! — J’obéirai, je descendrai.</p>
           </sp>
-          <stage>(Il s’appuie sur Haimo, et tous deux, très lentement, se mettent à descendre.)</stage>
+          <stage rend="right">(Il s’appuie sur Haimo, et tous deux, très lentement, se mettent à descendre.)</stage>
         </div>
-        <div>
+        <div type="scene">
           <pb n="65"/>
           <head>Scène <num>viii</num>.</head>
-          <stage>(Pendant la descente vers le plan 2.)</stage>
+          <stage rend="right">(Pendant la descente vers le plan 2.)</stage>
           <sp rend="center">
             <speaker>Choral <num>i</num>.</speaker>
             <l>Il descend, Seigneur, il descend !</l>
@@ -2307,32 +2309,32 @@
             <l>Nicolas, reviens d’exil !</l>
             <l>Soutiens-nous dans nos périls !</l>
           </sp>
-          <stage>(La batterie de tambours reprend en sourdine et se prolonge durant toute la scène.)</stage>
+          <stage rend="right">(La batterie de tambours reprend en sourdine et se prolonge durant toute la scène.)</stage>
           <sp rend="float">
             <speaker>Nicolas <stage>(s’arrêtant)</stage>.</speaker>
             <p>Haimo, je ne puis plus marcher ! Mes jambes plient !</p>
           </sp>
-          <stage>(Il tombe à genoux.)</stage>
+          <stage rend="right">(Il tombe à genoux.)</stage>
           <sp rend="float">
             <speaker>Haimo.</speaker>
             <p>Au nom du ciel, efforce-toi, mon frère ! Le temps fuit !</p>
           </sp>
-          <stage>(Nicolas se relève, fait quelques pas. Sur le plan 2, qui s’éclaire peu à peu, on voit paraître des groupes de députés, des soldats, les ambassadeurs.)</stage>
+          <stage rend="right">(Nicolas se relève, fait quelques pas. Sur le plan 2, qui s’éclaire peu à peu, on voit paraître des groupes de députés, des soldats, les ambassadeurs.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Haimo, je ne puis plus…</p>
           </sp>
-          <stage>(Il retombe.)</stage>
+          <stage rend="right">(Il retombe.)</stage>
           <sp rend="float">
             <speaker>Haimo <stage>(penché vers Nicolas)</stage>.</speaker>
             <p>Vois là-bas ! Ils se sont levés ! Tout s’apprête pour la guerre ! Soldats rangés, armes fourbies, regards de haine, sans un mot ! Mon Dieu ! Mon Dieu ! Soutiens ton serviteur !</p>
           </sp>
-          <stage>(Chant des Compagnons, en sourdine.)</stage>
+          <stage rend="right">(Chant des Compagnons, en sourdine.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Écoute-moi ! Je ne puis plus avancer. Je vais te dicter un message pour les députés. Ensuite tu me laisseras sur le bord du chemin. Et tu courras leur crier : Paix ! Paix !… Viens près de moi. Écris ce que je dis !</p>
           </sp>
-          <stage>(Haimo écrit sous la dictée de Nicolas pendant qu’au plan 3 on entend un chœur.)</stage>
+          <stage rend="right">(Haimo écrit sous la dictée de Nicolas pendant qu’au plan 3 on entend un chœur.)</stage>
           <sp rend="center">
             <speaker>Chœur céleste.</speaker>
             <lg>
@@ -2360,7 +2362,7 @@
             <speaker>Haimo.</speaker>
             <p>Adieu !</p>
           </sp>
-          <stage>(Il fait deux pas.)</stage>
+          <stage rend="right">(Il fait deux pas.)</stage>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Haimo ! <stage>(Il ôte la corde qui tient sa robe.)</stage> Voici ma signature ! <stage>(Il fait un nœud.)</stage> Apporte-leur ce nœud, afin qu’ils le dénouent !</p>
@@ -2373,7 +2375,7 @@
             <speaker>Nicolas <stage>(avec peine)</stage>.</speaker>
             <p>L’homme le plus fort ne pourrait pas le dénouer… et il faudrait alors l’épée pour le trancher… si chacun tire par un bout… de son côté…</p>
           </sp>
-          <stage>(Haimo descend rapidement.)</stage>
+          <stage rend="right">(Haimo descend rapidement.)</stage>
           <pb n="67"/>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
@@ -2381,8 +2383,9 @@
             <p>Tu as raison quand tu nous damnes. Tu as raison quand tu nous sauves. Tu as raison quand tu nous jettes dans la guerre. Tu as raison quand tu nous gardes dans la paix. Que ta volonté se fasse !</p>
           </sp>
         </div>
-        <div>
-          <head>Scène <num>ix</num>. <hi>(Plan 2.)</hi></head>
+        <div type="scene">
+          <head>Scène <num>ix</num>.</head>
+          <stage>(Plan 2.)</stage>
           <sp rend="float">
             <speaker>Un député.</speaker>
             <p>Les chevaux sont-ils sellés ?</p>
@@ -2411,7 +2414,7 @@
             <speaker>Voix.</speaker>
             <p>À la vie ! À la mort !</p>
           </sp>
-          <stage>(Les deux groupes s’écartent à gauche et à droite. Une trompette sonne le signal : début des hostilités.)</stage>
+          <stage rend="right">(Les deux groupes s’écartent à gauche et à droite. Une trompette sonne le signal : début des hostilités.)</stage>
           <sp rend="float">
             <speaker>Tous.</speaker>
             <p>À la guerre !</p>
@@ -2436,9 +2439,9 @@
             <speaker>Les députés.</speaker>
             <p>De par Dieu ! nous t’entendrons !</p>
           </sp>
-          <stage>(Ils sortent avec Haimo. Les deux groupes armés s’écartent à gauche et à droite. Le plan 2 n’est plus occupé que par quelques hommes et quelques femmes en petits groupes, aux aguets.)</stage>
+          <stage rend="right">(Ils sortent avec Haimo. Les deux groupes armés s’écartent à gauche et à droite. Le plan 2 n’est plus occupé que par quelques hommes et quelques femmes en petits groupes, aux aguets.)</stage>
         </div>
-        <div>
+        <div type="scene">
           <pb n="68"/>
           <head>Scène <num>x</num>.</head>
           <sp rend="center">
@@ -2451,8 +2454,8 @@
             <l>Les nations s’agitent, les royaumes s’ébranlent</l>
             <l>L’Éternel a tonné, la terre s’épouvante !</l>
           </sp>
-          <stage>(Nuit, éclairs, bruits d’armes.)</stage>
-          <stage>(Le chœur continue à chanter sourdement, à bouche fermée. Les assistants, sur la place, se sont tournés vers les coulisses où se tient le conseil, et cherchent à voir ou à entendre ce qui se passe.)</stage>
+          <stage rend="right">(Nuit, éclairs, bruits d’armes.)</stage>
+          <stage rend="right">(Le chœur continue à chanter sourdement, à bouche fermée. Les assistants, sur la place, se sont tournés vers les coulisses où se tient le conseil, et cherchent à voir ou à entendre ce qui se passe.)</stage>
           <sp rend="float">
             <speaker>Voix.</speaker>
             <p>Que disent-ils ? — Entendez-vous ? — Que font-ils ? — Les voyez-vous ?</p>
@@ -2473,7 +2476,7 @@
             <l>Pour un instant de foi, Dieu le délivrerait,</l>
             <l>En un instant de joie renaîtrait votre paix !</l>
           </sp>
-          <stage>(La lumière éclate sur le plan 3, puis atteint le plan 2. Le chœur s’est tu. L’orchestre joue quelques mesures joyeuses et sereines.)</stage>
+          <stage rend="right">(La lumière éclate sur le plan 3, puis atteint le plan 2. Le chœur s’est tu. L’orchestre joue quelques mesures joyeuses et sereines.)</stage>
           <sp rend="float">
             <speaker>Voix sur la place.</speaker>
             <p>Écoutez ! Qu’ont-ils dit ? Écoutez !</p>
@@ -2503,7 +2506,7 @@
             <speaker>Voix sur la place.</speaker>
             <p>Les voici qui viennent !</p>
           </sp>
-          <stage>(La lumière grandit sur le plan 2, atteint le plan 3. Appel de trompettes. Les députés précédés par Haimo reparaissent et viennent se ranger au centre de la place.)</stage>
+          <stage rend="right">(La lumière grandit sur le plan 2, atteint le plan 3. Appel de trompettes. Les députés précédés par Haimo reparaissent et viennent se ranger au centre de la place.)</stage>
           <sp rend="float">
             <speaker>Le président <stage>(lisant)</stage>.</speaker>
             <p>Au nom de la vénérable Diète des huit cantons confédérés ! Considérant tous les périls qui nous menacent à l’intérieur comme au dehors de nos frontières, sur le conseil de notre frère Claus inspiré par le Tout-Puissant, nous avons décrété ce qui suit :</p>
@@ -2517,7 +2520,7 @@
             <speaker>Les assistants de droite.</speaker>
             <p>Tous pour un !</p>
           </sp>
-          <stage>(La cloche de l’ermitage tinte au plan 3. Puis volée de cloches. Les enfants et Dorothée viennent se ranger sur les marches conduisant au plan 2. Nicolas est remonté lentement au plan 3, et se tient debout, les bras en croix, devant sa cellule.)</stage>
+          <stage rend="right">(La cloche de l’ermitage tinte au plan 3. Puis volée de cloches. Les enfants et Dorothée viennent se ranger sur les marches conduisant au plan 2. Nicolas est remonté lentement au plan 3, et se tient debout, les bras en croix, devant sa cellule.)</stage>
           <sp rend="center">
             <speaker>Récitatif.</speaker>
             <stage>(Chœur à bouche fermée.)</stage>
@@ -2525,7 +2528,7 @@
             <p>Du haut des Alpes, qu’elle est belle — la voix de la sentinelle — qui nous avertit du salut !</p>
             <p>Qu’ils sont beaux sur nos montagnes — les pieds ailés du messager — qui vient publier la paix !</p>
           </sp>
-          <stage>(Au plan 2, un messager déplie un rouleau.)</stage>
+          <stage rend="right">(Au plan 2, un messager déplie un rouleau.)</stage>
           <sp rend="float">
             <speaker>Le messager.</speaker>
             <p>Au frère Claus, de la part des municipalités et conseils de Soleure et de Fribourg :</p>
@@ -2538,7 +2541,8 @@
             <l>Nicolas !</l>
             <l>Ô sentinelle, guetteur aux yeux fermés,</l>
             <l>De ta patrie, reste le protecteur !</l>
-            <l>Nicolas, ô toi dont le nom Signifie le Victorieux !</l>
+            <l>Nicolas, ô toi dont le nom</l>
+            <l>Signifie le Victorieux !</l>
             <l>Toi seul par qui tous sont unis</l>
             <l>À tout jamais sois nommé bienheureux !</l>
           </sp>

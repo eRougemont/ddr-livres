@@ -7,6 +7,7 @@ Rougemont, livres, lien direct aux fichier XML, avec transformation dans le navi
 * [ddr1937jic_journal-intellectuel-chomage.xml](https://erougemont.github.io/livres/ddr1937jic_journal-intellectuel-chomage.xml)
 * [ddr1938ja_journal-allemagne.xml](https://erougemont.github.io/livres/ddr1938ja_journal-allemagne.xml)
 * [ddr1939ao_amour-occident.xml](https://erougemont.github.io/livres/ddr1939ao_amour-occident.xml)
+* [ddr1939nf_nicolas-flue.xml](https://erougemont.github.io/livres/ddr1939nf_nicolas-flue.xml)
 * [ddr1940lg.xml](https://erougemont.github.io/livres/ddr1940lg.xml)
 * [ddr1940mds_mission-demission-suisse.xml](https://erougemont.github.io/livres/ddr1940mds_mission-demission-suisse.xml)
 * [ddr1942partdia_part-diable.xml](https://erougemont.github.io/livres/ddr1942partdia_part-diable.xml)
