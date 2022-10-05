@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
-<?xml-model href="../teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI type="book" xml:id="ddr1939nf" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -2511,7 +2511,8 @@
             <speaker>Le président <stage>(lisant)</stage>.</speaker>
             <p>Au nom de la vénérable Diète des huit cantons confédérés ! Considérant tous les périls qui nous menacent à l’intérieur comme au dehors de nos frontières, sur le conseil de notre frère Claus inspiré par le Tout-Puissant, nous avons décrété ce qui suit :</p>
             <p>La ligue des villes est proclamée dissoute. Les campagnes auront part équitable et juste au partage du butin de Bourgogne. Toute alliance étrangère est interdite soit aux cantons, soit aux partis, et tout subside en nature ou argent, afin que nulle jalousie ne vienne empoisonner les cœurs. Moyennant quoi nous acceptons dans notre Confédération les bonnes villes de Fribourg et de Soleure. Les députés doivent emporter le souvenir de la fidélité, des peines et travaux que le pieux homme, frère Claus, s’est donnés en cette occasion. Qu’il soit de leur devoir, partout et en tout lieu, de célébrer notre reconnaissance et d’illustrer ce mémorable exemple ! Séparons-nous dans la paix et la joie !</p>
-          </sp><pb n="70"/>
+          </sp>
+          <pb n="70"/>
           <sp rend="float">
             <speaker>Les assistants de gauche.</speaker>
             <p>Un pour tous !</p>
