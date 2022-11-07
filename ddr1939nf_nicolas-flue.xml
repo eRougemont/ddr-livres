@@ -32,7 +32,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="act">
+      <div type="set">
         <pb n="5"/>
         <head>[PERSONNAGES]</head>
         <castList>
@@ -120,7 +120,7 @@
           </castList>
         </castList>
       </div>
-      <div>
+      <div type="prologue">
         <pb n="9"/>
         <head>PROLOGUE</head>
         <sp rend="center">
@@ -2385,7 +2385,7 @@
         </div>
         <div type="scene">
           <head>Scène <num>ix</num>.</head>
-          <stage>(Plan 2.)</stage>
+          <stage rend="center">(Plan 2.)</stage>
           <sp rend="float">
             <speaker>Un député.</speaker>
             <p>Les chevaux sont-ils sellés ?</p>
