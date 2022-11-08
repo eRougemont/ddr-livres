@@ -523,13 +523,11 @@
           <div>
             <head>Rose de Tannenbourg</head>
             <p>L’esplanade du Brühl, un soir de fête, en juin. Il y a dans les marronniers noirs des lampions et des touffes de gamins qui regardent avec la bouche ce qui se passe à l’intérieur d’une enceinte de toiles tendues au-devant d’un petit théâtre. La rampe a des feux stellaires, couleur d’Aldébaran. On joue <hi rend="i">Rose de Tannenbourg</hi>, drame en 15 tableaux, un prologue et une conclusion. Le carton des armures sonne sourdement sous les coups d’un Kühnrich à la basse rugissante, plus traître que nature avec sa large face mangée par une barbe en crin de cheval du diable. L’héroïne est belle comme une ballade de Bürger, tandis qu’elle arrose de ses larmes le seuil de la prison paternelle, <pb n="78" xml:id="p78"/> tout en coulant un clin d’œil assassin vers le parterre agité de passions contradictoires. Durant les entractes, une fanfare de paysans bleu de roi joue sur un rythme impeccable, avec toujours les mêmes notes fêlées et l’accompagnement dans les feuillages de voix fausses mais aériennes, des chansons du Grand Duché de Bade qui sont ce que je connais de plus indiciblement nostalgique.</p>
-            <quote>
-              <hi rend="i">
+            <quote rend="i">
               <l>Und solltest du im Leben</l>
               <l>Ein Mädchen frei’n,</l>
               <l>Dann, muss sie am Rheine</l>
               <l>Geboren sein…</l>
-              </hi>
             </quote>
             <p>(Il faudrait la mélodie.) La fanfare s’éloigne. La nuit est chaude sur les collines. Un grand verre de bière à l’auberge déserte, ma pipe et mon chien qui bougonne. La petite maison du colonel en retraite a des fenêtres basses, mais défendues par des rosiers sauvages. Laquelle des trois filles est donc la plus jolie ? Sans doute celle qui dort dans la mansarde, et qui n’a pas peur…</p>
             <p>Mais c’est l’aînée que je préfère, et qui m’attend peut-être, derrière ses volets mal clos…</p>
@@ -1915,10 +1913,7 @@
               <item>2 autobus pour retourner à Chartres.</item>
               <item>Le samedi 3 dans les deux sens.</item>
             </list>
-            <p rend="i"/>
-            <p rend="right">
-              <hi rend="i">1933-1935.</hi>
-            </p>
+            <dateline>1933-1935.</dateline>
           </div>
         </div>
         <div type="chapter">
@@ -2478,11 +2473,12 @@
           politiquement irresponsable, aux ordres d’un autre parti. Quant à l’aventure personnelle d’André Malraux en Chine, puis en Espagne, elle nous semblait relever du goût de l’action en soi, d’une efficacité dramatique à souhait dans l’immédiat et à court terme, plutôt que d’un engagement de la pensée dans la création l’une par l’autre de la personne et des structures d’une Cité neuve. Point d’inauguration de ce côté-là non plus. Et quant à la jeunesse intellectuelle française, la parisienne tout au moins, elle s’intéressait davantage aux finalités alléguées qu’aux réalités de l’existence politique et sociale ; elle jouait au jeu des « prises de position » de droite ou de gauche, d’Action française ou de démocratie chrétienne, de Parti communiste ou de Ligues préfascistes, où c’est en vain que l’on eût cherché le moindre souci d’invention de formes politiques, ou des modèles nouveaux de relations civiques.</p>
         <p>Hors des mouvements personnalistes et de leurs écrits, les vrais dangers ne furent pas vus. On ne concevait pas ce qui les eût surmontés, et l’on ne pouvait par conséquent les reconnaître.</p>
         <p>Nous avions peu d’audience, trop de sérieux et guère de prestige, faute de bluff. Dans ces années cruciales qui vont de l’occupation de la Rhénanie à la fin de la « drôle de guerre », nous fûmes livrés au pillage impuni de nos concepts. Plus tard, Abetz et Ribbentrop devaient nous voler le terme même d’Ordre nouveau. Mais, dès 1938, la notion d’<hi rend="i">engagement</hi> (surtout de l’écrivain, contre les thèses de Julien Benda) se voyait à tel point vulgarisée que j’éprouvai le besoin de publier une mise en garde, comme un médecin qui craint l’abus d’un remède de son invention :</p>
-        <p/>
+        <pb n="372" xml:id="p372"/>
         <quote>
-          <p><pb n="372" xml:id="p372"/><hi rend="sc"><center>« trop d’irresponsables s’engagent ! » </center></hi>
-            <lb/><center>(Responsabilité des intellectuels)</center></p>
-          <p/>
+          <label rend="center">
+            « trop d’irresponsables s’engagent ! »
+            <lb/>(Responsabilité des intellectuels)
+          </label>
           <p>Chose étrange, le 6 février 1934 fut une date de l’histoire littéraire : elle inaugura le temps des moutons enragés.</p>
           <p>Fatigués de leur innocence, voyant que l’herbe se faisait rare sous leurs pieds et qu’ils n’avaient plus de berger, aux éclairs de chaleur d’une révolution encore lointaine, ils se sont jetés dans le premier parc venu, à gauche ou à droite, et depuis lors y bêlent d’une voix aigre et anxieuse, tout en signant une quantité de manifestes.</p>
           <p>Ils ont signé pour le Négus et contre lui ; pour le Chef bien-aimé, Père des Peuples, et pour ses innocentes victimes, vipères lubriques ; pour Franco et contre Franco ; contre Dollfuss et pour Schuschnigg ; pour Thaelmann, contre le Japon, à propos du CSAR, à M. Bénès ; des deux mains, des quatre pattes, les yeux fermés, d’une croix, d’une faucille et d’un marteau, ou avec plus ou moins de réticences ; d’un nom connu, d’un nom à faire connaître… Bref, il n’est pas un acte commis dans le monde, depuis quatre ans, qui n’ait été vertement dénoncé par des « intellectuels » français.</p>
