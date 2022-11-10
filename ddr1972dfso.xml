@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
-<TEI type="book" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -54,7 +54,8 @@
         <p>L’année 1970, consacrée par le Conseil de l’Europe à la Préservation de la Nature, a provoqué dans le grand public européen deux réactions contradictoires : tout d’abord, une prise de conscience des réalités écologiques et des dangers de la pollution beaucoup plus générale qu’on n’osait l’espérer, surtout dans la jeunesse ; — et puis une sorte de rumeur de ricanements irrités ou moqueurs, révélant une réaction de refus de cette prise de conscience, analogue au rejet d’une greffe, réaction de scepticisme qui cache probablement une certaine anxiété, ou la peur, et qui explique le succès du pamphlet de Pauwels : beaucoup de personnes, surtout âgées, ne demandent qu’à se réfugier avec un soulagement profond et jubilant dans les illusions d’hier, et voilà ce bon Monsieur qui vient leur dire, dans son titre même, qu’ils ont bien raison de le faire ! Ah ! l’habile homme ! De la fenêtre du vingtième étage d’un gratte-ciel, il tend son livre à ceux qui tombent du quarantième en leur criant : « Jusqu’ici tout va bien, continuez ! »</p>
         <p>Mais lorsqu’il attaque ceux qu’il traite de bouffons de la contestation et ces lugubres farceurs qui font métier de dénoncer la pollution, je ne puis m’empêcher de penser à une merveilleuse petite parabole de Kierkegaard, le plus grand penseur religieux du siècle dernier, que je vais vous lire :</p>
         <quote>
-          <p>Il arriva que le feu prît dans les coulisses d’un théâtre. Le bouffon vint en avertir le public. On pensa qu’il voulait amuser et on applaudit ; il insista ; on rit de plus belle. C’est ainsi, je pense, que périra le monde : dans la joie générale des malins qui croiront à une farce.</p></quote>
+          <p>Il arriva que le feu prît dans les coulisses d’un théâtre. Le bouffon vint en avertir le public. On pensa qu’il voulait amuser et on applaudit ; il insista ; on rit de plus belle. C’est ainsi, je pense, que périra le monde : dans la joie générale des malins qui croiront à une farce.</p>
+        </quote>
         <p>Je parlais des « Sept plaies d’Égypte » qui aujourd’hui nous avertissent non pas de l’irritation de Jéhovah, mais d’une espèce d’allergie de la Nature et de l’homme naturel aux produits de <pb n="p. 20" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-livres/ddr-livres-ddr1972dfso/ddr1972dfso_22.jpg/full/full/0/default.jpg"/> notre industrie. Ces sept plaies sont la pollution de l’air, des eaux, des sols et des aliments, et la pollution de l’homme par le bruit, par le stress urbain (ou densité excessive de la population) et par les propagandes. Ces sept plaies nous annoncent l’Apocalypse prochaine du monde occidental.</p>
         <p>Sur quoi les partisans de l’« apaisement » dans la bataille de l’environnement nous disent, et je les cite : « qu’il faut faire confiance au Progrès », ou au contraire qu’il faut écouter les « leçons du Passé », lesquelles montrent que l’humanité a toujours surmonté ses crises les plus graves depuis le Déluge, et qu’en conséquence, « d’une manière ou d’une autre, il faudra bien que ça s’arrange », cette fois encore : ils en ont « l’intuition », ces apaiseurs !</p>
         <p>Hélas ! Faire confiance au Progrès, ce serait faire confiance au virus pour nous tirer de la maladie qu’il cause, aussi longtemps que la religion du Progrès aura pour dogme l’<emph>expansion</emph> indéfinie à n’importe quel coût humain et naturel, et pour unique article de foi la croyance en l’éternelle, inconditionnelle et absolue nécessité en soi de la croissance industrielle — et celui qui oserait la mettre en doute un seul instant, qu’il soit anathème ! <emph>anathema sit</emph> !</p>
@@ -78,37 +79,26 @@
         <p>— Si nous voulons réussir la transition de la croissance à l’équilibre, qui serait le seul salut de notre société, il faudra <emph>tout réduire, et simultanément.</emph></p>
         <space unit="line" quantity="1"/>
         <p>On notera que l’aplanissement, c’est-à-dire la <emph>stabilisation</emph> des courbes, ne saurait être obtenu selon le modèle que par les <emph>taux de réduction</emph> suivants, appliqués par hypothèse dès 1970 :</p>
-
         <pb n="p. 26" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-livres/ddr-livres-ddr1972dfso/ddr1972dfso_28.jpg/full/full/0/default.jpg"/>
         <table>
           <row>
-
             <cell>Exploitation des ressources naturelles</cell>
-
             <cell>75 %</cell>
           </row>
           <row>
-
             <cell>Production de pollution</cell>
-
             <cell>50 %</cell>
           </row>
           <row>
-
             <cell>Investissements</cell>
-
             <cell>40 %</cell>
           </row>
           <row>
-
             <cell>Natalité</cell>
-
             <cell>30 %</cell>
           </row>
           <row>
-
             <cell>Production d’aliments (« qualité de vie »)</cell>
-
             <cell>20 %</cell>
           </row>
         </table>

@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
-<TEI type="book" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -136,7 +136,8 @@
         <quote>
           <p>En élaborant le programme des manifestations commémoratives du XXV<hi rend="sup">e</hi> anniversaire du Conseil de l’Europe nous avons pensé qu’il fallait non seulement évoquer les souvenirs <pb n="p. 20" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-livres/ddr-livres-ddr1974jdef/ddr1974jdef_22.jpg/full/full/0/default.jpg"/> du passé mais aussi susciter des espoirs pour l’avenir ; non seulement nous donner — comme nous l’avons fait le 5 mai — un air de fête, assombri il est vrai par le grand deuil de la France, mais aussi un moment de méditation comme en ont les montagnards à chaque palier de leur ascension.</p>
           <p>Nous l’avions fait il y a vingt ans en réunissant six Européens parmi les plus prestigieux pour évoquer la culture européenne à la fois une et diverse. Nous le faisons à nouveau pour réfléchir aux problèmes de civilisation qui assaillent les Européens dans leur désir presque contradictoire de changement et de sécurité, de justice sociale et de liberté individuelle ; de solidarité et de pluralisme des choix.</p>
-          <p>Jamais peut-être la vocation du Conseil de l’Europe de défendre les droits et libertés individuelles, et d’œuvrer pour un humanisme de développement, n’a été plus évidente et plus nécessaire qu’aujourd’hui où, dans le grand ébranlement de nos valeurs et de nos traditions, nous pressentons l’apparition d’un monde nouveau. Parce que nous croyons qu’il faut faire confiance à l’homme et que le bonheur ne vient pas à ceux qui ne l’appellent pas de toutes leurs forces. Parce que nous croyons qu’une civilisation comme la nôtre ne se renie pas mais qu’elle se dépasse, parce que nous voulons que l’homme fasse usage des machines et des inventions que nul ne peut et ne doit empêcher de suivre leur cours, nous avons proposé d’appeler cette rencontre <emph>La Promesse du <num>xx<hi rend="sup">e</hi></num> siècle</emph>.</p> </quote>
+          <p>Jamais peut-être la vocation du Conseil de l’Europe de défendre les droits et libertés individuelles, et d’œuvrer pour un humanisme de développement, n’a été plus évidente et plus nécessaire qu’aujourd’hui où, dans le grand ébranlement de nos valeurs et de nos traditions, nous pressentons l’apparition d’un monde nouveau. Parce que nous croyons qu’il faut faire confiance à l’homme et que le bonheur ne vient pas à ceux qui ne l’appellent pas de toutes leurs forces. Parce que nous croyons qu’une civilisation comme la nôtre ne se renie pas mais qu’elle se dépasse, parce que nous voulons que l’homme fasse usage des machines et des inventions que nul ne peut et ne doit empêcher de suivre leur cours, nous avons proposé d’appeler cette rencontre <emph>La Promesse du <num>xx<hi rend="sup">e</hi></num> siècle</emph>.</p>
+        </quote>
         <p>Ainsi que le Secrétaire général le rappela, aucun discours n’était prévu, à l’exception de celui qu’il m’avait prié de prononcer pour inaugurer les travaux de cette deuxième Table ronde et la relier à la première.</p>
         <p>Voici mon texte, légèrement abrégé.</p>
         <div>

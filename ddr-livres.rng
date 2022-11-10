@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <grammar xmlns="http://relaxng.org/ns/structure/1.0" ns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
-  <include href="https://oeuvres.github.io/teinte/teinte.rng">
+  <include href="../teinte/teinte.rng">
   </include>
 </grammar>

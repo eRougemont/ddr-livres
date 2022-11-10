@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
-<TEI type="book" xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -129,8 +129,7 @@
         <p>De tout temps, à l’appel du danger, nos ancêtres se sont levés. C’est notre tour.</p>
         <space unit="line" quantity="1"/>
         <signed><emph>Pour le Directoire</emph> :
-        <lb/>Denis de Rougemont.
-        </signed>
+<lb/>Denis de Rougemont.</signed>
       </div>
     </body>
   </text>

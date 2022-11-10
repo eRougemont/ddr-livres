@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI type="book" xml:id="ddr1939nf" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="ddr1939nf" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -40,15 +40,33 @@
           <castList>
             <castItem><role>Nicolas de Flue</role>, <roleDesc>50 ans, paysan</roleDesc>.</castItem>
             <castItem><role>Dorothée</role>, <roleDesc>sa femme</roleDesc>.</castItem>
-            <castItem><role>Jean</role></castItem>
-            <castItem><role>Rudi</role></castItem>
-            <castItem><role>Walther</role></castItem>
-            <castItem><role>Heini</role></castItem>
-            <castItem><role>Dorothée</role></castItem>
-            <castItem><role>Marguerite</role></castItem>
-            <castItem><role>Véronique</role></castItem>
-            <castItem><role>Catherine</role></castItem>
-            <castItem><role>ses enfants</role></castItem>
+            <castItem>
+              <role>Jean</role>
+            </castItem>
+            <castItem>
+              <role>Rudi</role>
+            </castItem>
+            <castItem>
+              <role>Walther</role>
+            </castItem>
+            <castItem>
+              <role>Heini</role>
+            </castItem>
+            <castItem>
+              <role>Dorothée</role>
+            </castItem>
+            <castItem>
+              <role>Marguerite</role>
+            </castItem>
+            <castItem>
+              <role>Véronique</role>
+            </castItem>
+            <castItem>
+              <role>Catherine</role>
+            </castItem>
+            <castItem>
+              <role>ses enfants</role>
+            </castItem>
             <castItem><role>Nicolas de Flue</role>, <roleDesc>30 ans, capitaine</roleDesc>.</castItem>
             <castItem><role>Nicolas de Flue</role>, <roleDesc>40 ans, juge</roleDesc>.</castItem>
             <castItem><role>quatre officiers</role>.</castItem>
@@ -234,7 +252,7 @@
           </row>
           <row>
             <cell>Et lui, tout seul encore
-              <lb/>Nous dit : Courage, ô peuple, reste uni !</cell>
+<lb/>Nous dit : Courage, ô peuple, reste uni !</cell>
             <cell/>
           </row>
           <row>
@@ -307,8 +325,8 @@
           <sp rend="float">
             <speaker>Jean <stage>(très vite)</stage>.</speaker>
             <p>Rudi les cochons ! Walther
-              <pb n="12"/>
-               les vaches ; Heini à Stans avec le char. Dorothée et Marguerite aux pommes. Catherine et Véronique à la cuisine. Marche, marche ! À six heures tout le monde ici. Compris ?</p>
+<pb n="12"/>
+les vaches ; Heini à Stans avec le char. Dorothée et Marguerite aux pommes. Catherine et Véronique à la cuisine. Marche, marche ! À six heures tout le monde ici. Compris ?</p>
           </sp>
           <stage rend="right">(Refrain de la chanson, tandis qu’ils se dispersent et sortent. Les deux plus petites filles ont pris le bébé et rentrent dans la maison.)</stage>
         </div>
@@ -337,8 +355,8 @@
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Je ne sais pas. C’est une chose étrange qui m’arrive aujourd’hui. Je revois tout ! Ma vie passée, toutes les choses que j’ai dû quitter ! Quelle est cette force qui toujours m’arrachait à tout ce que j’aimais ? C’est le mystère de ma vie, Dorothée. Et voici mon passé devant moi, comme un livre d’images énorme ! Les grandes pages sont tournées l’une après l’autre, et tout est là, vivant, comme dans les rêves. Quand je regarde Jean, c’est ma jeunesse qui est là… Une autre page, c’est ma vie à l’armée ! Dix ans de
-              <pb n="13"/>
-               guerre, et à la fin, ce soir au camp, après notre dernier combat. J’entends encore notre fanfare dans la nuit, écoute ! Est-ce que tu entends aussi ? <stage>(Fanfare en sourdine.)</stage> Regarde ! Est-ce que tu vois là-bas !…</p>
+<pb n="13"/>
+guerre, et à la fin, ce soir au camp, après notre dernier combat. J’entends encore notre fanfare dans la nuit, écoute ! Est-ce que tu entends aussi ? <stage>(Fanfare en sourdine.)</stage> Regarde ! Est-ce que tu vois là-bas !…</p>
             <stage>(Une petite scène latérale, à gauche du plan 2, s’éclaire comme une apparition. Feu de camp devant lequel on aperçoit quatre officiers et des soldats. Les costumes très clairs des personnages, la lumière du projecteur, l’allure des acteurs, tout doit contribuer à donner l’impression d’un rêve.)</stage>
             <p>…Regarde comme j’étais !</p>
           </sp>
@@ -382,8 +400,8 @@
           <sp rend="float">
             <speaker>2<hi rend="sup">e</hi> officier.</speaker>
             <p>Moi ! J’ai tout vu. L’ennemi
-              <pb n="14"/>
-               était à la merci des Suisses. Déjà l’incendie éclatait dans une aile du couvent. Le capitaine de Flue accourt, voit le danger auquel sont exposés l’édifice sacré et les nonnes. Il s’agenouille alors, fait une courte prière, puis se relève et ordonne à ses hommes d’éteindre l’incendie. La troupe a renâclé, elle tenait sa vengeance, et il l’en prive au plus fort du combat !</p>
+<pb n="14"/>
+était à la merci des Suisses. Déjà l’incendie éclatait dans une aile du couvent. Le capitaine de Flue accourt, voit le danger auquel sont exposés l’édifice sacré et les nonnes. Il s’agenouille alors, fait une courte prière, puis se relève et ordonne à ses hommes d’éteindre l’incendie. La troupe a renâclé, elle tenait sa vengeance, et il l’en prive au plus fort du combat !</p>
           </sp>
           <sp rend="float">
             <speaker>Quatre démons <stage>(mêlés aux soldats)</stage>.</speaker>
@@ -424,8 +442,8 @@
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>J’ai choisi ! Je quitte l’armée. Je quitte votre guerre injuste, et je ne reprendrai
-              <pb n="15"/>
-               jamais les armes — que s’il faut défendre ma terre !</p>
+<pb n="15"/>
+jamais les armes — que s’il faut défendre ma terre !</p>
           </sp>
           <stage rend="right">(Il s’en va lentement vers la coulisse de gauche.)</stage>
           <sp rend="float">
@@ -457,8 +475,8 @@
           <sp rend="float">
             <speaker>1<hi rend="sup">er</hi> juge.</speaker>
             <p>Ainsi selon le droit et la coutume de nos ancêtres, nous avons entendu devant tous et chacun les deux parties. Le plaignant que voici dit avoir emprunté 200 gulden à l’accusé. Il dit avoir donné pour gage son jardin. Maintenant le plaignant veut acquitter sa dette, mais l’accusé, que
-              <pb n="16"/>
-               voilà, refuse de rendre le jardin, disant qu’il s’agissait non pas d’un prêt mais d’un achat.</p>
+<pb n="16"/>
+voilà, refuse de rendre le jardin, disant qu’il s’agissait non pas d’un prêt mais d’un achat.</p>
           </sp>
           <sp rend="float">
             <speaker>Le plaignant.</speaker>
@@ -541,7 +559,7 @@
             <p>Oui ! Je fuirai bien loin, dans le désert, car je vois dans notre cité la violence et l’iniquité ! Je déclare déposer ma charge !</p>
           </sp>
           <stage rend="right">(Il ôte sa robe et s’en va par la droite.)
-            <lb/>(Nuit sur la scène de droite.)</stage>
+<lb/>(Nuit sur la scène de droite.)</stage>
           <sp rend="center">
             <speaker>Choral <num>i</num>.</speaker>
             <lg>
@@ -714,8 +732,8 @@
           <sp rend="float">
             <speaker>Dorothée.</speaker>
             <p>Et il y a encore le tout petit,
-              <pb n="21"/>
-               Clausi, qui ne peut rien dire… C’est aujourd’hui qu’il m’a fait son premier sourire.</p>
+<pb n="21"/>
+Clausi, qui ne peut rien dire… C’est aujourd’hui qu’il m’a fait son premier sourire.</p>
           </sp>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
@@ -898,7 +916,7 @@
           <head>Scène <num>x</num>.</head>
           <stage rend="center">(La montée au Ranft.)</stage>
           <stage rend="right">(Batterie et quelques instruments en sourdine durant toute ta scène.)
-            <lb/>(Première station. Au bas de la rampe qui va du plan 2 vers le plan 3. Nicolas apparaît dans un cercle de lumière, appuyé sur son bâton.)</stage>
+<lb/>(Première station. Au bas de la rampe qui va du plan 2 vers le plan 3. Nicolas apparaît dans un cercle de lumière, appuyé sur son bâton.)</stage>
           <sp rend="center">
             <speaker>Le chœur <stage>(Récitatif.)</stage></speaker>
             <l>Solitaire, où vont tes pas ? Tu nous fuis, tu nous abandonnes !</l>
@@ -946,8 +964,8 @@
             <p>Est-ce vous maintenant, beaux anges, qui campez autour du sommet ?…</p>
             <stage>(Il atteint le sommet et il étend les bras, en silhouette sur la lumière.)</stage>
             <p>… Accueillez-moi dans votre joie ! Anges cachés dans la lumière, que j’entende vos voix pures !
-              <pb n="27"/>
-               Louons ensemble l’Éternel ! Louons-le dans ces lieux élevés ! Louons-le par-dessus les glaciers !</p>
+<pb n="27"/>
+Louons ensemble l’Éternel ! Louons-le dans ces lieux élevés ! Louons-le par-dessus les glaciers !</p>
           </sp>
           <sp rend="center">
             <speaker>Chœur céleste.</speaker>
@@ -1081,8 +1099,8 @@
           <sp rend="float">
             <speaker>Le valet.</speaker>
             <p>Oh ! moi, je ne suis pas du pays. Monseigneur l’abbé d’Einsiedeln est arrivé ici hier
-              <pb n="31"/>
-               soir, avec une suite brillante et nombreuse, dont vous avez la queue devant vous en ma personne, sauf mon respect.</p>
+<pb n="31"/>
+soir, avec une suite brillante et nombreuse, dont vous avez la queue devant vous en ma personne, sauf mon respect.</p>
           </sp>
           <sp rend="float">
             <speaker>Le pèlerin.</speaker>
@@ -1160,8 +1178,8 @@
           <sp rend="float">
             <speaker>3<hi rend="sup">e</hi> valet.</speaker>
             <p>Toi, tu ferais mieux de dormir. Tu ne seras pas si faraud, tout à l’heure, quand tu te tiendras devant le frère, avec ses yeux tout
-              <pb n="33"/>
-               doux qui vous transpercent comme un petit vent du matin sur l’alpage.</p>
+<pb n="33"/>
+doux qui vous transpercent comme un petit vent du matin sur l’alpage.</p>
           </sp>
           <sp rend="float">
             <speaker>1<hi rend="sup">er</hi> valet.</speaker>
@@ -1290,8 +1308,8 @@
           <sp rend="float">
             <speaker>1<hi rend="sup">er</hi> seigneur.</speaker>
             <p>Depuis longtemps, nous nous disputons à ton sujet. Lui prétend que tu t’es vanté
-              <pb n="36"/>
-               de ne plus rien manger depuis quatre ans. Et moi je dis que ce sont là des racontars. Nous avons donc fait un pari. Qui a gagné ?</p>
+<pb n="36"/>
+de ne plus rien manger depuis quatre ans. Et moi je dis que ce sont là des racontars. Nous avons donc fait un pari. Qui a gagné ?</p>
           </sp>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
@@ -1320,8 +1338,8 @@
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Tu dis vrai. Mais écoute-moi : si tous les riches étaient de bons chrétiens, ils n’auraient pas à craindre de révoltes. Hélas ! je vois des clercs gras et richement vêtus comme jamais ne le furent les apôtres ! N’est-ce pas un bien grand mal pour l’Église et nous tous ? Si les clercs donnent l’exemple de l’avidité, le peuple un jour les imitera. Craignez alors les plus grands maux pour la Patrie ! Qui veut être puissant et riche aux yeux du monde, c’est celui-là qui fait des guerres ! Je vous le dis, seigneurs : la Suisse est menacée par de perfides séducteurs ! Ils vous feront de belles promesses : Viens avec nous, tu auras de l’or… Fais alliance avec moi, je te donnerai des terres… Et alors, ce sera la fin de notre union, et la fin de nos libertés ! <stage>(Violent.)</stage> Princes de l’Église, je
-              <pb n="37"/>
-               vous en conjure, n’abandonnez jamais le pauvre pour le riche ! Sinon notre Seigneur fera paraître d’humbles témoins pour votre confusion ! <stage>(Se radoucissant.)</stage> Mais qui suis-je pour vous avertir ? Pardonnez-moi, chers pères et frères. C’est un plus grand que nous qui peut nous éclairer.</p>
+<pb n="37"/>
+vous en conjure, n’abandonnez jamais le pauvre pour le riche ! Sinon notre Seigneur fera paraître d’humbles témoins pour votre confusion ! <stage>(Se radoucissant.)</stage> Mais qui suis-je pour vous avertir ? Pardonnez-moi, chers pères et frères. C’est un plus grand que nous qui peut nous éclairer.</p>
           </sp>
           <sp rend="float">
             <speaker>L’abbé.</speaker>
@@ -1346,8 +1364,8 @@
           <sp rend="float">
             <speaker>Le pèlerin.</speaker>
             <p>Les ducs d’Autriche et de Bourgogne font leurs querelles dans nos champs. Par chance encore, les Suisses sont restés à l’écart de la guerre. Autrement, où pourrions-nous fuir ?
-              <pb n="38"/>
-               Mais la vie est dure, chez vous ! Le pain est cher ! Il y a trop de monde partout, et jamais de travail pour nous autres.</p>
+<pb n="38"/>
+Mais la vie est dure, chez vous ! Le pain est cher ! Il y a trop de monde partout, et jamais de travail pour nous autres.</p>
           </sp>
           <sp rend="float">
             <speaker>Tous.</speaker>
@@ -1396,8 +1414,8 @@
           <sp rend="float">
             <speaker>Nicolas.</speaker>
             <p>Ils en auront encore bien moins si vous allumez l’incendie qui dévaste champs et greniers. Vous n’avez pas assez de pain, c’est une chose très injuste et très cruelle. Mais celui qui n’a
-              <pb n="39"/>
-               rien du tout, celui qui vit du pain céleste, pourra-t-il vous donner un conseil ? <stage>(Un temps.)</stage> Gardez la justice entre vous, et la charité dans vos cœurs. Alors vous serez invincibles. Quand le pauvre loue Dieu et vit de sa parole, la victoire sur le monde est à lui !</p>
+<pb n="39"/>
+rien du tout, celui qui vit du pain céleste, pourra-t-il vous donner un conseil ? <stage>(Un temps.)</stage> Gardez la justice entre vous, et la charité dans vos cœurs. Alors vous serez invincibles. Quand le pauvre loue Dieu et vit de sa parole, la victoire sur le monde est à lui !</p>
           </sp>
           <sp rend="float">
             <speaker>Le pèlerin.</speaker>
@@ -1468,8 +1486,8 @@
           <sp rend="float">
             <speaker>Hornek.</speaker>
             <p>L’empereur t’envoie son salut ! Il se souvient de ta vaillance dans la guerre, quand tu luttais contre nos gens. Mais ta sagesse est plus illustre encore, et vénérée. Un peuple entier t’écoute et reçoit tes conseils. De toi seul dépend le succès du grand dessein dont je veux te faire juge. Voici l’objet de ma requête. Fatigué de luttes stériles avec les indomptables Suisses, et prévoyant des
-              <pb n="41"/>
-               menaces nouvelles qui se préparent pour vous autres vers l’Ouest, Sigismond vous offre sa paix, à toujours et à perpétuité.</p>
+<pb n="41"/>
+menaces nouvelles qui se préparent pour vous autres vers l’Ouest, Sigismond vous offre sa paix, à toujours et à perpétuité.</p>
           </sp>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
@@ -1510,8 +1528,8 @@
           <sp rend="float">
             <speaker>Nicolas <stage>(brusquement)</stage>.</speaker>
             <p>Et moi, je vois que l’un et l’autre chérissent moins nos libertés qu’ils
-              <pb n="42"/>
-               ne craignent le duc d’Occident ! Riche contrée, dit-on, que la Bourgogne ! Vin chaleureux et tonnes d’or ! Ne tentez pas les Suisses, beaux seigneurs !</p>
+<pb n="42"/>
+ne craignent le duc d’Occident ! Riche contrée, dit-on, que la Bourgogne ! Vin chaleureux et tonnes d’or ! Ne tentez pas les Suisses, beaux seigneurs !</p>
           </sp>
           <sp rend="float">
             <speaker>Hornek.</speaker>
@@ -1548,8 +1566,8 @@
           <sp rend="float">
             <speaker>Diesbach.</speaker>
             <p>Un mot de toi peut déclencher
-              <pb n="43"/>
-               cette avalanche, la grande colère des Suisses croulant sur la Bourgogne !</p>
+<pb n="43"/>
+cette avalanche, la grande colère des Suisses croulant sur la Bourgogne !</p>
           </sp>
           <sp rend="float">
             <speaker>Nicolas.</speaker>
@@ -1588,7 +1606,7 @@
           </sp>
           <sp rend="center">
             <speaker>Chœur des puissances. <stage>(Plan 1.)</stage>
-              <lb/>Autrichiens. <stage>(À droite.)</stage></speaker>
+<lb/>Autrichiens. <stage>(À droite.)</stage></speaker>
             <lg>
               <l>Hohé les Suisses !</l>
               <l>Du haut des Alpes au sol ingrat</l>
@@ -1929,8 +1947,8 @@
           <sp rend="float">
             <speaker>L’ambassadeur de Savoie.</speaker>
             <p>Connaissez-vous leur dernière folie ? C’était pendant le Carnaval de cette année. Les jeunes gens des cantons forestiers, ivres de bière mais surtout d’aventures, se forment en cortège burlesque et vociférant. Ils se baptisent eux-mêmes les compagnons de la Follevie. Des meneurs les excitent et leurs crient : « Allez à Berne et à Genève réclamer le trésor de Bourgogne ! » Alors ils sont partis dans une sarabande
-              <pb n="55"/>
-               tumultueuse, vêtus de leurs costumes de Carnaval, armés de piques, chantant des chants de guerre, et les villes ont été forcées de payer un tribut d’or et d’argent pour éviter d’affreux saccages ! On dit que la bande en folie a juré d’être de retour pour l’ouverture de la Diète. Il faut s’attendre à des bagarres.</p>
+<pb n="55"/>
+tumultueuse, vêtus de leurs costumes de Carnaval, armés de piques, chantant des chants de guerre, et les villes ont été forcées de payer un tribut d’or et d’argent pour éviter d’affreux saccages ! On dit que la bande en folie a juré d’être de retour pour l’ouverture de la Diète. Il faut s’attendre à des bagarres.</p>
           </sp>
           <sp rend="float">
             <speaker>L’ambassadeur de France.</speaker>
@@ -2034,8 +2052,8 @@
             <speaker>Waldmann.</speaker>
             <p>… considérant que nos victoires mémorables ont été remportées par l’union, et que le temps de la grandeur et des conquêtes s’ouvre à nous, je vous adjure et je vous dis : Confédérés, faisons taire nos petits égoïsmes, bannissons tout esprit de clocher, jetons ici la base inébranlable d’un État fort et unifié, capable d’affronter les temps nouveaux !</p>
             <p>Nous proposons que les campagnes acceptent et reçoivent en notre alliance fédérale les bonnes villes de Fribourg et de Soleure. N’ont-elles pas
-              <pb n="58"/>
-               vaillamment combattu, à nos côtés, pendant les guerres de Bourgogne ? À cette condition, nous acceptons que soit dissous et annulé le Pacte qui lie nos trois villes. Que toute alliance particulière soit interdite, et que les Suisses ne se battent plus jamais que sous notre commun drapeau ! J’ai dit.</p>
+<pb n="58"/>
+vaillamment combattu, à nos côtés, pendant les guerres de Bourgogne ? À cette condition, nous acceptons que soit dissous et annulé le Pacte qui lie nos trois villes. Que toute alliance particulière soit interdite, et que les Suisses ne se battent plus jamais que sous notre commun drapeau ! J’ai dit.</p>
           </sp>
           <sp rend="float">
             <speaker>Le président.</speaker>
@@ -2046,8 +2064,8 @@
             <p>Nos pères ont combattu pour être libres : Vous voulez aujourd’hui être forts. Nos pères prenaient les armes pour défendre leur droit : Vous parlez aujourd’hui de conquêtes.</p>
             <p>Quand vous nous dites : Unissons-nous ! c’est pour la guerre. Quand vous nous dites : Faisons régner l’ordre ! c’est pour augmenter vos richesses. Car pour vos guerres, nous donnerons du sang, et c’est vous qui garderez l’or ! Ce sont les villes qui nous ont entraînés dans l’aventure de Bourgogne. Et maintenant, vous prétendez nous interdire d’entrer au service étranger, car vous voulez nos hommes pour votre guerre à vous ! Eh bien ! je dis que notre alliance est faite pour notre seule défense, au nom de Dieu, et non pas pour vos folles conquêtes au nom du diable qui s’appelle Mammon. Nous n’avons qu’un seul but : sauver nos libertés communales et cantonales. Nous n’avons pas besoin d’un État fort, nous n’avons pas besoin de vos grands diplomates. Leur politique nous coûte trop cher, c’est toujours nous qui la payons. Commencez par dissoudre votre ligue. Renoncez à régner sur nous. Laissez-nous traiter nos affaires selon nos intérêts locaux. Alors nous pourrons accepter l’entrée de deux villes nouvelles.</p>
             <p>Telles sont nos conditions. Nous n’irons pas plus loin, car nos libertés sont en cause, et nos
-              <pb n="59"/>
-               ancêtres nous regardent ! Plutôt la guerre que la honte ! J’ai dit.</p>
+<pb n="59"/>
+ancêtres nous regardent ! Plutôt la guerre que la honte ! J’ai dit.</p>
           </sp>
           <sp rend="float">
             <speaker>Le président.</speaker>

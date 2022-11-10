@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI type="book" xmlns="http://www.tei-c.org/ns/1.0" xml:id="ddr1946lba1" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="ddr1946lba1" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Lettres sur la bombe atomique</title>, </bibl>
+        <bibl><title>Lettres sur la bombe atomique</title>,</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -41,7 +41,7 @@
         <p>Né en Patagonie de parents basques, Matta a <pb n="12" xml:id="p12"/> étudié en France l’architecture. Pendant trois années il a travaillé avec Le Corbusier. En <hi rend="i">1936</hi> il voyagea en URSS, puis revint en France. Au début de la guerre, il se trouvait sur ce continent où son œuvre est maintenant bien connue.</p>
         <p>Il a toujours été attiré par les travaux des physiciens modernes sur la propagation des ondes et les radiations, et par les transformations gigantesques que les savants viennent de faire subir à la matière. Il cherche, dit-il, à exprimer dans son œuvre, l’inquiétude profonde que ressent aujourd’hui le monde. C’est avec « l’œil de l’angoisse » qu’il veut peindre, or l’angoisse n’est-elle pas le sentiment qui serre le cœur des hommes depuis qu’il y a quelques mois une bombe a réduit en poussière Nagasaki et ses habitants ?</p>
         <byline>Robert <hi rend="sc">Tenger</hi>
-          <lb/>New York, juin 1946 </byline>
+<lb/>New York, juin 1946</byline>
       </div>
     </front>
     <body>
@@ -58,7 +58,7 @@
         <p>Ma thèse est simple.</p>
         <p>Qu’est-ce que l’homéopathie ? L’action d’un remède matériellement <hi rend="i">absent.</hi> Qu’est-ce que la bombe atomique ? L’action d’un point de matière subitement <hi rend="i">absent.</hi></p>
         <p>Je développai cette théorie aventureuse avec plus d’assurance que jamais, la Bombe autorisant toutes les hardiesses. Les médecins allopathes, disais-je, tout comme les artilleurs et bombardiers, sont de l’avis qu’en augmentant les doses on augmente aussi les effets. Dix pilules feront dormir dix fois plus vite ou dix fois plus profondément, dix tonnes d’explosif feront dix fois plus de dégâts qu’une seule. Ce système matérialiste ne mène pas très loin. À la douzième pilule, le <pb n="20" xml:id="p20"/> cœur flancherait ; avec douze tonnes, le bombardier ne pourrait plus décoller. L’homéopathe, lui, a renoncé à cette surenchère épuisante. Il ne croit pas à la vertu de la masse, mais bien à celle du retrait. Il prend un gramme de remède et le dilue dans cent litres d’eau ; puis il dilue un gramme de cette solution dans cent autres litres, et ainsi de suite jusqu’à ce qu’à la nième opération on ne trouve plus trace du remède primitif, pas même une seule molécule. Il n’y a plus que de l’eau pure. Et cependant, cette eau n’est pas semblable à celle qui coule du robinet. Elle est modifiée par l’absence, on dirait presque par le souvenir. Elle a pris des propriétés toutes nouvelles du seul fait qu’on lui a <hi rend="i">retiré</hi> une substance qui d’abord lui avait été intimement mêlée. Vous voyez que l’homéopathie n’est pas un progrès sur la médication classique, mais un renversement total de ses notions. C’est la révélation d’un univers nouveau, où le moins va produire plus, et où l’intensité ne dépendra plus de l’accumulation, mais au contraire de la subtilité poussée jusqu’à l’évanouissement. De même pour la bombe atomique : ce n’est pas une arme perfectionnée, c’est l’intrusion d’une manière toute nouvelle de traiter le monde où nous <pb n="21" xml:id="p21"/> vivons. J’admire que la plus grande explosion de l’Histoire n’ait pas été provoquée tout bêtement par la plus grande masse d’explosif jamais réunie <hi rend="i">in the world</hi>, mais au contraire
-          par la scission d’un point imperceptible à l’ultra-microscope. Voilà bien l’événement, voilà la nouveauté, et l’une des grandes dates de la terre : <hi rend="i">ce n’est qu’un rien qui s’est défait.</hi></p>
+par la scission d’un point imperceptible à l’ultra-microscope. Voilà bien l’événement, voilà la nouveauté, et l’une des grandes dates de la terre : <hi rend="i">ce n’est qu’un rien qui s’est défait.</hi></p>
         <p>Le docteur n’avait pas attendu que j’en fusse arrivé à cette formule frappante pour donner tous les signes d’une irritation incompressible. Il a fini par me traiter de littérateur, ce qui dans la bouche d’un savant signifie : prétentieux imbécile. J’ai répliqué que la technique littéraire comporte un procédé nommé comparaison, dont la portée échappe à la science vulgaire. J’ai méchamment ajouté que les médecins n’avaient pas lieu de le prendre de si haut, puisqu’ils sont notoirement incapables d’expliquer le rhume de cerveau, et bien entendu, de le guérir. L’argument ne vaut rien, mais il était minuit, et les rieurs sont allés se coucher chacun de son côté, et sur sa position.</p>
         <p>Ce matin, le docteur a voulu se rattraper. Nous prenions le breakfast sur la jetée. Conduit semblait-il à deux rênes par une superbe <pb n="22" xml:id="p22"/> blonde quasi nue et dressée sur ses skis dans l’écume, un canot moteur fendait l’onde et vint faire une large embardée tout près de nous. « Voilà la bombe anatomique ! » cria le docteur tandis qu’une vague submergeait la jetée, dispersant les assiettes et les œufs sur le plat. Si vous me payez un <hi rend="i">nickel</hi> à chaque fois que cette plaisanterie sera publiée, lui ai-je dit, je vous parie mille dollars que je les gagne en un an. Privés de petit déjeuner, nous avons vainement tenté l’analyse étymologique et comparée d’<hi rend="i">anatomie</hi> et <hi rend="i">d’atome.</hi></p>
         <p>Ma lettre vous paraîtra frivole, je le crains. Mais l’événement, il faut l’avouer, dépasse les limites de la décence. Il nous laisse comme privés de réflexes, moins inquiets qu’excités, et hilares par nervosité. Quelle que soit d’ailleurs l’attitude qu’on juge bon d’adopter en sa présence, il la ridiculise sans espoir. Puisse la disparition de mon sérieux habituel vous faire sentir, par homéopathie, la gravité de ce qui vient de se passer. Je ne la pressens encore qu’à peine, pour ma part.</p>
@@ -181,7 +181,7 @@
         <p>L’Europe avait des salons littéraires. À Washington, ils sont tous politiques. Celui d’où je sors, qui est l’un des mieux courus, est aussi le plus atomique. Parmi les sous-secrétaires d’État, les diplomates et les virtuoses, j’ai trouvé deux ou trois prix Nobel, très entourés.</p>
         <p>Une campagne atomique, disait l’un d’eux, orné d’une paire d’énormes sourcils blancs, laisserait environ 2 p. 100 de la population américaine, grattant la terre entre les ruines, pour y chercher sa subsistance.</p>
         <p>Comme c’est passionnant ! me dit une <pb n="72" xml:id="p72"/>
-          <hi rend="i">dame, really, I love him, he is perfectly dreamy</hi> !</p>
+<hi rend="i">dame, really, I love him, he is perfectly dreamy</hi> !</p>
         <p>J’observai que la panique de l’an mille, dont on pouvait penser que la Bombe allait renouveler l’hystérie, ne paraissait pas dominer l’assemblée.</p>
         <p>— C’est qu’on <hi rend="i">croyait</hi> alors, me dit le savant. Nous n’avons devant nous que des faits mesurables. Et cela tue l’imagination.</p>
         <p>— Pensez-vous, dit une autre dame, que la Bombe puisse faire sauter la Terre ?</p>
@@ -389,9 +389,8 @@
       </div>
       <div type="chapter">
         <pb n="159" xml:id="p159"/>
-        <head><hi rend="sc">Appendice</hi>
-          <lb/>Les cochons en uniforme
-          <lb/>ou le nouveau déluge</head>
+        <head><hi rend="sc">Appendice</hi><lb/>Les cochons en uniforme
+<lb/>ou le nouveau déluge</head>
         <pb n="161" xml:id="p161"/>
         <dateline>Mars 1946.</dateline>
         <p>Pendant l’hiver 1945-1946, le gouvernement américain fit annoncer une expérience sensationnelle : au mois de mai ou de juillet, une ou deux bombes seraient jetées sur une flotte de cent bâtiments de guerre réunie dans la baie de Bikini, Pacifique. Parmi tous les détails publiés par la presse sur les préparatifs de l’expérience, j’en retiens deux.</p>
