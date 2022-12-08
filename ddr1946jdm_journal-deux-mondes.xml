@@ -6,7 +6,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Journal des deux Mondes</title>
+        <title>Journal des deux mondes</title>
         <author key="Rougemont, Denis de (1906-1985)">Denis de Rougemont</author>
       </titleStmt>
       <editionStmt>
@@ -19,7 +19,7 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Journal des deux Mondes</title>, Lausanne, La Guilde du livre, 1946.</bibl>
+        <bibl><title>Journal des deux mondes</title>, Lausanne, La Guilde du livre, 1946.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -1400,7 +1400,7 @@ catholique, la méthodiste. Un curé canadien prêche en français : nous somme
           <head>8 août 1945</head>
           <p>Nouvelle de la bombe atomique, avant-hier sur Hiroshima. Et la face de la terre en est changée, mais combien de temps nous faudra-t-il pour le comprendre ? Si nous n’y arrivons pas très vite, nous n’y arriverons sans doute jamais : nous sauterons comme des imbéciles.</p>
           <p><pb n="223" xml:id="p223"/> Il ne nous reste qu’une alternative : le Monde uni ou l’Autre monde.</p>
-          <p>Le dire tout de suite, le dire partout, et toutes affaires cessantes — si l’on veut simplement qu’elles durent ensuite<note place="bottom">Voir mes <ref><title>Lettres sur la bombe atomique</title></ref>, commencées ce jour-là et publiées simultanément dans les journaux américains, français, hollandais, norvégiens, argentins, puis en volume en 1946.</note>.</p>
+          <p>Le dire tout de suite, le dire partout, et toutes affaires cessantes — si l’on veut simplement qu’elles durent ensuite<note place="bottom">Voir mes <ref target="https://www.unige.ch/rougemont/livres/ddr1946lba1"><title>Lettres sur la bombe atomique</title></ref>, commencées ce jour-là et publiées simultanément dans les journaux américains, français, hollandais, norvégiens, argentins, puis en volume en 1946.</note>.</p>
         </div>
         <div>
           <head>12 août 1945</head>
