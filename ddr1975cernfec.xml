@@ -61,7 +61,7 @@
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-livres/ddr-livres-ddr1975cernfec/ddr1975cernfec_03.jpg/full/full/0/default.jpg" n="p. 3"/>
         <head>I. Préhistoire du CERN</head>
         <p>Dans les archives du Centre européen de la culture figure, datée de juin 1953, une note « confidentielle », rédigée par Jean-Paul de Dadelsen. Cette note donnera sans doute le meilleur résumé du dossier historique qui va suivre.</p>
-        <quote>
+        <quote rend="border">
           <label type="head">Le projet de Laboratoire européen de recherches nucléaires est une initiative européenne</label>
           <p>Les adversaires du Laboratoire européen de physique nucléaire invoquent entre autres deux séries d’arguments. Les uns reposent sur la méconnaissance des objectifs poursuivis et des possibilités mêmes des futurs appareils : ils insistent sur les dangers qu’évoque la seule pensée d’une installation « atomique ». Les autres proviennent de la méconnaissance des véritables origines du projet : ils présentent ce dernier comme une des multiples expressions de l’ingérence américaine dans nos affaires.</p>
           <p>Voyons ce qu’il en est de cette deuxième série d’arguments.</p>
@@ -325,7 +325,7 @@
           <p>Dès l’été 1951, le projet est pris en charge par l’Unesco, qui le négocie avec 14 gouvernements européens.</p>
           <p>Une série de colloques scientifico-diplomatiques étudient le problème du site. Trois candidatures sont longuement mises en balance : Genève (région de Meyrin), Bâle-Mulhouse, et le Danemark.</p>
           <p>Le site de Meyrin près Genève est finalement adopté : c’est celui que souhaitait la Commission scientifique du CEC.</p>
-          <quote>
+          <quote rend="border">
             <label type="head">Le choix du site</label>
             <p>Si l’on se reporte aux cinq critères formulés lors de la réunion du 12 décembre 1950, au CEC, on s’aperçoit — après-coup — qu’ils désignent à l’évidence Genève. En effet, si Bâle-Mulhouse satisfait aux critères a, b et c, il se voit exclu par d ; de même que le Danemark se voit exclu par a peut-être, mais assurément par c et d.</p>
             <p>De fait, au cours de la réunion du 12 décembre 1950, des cartes au l/20 000<hi rend="sup">e</hi> de la région de Meyrin (Genève) furent déroulées sur la table de la Commission : deux longs rectangles y étaient dessinés en rouge, l’un en Suisse et l’autre en France, de part et d’autre de la route Genève-Saint-Genis. C’est le site qui fut retenu après beaucoup de palabres, et qui a été récemment étendu — côté français — à l’occasion de la construction du « Super-CERN ».</p>
@@ -374,7 +374,7 @@
               <p>Ces considérations paraissent raisonnables et elles ont paru telles à moi-même comme à Amaldi, Rabi et quelques autres. Mais j’ai pourtant dû dépenser pas mal de temps et d’énergie à l’époque (c’est-à-dire entre 1950 et 1952) pour vaincre les réticences — et même l’opposition déclarée — de nombreux physiciens nucléaires, dans tous les pays qui sont ensuite devenus membres du CERN : « Vous allez enlever l’argent à nos laboratoires nationaux, vous nous enlèverez aussi les jeunes chercheurs. » « Tout le budget passera en frais d’administration internationale », etc. L’état d’esprit a bien changé depuis et c’est certainement en majeure partie le succès du CERN qui l’a déterminé.</p>
               <p>Il se pourrait que l’entrée de la Grande-Bretagne dans le Marché commun — et par voie de conséquence dans l’Euratom — relance les activités européennes dans le domaine des sciences. Peut-être pas sous la forme de laboratoires coopératifs nouveaux, mais comme suite à la conférence dite « Minespol » de l’Unesco où les ministres responsables de la politique scientifique des pays d’Europe — de la Grande Europe — se sont réunis. Un bureau européen va peut-être fonctionner à l’Unesco et on pourrait en attendre des services importants.</p>
             </quote>
-            <quote>
+            <quote rend="border">
               <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr-livres/ddr-livres-ddr1975cernfec/ddr1975cernfec_36.jpg/full/full/0/default.jpg" n="p. 36"/>
               <label type="head">Nucléaire et européen</label>
               <p>M. Auger a raison de rappeler que le message de M. de Broglie ne précisait en fait ni la spécialisation scientifique ni la fonction européenne de l’institut proposé. Toutefois, ce qu’il ne faut pas oublier c’est que le message ne fut en vérité que l’amorce — jugée nécessaire par Raoul Dautry — du projet de laboratoire européen. C’est au discours de Dautry, recommandant expressément « la création d’un Institut européen spécialisé de sciences nucléaires », puis à la Résolution finale de la Conférence qu’il faut faire remonter l’origine précise du projet.</p>
