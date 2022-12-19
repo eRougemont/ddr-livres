@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="ddr1944persdram" xml:lang="fr">
@@ -735,6 +735,7 @@ non par dégoût de l’autorité en soi, mais <hi rend="i">au contraire</hi> pa
         <head>Une maladie de la personne</head>
         <div type="chapter" n="8.">
           <pb n="201"/>
+          <head type="kicker">8.</head>
           <head>Le romantisme allemand</head>
           <div n="8.a.">
             <head type="kicker">I</head>
