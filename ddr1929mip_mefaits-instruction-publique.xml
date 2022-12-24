@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="../teinte/tei2html.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://oeuvres.github.io/teinte_xsl/tei_html.xsl"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="ddr1929mip" xml:lang="fr">
@@ -41,6 +41,7 @@
         <p>Il a paru sur le sujet de l’instruction publique deux petits livres<note place="bottom">Je ne puis naturellement pas mentionner tous les ouvrages scientifiques. Les meilleurs sortent de l’Institut Rousseau.</note> excellents dont je considère les thèses comme acquises : <hi rend="i">L’Éloge de l’ignorance</hi>, de M. Abel Bonnard, et <hi rend="i">Le Pédagogue n’aime pas les enfants</hi>, d’Henri Roorda. Le premier montre que la science apprise à l’école appauvrit l’homme de tout ce que son ignorance respectait, et ne lui donne à la place que des laideurs et de la prétention. L’autre, avec l’ironie tranquille du bon sens bafoué et qui s’en moque, décrit la stupidité de l’enseignement tel qu’il est pratiqué dans nos collèges.</p>
         <p>Mon dessein est assez différent, moins philosophique et point du tout technique. J’apporte un témoignage personnel, une réaction de tempérament. Je marque d’autre part la <hi rend="i">nécessité</hi> de tout cela qui me blesse, la liaison fatale avec la démocratie, de tout ce qui moleste ma liberté et sans doute celle de beaucoup d’autres à qui forcément, je ressemble.</p>
         <p>Nous vivons sous un régime radical à sécrétion socialiste qui a été établi par coup de force, que les libéraux ont admis, conformément à leurs maximes, et toléré malgré leur mauvaise humeur. Ce régime de punaises jaunâtres aboutit à l’instruction publique et grâce à elle prolonge abusivement sa terne existence. Je l’ai subi ; l’on va voir comment. De pareils souvenirs légitiment toutes les haines. Je serai méchant, parce que j’en ai gros sur le cœur.</p>
+        <space/>
         <p>D’ailleurs, ce petit écrit ne peut servir à rien.</p>
         <p>— Alors ?</p>
         <p>— Justement. Il est un reproche auquel je compte ne pas échapper : celui de naïveté. Définition du naïf dans le monde moderne : individu qui soutient des idées qui ne rapportent rien. En effet, je ne représente aucun parti, aucune firme. Je ne voyage pour personne. Je ne prétends pas même parler au nom de ma génération, ne m’étant pas livré à l’enquête préalable qui seule eût pu, à la rigueur, me donner ce droit bien inutile.</p>
