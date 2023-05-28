@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:transform version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/1999/xhtml" xmlns:tei="http://www.tei-c.org/ns/1.0" exclude-result-prefixes="tei">
   <xsl:include href="https://erougemont.github.io/teinte_xsl/tei_html.xsl"/>
+  <xsl:param name="teinte_theme">https://oeuvres.github.io/teinte_theme/</xsl:param>
   <xsl:template match="/">
     <html>
       <head>
@@ -10,9 +11,9 @@
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="crossorigin"/>
         <link rel="stylesheet" media="all" onload="this.media='all'" href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital@0;1&amp;family=Fira+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&amp;display=swap"/>
 
-        <link rel="stylesheet" type="text/css" href="{$theme}teinte.css"/>
-        <link rel="stylesheet" type="text/css" href="{$theme}teinte.layout.css"/>
-        <link rel="stylesheet" type="text/css" href="{$theme}teinte.tree.css"/>
+        <link rel="stylesheet" type="text/css" href="{$teinte_theme}teinte.css"/>
+        <link rel="stylesheet" type="text/css" href="{$teinte_theme}teinte.layout.css"/>
+        <link rel="stylesheet" type="text/css" href="{$teinte_theme}teinte.tree.css"/>
         <link rel="stylesheet" type="text/css" href="rougemont_html.css"/>
       </head>
       <body>
@@ -27,7 +28,7 @@
             </nav>
           </aside>
         </div>
-        <script type="text/javascript" charset="utf-8" src="{$theme}teinte.tree.js">//</script>
+        <script type="text/javascript" charset="utf-8" src="{$teinte_theme}teinte.tree.js">//</script>
       </body>
     </html>
   </xsl:template>

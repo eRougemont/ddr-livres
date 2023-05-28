@@ -1,8 +1,10 @@
 body {
     font-family: 'Fira Sans', 'Open Sans', 'Roboto', sans-serif-light, sans-serif;
     font-weight: 300;
+    line-height: 1.5;
 }
 
 h1, h2, h3 {
     font-family: 'EB Garamond', serif;
 }
+
