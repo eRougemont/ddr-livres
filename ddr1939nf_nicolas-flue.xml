@@ -1851,8 +1851,8 @@ cette avalanche, la grande colère des Suisses croulant sur la Bourgogne !</p>
           <sp rend="center">
             <speaker>Récitatif.</speaker>
             <stage>(Le chœur chante à bouche fermée. Seuls les mots en italique sont articulés.)</stage>
-            <p><hi>Nicolas, Nicolas, Nicolas ! ô…</hi> sentinelle, guetteur aux yeux fermés ! Dès le matin clair et serein, au cœur secret de la lumière d’un beau jour, <hi>tu le savais</hi>, tu nous avertissais ! La nuit sanglante est descendue, <hi>oh ! oh ! oh !…</hi> Qu’apportera l’aurore maléfique ?</p>
-            <p><hi>Ah ! hélas ! ah ! hélas ! ah ! hélas ! ô…</hi> tentation complice des courages ! Non pas le sang ni la défaite, ce n’est pas là ce que tu crains pour ta patrie, <hi>mais la victoire</hi>, porteuse de discorde ! Toi, notre saint dans la nuée d’orage, <hi>oh ! oh ! oh !…</hi> Ne cesse pas d’implorer Dieu pour nous !</p>
+            <p><hi rend="i">Nicolas, Nicolas, Nicolas ! ô…</hi> sentinelle, guetteur aux yeux fermés ! Dès le matin clair et serein, au cœur secret de la lumière d’un beau jour, <hi rend="i">tu le savais</hi>, tu nous avertissais ! La nuit sanglante est descendue, <hi rend="i">oh ! oh ! oh !…</hi> Qu’apportera l’aurore maléfique ?</p>
+            <p><hi rend="i">Ah ! hélas ! ah ! hélas ! ah ! hélas ! ô…</hi> tentation complice des courages ! Non pas le sang ni la défaite, ce n’est pas là ce que tu crains pour ta patrie, <hi rend="i">mais la victoire</hi>, porteuse de discorde ! Toi, notre saint dans la nuée d’orage, <hi rend="i">oh ! oh ! oh !…</hi> Ne cesse pas d’implorer Dieu pour nous !</p>
             <stage>(Brusque fanfare, finissant sur quelques notes perçantes et hautes.)</stage>
           </sp>
           <stage rend="center">Interlude.</stage>
@@ -2127,10 +2127,10 @@ ancêtres nous regardent ! Plutôt la guerre que la honte ! J’ai dit.</p>
           <sp rend="center">
             <speaker>Récitatif.</speaker>
             <stage rend="center">(Chœur à bouche fermée.)</stage>
-            <p>I. Oh ! maintenant, peuple des monts et des vallées, — tremble dans l’attente orageuse sous un ciel d’angoisse et de haine ! <hi>Malheur sur nous</hi> !</p>
-            <p>Nuit lugubre et sans sommeil — rythmée d’armes martelées — <hi>Ha ! ha</hi> ! — Meute folle, meurtrière — ô rumeur irréparable — que dis-tu ? — <hi>Demain la guerre</hi> !</p>
-            <p>II. Ah ! nuit de deuil, peuple des monts et des vallées, — qui pourra sauver désormais — renversant les destins, ta patrie ? <hi>Terreur sur nous</hi> !</p>
-            <p>Pleurez femmes, sanglotez — sur les foyers désertés — <hi>hou ! hou</hi> ! — Sourde plainte, les tambours — couvrent ta voix déplorable. — Que dis-tu ? — <hi>Demain la guerre.</hi></p>
+            <p>I. Oh ! maintenant, peuple des monts et des vallées, — tremble dans l’attente orageuse sous un ciel d’angoisse et de haine ! <hi rend="i">Malheur sur nous</hi> !</p>
+            <p>Nuit lugubre et sans sommeil — rythmée d’armes martelées — <hi rend="i">Ha ! ha</hi> ! — Meute folle, meurtrière — ô rumeur irréparable — que dis-tu ? — <hi rend="i">Demain la guerre</hi> !</p>
+            <p>II. Ah ! nuit de deuil, peuple des monts et des vallées, — qui pourra sauver désormais — renversant les destins, ta patrie ? <hi rend="i">Terreur sur nous</hi> !</p>
+            <p>Pleurez femmes, sanglotez — sur les foyers désertés — <hi rend="i">hou ! hou</hi> ! — Sourde plainte, les tambours — couvrent ta voix déplorable. — Que dis-tu ? — <hi rend="i">Demain la guerre.</hi></p>
           </sp>
           <stage rend="right">(Batterie, rythme de tambours, qui se prolongent durant les répliques suivantes.)</stage>
         </div>
