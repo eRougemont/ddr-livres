@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI type="book" xml:id="ddr1968jde" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="ddr1968jde" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Journal d’une époque (1926-1946)</title>, Paris, Gallimard, 1968.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Journal d’une époque (1926-1946)</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1968jde"/>
+    <idno type="callNumber">ddr1968jde</idno>
+    <imprint>
+      <date when="1968"/>
+      <publisher>Gallimard</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="598"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Journal d’une époque (1926-1946)</hi>, Paris, Gallimard, 1968, 598 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1968jde",
+    "event-place": "Paris",
+    "number-of-pages": 598,
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "title": "Journal d’une époque (1926-1946)",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1968jde",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1968
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

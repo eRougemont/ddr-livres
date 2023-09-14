@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr" xml:id="ddr1973resea">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Responsabilité de l’écrivain dans la société européenne d’aujourd’hui</title>, Zurich, Pro Helvetia, 1973.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Responsabilité de l’écrivain dans la société européenne d’aujourd’hui</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1973resea"/>
+    <idno type="callNumber">ddr1973resea</idno>
+    <imprint>
+      <date when="1973"/>
+      <publisher>Pro Helvetia</publisher>
+      <pubPlace>Zurich</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="23"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Responsabilité de l’écrivain dans la société européenne d’aujourd’hui</hi>, Zurich, Pro Helvetia, 1973, 23 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1973resea",
+    "event-place": "Zurich",
+    "number-of-pages": 23,
+    "publisher": "Pro Helvetia",
+    "publisher-place": "Zurich",
+    "title": "Responsabilité de l’écrivain dans la société européenne d’aujourd’hui",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1973resea",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1973
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

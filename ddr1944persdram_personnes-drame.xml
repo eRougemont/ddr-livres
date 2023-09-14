@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Les Personnes du drame</title>, New York, Pantheon Books, 1944.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Les Personnes du drame</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1944persdram"/>
+    <idno type="callNumber">ddr1944persdram</idno>
+    <imprint>
+      <date when="1944"/>
+      <publisher>Pantheon books</publisher>
+      <pubPlace>New York</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="219"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Les Personnes du drame</hi>, New York, Pantheon books, 1944, 219 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1944persdram",
+    "event-place": "New York",
+    "number-of-pages": 219,
+    "publisher": "Pantheon books",
+    "publisher-place": "New York",
+    "title": "Les Personnes du drame",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1944persdram",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1944
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

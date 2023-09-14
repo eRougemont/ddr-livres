@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr" xml:id="ddr1951lpp">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Les Libertés que nous pouvons perdre</title>, Paris, Société des Éditions des amis de la liberté, 1951.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Les Libertés que nous pouvons perdre</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1951lpp"/>
+    <idno type="callNumber">ddr1951lpp</idno>
+    <imprint>
+      <date when="1951"/>
+      <publisher>Les Cahiers des Amis de la liberté</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="16"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Les Libertés que nous pouvons perdre</hi>, Paris, Les Cahiers des Amis de la liberté, 1951, 16 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1951lpp",
+    "event-place": "Paris",
+    "number-of-pages": 16,
+    "publisher": "Les Cahiers des Amis de la liberté",
+    "publisher-place": "Paris",
+    "title": "Les Libertés que nous pouvons perdre",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1951lpp",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1951
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

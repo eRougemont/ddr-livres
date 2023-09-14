@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI type="book" xml:id="ddr1972ao" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="ddr1972ao" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,28 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>L’Amour et l’Occident</title>, Paris, Plon, 1972.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">L’Amour et l’Occident</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1972ao"/>
+    <idno type="callNumber">ddr1972ao</idno>
+    <edition>Édition définitive</edition>
+    <imprint>
+      <date when="1972"/>
+      <publisher>10-18</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="444"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>L’Amour et l’Occident</hi>, Édition définitive, Paris, 10-18, 1972, 444 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +51,33 @@
         <language ident="fre"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1972ao",
+    "edition": "Édition définitive",
+    "event-place": "Paris",
+    "number-of-pages": 444,
+    "publisher": "10-18",
+    "publisher-place": "Paris",
+    "title": "L’Amour et l’Occident",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1972ao",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1972
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

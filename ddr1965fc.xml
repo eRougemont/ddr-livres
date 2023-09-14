@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr" xml:id="ddr1965fc">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Fédéralisme culturel</title>, Neuchâtel, Éditions de la Baconnière, 1965.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Fédéralisme culturel</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1965fc"/>
+    <idno type="callNumber">ddr1965fc</idno>
+    <imprint>
+      <date when="1965"/>
+      <publisher>Éditions de la Baconnière</publisher>
+      <pubPlace>Neuchâtel</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="48"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Fédéralisme culturel</hi>, Neuchâtel, Éditions de la Baconnière, 1965, 48 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1965fc",
+    "event-place": "Neuchâtel",
+    "number-of-pages": 48,
+    "publisher": "Éditions de la Baconnière",
+    "publisher-place": "Neuchâtel",
+    "title": "Fédéralisme culturel",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1965fc",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1965
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

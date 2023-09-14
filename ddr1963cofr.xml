@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr1963cofr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,34 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>L’Opportunité chrétienne</title> (1963)</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <respStmt>
+      <resp>translator</resp>
+      <persName>
+        <forename>Donald</forename>
+        <surname>Lehmkuhl</surname>
+      </persName>
+    </respStmt>
+    <title level="m">The Christian Opportunity</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1963cofr"/>
+    <idno type="callNumber">ddr1963cofr</idno>
+    <imprint>
+      <date when="1963"/>
+      <publisher>Holt, Rinehart and Winston</publisher>
+      <pubPlace>New York</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="207"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>The Christian Opportunity</hi>, traduit par Donald Lehmkuhl, New York, Holt, Rinehart and Winston, 1963, 207 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +57,38 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1963cofr",
+    "event-place": "New York",
+    "number-of-pages": 207,
+    "publisher": "Holt, Rinehart and Winston",
+    "publisher-place": "New York",
+    "title": "The Christian Opportunity",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1963cofr",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "translator": [
+        {
+            "family": "Lehmkuhl",
+            "given": "Donald"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1963
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr" xml:id="ddr1974jdef">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,28 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Journal d’un Européen (fragments 1974)</title>, Genève, Bulletin du Centre européen de la culture, 1974.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Journal d’un Européen (fragments 1974)</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1974jdef"/>
+    <idno type="callNumber">ddr1974jdef</idno>
+    <imprint>
+      <date when="1974-06">1974</date>
+      <publisher>Bulletin du Centre européen de la culture</publisher>
+      <pubPlace>Genève</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="62"/>
+    </extent>
+  </monogr>
+  
+  <note type="tags"><term type="tag">Livre</term><term type="tag">PB en note</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Journal d’un Européen (fragments 1974)</hi>, Genève, Bulletin du Centre européen de la culture, 1974, 62 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +51,34 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1974jdef",
+    "event-place": "Genève",
+    "note": "Date display: 1974",
+    "number-of-pages": 62,
+    "publisher": "Bulletin du Centre européen de la culture",
+    "publisher-place": "Genève",
+    "title": "Journal d’un Européen (fragments 1974)",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1974jdef",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1974,
+                6
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

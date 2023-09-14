@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr1988in">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,35 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Inédits (extraits de cours)</title> (1988)</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de (†)</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <editor>
+      <forename>François</forename>
+      <surname>Saint-Ouen</surname>
+    </editor>
+    <editor>
+      <forename>Jean</forename>
+      <surname>Mantzouranis</surname>
+    </editor>
+    <title level="m">Inédits (extraits de cours)</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1988in"/>
+    <idno type="callNumber">ddr1988in</idno>
+    <imprint>
+      <date when="1988"/>
+      <publisher>Éditions de la Baconnière</publisher>
+      <pubPlace>Neuchâtel</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="246"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de (†), <hi>Inédits (extraits de cours)</hi>, Neuchâtel, Éditions de la Baconnière, 1988, 246 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +58,41 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1988in",
+    "event-place": "Neuchâtel",
+    "number-of-pages": 246,
+    "publisher": "Éditions de la Baconnière",
+    "publisher-place": "Neuchâtel",
+    "title": "Inédits (extraits de cours)",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1988in",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis de (†)"
+        }
+    ],
+    "editor": [
+        {
+            "family": "Saint-Ouen",
+            "given": "François"
+        },
+        {
+            "family": "Mantzouranis",
+            "given": "Jean"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1988
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

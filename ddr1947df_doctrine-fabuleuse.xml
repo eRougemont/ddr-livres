@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Doctrine fabuleuse</title>, Neuchâtel, Ides et Calendes, 1947.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Doctrine fabuleuse</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1947df"/>
+    <idno type="callNumber">ddr1947df</idno>
+    <imprint>
+      <date when="1947"/>
+      <publisher>Ides et Calendes</publisher>
+      <pubPlace>Neuchâtel</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="131"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Doctrine fabuleuse</hi>, Neuchâtel, Ides et Calendes, 1947, 131 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1947df",
+    "event-place": "Neuchâtel",
+    "number-of-pages": 131,
+    "publisher": "Ides et Calendes",
+    "publisher-place": "Neuchâtel",
+    "title": "Doctrine fabuleuse",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1947df",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1947
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

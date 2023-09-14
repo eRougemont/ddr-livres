@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Suite neuchâteloise</title>, Neuchâtel, Ides et Calendes, 1948</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Suite neuchâteloise</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1948sn"/>
+    <idno type="callNumber">ddr1948sn</idno>
+    <imprint>
+      <date when="1948"/>
+      <publisher>Ides et Calendes</publisher>
+      <pubPlace>Neuchâtel</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="98"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Suite neuchâteloise</hi>, Neuchâtel, Ides et Calendes, 1948, 98 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1948sn",
+    "event-place": "Neuchâtel",
+    "number-of-pages": 98,
+    "publisher": "Ides et Calendes",
+    "publisher-place": "Neuchâtel",
+    "title": "Suite neuchâteloise",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1948sn",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1948
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

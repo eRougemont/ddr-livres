@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI type="book" xml:id="ddr1961vhse" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="ddr1961vhse" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Vingt-huit siècles d’Europe</title>, Paris, Payot, 1961</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Vingt-huit siècles d’Europe. La conscience européenne à travers les textes, d’Hésiode à nos jours</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1961vhse"/>
+    <idno type="callNumber">ddr1961vhse</idno>
+    <imprint>
+      <date when="1961"/>
+      <publisher>Payot</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="427"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Vingt-huit siècles d’Europe. La conscience européenne à travers les textes, d’Hésiode à nos jours</hi>, Paris, Payot, 1961, 427 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fre"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1961vhse",
+    "event-place": "Paris",
+    "number-of-pages": 427,
+    "publisher": "Payot",
+    "publisher-place": "Paris",
+    "title": "Vingt-huit siècles d’Europe. La conscience européenne à travers les textes, d’Hésiode à nos jours",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1961vhse",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1961
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

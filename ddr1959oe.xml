@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr1959oe">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,28 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Les Origines de l’Europe : d’Hésiode à Charlemagne ou du mythe à l’histoire</title> (1959)</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Les Origines de l’Europe : d’Hésiode à Charlemagne ou du mythe à l’histoire</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1959oe"/>
+    <idno type="callNumber">ddr1959oe</idno>
+    <imprint>
+      <date when="1959-03">1959</date>
+      <publisher>Bulletin du Centre européen de la culture</publisher>
+      <pubPlace>Genève</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="40"/>
+    </extent>
+  </monogr>
+  
+  <note type="tags"><term type="tag">Livre</term><term type="tag">PB en note</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Les Origines de l’Europe : d’Hésiode à Charlemagne ou du mythe à l’histoire</hi>, Genève, Bulletin du Centre européen de la culture, 1959, 40 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +51,34 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1959oe",
+    "event-place": "Genève",
+    "note": "Date display: 1959",
+    "number-of-pages": 40,
+    "publisher": "Bulletin du Centre européen de la culture",
+    "publisher-place": "Genève",
+    "title": "Les Origines de l’Europe : d’Hésiode à Charlemagne ou du mythe à l’histoire",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1959oe",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1959,
+                3
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

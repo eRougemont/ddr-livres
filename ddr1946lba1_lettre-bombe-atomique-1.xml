@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Lettres sur la bombe atomique</title>, New York, Brentano’s, 1946.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Lettres sur la bombe atomique</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1946lba1"/>
+    <idno type="callNumber">ddr1946lba1</idno>
+    <imprint>
+      <date when="1946"/>
+      <publisher>Brentano’s</publisher>
+      <pubPlace>New York</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="163"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Lettres sur la bombe atomique</hi>, New York, Brentano’s, 1946, 163 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fre"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1946lba1",
+    "event-place": "New York",
+    "number-of-pages": 163,
+    "publisher": "Brentano’s",
+    "publisher-place": "New York",
+    "title": "Lettres sur la bombe atomique",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1946lba1",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1946
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <front>

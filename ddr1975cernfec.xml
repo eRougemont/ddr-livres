@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
-<TEI xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr1975cernfec">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,28 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Deux initiatives du CEC : Documents sur l’origine du CERN et de la Fondation européenne de la culture</title> (1975)</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Deux initiatives du CEC : Documents sur l’origine du CERN et de la Fondation européenne de la culture</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1975cernfec"/>
+    <idno type="callNumber">ddr1975cernfec</idno>
+    <imprint>
+      <date when="1975-02">1975</date>
+      <publisher>Bulletin du Centre européen de la culture</publisher>
+      <pubPlace>Genève</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="66"/>
+    </extent>
+  </monogr>
+  
+  <note type="tags"><term type="tag">Livre</term><term type="tag">PB en note</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Deux initiatives du CEC : Documents sur l’origine du CERN et de la Fondation européenne de la culture</hi>, Genève, Bulletin du Centre européen de la culture, 1975, 66 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +51,34 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1975cernfec",
+    "event-place": "Genève",
+    "note": "Date display: 1975",
+    "number-of-pages": 66,
+    "publisher": "Bulletin du Centre européen de la culture",
+    "publisher-place": "Genève",
+    "title": "Deux initiatives du CEC : Documents sur l’origine du CERN et de la Fondation européenne de la culture",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1975cernfec",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1975,
+                2
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

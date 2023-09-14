@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr" xml:id="ddr1972dfso">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Les Dirigeants et les finalités de la société occidentale</title>, Lausanne, Centre de recherches européennes, 1972.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Les Dirigeants et les finalités de la société occidentale</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1972dfso"/>
+    <idno type="callNumber">ddr1972dfso</idno>
+    <imprint>
+      <date when="1972"/>
+      <publisher>Centre de recherches européennes</publisher>
+      <pubPlace>Lausanne</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="37"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Les Dirigeants et les finalités de la société occidentale</hi>, Lausanne, Centre de recherches européennes, 1972, 37 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1972dfso",
+    "event-place": "Lausanne",
+    "number-of-pages": 37,
+    "publisher": "Centre de recherches européennes",
+    "publisher-place": "Lausanne",
+    "title": "Les Dirigeants et les finalités de la société occidentale",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1972dfso",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1972
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

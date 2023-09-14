@@ -19,7 +19,28 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Lettres sur la bombe atomique</title>, Gallimard, Paris, 1946.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Lettres sur la bombe atomique</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1946lba2"/>
+    <idno type="callNumber">ddr1946lba2</idno>
+    <edition>Réédition</edition>
+    <imprint>
+      <date when="1946"/>
+      <publisher>Gallimard</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="131"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Lettres sur la bombe atomique</hi>, Réédition, Paris, Gallimard, 1946, 131 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +51,33 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1946lba2",
+    "edition": "Réédition",
+    "event-place": "Paris",
+    "number-of-pages": 131,
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "title": "Lettres sur la bombe atomique",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1946lba2",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1946
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

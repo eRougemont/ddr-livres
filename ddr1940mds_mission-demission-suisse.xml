@@ -19,7 +19,8 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Mission ou démission de la Suisse</title>, Genève, Éditions de la Baconnière, 1940.</bibl>
+
+        <bibl type="APA7"/>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +31,7 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"/>
   </teiHeader>
   <text>
     <body>

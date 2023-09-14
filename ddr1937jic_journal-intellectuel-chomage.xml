@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI type="book" xml:id="ddr1937jic" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="ddr1937jic" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Journal d’un intellectuel en chômage</title>, Paris, Albin Michel, 1937.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Journal d’un intellectuel en chômage</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1937jic"/>
+    <idno type="callNumber">ddr1937jic</idno>
+    <imprint>
+      <date when="1937"/>
+      <publisher>La Guilde du livre</publisher>
+      <pubPlace>Lausanne</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="219"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Journal d’un intellectuel en chômage</hi>, Lausanne, La Guilde du livre, 1937, 219 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1937jic",
+    "event-place": "Lausanne",
+    "number-of-pages": 219,
+    "publisher": "La Guilde du livre",
+    "publisher-place": "Lausanne",
+    "title": "Journal d’un intellectuel en chômage",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1937jic",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1937
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

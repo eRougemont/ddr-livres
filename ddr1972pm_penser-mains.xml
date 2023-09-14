@@ -19,7 +19,31 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Penser avec les mains</title>, Paris, Gallimard, 1972.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Penser avec les mains</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1972pm"/>
+    <idno type="callNumber">ddr1972pm</idno>
+    <edition>Réédition augmentée d'une « Préface 1972 »</edition>
+    <imprint>
+      <date when="1972"/>
+      <publisher>Gallimard</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="252"/>
+    </extent>
+  </monogr>
+  <series>
+    <title level="s">Idées</title>
+  </series>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Penser avec les mains</hi>, Réédition augmentée d’une « Préface 1972 », Paris, Gallimard, coll. « Idées », 1972, 252 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +54,34 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1972pm",
+    "collection-title": "Idées",
+    "edition": "Réédition augmentée d'une « Préface 1972 »",
+    "event-place": "Paris",
+    "number-of-pages": 252,
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "title": "Penser avec les mains",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1972pm",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1972
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

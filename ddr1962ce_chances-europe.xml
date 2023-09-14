@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Les Chances de l’Europe</title>, Neuchâtel, La Baconnière, 1962.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Les Chances de l’Europe</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1962ce"/>
+    <idno type="callNumber">ddr1962ce</idno>
+    <imprint>
+      <date when="1962"/>
+      <publisher>Éditions de la Baconnière</publisher>
+      <pubPlace>Neuchâtel</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="92"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Les Chances de l’Europe</hi>, Neuchâtel, Éditions de la Baconnière, 1962, 92 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1962ce",
+    "event-place": "Neuchâtel",
+    "number-of-pages": 92,
+    "publisher": "Éditions de la Baconnière",
+    "publisher-place": "Neuchâtel",
+    "title": "Les Chances de l’Europe",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1962ce",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1962
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

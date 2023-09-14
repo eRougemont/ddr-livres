@@ -19,7 +19,30 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Le Paysan du Danube et autres textes</title>, Lausanne, L’Âge d’homme, 1982</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Le Paysan du Danube et autres textes</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1982paysan"/>
+    <idno type="callNumber">ddr1982paysan</idno>
+    <imprint>
+      <date when="1982"/>
+      <publisher>L'Âge d'Homme</publisher>
+      <pubPlace>Lausanne</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="163"/>
+    </extent>
+  </monogr>
+  <series>
+    <title level="s">Poche Suisse</title>
+  </series>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Le Paysan du Danube et autres textes</hi>, Lausanne, L’Âge d’Homme, coll. « Poche Suisse », 1982, 163 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +53,33 @@
         <language ident="fre"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1982paysan",
+    "collection-title": "Poche Suisse",
+    "event-place": "Lausanne",
+    "number-of-pages": 163,
+    "publisher": "L'Âge d'Homme",
+    "publisher-place": "Lausanne",
+    "title": "Le Paysan du Danube et autres textes",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1982
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

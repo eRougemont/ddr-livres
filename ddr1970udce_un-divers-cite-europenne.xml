@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>L’Un et le Divers ou la Cité européenne</title>, Neuchâtel, La Baconnière, 1970.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">L’Un et le Divers, ou la cité européenne</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1970udce"/>
+    <idno type="callNumber">ddr1970udce</idno>
+    <imprint>
+      <date when="1970"/>
+      <publisher>Éditions de la Baconnière</publisher>
+      <pubPlace>Neuchâtel</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="64"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>L’Un et le Divers, ou la cité européenne</hi>, Neuchâtel, Éditions de la Baconnière, 1970, 64 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1970udce",
+    "event-place": "Neuchâtel",
+    "number-of-pages": 64,
+    "publisher": "Éditions de la Baconnière",
+    "publisher-place": "Neuchâtel",
+    "title": "L’Un et le Divers, ou la cité européenne",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1970udce",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1970
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

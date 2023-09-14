@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI type="book" xml:id="ddr1932paysan" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="ddr1932paysan" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,30 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Le Paysan du Danube</title>, Lausanne, Librairie Payot &amp; Cie, 1932</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Le Paysan du Danube</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1932paysan"/>
+    <idno type="callNumber">ddr1932paysan</idno>
+    <imprint>
+      <date when="1932"/>
+      <publisher>Payot</publisher>
+      <pubPlace>Lausanne-Genève</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="201"/>
+    </extent>
+  </monogr>
+  <series>
+    <title level="s">Les cahiers romands</title>
+  </series>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Le Paysan du Danube</hi>, Lausanne-Genève, Payot, coll. « Les cahiers romands », 1932, 201 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +53,33 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1932paysan",
+    "collection-title": "Les cahiers romands",
+    "event-place": "Lausanne-Genève",
+    "number-of-pages": 201,
+    "publisher": "Payot",
+    "publisher-place": "Lausanne-Genève",
+    "title": "Le Paysan du Danube",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1932paysan",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1932
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

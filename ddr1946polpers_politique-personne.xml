@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI type="book" xml:id="ddr1946polpers" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="ddr1946polpers" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,28 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Politique de la personne</title>, Paris, Éditions « Je sers », 1946.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Politique de la personne</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1946polpers"/>
+    <idno type="callNumber">ddr1946polpers</idno>
+    <edition>Nouvelle édition</edition>
+    <imprint>
+      <date when="1946"/>
+      <publisher>Édition « Je sers »–Éditions Delachaux et Niestlé</publisher>
+      <pubPlace>Paris-Neuchâtel</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="263"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Politique de la personne</hi>, Nouvelle édition, Paris-Neuchâtel, Édition « Je sers »–Éditions Delachaux et Niestlé, 1946, 263 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +51,33 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1946polpers",
+    "edition": "Nouvelle édition",
+    "event-place": "Paris-Neuchâtel",
+    "number-of-pages": 263,
+    "publisher": "Édition « Je sers »–Éditions Delachaux et Niestlé",
+    "publisher-place": "Paris-Neuchâtel",
+    "title": "Politique de la personne",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1946polpers",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1946
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Penser avec les mains</title>, Paris, Albin Michel, 1936.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Penser avec les mains</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1936pm"/>
+    <idno type="callNumber">ddr1936pm</idno>
+    <imprint>
+      <date when="1936"/>
+      <publisher>Albin Michel</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="252"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Penser avec les mains</hi>, Paris, Albin Michel, 1936, 252 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1936pm",
+    "event-place": "Paris",
+    "number-of-pages": 252,
+    "publisher": "Albin Michel",
+    "publisher-place": "Paris",
+    "title": "Penser avec les mains",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1936pm",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1936
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI type="book" xml:id="ddr1965shph" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="ddr1965shph" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,47 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>La Suisse ou l’histoire d’un peuple heureux</title>, Paris, Le Livre du Mois, 1970.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">La Suisse ou l’histoire d’un peuple heureux</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1965shph"/>
+    <idno type="callNumber">ddr1965shph</idno>
+    <imprint>
+      <date when="1965"/>
+      <publisher>Hachette</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="305"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct><biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">La Suisse ou l’histoire d’un peuple heureux</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1965shph"/>
+    <idno type="callNumber">ddr1965shph</idno>
+    <edition>Réédition augmentée d'une « Préface 1970 »</edition>
+    <imprint>
+      <date when="1970"/>
+      <publisher>Le Livre du mois</publisher>
+      <pubPlace>Lausanne</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="328"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>La Suisse ou l’histoire d’un peuple heureux</hi>, Paris, Hachette, 1965, 305 p.Rougemont, Denis de, <hi>La Suisse ou l’histoire d’un peuple heureux</hi>, Réédition augmentée d’une « Préface 1970 », Lausanne, Le Livre du mois, 1970, 328 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +70,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1965shph",
+    "event-place": "Paris",
+    "number-of-pages": 305,
+    "publisher": "Hachette",
+    "publisher-place": "Paris",
+    "title": "La Suisse ou l’histoire d’un peuple heureux",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1965shph",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1965
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

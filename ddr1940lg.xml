@@ -2,7 +2,7 @@
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:lang="fr" xml:id="ddr1940lg">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Qu’est-ce que la Ligue du Gothard ?</title>, Berne-Boudry, Ligue du Gothard-Éditions de la Baconnière, 1940.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Qu'est-ce que la Ligue du Gothard ?</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1940lg"/>
+    <idno type="callNumber">ddr1940lg</idno>
+    <imprint>
+      <date when="1940"/>
+      <publisher>Ligue du Gothard</publisher>
+      <pubPlace>Berne</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="13"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Qu’est-ce que la Ligue du Gothard ?</hi>, Berne, Ligue du Gothard, 1940, 13 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1940lg",
+    "event-place": "Berne",
+    "number-of-pages": 13,
+    "publisher": "Ligue du Gothard",
+    "publisher-place": "Berne",
+    "title": "Qu'est-ce que la Ligue du Gothard ?",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1940lg",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1940
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

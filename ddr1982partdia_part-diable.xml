@@ -2,7 +2,7 @@
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
 <?xml-stylesheet type="text/css" href="http://oeuvres.github.io/teinte/author-tei.css"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<TEI type="book" xml:id="ddr1982partdia" xml:lang="fr" xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" type="book" xml:id="ddr1982partdia" xml:lang="fr">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -19,7 +19,31 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>La Part du diable</title>, Paris, Gallimard, 1982.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">La Part du diable</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1982partdia"/>
+    <idno type="callNumber">ddr1982partdia</idno>
+    <edition>Réédition augmentée d'une « Postface après quarante ans »</edition>
+    <imprint>
+      <date when="1982"/>
+      <publisher>Gallimard</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="204"/>
+    </extent>
+  </monogr>
+  <series>
+    <title level="s">Idées</title>
+  </series>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>La Part du diable</hi>, Réédition augmentée d’une « Postface après quarante ans », Paris, Gallimard, coll. « Idées », 1982, 204 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +54,34 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1982partdia",
+    "collection-title": "Idées",
+    "edition": "Réédition augmentée d'une « Postface après quarante ans »",
+    "event-place": "Paris",
+    "number-of-pages": 204,
+    "publisher": "Gallimard",
+    "publisher-place": "Paris",
+    "title": "La Part du diable",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1982partdia",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1982
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>

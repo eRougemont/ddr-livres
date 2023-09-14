@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-        <bibl><title>Lettres aux députés européens</title>, Ides et Calendes, Neuchâtel et Paris, 1950.</bibl>
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Lettres aux députés européens</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1950lde"/>
+    <idno type="callNumber">ddr1950lde</idno>
+    <imprint>
+      <date when="1950"/>
+      <publisher>Ides et Calendes</publisher>
+      <pubPlace>Neuchâtel</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="33"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
+        <bibl type="APA7">Rougemont, Denis de, <hi>Lettres aux députés européens</hi>, Neuchâtel, Ides et Calendes, 1950, 33 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -30,6 +50,32 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  <xenoData type="CSL"><![CDATA[
+{
+    "type": "book",
+    "call-number": "ddr1950lde",
+    "event-place": "Neuchâtel",
+    "number-of-pages": 33,
+    "publisher": "Ides et Calendes",
+    "publisher-place": "Neuchâtel",
+    "title": "Lettres aux députés européens",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr1950lde",
+    "author": [
+        {
+            "family": "Rougemont",
+            "given": "Denis",
+            "dropping-particle": "de"
+        }
+    ],
+    "issued": {
+        "date-parts": [
+            [
+                1950
+            ]
+        ]
+    }
+}
+]]></xenoData>
   </teiHeader>
   <text>
     <body>
