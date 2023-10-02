@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">La Part du diable</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1944partdia"/>
+    <idno type="callNumber">ddr19441100partdia</idno>
+    <edition>Nouvelle version</edition>
+    <imprint>
+      <date when="1944-11"/>
+      <publisher>Brentano’s</publisher>
+      <pubPlace>New York</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="204"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>La Part du diable</hi>, Nouvelle version, New York, Brentano’s, 1944, 204 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +51,8 @@
         <language ident="fre"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

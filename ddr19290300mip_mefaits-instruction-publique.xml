@@ -19,7 +19,29 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Les Méfaits de l’Instruction publique</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1929mip"/>
+    <idno type="callNumber">ddr19290300mip</idno>
+    <imprint>
+      <date when="1929-03"/>
+      <publisher>Éditions des Lettres de Lausanne</publisher>
+      <pubPlace>Lausanne</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="51"/>
+    </extent>
+  </monogr>
+  <series>
+    <title level="s">Les petites lettres de Lausanne</title>
+  </series>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Les Méfaits de l’Instruction publique</hi>, Lausanne, Éditions des Lettres de Lausanne, coll. « Les petites lettres de Lausanne », 1929, 51 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +53,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

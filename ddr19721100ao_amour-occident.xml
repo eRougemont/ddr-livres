@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">L’Amour et l’Occident</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1972ao"/>
+    <idno type="callNumber">ddr19721100ao</idno>
+    <edition>Édition définitive</edition>
+    <imprint>
+      <date when="1972-11"/>
+      <publisher>10-18</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="444"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>L’Amour et l’Occident</hi>, Édition définitive, Paris, 10-18, 1972, 444 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +51,8 @@
         <language ident="fre"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

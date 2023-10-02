@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Qu'est-ce que la Ligue du Gothard ?</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1940lg"/>
+    <idno type="callNumber">ddr19400800lg</idno>
+    <imprint>
+      <date when="1940-08"/>
+      <publisher>Ligue du Gothard</publisher>
+      <pubPlace>Berne</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="13"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Qu’est-ce que la Ligue du Gothard ?</hi>, Berne, Ligue du Gothard, 1940, 13 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Rapport au peuple européen sur l’état de l’union de l’Europe</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1979rpe"/>
+    <idno type="callNumber">ddr19790423rpe</idno>
+    <imprint>
+      <date when="1979-04-23"/>
+      <publisher>Stock</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="186"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Rapport au peuple européen sur l’état de l’union de l’Europe</hi>, Paris, Stock, 1979, 186 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

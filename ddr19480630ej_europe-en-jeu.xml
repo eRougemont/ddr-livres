@@ -19,7 +19,29 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">L’Europe en jeu</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1948ej"/>
+    <idno type="callNumber">ddr19480630ej</idno>
+    <imprint>
+      <date when="1948-06-30"/>
+      <publisher>Éditions de la Baconnière</publisher>
+      <pubPlace>Neuchâtel</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="170"/>
+    </extent>
+  </monogr>
+  <series>
+    <title level="s">L’évolution du monde et des idées</title>
+  </series>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>L’Europe en jeu</hi>, Neuchâtel, Éditions de la Baconnière, coll. « L’évolution du monde et des idées », 1948, 170 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +53,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Les Dirigeants et les finalités de la société occidentale</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1972dfso"/>
+    <idno type="callNumber">ddr19720400dfso</idno>
+    <imprint>
+      <date when="1972-04"/>
+      <publisher>Centre de recherches européennes</publisher>
+      <pubPlace>Lausanne</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="37"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Les Dirigeants et les finalités de la société occidentale</hi>, Lausanne, Centre de recherches européennes, 1972, 37 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

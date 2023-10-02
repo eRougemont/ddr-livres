@@ -19,7 +19,29 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Le Paysan du Danube</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1932paysan"/>
+    <idno type="callNumber">ddr19320900paysan</idno>
+    <imprint>
+      <date when="1932-09"/>
+      <publisher>Payot</publisher>
+      <pubPlace>Lausanne-Genève</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="201"/>
+    </extent>
+  </monogr>
+  <series>
+    <title level="s">Les cahiers romands</title>
+  </series>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Le Paysan du Danube</hi>, Lausanne-Genève, Payot, coll. « Les cahiers romands », 1932, 201 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +53,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Politique de la personne</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1934polpers"/>
+    <idno type="callNumber">ddr19341025polpers</idno>
+    <imprint>
+      <date when="1934-10-25"/>
+      <publisher>Édition « Je sers »–Labor</publisher>
+      <pubPlace>Paris-Genève</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="254"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Politique de la personne</hi>, Paris-Genève, Édition « Je sers »–Labor, 1934, 254 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

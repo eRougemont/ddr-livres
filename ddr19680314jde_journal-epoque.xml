@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Journal d’une époque (1926-1946)</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1968jde"/>
+    <idno type="callNumber">ddr19680314jde</idno>
+    <imprint>
+      <date when="1968-03-14"/>
+      <publisher>Gallimard</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="598"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Journal d’une époque (1926-1946)</hi>, Paris, Gallimard, 1968, 598 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

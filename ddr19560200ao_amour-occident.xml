@@ -19,7 +19,27 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">L’Amour et l’Occident</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1956ao"/>
+    <idno type="callNumber">ddr19560200ao</idno>
+    <edition>Édition remaniée et augmentée</edition>
+    <imprint>
+      <date when="1956-02"/>
+      <publisher>Plon</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="332"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>L’Amour et l’Occident</hi>, Édition remaniée et augmentée, Paris, Plon, 1956, 332 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +51,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

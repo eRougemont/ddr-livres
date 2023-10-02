@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Penser avec les mains</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1936pm"/>
+    <idno type="callNumber">ddr19361100pm</idno>
+    <imprint>
+      <date when="1936-11"/>
+      <publisher>Albin Michel</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="252"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Penser avec les mains</hi>, Paris, Albin Michel, 1936, 252 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Les Libertés que nous pouvons perdre</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1951lpp"/>
+    <idno type="callNumber">ddr19510300lpp</idno>
+    <imprint>
+      <date when="1951-03"/>
+      <publisher>Les Cahiers des Amis de la liberté</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="16"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Les Libertés que nous pouvons perdre</hi>, Paris, Les Cahiers des Amis de la liberté, 1951, 16 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

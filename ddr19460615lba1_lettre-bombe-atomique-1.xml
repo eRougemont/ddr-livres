@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Lettres sur la bombe atomique</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1946lba1"/>
+    <idno type="callNumber">ddr19460615lba1</idno>
+    <imprint>
+      <date when="1946-06-15"/>
+      <publisher>Brentano’s</publisher>
+      <pubPlace>New York</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="163"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Lettres sur la bombe atomique</hi>, New York, Brentano’s, 1946, 163 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fre"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

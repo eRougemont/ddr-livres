@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">L’Aventure occidentale de l’homme</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1957aoh"/>
+    <idno type="callNumber">ddr19570200aoh</idno>
+    <imprint>
+      <date when="1957-02"/>
+      <publisher>Albin Michel</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="275"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>L’Aventure occidentale de l’homme</hi>, Paris, Albin Michel, 1957, 275 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

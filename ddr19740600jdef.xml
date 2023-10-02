@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Journal d’un Européen (fragments 1974)</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1974jdef"/>
+    <idno type="callNumber">ddr19740600jdef</idno>
+    <imprint>
+      <date when="1974-06"/>
+      <publisher>Bulletin du Centre européen de la culture</publisher>
+      <pubPlace>Genève</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="62"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Journal d’un Européen (fragments 1974)</hi>, Genève, Bulletin du Centre européen de la culture, 1974, 62 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

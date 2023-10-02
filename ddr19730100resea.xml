@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Responsabilité de l’écrivain dans la société européenne d’aujourd’hui</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1973resea"/>
+    <idno type="callNumber">ddr19730100resea</idno>
+    <imprint>
+      <date when="1973-01"/>
+      <publisher>Pro Helvetia</publisher>
+      <pubPlace>Zurich</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="23"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Responsabilité de l’écrivain dans la société européenne d’aujourd’hui</hi>, Zurich, Pro Helvetia, 1973, 23 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

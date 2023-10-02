@@ -19,7 +19,29 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">La Confédération helvétique</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1953ch"/>
+    <idno type="callNumber">ddr19531215ch</idno>
+    <imprint>
+      <date when="1953-12-15"/>
+      <publisher>Éditions du Rocher</publisher>
+      <pubPlace>Monaco</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="181"/>
+    </extent>
+  </monogr>
+  <series>
+    <title level="s">Profil des nations</title>
+  </series>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>La Confédération helvétique</hi>, Monaco, Éditions du Rocher, coll. « Profil des nations », 1953, 181 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +53,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">L’Un et le Divers, ou la cité européenne</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1970udce"/>
+    <idno type="callNumber">ddr19701005udce</idno>
+    <imprint>
+      <date when="1970-10-05"/>
+      <publisher>Éditions de la Baconnière</publisher>
+      <pubPlace>Neuchâtel</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="64"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>L’Un et le Divers, ou la cité européenne</hi>, Neuchâtel, Éditions de la Baconnière, 1970, 64 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

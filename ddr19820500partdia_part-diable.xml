@@ -19,7 +19,30 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">La Part du diable</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1982partdia"/>
+    <idno type="callNumber">ddr19820500partdia</idno>
+    <edition>Réédition augmentée d'une « Postface après quarante ans »</edition>
+    <imprint>
+      <date when="1982-05"/>
+      <publisher>Gallimard</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="204"/>
+    </extent>
+  </monogr>
+  <series>
+    <title level="s">Idées</title>
+  </series>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>La Part du diable</hi>, Réédition augmentée d’une « Postface après quarante ans », Paris, Gallimard, coll. « Idées », 1982, 204 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +54,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

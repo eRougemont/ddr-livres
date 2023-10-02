@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Vingt-Huit Siècles d’Europe. La conscience européenne à travers les textes, d’Hésiode à nos jours</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1961vhse"/>
+    <idno type="callNumber">ddr19611200vhse</idno>
+    <imprint>
+      <date when="1961-12"/>
+      <publisher>Payot</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="427"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Vingt-Huit Siècles d’Europe. La conscience européenne à travers les textes, d’Hésiode à nos jours</hi>, Paris, Payot, 1961, 427 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fre"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

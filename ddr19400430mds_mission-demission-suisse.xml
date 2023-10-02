@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Mission ou démission de la Suisse</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1940lg"/>
+    <idno type="callNumber">ddr19400430mds</idno>
+    <imprint>
+      <date when="1940-04-30"/>
+      <publisher>La Baconnière</publisher>
+      <pubPlace>Neuchâtel</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="217"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Mission ou démission de la Suisse</hi>, Neuchâtel, La Baconnière, 1940, 217 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

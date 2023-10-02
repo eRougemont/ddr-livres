@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Fédéralisme culturel</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1965fc"/>
+    <idno type="callNumber">ddr19651030fc</idno>
+    <imprint>
+      <date when="1965-10-30"/>
+      <publisher>Éditions de la Baconnière</publisher>
+      <pubPlace>Neuchâtel</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="48"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Fédéralisme culturel</hi>, Neuchâtel, Éditions de la Baconnière, 1965, 48 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

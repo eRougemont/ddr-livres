@@ -19,7 +19,29 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Lettre ouverte aux Européens</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1970loe"/>
+    <idno type="callNumber">ddr19700900loe</idno>
+    <imprint>
+      <date when="1970-09"/>
+      <publisher>Albin Michel</publisher>
+      <pubPlace>Paris</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="213"/>
+    </extent>
+  </monogr>
+  <series>
+    <title level="s">Lettre ouverte</title>
+  </series>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Lettre ouverte aux Européens</hi>, Paris, Albin Michel, coll. « Lettre ouverte », 1970, 213 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +53,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

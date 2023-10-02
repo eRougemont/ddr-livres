@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Les Personnes du drame</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1944persdram"/>
+    <idno type="callNumber">ddr19441210persdram</idno>
+    <imprint>
+      <date when="1944-12-10"/>
+      <publisher>Pantheon books</publisher>
+      <pubPlace>New York</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="219"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Les Personnes du drame</hi>, New York, Pantheon books, 1944, 219 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

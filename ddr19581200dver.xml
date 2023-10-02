@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Définition, valeurs, énergie, recherche : quatre essais européens</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1958dver"/>
+    <idno type="callNumber">ddr19581200dver</idno>
+    <imprint>
+      <date when="1958-12"/>
+      <publisher>Bulletin du Centre européen de la culture</publisher>
+      <pubPlace>Genève</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="43"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Définition, valeurs, énergie, recherche : quatre essais européens</hi>, Genève, Bulletin du Centre européen de la culture, 1958, 43 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {

@@ -19,7 +19,26 @@
         </availability>
       </publicationStmt>
       <sourceDesc>
-
+<biblStruct type="book">
+  <monogr>
+    <author>
+      <forename>Denis de</forename>
+      <surname>Rougemont</surname>
+    </author>
+    <title level="m">Doctrine fabuleuse</title>
+    <ptr target="https://www.unige.ch/rougemont/livres/ddr1947df"/>
+    <idno type="callNumber">ddr19470703df</idno>
+    <imprint>
+      <date when="1947-07-03"/>
+      <publisher>Ides et Calendes</publisher>
+      <pubPlace>Neuchâtel</pubPlace>
+    </imprint>
+    <extent>
+      <measure unit="page" quantity="131"/>
+    </extent>
+  </monogr>
+  <note type="tags"><term type="tag">Livre</term></note>
+</biblStruct>
         <bibl type="APA7">Rougemont, Denis de, <hi>Doctrine fabuleuse</hi>, Neuchâtel, Ides et Calendes, 1947, 131 p.</bibl>
       </sourceDesc>
     </fileDesc>
@@ -31,6 +50,8 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
+  
   
   <xenoData type="CSL"><![CDATA[
 {
