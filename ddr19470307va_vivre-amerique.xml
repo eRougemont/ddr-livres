@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Vivre en Amérique</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1947va"/>
-    <idno type="callNumber">ddr19470307va</idno>
-    <imprint>
-      <date when="1947-03-07"/>
-      <publisher>Stock</publisher>
-      <pubPlace>Paris</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="187"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Vivre en Amérique</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19470307va"/>
+		<idno type="callNumber">ddr19470307va</idno>
+		<imprint>
+			<date when="1947-03-07">1947-03-07</date>
+			<publisher>Stock</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="187"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Vivre en Amérique</hi>, Paris, Stock, 1947, 187 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19470307va">Vivre en Amérique</ref></hi>, Paris, Stock, 1947, 187 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "Stock",
     "publisher-place": "Paris",
     "title": "Vivre en Amérique",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1947va",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19470307va",
     "author": [
         {
             "family": "Rougemont",

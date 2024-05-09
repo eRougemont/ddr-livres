@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">L’Aventure occidentale de l’homme</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1957aoh"/>
-    <idno type="callNumber">ddr19570200aoh</idno>
-    <imprint>
-      <date when="1957-02"/>
-      <publisher>Albin Michel</publisher>
-      <pubPlace>Paris</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="275"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">L’Aventure occidentale de l’homme</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19570200aoh"/>
+		<idno type="callNumber">ddr19570200aoh</idno>
+		<imprint>
+			<date when="1957-02">1957-02</date>
+			<publisher>Albin Michel</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="275"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>L’Aventure occidentale de l’homme</hi>, Paris, Albin Michel, 1957, 275 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19570200aoh">L’Aventure occidentale de l’homme</ref></hi>, Paris, Albin Michel, 1957, 275 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "Albin Michel",
     "publisher-place": "Paris",
     "title": "L’Aventure occidentale de l’homme",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1957aoh",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19570200aoh",
     "author": [
         {
             "family": "Rougemont",

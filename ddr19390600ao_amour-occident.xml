@@ -20,29 +20,29 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">L’Amour et l’Occident</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1939ao"/>
-    <idno type="callNumber">ddr19390600ao</idno>
-    <imprint>
-      <date when="1939-06"/>
-      <publisher>Plon</publisher>
-      <pubPlace>Paris</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="356"/>
-    </extent>
-  </monogr>
-  <series>
-    <title level="s">Présences</title>
-  </series>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">L’Amour et l’Occident</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19390600ao"/>
+		<idno type="callNumber">ddr19390600ao</idno>
+		<imprint>
+			<date when="1939-06">1939-06</date>
+			<publisher>Plon</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="356"/>
+		</extent>
+	</monogr>
+	<series>
+		<title level="s">Présences</title>
+	</series>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>L’Amour et l’Occident</hi>, Paris, Plon, coll. « Présences », 1939, 356 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19390600ao">L’Amour et l’Occident</ref></hi>, Paris, Plon, « coll. Présences », 1939, 356 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -56,6 +56,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -66,7 +67,7 @@
     "publisher": "Plon",
     "publisher-place": "Paris",
     "title": "L’Amour et l’Occident",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1939ao",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19390600ao",
     "author": [
         {
             "family": "Rougemont",

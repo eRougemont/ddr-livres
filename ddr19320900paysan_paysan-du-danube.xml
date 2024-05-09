@@ -20,29 +20,29 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Le Paysan du Danube</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1932paysan"/>
-    <idno type="callNumber">ddr19320900paysan</idno>
-    <imprint>
-      <date when="1932-09"/>
-      <publisher>Payot</publisher>
-      <pubPlace>Lausanne-Genève</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="201"/>
-    </extent>
-  </monogr>
-  <series>
-    <title level="s">Les cahiers romands</title>
-  </series>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Le Paysan du Danube</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19320900paysan"/>
+		<idno type="callNumber">ddr19320900paysan</idno>
+		<imprint>
+			<date when="1932-09">1932-09</date>
+			<publisher>Payot</publisher>
+			<pubPlace>Lausanne-Genève</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="201"/>
+		</extent>
+	</monogr>
+	<series>
+		<title level="s">Les cahiers romands</title>
+	</series>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Le Paysan du Danube</hi>, Lausanne-Genève, Payot, coll. « Les cahiers romands », 1932, 201 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19320900paysan">Le Paysan du Danube</ref></hi>, Lausanne-Genève, Payot, « coll. Les cahiers romands », 1932, 201 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -56,6 +56,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -66,7 +67,7 @@
     "publisher": "Payot",
     "publisher-place": "Lausanne-Genève",
     "title": "Le Paysan du Danube",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1932paysan",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19320900paysan",
     "author": [
         {
             "family": "Rougemont",

@@ -20,33 +20,33 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <respStmt>
-      <resp>translator</resp>
-      <persName>
-        <forename>Donald</forename>
-        <surname>Lehmkuhl</surname>
-      </persName>
-    </respStmt>
-    <title level="m">The Christian Opportunity</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1963cofr"/>
-    <idno type="callNumber">ddr19630100cofr</idno>
-    <imprint>
-      <date when="1963-01"/>
-      <publisher>Holt, Rinehart and Winston</publisher>
-      <pubPlace>New York</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="207"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<respStmt>
+			<resp>translator</resp>
+			<persName>
+				<forename>Donald</forename>
+				<surname>Lehmkuhl</surname>
+			</persName>
+		</respStmt>
+		<title level="m">The Christian Opportunity</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19630100cofr"/>
+		<idno type="callNumber">ddr19630100cofr</idno>
+		<imprint>
+			<date when="1963-01">1963-01</date>
+			<publisher>Holt, Rinehart and Winston</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="207"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>The Christian Opportunity</hi>, traduit par Donald Lehmkuhl, New York, Holt, Rinehart and Winston, 1963, 207 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19630100cofr">The Christian Opportunity</ref></hi>, trad. <hi rend="sc">Lehmkuhl</hi> Donald, New York, Holt, Rinehart and Winston, 1963, 207 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -60,6 +60,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -69,7 +70,7 @@
     "publisher": "Holt, Rinehart and Winston",
     "publisher-place": "New York",
     "title": "The Christian Opportunity",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1963cofr",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19630100cofr",
     "author": [
         {
             "family": "Rougemont",

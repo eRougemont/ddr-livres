@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">La Suisse ou l’histoire d’un peuple heureux</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1965shph"/>
-    <idno type="callNumber">ddr19650600shph</idno>
-    <imprint>
-      <date when="1965-06"/>
-      <publisher>Hachette</publisher>
-      <pubPlace>Paris</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="305"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">La Suisse ou l’histoire d’un peuple heureux</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19650600shph"/>
+		<idno type="callNumber">ddr19650600shph</idno>
+		<imprint>
+			<date when="1965-06">1965-06</date>
+			<publisher>Hachette</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="305"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>La Suisse ou l’histoire d’un peuple heureux</hi>, Paris, Hachette, 1965, 305 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19650600shph">La Suisse ou l’histoire d’un peuple heureux</ref></hi>, Paris, Hachette, 1965, 305 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "Hachette",
     "publisher-place": "Paris",
     "title": "La Suisse ou l’histoire d’un peuple heureux",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1965shph",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19650600shph",
     "author": [
         {
             "family": "Rougemont",

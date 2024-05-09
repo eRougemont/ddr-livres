@@ -20,27 +20,27 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Lettres sur la bombe atomique</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1946lba2"/>
-    <idno type="callNumber">ddr19460701lba2</idno>
-    <edition>Réédition</edition>
-    <imprint>
-      <date when="1946-07-01"/>
-      <publisher>Gallimard</publisher>
-      <pubPlace>Paris</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="131"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Lettres sur la bombe atomique</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19460701lba2"/>
+		<idno type="callNumber">ddr19460701lba2</idno>
+		<edition>Réédition</edition>
+		<imprint>
+			<date when="1946-07-01">1946-07-01</date>
+			<publisher>Gallimard</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="131"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Lettres sur la bombe atomique</hi>, Réédition, Paris, Gallimard, 1946, 131 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19460701lba2">Lettres sur la bombe atomique</ref></hi>, Réédition, Paris, Gallimard, 1946, 131 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -54,6 +54,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -64,7 +65,7 @@
     "publisher": "Gallimard",
     "publisher-place": "Paris",
     "title": "Lettres sur la bombe atomique",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1946lba2",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19460701lba2",
     "author": [
         {
             "family": "Rougemont",

@@ -20,27 +20,27 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">L’Amour et l’Occident</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1972ao"/>
-    <idno type="callNumber">ddr19721100ao</idno>
-    <edition>Édition définitive</edition>
-    <imprint>
-      <date when="1972-11"/>
-      <publisher>10-18</publisher>
-      <pubPlace>Paris</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="444"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">L’Amour et l’Occident</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19721100ao"/>
+		<idno type="callNumber">ddr19721100ao</idno>
+		<edition>Édition définitive</edition>
+		<imprint>
+			<date when="1972-11">1972-11</date>
+			<publisher>10-18</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="444"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>L’Amour et l’Occident</hi>, Édition définitive, Paris, 10-18, 1972, 444 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19721100ao">L’Amour et l’Occident</ref></hi>, Édition définitive, Paris, 10-18, 1972, 444 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -54,6 +54,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -64,7 +65,7 @@
     "publisher": "10-18",
     "publisher-place": "Paris",
     "title": "L’Amour et l’Occident",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1972ao",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19721100ao",
     "author": [
         {
             "family": "Rougemont",

@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Rapport au peuple européen sur l’état de l’union de l’Europe</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1979rpe"/>
-    <idno type="callNumber">ddr19790423rpe</idno>
-    <imprint>
-      <date when="1979-04-23"/>
-      <publisher>Stock</publisher>
-      <pubPlace>Paris</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="186"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Rapport au peuple européen sur l’état de l’union de l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19790423rpe"/>
+		<idno type="callNumber">ddr19790423rpe</idno>
+		<imprint>
+			<date when="1979-04-23">1979-04-23</date>
+			<publisher>Stock</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="186"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Rapport au peuple européen sur l’état de l’union de l’Europe</hi>, Paris, Stock, 1979, 186 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19790423rpe">Rapport au peuple européen sur l’état de l’union de l’Europe</ref></hi>, Paris, Stock, 1979, 186 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "Stock",
     "publisher-place": "Paris",
     "title": "Rapport au peuple européen sur l’état de l’union de l’Europe",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1979rpe",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19790423rpe",
     "author": [
         {
             "family": "Rougemont",

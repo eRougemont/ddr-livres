@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Qu'est-ce que la Ligue du Gothard ?</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1940lg"/>
-    <idno type="callNumber">ddr19400800lg</idno>
-    <imprint>
-      <date when="1940-08"/>
-      <publisher>Ligue du Gothard</publisher>
-      <pubPlace>Berne</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="13"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Qu'est-ce que la Ligue du Gothard ?</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19400800lg"/>
+		<idno type="callNumber">ddr19400800lg</idno>
+		<imprint>
+			<date when="1940-08">1940-08</date>
+			<publisher>Ligue du Gothard</publisher>
+			<pubPlace>Berne</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="13"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Qu’est-ce que la Ligue du Gothard ?</hi>, Berne, Ligue du Gothard, 1940, 13 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19400800lg">Qu’est-ce que la Ligue du Gothard ?</ref></hi>, Berne, Ligue du Gothard, 1940, 13 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "Ligue du Gothard",
     "publisher-place": "Berne",
     "title": "Qu'est-ce que la Ligue du Gothard ?",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1940lg",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19400800lg",
     "author": [
         {
             "family": "Rougemont",

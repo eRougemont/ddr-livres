@@ -20,29 +20,29 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Le Paysan du Danube et autres textes</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1982paysan"/>
-    <idno type="callNumber">ddr19820900paysan</idno>
-    <imprint>
-      <date when="1982-09"/>
-      <publisher>L'Âge d'Homme</publisher>
-      <pubPlace>Lausanne</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="163"/>
-    </extent>
-  </monogr>
-  <series>
-    <title level="s">Poche Suisse</title>
-  </series>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Le Paysan du Danube et autres textes</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19820900paysan"/>
+		<idno type="callNumber">ddr19820900paysan</idno>
+		<imprint>
+			<date when="1982-09">1982-09</date>
+			<publisher>L'Âge d'Homme</publisher>
+			<pubPlace>Lausanne</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="163"/>
+		</extent>
+	</monogr>
+	<series>
+		<title level="s">Poche Suisse</title>
+	</series>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Le Paysan du Danube et autres textes</hi>, Lausanne, L’Âge d’Homme, coll. « Poche Suisse », 1982, 163 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19820900paysan">Le Paysan du Danube et autres textes</ref></hi>, Lausanne, L’Âge d’Homme, « coll. Poche Suisse », 1982, 163 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -56,6 +56,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -66,7 +67,7 @@
     "publisher": "L'Âge d'Homme",
     "publisher-place": "Lausanne",
     "title": "Le Paysan du Danube et autres textes",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1982paysan",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19820900paysan",
     "author": [
         {
             "family": "Rougemont",

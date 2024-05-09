@@ -19,29 +19,29 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Nicolas de Flue, légende dramatique</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1939nf"/>
-    <idno type="callNumber">ddr19390815nf</idno>
-    <imprint>
-      <date when="1939-08-15"/>
-      <publisher>Institut neuchâtelois</publisher>
-      <pubPlace>Neuchâtel</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="72"/>
-    </extent>
-  </monogr>
-  <series>
-    <title level="s">Présences</title>
-  </series>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Nicolas de Flue, légende dramatique</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19390815nf"/>
+		<idno type="callNumber">ddr19390815nf</idno>
+		<imprint>
+			<date when="1939-08-15">1939-08-15</date>
+			<publisher>Institut neuchâtelois</publisher>
+			<pubPlace>Neuchâtel</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="72"/>
+		</extent>
+	</monogr>
+	<series>
+		<title level="s">Présences</title>
+	</series>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Nicolas de Flue, légende dramatique</hi>, Neuchâtel, Institut neuchâtelois, coll. « Présences », 1939, 72 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19390815nf">Nicolas de Flue, légende dramatique</ref></hi>, Neuchâtel, Institut neuchâtelois, « coll. Présences », 1939, 72 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -55,6 +55,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -65,7 +66,7 @@
     "publisher": "Institut neuchâtelois",
     "publisher-place": "Neuchâtel",
     "title": "Nicolas de Flue, légende dramatique",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1939nf",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19390815nf",
     "author": [
         {
             "family": "Rougemont",

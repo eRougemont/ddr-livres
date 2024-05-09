@@ -20,29 +20,29 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Lettre ouverte aux Européens</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1970loe"/>
-    <idno type="callNumber">ddr19700900loe</idno>
-    <imprint>
-      <date when="1970-09"/>
-      <publisher>Albin Michel</publisher>
-      <pubPlace>Paris</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="213"/>
-    </extent>
-  </monogr>
-  <series>
-    <title level="s">Lettre ouverte</title>
-  </series>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Lettre ouverte aux Européens</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19700900loe"/>
+		<idno type="callNumber">ddr19700900loe</idno>
+		<imprint>
+			<date when="1970-09">1970-09</date>
+			<publisher>Albin Michel</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="213"/>
+		</extent>
+	</monogr>
+	<series>
+		<title level="s">Lettre ouverte</title>
+	</series>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Lettre ouverte aux Européens</hi>, Paris, Albin Michel, coll. « Lettre ouverte », 1970, 213 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19700900loe">Lettre ouverte aux Européens</ref></hi>, Paris, Albin Michel, « coll. Lettre ouverte », 1970, 213 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -56,6 +56,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -66,7 +67,7 @@
     "publisher": "Albin Michel",
     "publisher-place": "Paris",
     "title": "Lettre ouverte aux Européens",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1970loe",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19700900loe",
     "author": [
         {
             "family": "Rougemont",

@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Le Cheminement des esprits</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1970cde"/>
-    <idno type="callNumber">ddr19701000cde</idno>
-    <imprint>
-      <date when="1970-10"/>
-      <publisher>Éditions de la Baconnière</publisher>
-      <pubPlace>Neuchâtel</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="191"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Le Cheminement des esprits</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19701000cde"/>
+		<idno type="callNumber">ddr19701000cde</idno>
+		<imprint>
+			<date when="1970-10">1970-10</date>
+			<publisher>Éditions de la Baconnière</publisher>
+			<pubPlace>Neuchâtel</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="191"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Le Cheminement des esprits</hi>, Neuchâtel, Éditions de la Baconnière, 1970, 191 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19701000cde">Le Cheminement des esprits</ref></hi>, Neuchâtel, Éditions de la Baconnière, 1970, 191 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "Éditions de la Baconnière",
     "publisher-place": "Neuchâtel",
     "title": "Le Cheminement des esprits",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1970cde",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19701000cde",
     "author": [
         {
             "family": "Rougemont",

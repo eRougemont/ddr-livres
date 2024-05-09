@@ -20,29 +20,29 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">La Confédération helvétique</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1953ch"/>
-    <idno type="callNumber">ddr19531215ch</idno>
-    <imprint>
-      <date when="1953-12-15"/>
-      <publisher>Éditions du Rocher</publisher>
-      <pubPlace>Monaco</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="181"/>
-    </extent>
-  </monogr>
-  <series>
-    <title level="s">Profil des nations</title>
-  </series>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">La Confédération helvétique</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19531215ch"/>
+		<idno type="callNumber">ddr19531215ch</idno>
+		<imprint>
+			<date when="1953-12-15">1953-12-15</date>
+			<publisher>Éditions du Rocher</publisher>
+			<pubPlace>Monaco</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="181"/>
+		</extent>
+	</monogr>
+	<series>
+		<title level="s">Profil des nations</title>
+	</series>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>La Confédération helvétique</hi>, Monaco, Éditions du Rocher, coll. « Profil des nations », 1953, 181 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19531215ch">La Confédération helvétique</ref></hi>, Monaco, Éditions du Rocher, « coll. Profil des nations », 1953, 181 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -56,6 +56,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -66,7 +67,7 @@
     "publisher": "Éditions du Rocher",
     "publisher-place": "Monaco",
     "title": "La Confédération helvétique",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1953ch",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19531215ch",
     "author": [
         {
             "family": "Rougemont",

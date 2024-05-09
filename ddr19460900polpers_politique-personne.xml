@@ -20,27 +20,27 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Politique de la personne</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1946polpers"/>
-    <idno type="callNumber">ddr19460900polpers</idno>
-    <edition>Nouvelle édition</edition>
-    <imprint>
-      <date when="1946-09"/>
-      <publisher>Édition « Je sers » — Éditions Delachaux et Niestlé</publisher>
-      <pubPlace>Paris-Neuchâtel</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="263"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Politique de la personne</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19460900polpers"/>
+		<idno type="callNumber">ddr19460900polpers</idno>
+		<edition>Nouvelle édition</edition>
+		<imprint>
+			<date when="1946-09">1946-09</date>
+			<publisher>Édition « Je sers » — Éditions Delachaux et Niestlé</publisher>
+			<pubPlace>Paris-Neuchâtel</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="263"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Politique de la personne</hi>, Nouvelle édition, Paris-Neuchâtel, Édition « Je sers » — Éditions Delachaux et Niestlé, 1946, 263 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19460900polpers">Politique de la personne</ref></hi>, Nouvelle édition, Paris-Neuchâtel, Édition « Je sers » — Éditions Delachaux et Niestlé, 1946, 263 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -54,6 +54,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -64,7 +65,7 @@
     "publisher": "Édition « Je sers » — Éditions Delachaux et Niestlé",
     "publisher-place": "Paris-Neuchâtel",
     "title": "Politique de la personne",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1946polpers",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19460900polpers",
     "author": [
         {
             "family": "Rougemont",

@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Journal d’un intellectuel en chômage</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1937jic"/>
-    <idno type="callNumber">ddr19370600jic</idno>
-    <imprint>
-      <date when="1937-06"/>
-      <publisher>La Guilde du livre</publisher>
-      <pubPlace>Lausanne</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="219"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Journal d’un intellectuel en chômage</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19370600jic"/>
+		<idno type="callNumber">ddr19370600jic</idno>
+		<imprint>
+			<date when="1937-06">1937-06</date>
+			<publisher>La Guilde du livre</publisher>
+			<pubPlace>Lausanne</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="219"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Journal d’un intellectuel en chômage</hi>, Lausanne, La Guilde du livre, 1937, 219 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19370600jic">Journal d’un intellectuel en chômage</ref></hi>, Lausanne, La Guilde du livre, 1937, 219 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "La Guilde du livre",
     "publisher-place": "Lausanne",
     "title": "Journal d’un intellectuel en chômage",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1937jic",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19370600jic",
     "author": [
         {
             "family": "Rougemont",

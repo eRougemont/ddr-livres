@@ -20,29 +20,29 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Journal d’Allemagne</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1938ja"/>
-    <idno type="callNumber">ddr19381012ja</idno>
-    <imprint>
-      <date when="1938-10-12"/>
-      <publisher>Gallimard</publisher>
-      <pubPlace>Paris</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="92"/>
-    </extent>
-  </monogr>
-  <series>
-    <title level="s">Les tracts de la <hi rend="italic">NRF</hi></title>
-  </series>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Journal d’Allemagne</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19381012ja"/>
+		<idno type="callNumber">ddr19381012ja</idno>
+		<imprint>
+			<date when="1938-10-12">1938-10-12</date>
+			<publisher>Gallimard</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="92"/>
+		</extent>
+	</monogr>
+	<series>
+		<title level="s">Les tracts de la <hi rend="italic">NRF</hi></title>
+	</series>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Journal d’Allemagne</hi>, Paris, Gallimard, coll. « Les tracts de la <hi>NRF</hi> », 1938, 92 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19381012ja">Journal d’Allemagne</ref></hi>, Paris, Gallimard, « coll. Les tracts de la <hi>NRF</hi> », 1938, 92 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -56,6 +56,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -66,7 +67,7 @@
     "publisher": "Gallimard",
     "publisher-place": "Paris",
     "title": "Journal d’Allemagne",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1938ja",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19381012ja",
     "author": [
         {
             "family": "Rougemont",

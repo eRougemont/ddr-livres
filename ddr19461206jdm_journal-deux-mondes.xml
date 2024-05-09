@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Journal des deux mondes</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1946jdm"/>
-    <idno type="callNumber">ddr19461206jdm</idno>
-    <imprint>
-      <date when="1946-12-06"/>
-      <publisher>La Guilde du livre</publisher>
-      <pubPlace>Lausanne</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="251"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Journal des deux mondes</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19461206jdm"/>
+		<idno type="callNumber">ddr19461206jdm</idno>
+		<imprint>
+			<date when="1946-12-06">1946-12-06</date>
+			<publisher>La Guilde du livre</publisher>
+			<pubPlace>Lausanne</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="251"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Journal des deux mondes</hi>, Lausanne, La Guilde du livre, 1946, 251 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19461206jdm">Journal des deux mondes</ref></hi>, Lausanne, La Guilde du livre, 1946, 251 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "La Guilde du livre",
     "publisher-place": "Lausanne",
     "title": "Journal des deux mondes",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1946jdm",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19461206jdm",
     "author": [
         {
             "family": "Rougemont",

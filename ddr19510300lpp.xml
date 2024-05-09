@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Les Libertés que nous pouvons perdre</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1951lpp"/>
-    <idno type="callNumber">ddr19510300lpp</idno>
-    <imprint>
-      <date when="1951-03"/>
-      <publisher>Les Cahiers des Amis de la liberté</publisher>
-      <pubPlace>Paris</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="16"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Les Libertés que nous pouvons perdre</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19510300lpp"/>
+		<idno type="callNumber">ddr19510300lpp</idno>
+		<imprint>
+			<date when="1951-03">1951-03</date>
+			<publisher>Les Cahiers des Amis de la liberté</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="16"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Les Libertés que nous pouvons perdre</hi>, Paris, Les Cahiers des Amis de la liberté, 1951, 16 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19510300lpp">Les Libertés que nous pouvons perdre</ref></hi>, Paris, Les Cahiers des Amis de la liberté, 1951, 16 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "Les Cahiers des Amis de la liberté",
     "publisher-place": "Paris",
     "title": "Les Libertés que nous pouvons perdre",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1951lpp",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19510300lpp",
     "author": [
         {
             "family": "Rougemont",

@@ -20,27 +20,27 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Les Méfaits de l’Instruction publique</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1972mip"/>
-    <idno type="callNumber">ddr19721000mip</idno>
-    <edition>Réédition augmentée d'une &lt;i&gt;Suite des Méfaits&lt;/i&gt;</edition>
-    <imprint>
-      <date when="1972-10"/>
-      <publisher>Eurêka</publisher>
-      <pubPlace>Lausanne</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="89"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Les Méfaits de l’Instruction publique</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19721000mip"/>
+		<idno type="callNumber">ddr19721000mip</idno>
+		<edition>Réédition augmentée d'une &lt;i&gt;Suite des Méfaits&lt;/i&gt;</edition>
+		<imprint>
+			<date when="1972-10">1972-10</date>
+			<publisher>Eurêka</publisher>
+			<pubPlace>Lausanne</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="89"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Les Méfaits de l’Instruction publique</hi>, Réédition augmentée d’une <hi>Suite des Méfaits</hi>, Lausanne, Eurêka, 1972, 89 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19721000mip">Les Méfaits de l’Instruction publique</ref></hi>, Réédition augmentée d’une <hi>Suite des Méfaits</hi>, Lausanne, Eurêka, 1972, 89 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -54,6 +54,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -64,7 +65,7 @@
     "publisher": "Eurêka",
     "publisher-place": "Lausanne",
     "title": "Les Méfaits de l’Instruction publique",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1972mip",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19721000mip",
     "author": [
         {
             "family": "Rougemont",

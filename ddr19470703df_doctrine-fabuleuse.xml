@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Doctrine fabuleuse</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1947df"/>
-    <idno type="callNumber">ddr19470703df</idno>
-    <imprint>
-      <date when="1947-07-03"/>
-      <publisher>Ides et Calendes</publisher>
-      <pubPlace>Neuchâtel</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="131"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Doctrine fabuleuse</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19470703df"/>
+		<idno type="callNumber">ddr19470703df</idno>
+		<imprint>
+			<date when="1947-07-03">1947-07-03</date>
+			<publisher>Ides et Calendes</publisher>
+			<pubPlace>Neuchâtel</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="131"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Doctrine fabuleuse</hi>, Neuchâtel, Ides et Calendes, 1947, 131 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19470703df">Doctrine fabuleuse</ref></hi>, Neuchâtel, Ides et Calendes, 1947, 131 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "Ides et Calendes",
     "publisher-place": "Neuchâtel",
     "title": "Doctrine fabuleuse",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1947df",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19470703df",
     "author": [
         {
             "family": "Rougemont",

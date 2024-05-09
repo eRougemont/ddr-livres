@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Comme toi-même. Essais sur les mythes de l’amour</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1961ctm"/>
-    <idno type="callNumber">ddr19610400ctm</idno>
-    <imprint>
-      <date when="1961-04"/>
-      <publisher>Albin Michel</publisher>
-      <pubPlace>Paris</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="285"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Comme toi-même. Essais sur les mythes de l’amour</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19610400ctm"/>
+		<idno type="callNumber">ddr19610400ctm</idno>
+		<imprint>
+			<date when="1961-04">1961-04</date>
+			<publisher>Albin Michel</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="285"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Comme toi-même. Essais sur les mythes de l’amour</hi>, Paris, Albin Michel, 1961, 285 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19610400ctm">Comme toi-même. Essais sur les mythes de l’amour</ref></hi>, Paris, Albin Michel, 1961, 285 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "Albin Michel",
     "publisher-place": "Paris",
     "title": "Comme toi-même. Essais sur les mythes de l’amour",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1961ctm",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19610400ctm",
     "author": [
         {
             "family": "Rougemont",

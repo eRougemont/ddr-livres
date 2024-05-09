@@ -20,30 +20,30 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Penser avec les mains</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1972pm"/>
-    <idno type="callNumber">ddr19720600pm</idno>
-    <edition>Réédition augmentée d'une « Préface 1972 »</edition>
-    <imprint>
-      <date when="1972-06"/>
-      <publisher>Gallimard</publisher>
-      <pubPlace>Paris</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="252"/>
-    </extent>
-  </monogr>
-  <series>
-    <title level="s">Idées</title>
-  </series>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Penser avec les mains</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19720600pm"/>
+		<idno type="callNumber">ddr19720600pm</idno>
+		<edition>Réédition augmentée d'une « Préface 1972 »</edition>
+		<imprint>
+			<date when="1972-06">1972-06</date>
+			<publisher>Gallimard</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="252"/>
+		</extent>
+	</monogr>
+	<series>
+		<title level="s">Idées</title>
+	</series>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Penser avec les mains</hi>, Réédition augmentée d’une « Préface 1972 », Paris, Gallimard, coll. « Idées », 1972, 252 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19720600pm">Penser avec les mains</ref></hi>, Réédition augmentée d’une « Préface 1972 », Paris, Gallimard, « coll. Idées », 1972, 252 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -54,6 +54,7 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
+  
   
   
   
@@ -68,7 +69,7 @@
     "publisher": "Gallimard",
     "publisher-place": "Paris",
     "title": "Penser avec les mains",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1972pm",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19720600pm",
     "author": [
         {
             "family": "Rougemont",

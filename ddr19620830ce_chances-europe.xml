@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Les Chances de l’Europe</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1962ce"/>
-    <idno type="callNumber">ddr19620830ce</idno>
-    <imprint>
-      <date when="1962-08-30"/>
-      <publisher>Éditions de la Baconnière</publisher>
-      <pubPlace>Neuchâtel</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="92"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Les Chances de l’Europe</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19620830ce"/>
+		<idno type="callNumber">ddr19620830ce</idno>
+		<imprint>
+			<date when="1962-08-30">1962-08-30</date>
+			<publisher>Éditions de la Baconnière</publisher>
+			<pubPlace>Neuchâtel</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="92"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Les Chances de l’Europe</hi>, Neuchâtel, Éditions de la Baconnière, 1962, 92 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19620830ce">Les Chances de l’Europe</ref></hi>, Neuchâtel, Éditions de la Baconnière, 1962, 92 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "Éditions de la Baconnière",
     "publisher-place": "Neuchâtel",
     "title": "Les Chances de l’Europe",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1962ce",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19620830ce",
     "author": [
         {
             "family": "Rougemont",

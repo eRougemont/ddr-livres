@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">La Part du diable</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1942partdia"/>
-    <idno type="callNumber">ddr19421200partdia</idno>
-    <imprint>
-      <date when="1942-12"/>
-      <publisher>Brentano’s</publisher>
-      <pubPlace>New York</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="190"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">La Part du diable</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19421200partdia"/>
+		<idno type="callNumber">ddr19421200partdia</idno>
+		<imprint>
+			<date when="1942-12">1942-12</date>
+			<publisher>Brentano’s</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="190"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>La Part du diable</hi>, New York, Brentano’s, 1942, 190 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19421200partdia">La Part du diable</ref></hi>, New York, Brentano’s, 1942, 190 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "Brentano’s",
     "publisher-place": "New York",
     "title": "La Part du diable",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1942partdia",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19421200partdia",
     "author": [
         {
             "family": "Rougemont",

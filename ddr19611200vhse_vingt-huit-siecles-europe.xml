@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Vingt-Huit Siècles d’Europe. La conscience européenne à travers les textes, d’Hésiode à nos jours</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1961vhse"/>
-    <idno type="callNumber">ddr19611200vhse</idno>
-    <imprint>
-      <date when="1961-12"/>
-      <publisher>Payot</publisher>
-      <pubPlace>Paris</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="427"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Vingt-Huit Siècles d’Europe. La conscience européenne à travers les textes, d’Hésiode à nos jours</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19611200vhse"/>
+		<idno type="callNumber">ddr19611200vhse</idno>
+		<imprint>
+			<date when="1961-12">1961-12</date>
+			<publisher>Payot</publisher>
+			<pubPlace>Paris</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="427"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Vingt-Huit Siècles d’Europe. La conscience européenne à travers les textes, d’Hésiode à nos jours</hi>, Paris, Payot, 1961, 427 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19611200vhse">Vingt-Huit Siècles d’Europe. La conscience européenne à travers les textes, d’Hésiode à nos jours</ref></hi>, Paris, Payot, 1961, 427 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "Payot",
     "publisher-place": "Paris",
     "title": "Vingt-Huit Siècles d’Europe. La conscience européenne à travers les textes, d’Hésiode à nos jours",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1961vhse",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19611200vhse",
     "author": [
         {
             "family": "Rougemont",

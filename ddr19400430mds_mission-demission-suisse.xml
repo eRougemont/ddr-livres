@@ -20,26 +20,26 @@
       </publicationStmt>
       <sourceDesc>
 <biblStruct type="book">
-  <monogr>
-    <author>
-      <forename>Denis de</forename>
-      <surname>Rougemont</surname>
-    </author>
-    <title level="m">Mission ou démission de la Suisse</title>
-    <ptr target="https://www.unige.ch/rougemont/livres/ddr1940lg"/>
-    <idno type="callNumber">ddr19400430mds</idno>
-    <imprint>
-      <date when="1940-04-30"/>
-      <publisher>La Baconnière</publisher>
-      <pubPlace>Neuchâtel</pubPlace>
-    </imprint>
-    <extent>
-      <measure unit="page" quantity="217"/>
-    </extent>
-  </monogr>
-  <note type="tags"><term type="tag">Livre</term></note>
+	<monogr>
+		<author>
+			<forename>Denis de</forename>
+			<surname>Rougemont</surname>
+		</author>
+		<title level="m">Mission ou démission de la Suisse</title>
+		<ptr target="https://www.unige.ch/rougemont/livres/ddr19400430mds"/>
+		<idno type="callNumber">ddr19400430mds</idno>
+		<imprint>
+			<date when="1940-04-30">1940-04-30</date>
+			<publisher>La Baconnière</publisher>
+			<pubPlace>Neuchâtel</pubPlace>
+		</imprint>
+		<extent>
+			<measure unit="page" quantity="217"/>
+		</extent>
+	</monogr>
+	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl type="APA7">Rougemont, Denis de, <hi>Mission ou démission de la Suisse</hi>, Neuchâtel, La Baconnière, 1940, 217 p.</bibl>
+        <bibl type="APA7"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19400430mds">Mission ou démission de la Suisse</ref></hi>, Neuchâtel, La Baconnière, 1940, 217 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -53,6 +53,7 @@
   
   
   
+  
   <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
@@ -62,7 +63,7 @@
     "publisher": "La Baconnière",
     "publisher-place": "Neuchâtel",
     "title": "Mission ou démission de la Suisse",
-    "URL": "https://www.unige.ch/rougemont/livres/ddr1940lg",
+    "URL": "https://www.unige.ch/rougemont/livres/ddr19400430mds",
     "author": [
         {
             "family": "Rougemont",
