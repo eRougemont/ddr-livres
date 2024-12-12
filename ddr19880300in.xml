@@ -36,10 +36,9 @@
 			<measure unit="page" quantity="246"/>
 		</extent>
 	</monogr>
-	<note type="extra">Texte édité par François Saint-Ouen et Jean Mantzouranis.</note>
 	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19880300in">Inédits (extraits de cours)</ref></hi>, Neuchâtel, Éditions de la Baconnière, 1988, 246 p.</bibl>
+        <bibl type="zotero"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19880300in">Inédits (extraits de cours)</ref></hi>, Neuchâtel, Éditions de la Baconnière, 1988, 246 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -50,16 +49,11 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
-  
-  
-  
-  
-  <xenoData type="CSL"><![CDATA[
+    <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
     "call-number": "ddr19880300in",
     "event-place": "Neuchâtel",
-    "note": "Texte édité par François Saint-Ouen et Jean Mantzouranis.",
     "number-of-pages": 246,
     "publisher": "Éditions de la Baconnière",
     "publisher-place": "Neuchâtel",

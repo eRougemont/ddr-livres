@@ -41,7 +41,7 @@
 	</series>
 	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19320900paysan">Le Paysan du Danube</ref></hi>, Lausanne-Genève, Payot, « coll. Les cahiers romands », 1932, 201 p.</bibl>
+        <bibl type="zotero"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19320900paysan">Le Paysan du Danube</ref></hi>, Lausanne-Genève, Payot, « coll. Les cahiers romands », 1932, 201 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -52,11 +52,7 @@
         <language ident="fr"/>
       </langUsage>
     </profileDesc>
-  
-  
-  
-  
-  <xenoData type="CSL"><![CDATA[
+    <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
     "call-number": "ddr19320900paysan",

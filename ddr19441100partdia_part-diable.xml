@@ -39,7 +39,7 @@
 	</monogr>
 	<note type="tags"><term type="tag">Livre</term></note>
 </biblStruct>
-        <bibl><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19441100partdia">La Part du diable</ref></hi>, Nouvelle version, New York, Brentano’s, 1944, 204 p.</bibl>
+        <bibl type="zotero"><hi rend="sc">Rougemont</hi> Denis de, <hi><ref target="https://www.unige.ch/rougemont/livres/ddr19441100partdia">La Part du diable</ref></hi>, Nouvelle version, New York, Brentano’s, 1944, 204 p.</bibl>
       </sourceDesc>
     </fileDesc>
     <profileDesc>
@@ -50,11 +50,7 @@
         <language ident="fre"/>
       </langUsage>
     </profileDesc>
-  
-  
-  
-  
-  <xenoData type="CSL"><![CDATA[
+    <xenoData type="CSL"><![CDATA[
 {
     "type": "book",
     "call-number": "ddr19441100partdia",
