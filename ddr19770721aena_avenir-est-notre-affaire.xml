@@ -118,12 +118,12 @@
       </div>
       <div n="I.">
         <pb n="13" xml:id="p13"/>
-        <head type="kicker">Première partie</head>
-        <head>Système de la crise</head>
+        <head><num>Première partie</num>
+<lb/>Système de la crise</head>
         <div n="1." type="chapter" xml:id="ddr19770721aena_02">
           <pb n="15" xml:id="p15"/>
-          <head type="kicker">1</head>
-          <head>La religion de la croissance</head>
+          <head><num>1</num>
+<lb/>La religion de la croissance</head>
           <div n="1.a.">
             <head>Croissance démographique : il faudra bien qu’elle s’arrête un jour</head>
             <p>Partons de l’explosion démographique, la bombe P, dont tout le monde a entendu parler, parce que ses perspectives angoissantes n’ont pas peu contribué à sensibiliser notre conscience écologique, mais aussi parce qu’elle sert d’argument principal aux partisans de la croissance à tout prix.</p>
@@ -458,8 +458,8 @@
         </div>
         <div n="2." type="chapter" xml:id="ddr19770721aena_03">
           <pb n="61" xml:id="p61"/>
-          <head type="kicker">2</head>
-          <head>Le grand litige</head>
+          <head><num>2</num>
+<lb/>Le grand litige</head>
           <div n="2.a.">
             <head>« Fatalités », ou la peur d’être libre</head>
             <p>Le débat de l’énergie nucléaire dramatise d’une manière exemplaire toutes les motivations formulées jusqu’ici. Il implique tous les éléments du cercle de la crise où nous nous enfermons. Et c’est à travers lui que se manifeste, dans l’inconscience ou le cynisme, l’option générale du système — qui n’est pas le bonheur, on s’en doute, et encore moins les libertés de la personne, mais la puissance sous ses formes brutales, industrielles, financières, militaires, finalement stato-nationales.</p>
@@ -710,8 +710,8 @@
         </div>
         <div n="3." type="chapter" xml:id="ddr19770721aena_04">
           <pb n="89" xml:id="p89"/>
-          <head type="kicker">3</head>
-          <head>La clé du système ou l’État-nation</head>
+          <head><num>3</num>
+<lb/>La clé du système ou l’État-nation</head>
           <div n="3.a.">
             <head>La clé</head>
             <p>La crise de l’Occident mondial a pour caractère spécifique de résulter non de l’échec mais de la réalisation de l’utopie industrielle, de moins en moins gênée par les freins naturels et humains.</p>
@@ -986,12 +986,12 @@
       </div>
       <div n="II.">
         <pb n="121" xml:id="p121"/>
-        <head type="kicker">Deuxième partie</head>
-        <head>De la prévision</head>
+        <head><num>Deuxième partie</num>
+<lb/>De la prévision</head>
         <div n="4." type="chapter" xml:id="ddr19770721aena_05">
           <pb n="123" xml:id="p123"/>
-          <head type="kicker">4</head>
-          <head>Un « Essai sur l’avenir » en 1948</head>
+          <head><num>4</num>
+<lb/>Un « Essai sur l’avenir » en 1948</head>
           <p>Au lendemain de la Seconde Guerre mondiale et de la bombe d’Hiroshima, je publiais un texte bref, qui me paraît, à le relire aujourd’hui, inaugural, et peut-être augural.</p>
           <label>Essai sur l’avenir<note place="bottom">Paru dans le recueil de Mélanges pour le professeur Gerhardus van der Leeuw, intitulé <hi rend="i">Pro regno, pro sancluario</hi>, G.F. Callenbach, Nijkerk, 1948.</note></label>
           <div n="4.a.">
@@ -1051,8 +1051,8 @@
         </div>
         <div n="5." type="chapter" xml:id="ddr19770721aena_06">
           <pb n="131" xml:id="p131"/>
-          <head type="kicker">5</head>
-          <head>Naissance de la prospective</head>
+          <head><num>5</num>
+<lb/>Naissance de la prospective</head>
           <div n="5.a.">
             <head>Lieux et dates</head>
             <p>Un peu avant le milieu de notre siècle, quelques experts lucides et donc inquiets s’avisent que l’avenir, non seulement de la culture mais de la nature, dépend de plus en plus de nos options de fait, délibérées ou non, conscientes ou non. Nous sommes seuls responsables de l’avenir humain : mieux vaut le savoir et cesser de nous cacher derrière toutes sortes de prétendues fatalités (collectives, sacrées, ou techniques), transparents paravents de nos inerties intellectuelles, quand ce n’est pas de nos lâchetés morales.</p>
@@ -1158,8 +1158,8 @@
         </div>
         <div n="6." type="chapter" xml:id="ddr19770721aena_07">
           <pb n="145" xml:id="p145"/>
-          <head type="kicker">6</head>
-          <head>L’avenir sensible au cœur</head>
+          <head><num>6</num>
+<lb/>L’avenir sensible au cœur</head>
           <div n="6.a.">
             <head>Paradoxes de la prospective</head>
             <p>Jouvenel observe une chose très simple : c’est que nous ne pouvons connaître avec quelque certitude que le passé, mais sans pouvoir le changer ; alors que nous avons liberté et puissance de changer l’avenir, mais sans le connaître<note place="bottom">Bertrand de <hi rend="sc">Jouvenel</hi>, <hi rend="i">L’Art de la conjecture, op. cit.</hi>, p. 17.</note>.</p>
@@ -1300,8 +1300,8 @@
         </div>
         <div n="7." type="chapter" xml:id="ddr19770721aena_08">
           <pb n="161" xml:id="p161"/>
-          <head type="kicker">7</head>
-          <head>Première histoire de fous : l’auto</head>
+          <head><num>7</num>
+<lb/>Première histoire de fous : l’auto</head>
           <p>Les jeunes gens d’aujourd’hui n’imaginent pas le monde et la vie quotidienne sans l’auto, ni par suite que l’auto puisse avoir une histoire, qu’elle ait donc commencé, voire à une date récente : le centenaire de sa conception dans l’esprit d’un petit campagnard d’Amérique tombait en 1975. C’était hier, et personne ne s’en est aperçu.</p>
           <p>L’histoire de la nouvelle religion commence à l’automne de 1875. Elle est rapportée par Henry Ford dans ses mémoires, avec la simplicité qui convient.</p>
           <p>« Le plus mémorable événement de ces années de ma jeunesse fut la rencontre d’une locomotive routière à huit miles de Detroit, un jour où je me rendais avec mon père à cette ville. J’avais alors 12 ans. Je me rappelle la locomotive comme si je l’avais vue hier, car c’était le premier véhicule non attelé que je voyais… Ce fut la rencontre de cet appareil<note place="bottom">Il ne s’agissait encore que d’un véhicule à vapeur, marchant au charbon, comme les locomotives sur rail.</note> qui m’orienta vers le transport automoteur… Dès l’instant où je l’aperçus, jusqu’au jour présent, ma grande et constante ambition a été de construire une bonne machine routière. »</p>
@@ -1462,8 +1462,8 @@
         </div>
         <div n="8." type="chapter" xml:id="ddr19770721aena_09">
           <pb n="183" xml:id="p183"/>
-          <head type="kicker">8</head>
-          <head>Deuxième histoire de fous : Hitler</head>
+          <head><num>8</num>
+<lb/>Deuxième histoire de fous : Hitler</head>
           <p>Individu quelconque et quasi nul en soi, phénomène d’envergure mondiale, tel fut l’homme, tel demeure son mystère. Les effets fracassants déclenchés dans le siècle par son apparition sont bien connus : on n’y retrouve pas à l’analyse la moindre trace spécifique de sa personne. Il fut ces effets et rien d’autre. Démontrer qu’il n’a pas existé serait un jeu : père inconnu, cadavre disparu, témoignages vagues ou contradictoires de ceux qui l’ont approché ou servi. (Et ses photos donnent toutes l’impression d’un truquage.) La catastrophe du <num>xx<hi rend="sup">e</hi></num> siècle européen atteste seule sa réalité.</p>
           <p>Le plus grand théologien contemporain, Karl Barth, a écrit : « Un prophète n’a pas de biographie. Il se lève et tombe avec sa mission. » Ainsi d’Hitler, l’antiprophète de notre temps, le prophète d’un pouvoir vide, d’un Passé mort, d’une Catastrophe totale dont il allait devenir l’agent. Avec son insondable vulgarité, sa mégalomanie, sa malformation sexuelle et son magnétisme psychotique, ce quasi-néant d’homme, ridicule et tragique, a été le prophète du Néant collectif, où il a presque réussi à entraîner toute sa génération. C’est ainsi que je l’ai senti, éprouvé de tout l’être, enregistré au radar de quelque intuition subconsciente. C’est ainsi que je n’ai cessé de le prophétiser de son vivant, avec cette sorte d’infaillibilité qui est celle des actes involontaires, irréparables gaffes ou métaphores géniales : je n’y puis rien, mais j’en donnerai quelques exemples.</p>
           <p>En mars 1932, au lendemain d’une rencontre de jeunesses
@@ -1591,12 +1591,12 @@
       </div>
       <div n="III.">
         <pb n="199" xml:id="p199"/>
-        <head type="kicker">Troisième partie</head>
-        <head>Repartir de l’homme</head>
+        <head><num>Troisième partie</num>
+<lb/>Repartir de l’homme</head>
         <div n="9." type="chapter" xml:id="ddr19770721aena_10">
           <pb n="201" xml:id="p201"/>
-          <head type="kicker">9</head>
-          <head>Devenir soi-même</head>
+          <head><num>9</num>
+<lb/>Devenir soi-même</head>
           <div n="9.a.">
             <head>Notre affaire</head>
             <p>Trois grandes affaires apparaissent symboliques de l’ère où nous sommes entrés au troisième tiers du <num>xx<hi rend="sup">e</hi></num> siècle : dans l’ordre matériel, l’Économie ; dans l’ordre de la nature, l’écologie ; dans l’ordre spirituel, l’Œcuménisme. Or, ces trois termes sont des composés du grec <hi rend="i">oikos</hi> qui signifie <hi rend="i">maison</hi>, et il s’agit dans les trois cas :</p>
@@ -1713,8 +1713,8 @@
         </div>
         <div n="10." type="chapter" xml:id="ddr19770721aena_11">
           <pb n="215" xml:id="p215"/>
-          <head type="kicker">10</head>
-          <head>Passage de la personne à la cité</head>
+          <head><num>10</num>
+<lb/>Passage de la personne à la cité</head>
           <div n="10.a.">
             <head>Gouverner, c’est orienter</head>
             <p>Le but ultime de la cité ou société humaine organisée — telle du moins qu’un Occidental peut la concevoir aujourd’hui — sera de favoriser en chacun la personne, donc le passage de sa virtualité à sa réalité vécue en acte. À cette fin, l’on disposera tout dans la cité — éducation, lois et morale — en vue de ce progrès seul authentique qui est le progrès de l’homme même, non du nombre des choses autour de lui. Plus simplement : c’est la personne qui est le but de la société, et non pas la vente des autos, comme serait conduit à le penser un enquêteur intelligent débarqué parmi nous du fond de l’espace.</p>
@@ -1933,8 +1933,8 @@
         </div>
         <div n="11." type="chapter" xml:id="ddr19770721aena_12">
           <pb n="241" xml:id="p241"/>
-          <head type="kicker">11</head>
-          <head>Les variétés de l’expérience communautaire</head>
+          <head><num>11</num>
+<lb/>Les variétés de l’expérience communautaire</head>
           <div n="11.a.">
             <head>« D’un néo-christianisme à un pré-socialisme »</head>
             <p>À cet appel, dès qu’il s’entend, répond aussitôt dans l’esprit de la plupart de mes contemporains le mot <hi rend="i">hippies.</hi> Plus rarement, la notion d’un ordre ou d’une communauté religieuse rénovée (Boquen, Taizé).</p>
@@ -2207,8 +2207,8 @@
         </div>
         <div n="12." type="chapter" xml:id="ddr19770721aena_13">
           <pb n="277" xml:id="p277"/>
-          <head type="kicker">12</head>
-          <head>Que tout appelle les régions</head>
+          <head><num>12</num>
+<lb/>Que tout appelle les régions</head>
           <div n="12.a.">
             <head>L’autonomie des communes appelle les régions</head>
             <p>Pour devenir, enfin, l’école de la liberté que Tocqueville voyait en elle, la commune doit se rendre autonome. Mais les moyens de cette autonomie — savoir, technique et pouvoir financier — excèdent dans bien des cas les ressources locales, même dans les pays où l’État central n’en draine pas 80 % à son profit. Faudra-t-il de nouveau les mendier à l’État ? Non, car en les donnant d’une main, il reprendrait de l’autre notre autonomie. Qu’il s’agisse d’avoir notre école, de mener notre lutte locale contre spéculateurs et pollueurs, d’épurer nos rivières ou d’améliorer les voies de communication sans détruire nos cultures et nos rues, le problème est le même pour les communes voisines, et la solution qui s’impose est celle du syndicat intermunicipal. Or, ce système, qui se répand sans bruit dans toute l’Europe, trouve son lieu et sa formule dans la région : il nous permet de définir celle-ci, en première approximation, comme une <hi rend="i">grappe de communes</hi>, puis, avec un peu plus de précision, comme l’ensemble de plusieurs <hi rend="i">syndicats de communes</hi>, répondant chacun aux nécessités d’un domaine spécifique — écoles, environnement, transports, aménagement du territoire, etc., chacun groupant celles des communes qui le désirent, qui en ont besoin, sans obligation pour les autres.</p>
@@ -2319,8 +2319,8 @@
         </div>
         <div n="13." type="chapter" xml:id="ddr19770721aena_14">
           <pb n="289" xml:id="p289"/>
-          <head type="kicker">13</head>
-          <head>Les variétés de l’expérience régionale</head>
+          <head><num>13</num>
+<lb/>Les variétés de l’expérience régionale</head>
           <p>Alors que les Communautés de Bruxelles abordaient la région, au départ<note place="bottom">Cf. <hi rend="i">Documents de la Conférence sur les économies régionales, Bruxelles, 6-8 décembre 1961</hi>, Communauté économique européenne, 2 vol., 1963.</note>, comme un problème de <hi rend="i">développement</hi>, j’en parle ici comme d’un problème décisif de <hi rend="i">participation</hi> civique et <hi rend="i">d’animation</hi>, ou réanimation <hi rend="i">in extremis</hi> — d’une société menacée à la fois d’anémie politique (mal compensée par ses fièvres politiciennes), de désertion civique, et de colonisation économique.</p>
           <p>C’est le tissu de la vie sociale qu’il s’agit de reconstituer dans toute l’Europe ; et les variétés du tissu préfigurant les organes en formation.</p>
           <p>S’il s’agit de « reconnaître » une région, ce ne sera pas seulement en la tâtant du doigt sur une carte en relief, mais en vivant dans son climat social et coutumier, en évoquant les possibilités communautaires latentes dans certains milieux, villes et villages, et qu’il serait tentant de faire émerger, d’inciter à une prise de conscience. Non, ce n’est pas au terme d’une enquête sociologique ou économétrique qu’aura lieu la « reconnaissance » créatrice, mais plutôt au cours d’une soirée de discussions « sur tout et le reste » avec les animateurs de tous âges d’un mouvement régionaliste.</p>
@@ -2430,8 +2430,8 @@
         </div>
         <div n="14." type="chapter" xml:id="ddr19770721aena_15">
           <pb n="305" xml:id="p305"/>
-          <head type="kicker">14</head>
-          <head>L’autogestion politique</head>
+          <head><num>14</num>
+<lb/>L’autogestion politique</head>
           <div n="14.a.">
             <head>« Se gouverner vaut mieux qu’être bien gouvernés »</head>
             <p>Les régions, en dernière analyse, sont l’expression de la volonté d’autogestion de l’homme en lutte contre l’aliénation statolâtrique, civile ou militaire, fasciste ou communiste, dictatoriale ou démocratique.</p>
@@ -2583,8 +2583,8 @@
         </div>
         <div n="15." type="chapter" xml:id="ddr19770721aena_16">
           <pb n="325" xml:id="p325"/>
-          <head type="kicker">15</head>
-          <head>Stratégie</head>
+          <head><num>15</num>
+<lb/>Stratégie</head>
           <div n="15.a.">
             <head>Des régions à la fédération européenne</head>
             <p>Point de régions sans fédération. Mais si les vraies régions sont des grappes de communes, il faudra qu’une vraie fédération de l’Europe soit une grappe de régions et non d’États : c’est ce qu’on oublie généralement dans le monde stato-national et dans son système de valeurs. Une vraie fédération ne se fonde pas sur des États coalisés, mais sur des groupes antérieurs en quête d’une garantie de leurs libertés.</p>

@@ -122,8 +122,8 @@
       </div>
       <div n="I." type="chapter" xml:id="ddr19820500partdia_02">
         <pb n="19" xml:id="p19"/>
-        <head type="kicker">Première partie</head>
-        <head>L’Incognito et la révélation</head>
+        <head><num>Première partie</num>
+<lb/>L’Incognito et la révélation</head>
         <div>
           <pb n="21" xml:id="p21"/>
           <head>1.
@@ -366,8 +366,8 @@
       </div>
       <div n="II." type="chapter" xml:id="ddr19820500partdia_03">
         <pb n="57" xml:id="p57"/>
-        <head type="kicker">Deuxième partie</head>
-        <head>Hitler ou l’alibi</head>
+        <head><num>Deuxième partie</num>
+<lb/>Hitler ou l’alibi</head>
         <div>
           <pb n="59" xml:id="p59"/>
           <head>15.
@@ -515,8 +515,8 @@
       </div>
       <div n="III." type="chapter" xml:id="ddr19820500partdia_04">
         <pb n="83" xml:id="p83"/>
-        <head type="kicker">Troisième partie</head>
-        <head>Le diable démocrate</head>
+        <head><num>Troisième partie</num>
+<lb/>Le diable démocrate</head>
         <div>
           <pb n="85" xml:id="p85"/>
           <head>24.
@@ -730,8 +730,8 @@
       </div>
       <div n="IV." type="chapter" xml:id="ddr19820500partdia_05">
         <pb n="119" xml:id="p119"/>
-        <head type="kicker">Quatrième partie</head>
-        <head>Le diable dans nos Dieux et dans nos maladies</head>
+        <head><num>Quatrième partie</num>
+<lb/>Le diable dans nos Dieux et dans nos maladies</head>
         <div>
           <pb n="121" xml:id="p121"/>
           <head>38.
@@ -1139,8 +1139,8 @@
       </div>
       <div n="V." type="chapter" xml:id="ddr19820500partdia_06">
         <pb n="187" xml:id="p187"/>
-        <head type="kicker">Cinquième partie</head>
-        <head>Le Bleu du Ciel</head>
+        <head><num>Cinquième partie</num>
+<lb/>Le Bleu du Ciel</head>
         <div>
           <pb n="189" xml:id="p189"/>
           <head>59.

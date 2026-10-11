@@ -114,8 +114,8 @@
       </div>
       <div n="I." type="chapter" xml:id="ddr19421200partdia_02">
         <pb n="15"/>
-        <head type="kicker">Première partie</head>
-        <head>L’Incognito et la Révélation</head>
+        <head><num>Première partie</num>
+<lb/>L’Incognito et la Révélation</head>
         <div subtype="level2">
           <pb n="17"/>
           <head>1. Le premier tour</head>
@@ -274,8 +274,8 @@
       </div>
       <div n="II." type="chapter" xml:id="ddr19421200partdia_03">
         <pb n="43"/>
-        <head type="kicker">Deuxième partie</head>
-        <head>Hitler ou l’alibi</head>
+        <head><num>Deuxième partie</num>
+<lb/>Hitler ou l’alibi</head>
         <div subtype="level2">
           <pb n="45"/>
           <head>13. Où paraît la nécessité d’un alibi</head>
@@ -371,8 +371,8 @@
       </div>
       <div n="III." type="chapter" xml:id="ddr19421200partdia_04">
         <pb n="63"/>
-        <head type="kicker">Troisième partie</head>
-        <head>Le diable démocrate</head>
+        <head><num>Troisième partie</num>
+<lb/>Le diable démocrate</head>
         <div subtype="level2">
           <pb n="65"/>
           <head>21. Erreur fatale des démocrates</head>
@@ -466,8 +466,8 @@
       </div>
       <div n="IV." type="chapter" xml:id="ddr19421200partdia_05">
         <pb n="83"/>
-        <head type="kicker">Quatrième partie</head>
-        <head>Le diable dans nos dieux et dans nos maladies</head>
+        <head><num>Quatrième partie</num>
+<lb/>Le diable dans nos dieux et dans nos maladies</head>
         <div subtype="level2">
           <pb n="85"/>
           <head>27. Le diable dans nos dieux</head>
@@ -806,8 +806,8 @@
       </div>
       <div n="V." type="chapter" xml:id="ddr19421200partdia_06">
         <pb n="155"/>
-        <head type="kicker">Cinquième partie</head>
-        <head>Le Bleu du Ciel</head>
+        <head><num>Cinquième partie</num>
+<lb/>Le Bleu du Ciel</head>
         <div subtype="level2">
           <pb n="157"/>
           <head>43. La lutte contre le diable</head>

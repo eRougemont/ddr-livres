@@ -184,8 +184,8 @@
       </div>
       <div n="I.">
         <pb n="31" xml:id="p31"/>
-        <head type="kicker">Première partie</head>
-        <head>Le Paysan du Danube</head>
+        <head><num>Première partie</num>
+<lb/>Le Paysan du Danube</head>
         <div n="I.1." type="chapter" xml:id="ddr19320900paysan_03">
           <pb n="33" xml:id="p33"/>
           <head>Un soir à Vienne avec Gérard</head>
@@ -666,8 +666,8 @@
       </div>
       <div n="II.">
         <pb n="119" xml:id="p119"/>
-        <head type="kicker">Deuxième partie</head>
-        <head>La lenteur des choses</head>
+        <head><num>Deuxième partie</num>
+<lb/>La lenteur des choses</head>
         <epigraph>
           <p>« On se pénètre de la lenteur des choses…
             <lb/>… C’est le domaine de l’homme qui n’a pas d’empressement. »</p>

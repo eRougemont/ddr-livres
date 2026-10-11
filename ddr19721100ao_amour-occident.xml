@@ -121,11 +121,11 @@
       </div>
       <div n="I." type="chapter" xml:id="ddr19721100ao_03">
         <pb n="15" xml:id="p15"/>
-        <head type="kicker">Livre premier</head>
-        <head>Le mythe de Tristan</head>
+        <head><num>Livre premier</num>
+<lb/>Le mythe de Tristan</head>
         <div n="I.1." xml:id="I01">
-          <head type="kicker">1.</head>
-          <head>Triomphe du roman, et ce qu’il cache</head>
+          <head><num>1.</num>
+<lb/>Triomphe du roman, et ce qu’il cache</head>
           <p>« Seigneurs, vous plaît-il d’entendre un beau conte d’amour et de mort ?… »</p>
           <p>Rien au monde ne saurait nous plaire davantage.</p>
           <p>À tel point que ce début du <hi rend="i">Tristan</hi> de Bédier doit passer pour le type idéal de la première phrase d’un roman. C’est le trait d’un art infaillible qui nous jette dès le seuil du conte dans l’état passionné d’attente où naît l’illusion romanesque. D’où vient ce charme ? Et quelles complicités cet artifice de « rhétorique profonde » sait-il rejoindre dans nos cœurs ?</p>
@@ -148,8 +148,8 @@
           <p>Je constate que l’Occidental aime <hi rend="i">au moins autant</hi> ce qui détruit que ce qui assure « le bonheur des époux ». D’où peut venir une telle contradiction ? Si le secret de la crise du mariage est simplement l’attrait de l’interdit, d’où nous vient ce goût du malheur ? Quelle idée de l’amour trahit-il ? Quel secret de notre existence, de notre esprit, de notre histoire peut-être ?</p>
         </div>
         <div n="I.2." xml:id="I02">
-          <head type="kicker">2.</head>
-          <head>Le mythe</head>
+          <head><num>2.</num>
+<lb/>Le mythe</head>
           <p>Il existe un grand mythe européen de l’adultère : le Roman de <hi rend="i">Tristan et Iseut</hi>. Au travers du désordre extrême de nos mœurs, dans la confusion des morales et des immoralismes qui en vivent, aux moments les plus purs d’un drame, il arrive qu’on voie transparaître en filigrane cette forme mythique. Comme une grande image simple, comme une sorte de type primitif de nos tourments les plus complexes.</p>
           <p>Et de même que pour se tirer des confusions de notre langue, les poètes ont coutume de rapporter les mots à leurs origines lointaines, c’est-à-dire à la chose ou à l’acte qu’on pense qu’ils désignaient d’abord, je voudrais rapporter à ce mythe certaines confusions de nos mœurs. <hi rend="i">Étymologie des passions</hi>, moins décevante que celle des mots, puisqu’elle trouve dans notre existence — et non dans quelque science hypothétique — son immédiate vérification.
             <pb n="19" xml:id="p19"/>
@@ -183,8 +183,8 @@
              déchus deviennent vénéneux comme les vérités mortes dont parle Nietzsche.</p>
         </div>
         <div n="I.3." xml:id="I03">
-          <head type="kicker">3.</head>
-          <head>Actualité du mythe ; raisons de notre analyse</head>
+          <head><num>3.</num>
+<lb/>Actualité du mythe ; raisons de notre analyse</head>
           <p>Nul besoin d’avoir lu le <hi rend="i">Tristan</hi> de Béroul, ou celui de M. Bédier, ni d’avoir entendu l’opéra de Wagner, pour subir dans la vie quotidienne l’empire nostalgique d’un tel mythe. Il se trahit dans la plupart de nos romans et de nos films, dans leurs succès auprès des masses, dans les complaisances qu’ils réveillent au cœur des bourgeois, des poètes, des mal mariés, des midinettes qui rêvent d’amours miraculeuses. Le mythe agit partout où la passion est rêvée comme un idéal, non point redoutée comme une fièvre maligne ; partout où sa fatalité est appelée, invoquée, imaginée comme une belle et désirable catastrophe, et non point comme une catastrophe. Il vit de la vie même de ceux qui croient que l’amour est une destinée (c’était le philtre du <hi rend="i">Roman</hi>) ; qu’il fond sur l’homme impuissant et ravi pour le consumer d’un feu pur ; et qu’il est plus fort et plus vrai que le bonheur, la société et la morale. Il vit de la vie même du romantisme en nous ; il est le grand mystère de cette religion dont les poètes du siècle passé se firent les prêtres et les inspirés.</p>
           <p>De cette influence et de sa nature mythique, la preuve est d’ailleurs immédiate. Elle nous sera donnée ici même par une certaine répugnance du lecteur à envisager mon projet. <hi rend="i">Le Roman de Tristan</hi> nous est « sacré » dans la mesure exacte où l’on estimera que je commets un « sacrilège » en tentant de l’analyser. Certes, ce reproche de sacrilège revêt alors un sens bien anodin, si l’on songe qu’il se traduisait, dans les sociétés primitives, non par cette répugnance que je prévois, mais par la mise à mort du coupable. Le sacré qui entre ici en jeu n’est plus qu’une survivance obscure et déprimée. Je ne courrai donc guère d’autre risque que celui de voir le lecteur fermer le volume à cette page. (Et certes, le sens inconscient d’un tel geste n’est rien moins que la mise à
             <pb n="25" xml:id="p25"/>
@@ -204,8 +204,8 @@
              Là-dessus, il est temps de passer à l’opération annoncée. La condition de sa réussite est sans doute une certaine froideur avec laquelle nous la mènerons. Sourds et aveugles aux « charmes » du récit, essayons de résumer « objectivement » les faits qu’il nous rapporte et les raisons qu’il en propose, ou qu’il omet très curieusement de nous indiquer.</p>
         </div>
         <div n="I.4." xml:id="I04">
-          <head type="kicker">4.</head>
-          <head>Le contenu manifeste du Roman de Tristan<note resp="author">Je résumerai les principaux événements du <hi rend="i">Roman</hi> en m’appuyant, sauf exception, sur la <hi rend="i">concordance</hi> établie par M. Joseph Bédier (dans son étude sur le poème de Thomas) entre les cinq versions du <num>xii<hi rend="sup">e</hi></num> siècle : Béroul, Thomas, Eilhart, <hi rend="i">la Folie Tristan</hi> et <hi rend="i">le Roman en prose</hi>. Les versions ultérieures de Gottfried de Strasbourg et de tous les imitateurs allemands, italiens, danois, russes, tchèques, etc., se rapportent à ces cinq versions. Je tiens compte également des travaux critiques plus récents de MM. E. Muret et E. Vinaver.</note></head>
+          <head><num>4.</num>
+<lb/>Le contenu manifeste du Roman de Tristan<note resp="author">Je résumerai les principaux événements du <hi rend="i">Roman</hi> en m’appuyant, sauf exception, sur la <hi rend="i">concordance</hi> établie par M. Joseph Bédier (dans son étude sur le poème de Thomas) entre les cinq versions du <num>xii<hi rend="sup">e</hi></num> siècle : Béroul, Thomas, Eilhart, <hi rend="i">la Folie Tristan</hi> et <hi rend="i">le Roman en prose</hi>. Les versions ultérieures de Gottfried de Strasbourg et de tous les imitateurs allemands, italiens, danois, russes, tchèques, etc., se rapportent à ces cinq versions. Je tiens compte également des travaux critiques plus récents de MM. E. Muret et E. Vinaver.</note></head>
           <epigraph>
             <p>Amors par force vos demeine !</p>
             <bibl> <title>Béroul.</title> </bibl>
@@ -239,8 +239,8 @@
         </div>
         <pb n="31" xml:id="p31"/>
         <div n="I.5." xml:id="I05">
-          <head type="kicker">5.</head>
-          <head>Énigmes</head>
+          <head><num>5.</num>
+<lb/>Énigmes</head>
           <p>Résumé de la sorte, et tout « charme » détruit, à considérer froidement le plus envoûtant des poèmes, on s’aperçoit que sa donnée ni son progrès ne sont dépourvus d’équivoque.</p>
           <p>J’ai passé quantité d’épisodes accessoires, mais aucun des motifs allégués de l’action centrale du <hi rend="i">Roman</hi>. Et je les ai même soulignés. On a pu voir qu’ils se réduisent à fort peu de choses : Tristan conduit Iseut au roi <hi rend="i">parce qu’il</hi> est lié par la fidélité du chevalier ; — les amants se séparent, au terme des trois années dans la forêt, <hi rend="i">parce que</hi> le philtre cesse d’agir ; — Tristan épouse Iseut aux blanches mains « <hi rend="i">pour son nom et pour sa beauté</hi> ».</p>
           <p>Maintenant, ces « raisons » mises à part — nous aurons l’occasion d’y revenir — on s’aperçoit que <hi rend="i">le Roman</hi> repose sur une série de contradictions énigmatiques.</p>
@@ -259,8 +259,8 @@
           <p>Enfin l’on en vient à douter de la valeur même des rares motifs allégués. En effet, si la morale de la fidélité au suzerain exige que Tristan livre à Marc la fiancée qu’il alla quérir — et qu’il avait conquise de plein droit <hi rend="i">pour lui-même</hi> en la délivrant du dragon, comme ne manque pas de le souligner Thomas — on ne peut s’empêcher de penser que ces scrupules sont bien tardifs et peu sincères, puisque Tristan n’a de cesse qu’il ne rentre à la cour, auprès d’Iseut… Et ce philtre qui cesse d’agir, n’était-il pas destiné aux époux ? Alors, pourquoi limiter sa durée ? Trois ans, ce n’est guère pour le bonheur d’un couple. Et quand Tristan épouse l’autre Iseut « pour son nom et pour sa beauté » mais cependant la laisse vierge, n’est-il pas évident que rien ne l’oblige à ce mariage et à cette chasteté injurieuse, et qu’il se met dans une situation qui n’a d’autre issue que la mort ?</p>
         </div>
         <div n="I.6." xml:id="I06">
-          <head type="kicker">6.</head>
-          <head>Chevalerie contre Mariage</head>
+          <head><num>6.</num>
+<lb/>Chevalerie contre Mariage</head>
           <p>Un moderne commentateur du <hi rend="i">Roman de Tristan et Iseut</hi> veut y voir un « conflit cornélien entre l’amour et le devoir ». Cette interprétation classique est d’un aimable anachronisme. Outre qu’elle abuse de Corneille, elle paraît ignorer l’un de ces faits dont l’envergure échappe souvent aux prises de l’érudition scrupuleuse. Je veux parler de l’opposition qui se manifeste dès la seconde moitié du <num>xii<hi rend="sup">e</hi></num> siècle entre la règle chevaleresque et les coutumes féodales. Peut-être n’a-t-on pas assez marqué à quel point les romans bretons la reflètent et la cultivent.</p>
           <p>Il est probable que la chevalerie courtoise ne fut guère qu’un idéal. Les premiers auteurs qui en parlent ont
             <pb n="34" xml:id="p34"/>
@@ -282,8 +282,8 @@
           <p>Répondre : ainsi le veut l’amour courtois, ce n’est pas encore répondre sur le fond, car il s’agit de savoir pourquoi l’on préfère cet amour à l’autre, à celui qui se « réalise », à celui qui se « satisfait ». En recourant à l’hypothèse, fort vraisemblable, que le Roman illustre un conflit de « religions », nous avons pu préciser et cerner les principales difficultés de l’intrigue : mais en fin de compte, la solution se trouve simplement reculée.</p>
         </div>
         <div n="I.7." xml:id="I07">
-          <head type="kicker">7.</head>
-          <head>L’amour du roman</head>
+          <head><num>7.</num>
+<lb/>L’amour du roman</head>
           <p>Si l’on se reporte à notre résumé de la légende, on ne peut manquer d’être frappé de ce fait : les deux lois qui entrent en jeu, chevalerie et morale féodale, ne sont
             <pb n="37" xml:id="p37"/>
             <hi rend="i">observées par l’auteur que dans les seules situations où elles permettent au roman de rebondir</hi><note resp="author">Précisons que : 1° elles sont observées tour à tour, en vertu d’un calcul secret ; car si l’on choisissait l’une d’elles à l’exclusion totale de l’autre, la situation se dénouerait trop vite ; 2° elles ne sont pas toujours observées : ainsi le péché consommé dès que les amants ont bu le philtre est un péché aux yeux de l’amour courtois non moins qu’aux yeux de la morale chrétienne et féodale. Mais sans cette faute initiale, il n’y aurait pas de roman du tout.</note>.</p>
@@ -301,8 +301,8 @@
           <p>Nous commençons à distinguer le sens secret et inquiétant du mythe : le <hi rend="i">danger</hi> qu’il exprime et voile, cette passion qui ressemble au vertige… Mais ce n’est plus l’heure de se détourner. Nous sommes atteints, nous subissons le charme, nous co-naissons au « tourment délicieux ». Toute condamnation serait vaine : on ne condamne pas le vertige. Mais la passion du philosophe n’est-elle point de méditer dans le vertige ? Il se peut que la connaissance ne soit rien d’autre que l’effort d’un esprit qui résiste à la chute, et qui se défend au sein de la tentation…</p>
         </div>
         <div n="I.8." xml:id="I08">
-          <head type="kicker">8.</head>
-          <head>L’amour de l’amour</head>
+          <head><num>8.</num>
+<lb/>L’amour de l’amour</head>
           <epigraph>
             <p>De tous les maux, le mien diffère ; il me plaît ; je me réjouis de lui ; mon mal est ce que je veux et ma douleur est ma santé. Je ne vois donc pas de quoi je me plains, car mon mal me vient de ma volonté ; c’est mon vouloir qui devient mon mal ; mais j’ai tant d’aise à vouloir ainsi que je souffre agréablement, et tant de joie dans ma douleur que je suis malade avec délices.</p>
             <bibl>Chrétien de Troyes.</bibl>
@@ -372,8 +372,8 @@
           <p>Dualité irrémédiable et désirée ! « Mot est dolenz qui pert s’amie », soupire Tristan. Pourtant il sent déjà, au fond de la nuit qui vient, poindre la flamme secrète, ravivée par l’absence.</p>
         </div>
         <div n="I.9." xml:id="I09">
-          <head type="kicker">9.</head>
-          <head>L’amour de la Mort</head>
+          <head><num>9.</num>
+<lb/>L’amour de la Mort</head>
           <p>Mais il nous faut pousser plus loin : l’<hi rend="i">amabam amare</hi> d’Augustin est une émouvante formule dont lui-même ne s’est pas satisfait.</p>
           <p><hi rend="i">L’obstacle</hi> dont nous avons souvent parlé, et la <hi rend="i">création de l’obstacle</hi> par la passion des deux héros (confondant ici ses effets avec ceux de l’exigence romanesque et de l’attente du lecteur) — cet obstacle n’est-il qu’un <hi rend="i">prétexte</hi>, nécessaire au progrès de la passion, ou n’est-il pas lié à la passion d’une manière beaucoup plus profonde ? N’est-il pas l’<hi rend="i">objet</hi> même de la passion, — si l’on descend au fond du mythe ?</p>
           <ab type="ornament">⁂</ab>
@@ -404,8 +404,8 @@
           <p>L’amour de l’amour même dissimulait une passion beaucoup plus terrible, une volonté profondément inavouable — et qui ne pouvait que se « trahir » par des symboles tels que celui de l’épée nue ou de la périlleuse chasteté. Sans le savoir, les amants malgré eux n’ont jamais désiré que la mort ! Sans le savoir, en se trompant passionnément, ils n’ont jamais cherché que le rachat et la revanche de « ce qu’ils subissaient » — la passion initiée par le philtre. Au fond le plus secret de leur cœur, c’était la volonté de la mort, <hi rend="i">la passion active de la Nuit</hi> qui leur dictait ses décisions fatales.</p>
         </div>
         <div n="I.10." xml:id="I10">
-          <head type="kicker">10.</head>
-          <head>Le philtre</head>
+          <head><num>10.</num>
+<lb/>Le philtre</head>
           <p>Et voici que s’entre-dévoile la raison constituante du <hi rend="i">mythe</hi>, la nécessité même qui l’a créé.</p>
           <p>Le sens réel de la passion est tellement effrayant et inavouable, que non seulement ceux qui la vivent ne sauraient prendre aucune conscience de sa fin, mais que ceux qui la veulent dépeindre dans sa merveilleuse violence se voient contraints de recourir au langage <hi rend="i">trompeur</hi> des symboles. Laissons de côté, pour le
             <pb n="49" xml:id="p49"/>
@@ -438,8 +438,8 @@
         </div>
         <div n="I.11." xml:id="I11">
           <pb n="53" xml:id="p53"/>
-          <head type="kicker">11.</head>
-          <head>L’amour réciproque malheureux</head>
+          <head><num>11.</num>
+<lb/>L’amour réciproque malheureux</head>
           <p>Passion veut dire souffrance, chose subie, prépondérance du destin sur la personne libre et responsable. Aimer l’amour plus que l’objet de l’amour, aimer la passion pour elle-même, de l’<hi rend="i">amabam amare</hi> d’Augustin jusqu’au romantisme moderne, c’est aimer et chercher la souffrance. Amour-passion : désir de ce qui nous blesse, et nous anéantit par son triomphe. C’est un secret dont l’Occident n’a jamais toléré l’aveu, et qu’il n’a pas cessé de refouler, — de préserver ! Il en est peu de plus tragiques, et sa persistance nous invite à porter sur l’avenir de l’Europe un jugement très pessimiste.</p>
           <p>Marquons ici une incidence qui méritera plus tard son développement : c’est la liaison ou la complicité de la passion, du goût de la mort qu’elle dissimule, et d’un certain mode de connaître qui définirait à lui seul notre <hi rend="i">psyché</hi> occidentale.</p>
           <p>Pourquoi l’homme d’Occident veut-il subir cette passion qui le blesse et que toute sa raison condamne ? Pourquoi veut-il cet amour dont l’éclat ne peut être que son suicide ? C’est qu’il se connaît et s’éprouve sous le coup de menaces vitales, dans la souffrance et au seuil de la mort. Le troisième acte du drame de Wagner décrit bien davantage qu’une catastrophe romanesque : il décrit l’<hi rend="i">essentielle catastrophe</hi> de notre sadique génie, ce goût réprimé de la mort, ce goût de se connaître à la limite, ce goût de la collision révélatrice qui est sans doute la plus inarrachable des racines de l’instinct de la guerre en nous.</p>
@@ -470,8 +470,8 @@
           <p>Attirés par la mort loin de la vie qui les pousse, proies voluptueuses de forces contradictoires mais qui les précipitent au même vertige, les amants ne pourront se rejoindre qu’à l’instant qui les prive à jamais de tout espoir humain, de tout amour possible, au sein de l’obstacle absolu et d’une suprême exaltation qui se détruit par son accomplissement.</p>
         </div>
         <div n="I.12." xml:id="I12">
-          <head type="kicker">12.</head>
-          <head>Une vieille et grave mélodie</head>
+          <head><num>12.</num>
+<lb/>Une vieille et grave mélodie</head>
           <p>Un résumé objectif du <hi rend="i">Roman</hi> nous a fait pressentir certaines contradictions. L’hypothèse d’une opposition, que l’auteur eût tenté d’illustrer, entre la loi de chevalerie et les coutumes féodales, nous a permis de surprendre le mécanisme de ces contradictions. Alors a commencé notre recherche du vrai sujet de la légende.</p>
           <p>
             <pb n="57" xml:id="p57"/>
@@ -492,11 +492,11 @@
       </div>
       <div n="II." type="chapter" xml:id="ddr19721100ao_04">
         <pb n="59" xml:id="p59"/>
-        <head type="kicker">Livre II</head>
-        <head>Les origines religieuses du mythe</head>
+        <head><num>Livre II</num>
+<lb/>Les origines religieuses du mythe</head>
         <div n="II.1." xml:id="II01">
-          <head type="kicker">1.</head>
-          <head>L’« obstacle » naturel et sacré</head>
+          <head><num>1.</num>
+<lb/>L’« obstacle » naturel et sacré</head>
           <p>Nous sommes tous plus ou moins matérialistes, nous autres héritiers du <num>xix<hi rend="sup">e</hi></num>. Qu’on nous montre dans la nature, ou dans l’instinct, les esquisses grossières de faits « spirituels », aussitôt nous croyons tenir une explication de ces faits. <hi rend="i">Le plus bas nous paraît le plus vrai</hi>. C’est la superstition du temps, la manie de « ramener » le sublime à l’infime, l’étrange erreur qui prend pour cause suffisante une condition simplement nécessaire. C’est aussi le scrupule scientifique, nous dit-on. Il fallait cela pour affranchir l’esprit des illusions spiritualistes. Mais je distingue mal l’intérêt d’un affranchissement qui consiste à « expliquer » Dostoïevski par le haut mal, et Nietzsche par la syphilis. Curieuse manière de libérer l’esprit, qui se « ramène » à le nier.</p>
           <p>Mais j’ai beau dire et protester d’avance : si je constate que l’instinct et le sexe connaissent une dialectique spontanée, analogue à certains égards à celle de la passion dans notre mythe, beaucoup penseront que voilà qui suffit… Donnons une page à ce genre d’objections.</p>
           <ab type="ornament">⁂</ab>
@@ -513,8 +513,8 @@
           <p>D’où vient alors cette glorification de la passion, qui est justement ce qui nous touche dans le Roman ? Parler de déviation de l’instinct, c’est ne rien dire puisqu’il s’agit de savoir, précisément, quel est le facteur qui a pu causer cette déviation.</p>
         </div>
         <div n="II.2." xml:id="II02">
-          <head type="kicker">2.</head>
-          <head>Éros, ou le Désir sans fin</head>
+          <head><num>2.</num>
+<lb/>Éros, ou le Désir sans fin</head>
           <head>Platonisme, druidisme, manichéisme.</head>
           <p>Platon nous parle dans <hi rend="i">Phèdre</hi> et le <hi rend="i">Banquet</hi> d’une fureur qui va du corps à l’âme, pour la troubler d’humeurs malignes. Ce n’est pas l’amour tel qu’il le loue. Mais il est une autre espèce de fureur, ou de délire, qui ne s’engendre pas sans quelque divinité, ni ne se crée dans l’âme au-dedans de nous : c’est une inspiration tout étrangère, un attrait qui agit du dehors, un emportement, un rapt indéfini de la raison et du sens naturel. On l’appellera donc <hi rend="i">enthousiasme</hi>, ce qui signifie « endieusement », car ce délire procède de la divinité et porte notre élan vers Dieu.</p>
           <p>Tel est l’amour platonicien : « délire divin », transport de l’âme, folie et suprême raison. Et l’amant est auprès de l’être aimé « comme dans le ciel », car l’amour est la voie qui monte par degrés d’extase vers l’origine unique de tout ce qui existe, loin des corps et de la matière, loin de ce qui divise et distingue, au-delà du malheur d’être soi et d’être deux dans l’amour même.</p>
@@ -568,8 +568,8 @@
           <p>Mais d’où vient qu’il s’en soit « détaché » justement ? Quelle menace, quelle interdiction a contraint la doctrine à se voiler, à ne plus s’avouer que par symboles trompeurs — à ne plus nous séduire que par le charme et la secrète incantation d’un mythe ?</p>
         </div>
         <div n="II.3." xml:id="II03">
-          <head type="kicker">3.</head>
-          <head>Agapè ou l’amour chrétien</head>
+          <head><num>3.</num>
+<lb/>Agapè ou l’amour chrétien</head>
           <p>Prologue de l’Évangile de Jean :</p>
           <quote>
             <p>« <hi rend="sc">Au commencement était la Parole, et la Parole était avec Dieu, et la Parole était Dieu… En elle
@@ -601,8 +601,8 @@
           <p>Le dualisme du Jour et de la Nuit, poussé à son extrême logique, aboutissait, <hi rend="i">du point de vue de la vie</hi>, au malheur absolu, qui est la mort. Le christianisme n’est un malheur mortel que pour l’homme séparé de Dieu, mais un malheur recréateur et bienheureux <hi rend="i">dès cette vie</hi> pour le croyant que « saisit le salut ».</p>
         </div>
         <div n="II.4." xml:id="II04">
-          <head type="kicker">4.</head>
-          <head>Orient et Occident</head>
+          <head><num>4.</num>
+<lb/>Orient et Occident</head>
           <p>Est-il possible de définir l’Orient et l’Occident en dehors de la géographie ? En présence d’un problème aussi complexe, et en l’absence de toute réponse
             <pb n="72" xml:id="p72"/>
              satisfaisante, c’est l’honnêteté d’un écrivain que de se borner à déclarer son système personnel de références. Ce que j’appelle <hi rend="i">Orient</hi>, dans cet ouvrage, c’est une tendance de l’esprit humain qui a trouvé du côté de l’Asie ses plus hautes et pures expressions. J’entends parler d’une forme de mystique à la fois dualiste dans sa vision du monde, et moniste dans son accomplissement. À quoi tend l’ascèse « orientale » ? À la négation du divers, à l’absorption de tous en Un, à la <hi rend="i">fusion totale</hi> avec le dieu, ou s’il n’y a pas de dieu, comme dans le bouddhisme, avec l’Être-Un universel. Tout cela suppose une Sagesse, une technique de l’illumination progressive — les yogas par exemple — une <hi rend="i">montée</hi> de l’individu vers l’Unité, où il se perd.</p>
@@ -626,8 +626,8 @@
           <p>Serait-ce alors dans le fait même de cette contradiction flagrante que résiderait l’explication du mythe ?</p>
         </div>
         <div n="II.5." xml:id="II05">
-          <head type="kicker">5.</head>
-          <head>Contrecoup du christianisme dans les mœurs occidentales</head>
+          <head><num>5.</num>
+<lb/>Contrecoup du christianisme dans les mœurs occidentales</head>
           <p>Pour introduire plus de clarté dans ce dédale dialectique, je proposerai le schéma suivant :</p>
           <table rend="left">
             <spanGrp type="colgroup">
@@ -674,8 +674,8 @@
         </div>
         <div n="II.6." xml:id="II06">
           <pb n="78" xml:id="p78"/>
-          <head type="kicker">6.</head>
-          <head>L’amour courtois : troubadours et cathares</head>
+          <head><num>6.</num>
+<lb/>L’amour courtois : troubadours et cathares</head>
           <p>Que toute la poésie européenne soit issue de la poésie des troubadours au <num>xii<hi rend="sup">e</hi></num> siècle, c’est ce dont personne ne saurait plus douter. « Oui, entre les <num>xi<hi rend="sup">e</hi></num> et <num>xii<hi rend="sup">e</hi></num> siècles, la poésie d’où qu’elle fût (hongroise, espagnole, portugaise, allemande, sicilienne, toscane, génoise, pisane, picarde, champenoise, flamande, anglaise, etc.) était au préalable languedocienne, c’est-à-dire que le poète, ne pouvant être que troubadour, était tenu de parler — et de l’apprendre s’il ne le savait pas — le langage du troubadour, qui n’a jamais été que le provençal. »<note resp="author">Charles-Albert <hi rend="sc">Cingria</hi>, « leu oc tan » (dans <hi rend="i">Mesures</hi>, n° 2, 1937). « Provençal » veut dire en réalité : limousin, puis toulousain, en l’occurrence.</note></p>
           <p>Qu’est-ce que la poésie des troubadours ? L’exaltation de l’amour malheureux. « Il n’y a dans toute la lyrique occitane et la lyrique pétrarquesque et dantesque qu’un thème : l’amour ; et pas l’amour heureux, comblé ou satisfait (ce spectacle ne peut rien engendrer), l’amour perpétuellement insatisfait au contraire ; enfin, que deux personnages : le poète qui, huit-cents, neuf-cents, mille fois réédite sa plainte, et une belle qui toujours dit non. »<note resp="author"><hi rend="i">Id.</hi></note></p>
           <p>L’Europe n’a pas connu de poésie plus profondément <hi rend="i">rhétorique</hi> : non seulement dans ses formes verbales et musicales, mais si paradoxal que cela paraisse, dans son inspiration elle-même, puisque celle-ci prend sa source dans un système fixe de lois, qui seront codifiées sous le nom de <hi rend="i">leys d’amors</hi>. Mais il faut dire aussi que jamais rhétorique ne fut plus exaltante et fervente. Ce qu’elle exalte, c’est l’amour hors du mariage, car le mariage ne signifie que l’union des corps, tandis que l’« Amor », qui est l’Éros suprême, est l’élancement de l’âme vers l’union lumineuse, au-delà de tout amour possible en cette vie. Voilà pourquoi l’Amour suppose la chasteté. <hi rend="i">E d’amor mou castitaz</hi> (d’amour vient chasteté) chante le
@@ -723,8 +723,8 @@
           <p>La croisade des albigeois, conduite par l’abbé de Cîteaux, au commencement du <num>xiii<hi rend="sup">e</hi></num> siècle, détruisit les cités des cathares, brûla leurs livres, massacra et brûla les populations qui les aimaient, viola leurs sanctuaires et leur dernier haut lieu, le château-temple de Montségur<note resp="author">Voir l’excellent ouvrage de Fernand <hi rend="sc">Niel</hi>, <hi rend="i">Montségur, la montagne inspirée</hi>, 1955. « Si Montségur n’a pas été le château du Graal [comme l’affirmait Rahn] aucun autre en Europe ne s’adapte mieux que lui aux légendes graaliques. » Pour F. Niel, la question tranchée par Rahn reste ouverte. J’ajouterai que les adversaires les plus virulents de cette hypothèse sont ceux qui n’ont pas vu le site de Montségur. Le choc émotif profond provoqué par l’apparition formidable du pic sacré comporte une évidence d’un tout autre ordre que celle que pourraient proposer des « preuves » écrites.</note> — enfin saccagea brutalement la civilisation très raffinée dont ils avaient été l’âme austère et secrète. Et cependant, de cette culture et de ses doctrines fondamentales, nous sommes encore tributaires, au-delà de ce que l’on imagine… (Comme j’espère le montrer par ce livre.)</p>
         </div>
         <div n="II.7." xml:id="II07">
-          <head type="kicker">7.</head>
-          <head>Hérésie et poésie</head>
+          <head><num>7.</num>
+<lb/>Hérésie et poésie</head>
           <p>Doit-on considérer les troubadours comme des « croyants » de l’Église cathare, et comme des chantres de son hérésie ?</p>
           <p>Cette thèse, que je qualifierai de <hi rend="i">maxima</hi> par contraste avec celle où je crois pouvoir m’arrêter<note resp="author">On la trouvera formulée page 108, et discutée plus amplement au <ref target="#II10">chapitre 10</ref>.</note>, fut avancée par des esprits aventureux comme Otto Rahn<note resp="author">Otto Rahn, <hi rend="i">Croisade contre le Graal</hi>, trad. franç. 1934.</note>, qui l’ont, peut-être, compromise en cherchant
             <pb n="88" xml:id="p88"/>
@@ -863,8 +863,8 @@
           <p>Essayons à nouveau de repérer, entre les pointes et les oscillations extrêmes de cette recherche, la réalité généralement intermédiaire, donc moins « claire » et moins « pure », du lyrisme courtois.</p>
         </div>
         <div n="II.8." xml:id="II08">
-          <head type="kicker">8.</head>
-          <head>Objections</head>
+          <head><num>8.</num>
+<lb/>Objections</head>
           <p>Des deux chapitres qui précèdent, se dégagent, presque malgré moi, des conclusions dont l’importance risque de se mesurer au nombre d’objections qu’elles soulèveront. Je ne songe pas à esquiver des critiques que j’espère fécondes. Mais le lecteur me saura gré de tenir compte des doutes qui ont dû s’élever dans son esprit, et d’indiquer en bref par quelles raisons je crois pouvoir les surmonter.</p>
           <p>On a dit et on me dira :</p>
           <p>1° que la religion des cathares nous est encore mal connue et qu’il est donc au moins prématuré d’y voir la
@@ -938,8 +938,8 @@
           <p>On a remarqué qu’à l’objection n° 4 je n’ai répondu jusqu’ici que d’une manière tout indirecte et allusive. C’est qu’elle mérite un traitement particulier et nous engage dans un nouveau chapitre.</p>
         </div>
         <div n="II.9." xml:id="II09">
-          <head type="kicker">9.</head>
-          <head>Les mystiques arabes</head>
+          <head><num>9.</num>
+<lb/>Les mystiques arabes</head>
           <p>Comment de la <hi rend="i">confuse</hi> combinaison de doctrines plus ou moins chrétiennes, manichéennes et néo-platoniciennes eût-il pu naître une rhétorique aussi <hi rend="i">précise</hi> que celle des troubadours ? C’est l’argument que les romanistes ont coutume d’opposer à l’interprétation religieuse de l’art courtois.</p>
           <p>Or il se trouve que, dès le <num>ix<hi rend="sup">e</hi></num> siècle, une synthèse non moins « improbable » de manichéisme iranien, de néo-platonisme et d’islamisme s’était bel et bien opérée en Arabie, et de plus, s’était exprimée par une poésie religieuse dont les métaphores érotiques offrent les plus frappantes analogies avec les métaphores courtoises.</p>
           <ab type="ornament">⁂</ab>
@@ -1007,8 +1007,8 @@
           <p>Et c’est ainsi qu’au dernier confluent des « hérésies » de l’âme et de celles du désir, venues du même Orient par les deux rives de la mer civilisatrice, naquit le grand modèle occidental du langage de l’amour-passion.</p>
         </div>
         <div n="II.10." xml:id="II10">
-          <head type="kicker">10.</head>
-          <head>Vue d’ensemble du phénomène courtois</head>
+          <head><num>10.</num>
+<lb/>Vue d’ensemble du phénomène courtois</head>
           <p>Revenant après de longues années sur les problèmes soulevés par les pages qui précèdent, j’éprouve le besoin de rassembler ici tout un faisceau d’observations nouvelles. Le lecteur va juger si elles infirment, ou si au contraire elles élargissent pour mieux l’asseoir ma thèse originelle que je réitère : sur la liaison profonde entre la <hi rend="i">cortezia</hi> et l’atmosphère religieuse du catharisme.</p>
           <p>On aura sans doute remarqué que je n’indiquais plus haut que par <hi rend="i">analogies</hi> la nature des relations possibles entre une mystique, une conception religieuse, ou simplement une théorie de l’homme — et une forme lyrique déterminée. (Rapports entre le soufisme et la poésie courtoise des Arabes ; influence de Freud sur l’école surréaliste.) Les polémiques parfois fort vives provoquées par ma thèse, plus ou moins bien comprise<note resp="author">Il faut avouer que les réfutations les plus virulentes qui aient été publiées portaient beaucoup moins sur cette thèse que sur sa réduction à la seule <hi rend="i">hypothèse</hi> que j’avais mentionnée au chapitre 7 de ce Livre, à savoir que les poèmes des troubadours pouvaient être — selon Rahn, Aroux et Péladan — une sorte de langage secret du catharisme. Une relecture des chapitres 8 et 9 suffit à « réduire » à son tour cette simplification tout à fait abusive, dont mes adversaires sont plus responsables que moi — en dépit de certaines imprudences d’expression. (Ce sont elles, par malheur, qui ont le plus fait pour assurer le succès de l’ouvrage dans un large public pressé. Comme il arrive.)</note>,
             <pb n="119" xml:id="p119"/>
@@ -1133,8 +1133,8 @@
              de la Vierge. Il participe de cette épiphanie de l’Anima, qui figure à mes yeux, dans l’homme occidental, le retour d’un Orient symbolique. Il nous devient intelligible par certaines de ses marques historiques : sa relation littéralement congénitale avec l’hérésie des cathares, et son opposition sournoise ou déclarée au concept chrétien du mariage. Mais il nous resterait indifférent s’il n’avait gardé dans nos vies, au travers des nombreux avatars dont nous allons décrire la procession, une virulence intime, perpétuellement nouvelle.</p>
         </div>
         <div n="II.11." xml:id="II11">
-          <head type="kicker">11.</head>
-          <head>De l’Amour courtois au roman breton</head>
+          <head><num>11.</num>
+<lb/>De l’Amour courtois au roman breton</head>
           <p>Remontons maintenant du Midi vers le nord : nous découvrons dans le roman breton — <hi rend="i">Lancelot, Tristan</hi> et tout le cycle arthurien — une transposition romanesque des règles de l’amour courtois et de sa rhétorique à double sens. « C’est du contact des légendes exotiques avec les idées courtoises que naquit le premier roman courtois », écrit M. E. Vinaver. Ces légendes « exotiques », c’étaient les vieux mystères sacrés des Celtes, plus qu’à demi oubliés d’ailleurs par un Béroul ou un Chrétien de Troyes, et quelques éléments de mythologie grecque.</p>
           <p>On a longtemps polémisé sur l’autonomie relative des deux littératures du Nord et du Midi. Il semble bien que la question soit actuellement résolue : c’est bien le Midi roman qui a donné son style et sa doctrine de l’amour aux « romanciers » du cycle de la Table ronde. Et l’on peut suivre les voies de cette transmission dans les documents historiques.</p>
           <p>Aliénor de Poitiers, quittant sa cour d’amour languedocienne, avait épousé Louis VII, puis en l’an 1154, Henri II Plantagenêt, roi d’Angleterre<note resp="author">Aliénor d’Aquitaine eut pour fils Richard Cœur de Lion, ami des troubadours gascons et troubadour lui-même, excommunié par Rome ; pour filles Marie de Champagne et Aelis de Blois.</note>. Elle emmenait
@@ -1161,8 +1161,8 @@
              deviendra proprement littéraire que par la suite, quand il se détachera du mythe provisoirement exténué — au début du <num>xvii<hi rend="sup">e</hi></num> siècle.</p>
         </div>
         <div n="II.12." xml:id="II12">
-          <head type="kicker">12.</head>
-          <head>Des mythes celtiques au roman breton</head>
+          <head><num>12.</num>
+<lb/>Des mythes celtiques au roman breton</head>
           <p><hi rend="i">Tristan</hi> nous apparaît comme le plus purement courtois des romans bretons, en ce sens que la part épique — combats et intrigues — y est réduite au minimum, tandis que le développement tragique de la doctrine religieuse détermine à lui seul la courbe puissante et simple du récit.</p>
           <p>Mais en même temps, <hi rend="i">Tristan</hi> est le plus « breton » des romans courtois, en ce sens qu’on y trouve incorporés des éléments religieux et mythiques d’origine très nettement celtique, bien plus nombreux et plus exactement identifiables que dans les romans de la Table ronde.</p>
           <ab type="ornament">⁂</ab>
@@ -1197,8 +1197,8 @@
              de chevalerie féodale ; des apparences d’orthodoxie chrétienne ; une sensualité parfois très complaisante ; enfin la fantaisie individuelle des poètes : tels sont donc en fin de compte les éléments sur lesquels la doctrine hérétique de l’Amour, profondément manichéenne dans son esprit, opéra ses transmutations. Ainsi naquit le mythe de Tristan. Loin de moi la tentation d’analyser le processus de cette métamorphose : il nous échappe doublement, étant poétique et mystique. Mais nous savons maintenant d’où vient le mythe, et où il mène. Et peut-être pressentons-nous — mais alors c’est intraduisible — comment il peut se recréer dans une vie ou dans une œuvre.</p>
         </div>
         <div n="II.13." xml:id="II13">
-          <head type="kicker">13.</head>
-          <head>Du roman breton à Wagner, en passant par Gottfried</head>
+          <head><num>13.</num>
+<lb/>Du roman breton à Wagner, en passant par Gottfried</head>
           <p>La première <hi rend="i">recréation du mythe</hi>, par un esprit remarquablement conscient de ses implications théologiques, fut le fait de Gottfried de Strasbourg, vers le début du <num>xiii<hi rend="sup">e</hi></num> siècle.</p>
           <p>Gottfried était un clerc, qui lisait le français (il cite souvent des vers de Thomas dans son texte), et qui se passionnait pour les grandes polémiques où venaient de s’affronter Bernard de Clairvaux et les cathares, mais aussi Abélard, l’école de Chartres, et plusieurs hérétiques très dangereusement voisins de la « mystique du cœur ».</p>
           <p>Théologien, poète, et conscient de ses choix, Gottfried révèle beaucoup mieux que ses modèles l’importance proprement religieuse du mythe dualiste de Tristan. Mais aussi, pour la même raison, il avoue mieux que tous les autres cet élément fondamental du mythe : l’angoisse de la sensualité, et l’orgueil, « humaniste » qui la compense. Angoisse : l’instinct sexuel est ressenti comme un destin cruel, une tyrannie ; orgueil : cette tyrannie sera conçue comme une force divinisante — c’est-à-dire dressant l’homme contre Dieu — sitôt qu’on
@@ -1232,8 +1232,8 @@
              monde créé. Ce que Wagner, en somme, a repris de Gottfried, c’est son dualisme foncier. Et c’est par là que son œuvre agit encore sur nous, plus insidieuse et fascinante pour notre sensibilité que la restauration esthétique d’un Bédier.</p>
         </div>
         <div n="II.14." xml:id="II14">
-          <head type="kicker">14.</head>
-          <head>Premières conclusions</head>
+          <head><num>14.</num>
+<lb/>Premières conclusions</head>
           <p>Compte tenu du changement de registre qui s’opère dans les expressions poétiques de l’amour courtois lorsqu’on passe du Midi des troubadours au Nord plus barbare des trouvères, nous sommes en mesure de voir dorénavant dans le chef-d’œuvre de Béroul, Thomas et Gottfried de Strasbourg, l’aboutissement de toutes nos pérégrinations. Les religions antiques, certaines mystiques du Proche-Orient, l’hérésie qui les fit revivre en Languedoc, le contrecoup de cette hérésie dans la conscience occidentale et dans les coutumes féodales, tout cela vient sourdement retentir dans le mythe.</p>
           <p>Nous avons donc rejoint <hi rend="i">le Roman de Tristan</hi> et situé sa nécessité à telle date, à l’intersection de telles traditions hérétiques et de telles institutions qui les condamnaient farouchement, les obligeant par cette condamnation à s’exprimer en symboles équivoques et à revêtir la forme d’un mythe.</p>
           <p><hi rend="i">De l’ensemble de ces convergences, il est temps de tirer la conclusion</hi> : <hi rend="i">L’amour-passion glorifié par le mythe fut réellement au <num>xii<hi rend="sup">e</hi></num> siècle, date de son apparition, une <hi rend="sc">religion</hi> dans toute la force de ce terme, et spécialement <hi rend="sc">une hérésie chrétienne historiquement déterminée</hi></hi>.</p>
@@ -1252,11 +1252,11 @@
       </div>
       <div n="III." type="chapter" xml:id="ddr19721100ao_05">
         <pb n="155" xml:id="p155"/>
-        <head type="kicker">Livre III</head>
-        <head>Passion et mystique</head>
+        <head><num>Livre III</num>
+<lb/>Passion et mystique</head>
         <div n="III.1." xml:id="III01">
-          <head type="kicker">1.</head>
-          <head>Position du problème</head>
+          <head><num>1.</num>
+<lb/>Position du problème</head>
           <p>On a souvent tenté d’expliquer le mysticisme en le « ramenant » à quelque déviation de l’amour humain, c’est-à-dire en fin de compte : à la sexualité.</p>
           <p>Or l’examen du <hi rend="i">Roman de Tristan</hi> et de ses sources historiques nous a conduit à renverser le rapport. C’est ici la passion mortelle qu’il faut « ramener » à une mystique, plus ou moins consciente et précise.</p>
           <p>Il est certain que ce seul exemple n’autorise pas à des conclusions générales. Mais il permet au moins de reposer un problème que le <num>xix<hi rend="sup">e</hi></num> siècle matérialiste s’était cru en mesure de trancher au détriment de la mystique. À vrai dire, je ne suis pas très sûr que ce problème comporte une solution définitive et simple. Mais il me paraît important de reconnaître au moins, sa position.</p>
@@ -1271,8 +1271,8 @@
           <p>Prenons le problème tel que nous le pose le mythe, et tel qu’il se posait au <num>xii<hi rend="sup">e</hi></num> siècle. C’est en partant d’un exemple précis et d’une œuvre <hi rend="i">antérieure</hi> à l’essor de la grande mystique orthodoxe, que nous aurons les meilleures chances de surprendre à l’état naissant la dialectique des « choses bizarres »…</p>
         </div>
         <div n="III.2." xml:id="III02">
-          <head type="kicker">2.</head>
-          <head>Tristan : une aventure mystique</head>
+          <head><num>2.</num>
+<lb/>Tristan : une aventure mystique</head>
           <p>Nous avons constaté que <hi rend="i">le Roman de Tristan</hi> est, à bien des égards, une première « profanation » de la mystique courtoise et de ses sources (néo-platonisme, manichéisme, soufisme). La mythification a trop bien réussi, soit que Béroul, Thomas, et leur prédécesseur n’aient pas toujours très bien saisi l’enseignement courtois dans sa pureté, soit qu’ils aient été entraînés par l’ardeur proprement « romanesque » (au sens moderne et littéraire du terme) et par des complaisances bien explicables envers le goût de leurs auditeurs, moins policés que ceux du Midi. Le caractère distinctif du Roman est en effet de reposer sur une <hi rend="i">faute</hi> contre les lois d’amour courtois, puisque tout le drame vient de l’adultère consommé. De là que nous ayons un « roman » selon la formule moderne du genre, et non pas un simple poème.</p>
           <p>Il n’en reste pas moins que dans l’ensemble, et si l’on considère surtout le principe interne de l’action, <hi rend="i">Tristan</hi> évoque par la plupart de ses situations romanesques la progression d’une vie mystique. Certains « moments » relèvent de la pure tradition cathare, d’autres peuvent être rapprochés d’une expérience mystique plus générale, et qu’on retrouve identique, dans sa forme, aussi bien chez les orthodoxes que chez les dissidents ou les païens (Iraniens et Arabes, voire bouddhistes). En tout état de cause, on ne saurait plus parler d’un vulgaire roman d’adultère : l’infidélité d’Iseut, c’est l’hérésie,
             <pb n="158" xml:id="p158"/>
@@ -1321,8 +1321,8 @@
         </div>
         <div n="III.3." xml:id="III03">
           <pb n="166" xml:id="p166"/>
-          <head type="kicker">3.</head>
-          <head>Transpositions curieuses, mais inévitables</head>
+          <head><num>3.</num>
+<lb/>Transpositions curieuses, mais inévitables</head>
           <p>Toute la poésie d’Occident procède de l’amour courtois et du roman breton qui en dérive. C’est à cette origine que notre poésie doit son vocabulaire pseudo-mystique ; et c’est dans ce vocabulaire que les amoureux d’aujourd’hui puisent encore, en toute inconscience, leurs métaphores les plus courantes.</p>
           <p>Mais de même que le mythe romanesque avait utilisé un « matériel » d’images, de noms et de situations tiré du fonds religieux des Celtes, donc d’une religion déjà morte, de même notre littérature et nos passions utilisent par abus, et sans le savoir, un langage dont la seule mystique définissait le sens valable.</p>
           <p>Plus d’une fois, l’ambiguïté du mythe nous a fait hésiter en présence de tel épisode : s’agissait-il d’amour profane — selon la lettre du Roman — ou d’un symbole de l’Éros lumineux, voire de l’Église d’Amour ? On conçoit donc que, par la suite, le lecteur ignorant des mystères fut presque fatalement amené à transposer dans notre vie profane toutes ces allégories trop bien voilées. Il est facile d’imaginer le processus. Saint Augustin écrit cette prière : « Je te cherchais hors de moi, et je ne te trouvais pas, parce que tu étais en moi. » Il parle à Dieu, à l’amour éternel. Mais supposez qu’un troubadour ait exprimé la même prière en feignant de l’adresser à sa Dame. L’amant habitué aux métaphores mystiques, qu’il entend à leur sens profane, sera tenté de voir dans cette même phrase l’expression de la passion qu’il aime : celle qu’on goûte et savoure en soi, dans une sorte d’indifférence à son objet vivant et extérieur. Ainsi nous avons vu que Tristan aime Iseut non point dans sa réalité, mais en tant qu’elle éveille <hi rend="i">en lui</hi> la brûlure délicieuse du désir. L’amour-passion tend à se confondre avec l’exaltation d’un narcissisme…</p>
@@ -1334,8 +1334,8 @@
           <p>Cependant, la conscience moderne montre une si grande répugnance à opérer ce renversement, qu’il est bon d’entrer plus avant dans le mécanisme des transpositions, et même de reconnaître la valeur de certaines objections courantes. Car enfin, dira-t-on, la mystique, au moins dans une de ses tendances, ne s’est-elle pas prêtée à toutes les confusions ? N’a-t-elle pas abusé la première du langage de l’Éros païen ?</p>
         </div>
         <div n="III.4." xml:id="III04">
-          <head type="kicker">4.</head>
-          <head>Les Mystiques orthodoxes et le langage de la passion</head>
+          <head><num>4.</num>
+<lb/>Les Mystiques orthodoxes et le langage de la passion</head>
           <p>Le fait central de toute vie religieuse de forme et de contenu chrétiens, c’est l’événement de l’Incarnation. Dès que l’on s’écarte un tant soit peu de ce foyer, l’on encourt le double péril de l’humanisme et de l’idéalisme.</p>
           <p>
             <pb n="168" xml:id="p168"/>
@@ -1399,8 +1399,8 @@
           </quote>
         </div>
         <div n="III.5." xml:id="III05">
-          <head type="kicker">5.</head>
-          <head>La Rhétorique courtoise chez les mystiques espagnols</head>
+          <head><num>5.</num>
+<lb/>La Rhétorique courtoise chez les mystiques espagnols</head>
           <p>Si maintenant nous parcourons les <hi rend="i">textes</hi> des grands mystiques espagnols, sainte Thérèse et saint Jean de la Croix au <num>xvi<hi rend="sup">e</hi></num> siècle, nous y retrouvons, jusque dans ses nuances les plus précieuses, la rhétorique entière de l’amour courtois.</p>
           <p>À défaut d’une anthologie qui tiendrait décidément trop de place<note resp="author">On en trouvera d’ailleurs quelques éléments aux <ref target="#II07">chap. <num>vii</num> du livre II</ref> et <ref target="#IV03"><num>iii-iv</num> du livre IV</ref>.</note>, bornons-nous à énumérer les principaux thèmes communs aux troubadours et aux mystiques orthodoxes :</p>
           <quote>
@@ -1461,8 +1461,8 @@
           <p>Voilà pourquoi ce fut la mystique orthodoxe — la moins suspecte de troubles complaisances ! — qui se vit portée <hi rend="i">par l’objet même de sa foi</hi> à user, et parfois à abuser, du langage de l’amour-passion. Usage et abus dont la psychologie moderne devait nécessairement tirer des conclusions conformes à <hi rend="i">son</hi> bon sens, mais qui me paraissent controuvées par l’Histoire.</p>
         </div>
         <div n="III.6." xml:id="III06">
-          <head type="kicker">6.</head>
-          <head>Note sur la métaphore</head>
+          <head><num>6.</num>
+<lb/>Note sur la métaphore</head>
           <p>Pourtant tout n’est pas expliqué par ces considérations historiques. Car on peut reculer encore la question, et dire : le langage passionnel vient d’une littérature courtoise née dans l’ambiance d’une certaine hérésie ; mais cette hérésie, à son tour, ne se ramène-t-elle pas à des dispositions physiologiques sublimées ? Rien ne permet de l’affirmer <hi rend="i">historiquement</hi>. En théorie cependant l’objection reste possible, et même inévitable.</p>
           <p>
             <pb n="183" xml:id="p183"/>
@@ -1482,8 +1482,8 @@
           <p>On se trouve donc en présence d’une continuelle interaction. Et seule une décision tout arbitraire isolerait tel ou tel moment de cette dialectique permanente pour en faire <hi rend="i">la</hi> donnée première.</p>
         </div>
         <div n="III.7." xml:id="III07">
-          <head type="kicker">7.</head>
-          <head>Libération finale des mystiques</head>
+          <head><num>7.</num>
+<lb/>Libération finale des mystiques</head>
           <p>Cette décision tout arbitraire, il est temps de la prendre ici, et de la prendre en faveur de l’esprit, c’est-à-dire de sa primauté. Qu’elle soit arbitraire en fin de compte, ou ce qui revient au même, avant tout compte, n’exclut pas qu’on l’appuie de raisons. J’en marquerai trois.</p>
           <p>1° Le langage passionnel me paraît s’expliquer à partir de l’esprit, en ceci qu’il exprime non pas le triomphe de la nature sur l’esprit — comme le font croire des expressions courantes telles que « aveuglé par la passion », « fou d’amour » — mais l’excès de l’esprit sur l’instinct. « <hi rend="i">L’amour existe lorsque le désir est si grand qu’il dépasse les limites de l’amour naturel</hi> », disait le troubadour Guido Cavalcanti, au <num>xiii<hi rend="sup">e</hi></num> siècle. Or le
             <pb n="186" xml:id="p186"/>
@@ -1499,8 +1499,8 @@
         </div>
         <div n="III.8." xml:id="III08">
           <pb n="188" xml:id="p188"/>
-          <head type="kicker">8.</head>
-          <head>Crépuscule de l’amour-passion</head>
+          <head><num>8.</num>
+<lb/>Crépuscule de l’amour-passion</head>
           <p>C’est le dogme de l’Incarnation qui distingue radicalement la mystique orthodoxe de l’hérétique. C’est lui qui donne un sens tout différent au mot <hi rend="i">amour</hi> dans les deux cas.</p>
           <p>Les hérétiques cathares opposent la Nuit au Jour comme le fait l’Évangile de Jean. Mais la Parole du Jour, pour eux, n’a pas revêtu la forme de la Nuit : elle n’a pas « été faite chair ». Ils ne veulent pas que le Jour parfait se communique à nous au travers de la vie. (Ils ne croient pas l’humanité du Christ.) Ils veulent aller tout droit à l’Amour par l’amour, et de la Nuit au Jour sans nul intermédiaire. Sombrant alors, comme Icare est tombé. (Celui qui veut aller à Dieu sans passer par le Christ qui est « le chemin », celui-là va au diable, disait énergiquement Luther.) Ils pressentent que la Nuit est un mystère du Jour, dont le Jour seul détient le secret dernier<note resp="author">Karl Jaspers a magnifiquement exprimé cette assomption finale de la Nuit par le Jour dans sa <hi rend="i">Philosophie</hi>. (Cf. trad. française par H. Corbin dans <hi rend="i">Hermès</hi>, I, 1938.) </note>. Mais ils ignorent que la Nuit, c’est la Colère de Dieu — répondant à notre révolte — et non pas l’œuvre d’un obscur démiurge. (Telle est du moins la doctrine de la Bible.) Refusant que le Jour les enseigne dans cette vie et par le moyen de la « matière », méconnaissant une Agapè qui sanctifie la créature, ignorant donc la vraie nature de ce qu’ils tiennent pour le péché, ils courent le risque de s’y perdre sans retour au moment même qu’ils croient lui échapper.</p>
           <p>Et de là vient que la confusion était fatale entre l’Éros divinisant et l’Éros prisonnier de l’instinct. De là vient que la passion « enthousiaste », la <hi rend="i">joy d’amor</hi> des troubadours, devait fatalement aboutir à la passion humaine malheureuse. Cet amour impossible laissait au cœur des hommes une brûlure inoubliable, une ardeur vraiment dévorante, une soif que la mort seule pouvait
@@ -1514,15 +1514,15 @@
       </div>
       <div n="IV." type="chapter" xml:id="ddr19721100ao_06">
         <pb n="190" xml:id="p190"/>
-        <head type="kicker">Livre IV</head>
-        <head>Le mythe dans la littérature</head>
+        <head><num>Livre IV</num>
+<lb/>Le mythe dans la littérature</head>
         <epigraph>
           <p>On reconnaîtra maintenant ce qu’est le péché ou comment procède le péché. C’est lorsque la volonté humaine se sépare de Dieu pour être une volonté à soi, qu’elle suscite sa propre ardeur et brûle de sa propre affection, ardeur qui lui est propre et qui n’a rien à voir avec l’ardeur divine.</p>
           <bibl>Jacob Boehme.</bibl>
         </epigraph>
         <div n="IV.1." xml:id="IV01">
-          <head type="kicker">1.</head>
-          <head>D’une influence précise de la littérature sur les mœurs</head>
+          <head><num>1.</num>
+<lb/>D’une influence précise de la littérature sur les mœurs</head>
           <p>D’une manière générale, il est bien difficile de <hi rend="i">vérifier</hi> l’influence des arts sur la vie quotidienne d’une époque. « La musique adoucit les mœurs ? » Je n’en sais rien, et personne ne saurait le démontrer. Et la peinture, quelle peut bien être son action ? L’architecture, au moins, nous pouvons l’habiter, mais là n’est pas son caractère d’art. De même pour telle ou telle philosophie. Mais le cas est tout différent lorsqu’il s’agit d’une littérature dont on peut démontrer, historiquement, qu’elle a donné sa langue à la passion.</p>
           <p>Si la littérature peut se vanter d’avoir agi sur les
             <pb n="191" xml:id="p191"/>
@@ -1536,8 +1536,8 @@
           <p>En esquissant la courbe de la mystique classique, nous avons pu décrire une assomption du mythe. C’était la voie montante et elle nous a conduits à une dissolution libératrice du « charme ». La littérature, au contraire, est la voie qui descend aux mœurs. C’est donc la vulgarisation du mythe, ou pour mieux dire : sa « profanation »<note resp="author">Je rappelle que j’emploie toujours ce mot au double sens de <hi rend="i">sacrilège</hi> et de <hi rend="i">laïcisation</hi> (ou « sécularisation ») — pour ne pas recourir à « profanisation ».</note> que nous allons décrire maintenant.</p>
         </div>
         <div n="IV.2." xml:id="IV02">
-          <head type="kicker">2.</head>
-          <head>Les deux roses</head>
+          <head><num>2.</num>
+<lb/>Les deux roses</head>
           <p>Le meilleur point de départ nous est donné par le <hi rend="i">Roman de la Rose</hi>, écrit entre les années 1237 et 1280 environ. Il y a cent ans, ou presque, que Béroul et Thomas ont composé la légende de <hi rend="i">Tristan</hi>. La croisade des albigeois a saccagé la civilisation courtoise du Languedoc, dispersant les derniers troubadours. Que va devenir la tradition d’Amour ?</p>
           <p>Il semble bien que, dès le <num>xiv<hi rend="sup">e</hi></num> siècle, les hérétiques répandus désormais dans toute l’Europe, où l’Église les traque, aient cessé de recourir à l’expression littéraire de leur religion. Le catharisme se cachera désormais dans les couches profondes et muettes des peuples, là où la vie sociale ne se prête plus aux formes nobles, ne fournit plus les beaux symboles de la grande féodalité. Ce mutisme, d’ailleurs, n’arrête pas son progrès.</p>
           <p>
@@ -1555,8 +1555,8 @@
              bien proche d’une vision chrétienne réaliste. Nous aurons l’occasion d’y revenir.)</p>
         </div>
         <div n="IV.3." xml:id="IV03">
-          <head type="kicker">3.</head>
-          <head>Sicile, Italie, Béatrice et Symbole</head>
+          <head><num>3.</num>
+<lb/>Sicile, Italie, Béatrice et Symbole</head>
           <p>Alentour de l’an 1200, une solide amitié se noue entre Rambaut de Vaqueiras, troubadour languedocien, et le puissant marquis Alberto Malaspina. Il semble bien qu’un courant très direct d’échanges « littéraires » — si l’on veut — unisse le Midi de la France à la Lombardo-Vénétie. Une fois de plus, la carte de l’influence des troubadours se confond avec celle des hérésies. Un peu plus tard, le mouvement franciscain naîtra d’une conjonction semblable entre les « spirituels » (mais dans l’Église) et les poètes.</p>
           <p>Cependant qu’autour de Palerme, où Frédéric II tient sa cour, fleurit l’école dite des Siciliens. Dans quelle mesure cette poésie courtoise du Sud s’inspira-t-elle des troubadours ? La question est encore obscure. On ne trouve à la cour de Palerme qu’un seul poète provençal, et Frédéric persécute l’hérésie. De même, on peut se demander dans quelle mesure les Siciliens « savaient » encore ce qu’est l’Amour. N’avaient-ils retenu du <hi rend="i">trobar clus</hi> que le procédé mystifiant ? On serait assez tenté de le croire, lorsqu’on voit Dante et son ami Cavalcanti s’élever contre leur maître Guittone d’Arezzo, et railler ses disciples : « Sectateurs de l’ignorance, aveugles qui veulent juger des couleurs, oies essayant de rivaliser avec l’aigle… »</p>
           <p>Au Purgatoire, Dante rencontre un de ces pasticheurs infatigables, Bonagiunta de Lucques. Bonne occasion de définir le <hi rend="i">dolce stil nuovo</hi>, le style savant et caressant que l’école du Nord — novatrice mais qui revient aux origines valables — oppose à ces rhétoriqueurs.</p>
@@ -1601,8 +1601,8 @@
         </div>
         <div n="IV.4." xml:id="IV04">
           <pb n="199" xml:id="p199"/>
-          <head type="kicker">4.</head>
-          <head>Pétrarque, ou le rhéteur converti</head>
+          <head><num>4.</num>
+<lb/>Pétrarque, ou le rhéteur converti</head>
           <epigraph>
             <l>« Aimer une chose mortelle avec une foi</l>
             <l>Qui à Dieu seul est due et à lui seul convient… »</l>
@@ -1734,8 +1734,8 @@
         </div>
         <div n="IV.5." xml:id="IV05">
           <pb n="204" xml:id="p204"/>
-          <head type="kicker">5.</head>
-          <head>Un idéal à rebours : la gauloiserie</head>
+          <head><num>5.</num>
+<lb/>Un idéal à rebours : la gauloiserie</head>
           <p>Imposer un style à la vie des passions — ce rêve de tout le Moyen Âge païen tourmenté par la loi chrétienne —, c’est la secrète volonté qui devait donner naissance au mythe. Mais la confusion de la foi, « qui à Dieu seul est due et à lui seul convient », avec l’amour d’« une chose mortelle », en fut la conséquence inévitable. Et c’est bien de cette confusion — non de la doctrine orthodoxe — que devait résulter l’opposition tragique du corps et de l’âme. C’est la tendance ascétique, orientale — le monachisme vient d’Orient — c’est la tendance hérétique des « parfaits » qui inspira la poésie courtoise. C’est donc bien elle, qui, peu à peu, contamina par le moyen d’une littérature idéalisante l’élite de la société médiévale. D’où la réaction « réaliste » qui ne pouvait manquer de s’ensuivre. Elle fut surtout sensible dans la bourgeoisie.</p>
           <p>Dès le début du <num>xii<hi rend="sup">e</hi></num> siècle, en plein triomphe de l’amour courtois, l’on voit paraître cette tendance contraire, celle qui glorifiera la volupté avec le même excès, exactement, que l’autre apporte à glorifier la chasteté. Fabliaux contre poésie, cynisme contre idéalisme.</p>
           <p>Le <hi rend="i">Débat de l’âme et du corps</hi> qui date précisément de cette époque est le premier témoignage d’un conflit que le mariage chrétien était censé résoudre. On y voit l’âme récemment séparée de son corps adresser à son compagnon les reproches les plus amers : c’est lui qui aurait causé sa damnation. Mais le corps lui retourne l’accusation (il n’a pas tort.) Ainsi vont-ils, récriminant trop tard, au-devant du supplice éternel.</p>
@@ -1750,8 +1750,8 @@
           <p>Parallèlement à ces deux courants du mythe notons la réaction des clercs : c’est encore le chanoine Pétrarque qui lui montre la voie, en consacrant ses derniers chants à la louange de la Vierge Notre-Dame opposée à « ma » dame — mais sans varier le moins du monde ses lieux communs de poésie courtoise<note resp="author">Selon <hi rend="sc">A. Jeanroy</hi> (<hi rend="i">op. cit</hi>., II, p. 130), on ne trouve aucune poésie spécialement consacrée à la Vierge avant le deuxième tiers du <num>xiii<hi rend="sup">e</hi></num> siècle.</note>. Dante a vengé d’avance les troubadours en mettant en Enfer des « chevaliers de Marie », moines italiens appelés aussi « chevaliers joyeux » à cause de leur vie dissolue, et malgré leur saint patronage.</p>
         </div>
         <div n="IV.6." xml:id="IV06">
-          <head type="kicker">6.</head>
-          <head>Suite de la chevalerie, jusqu’à Cervantès</head>
+          <head><num>6.</num>
+<lb/>Suite de la chevalerie, jusqu’à Cervantès</head>
           <p>L’influence du roman breton est attestée par des centaines de textes à travers les <num>xiii<hi rend="sup">e</hi></num>, <num>xiv<hi rend="sup">e</hi></num> et <num>xv<hi rend="sup">e</hi></num> siècles. Elle couvre la même étendue que l’influence des troubadours : l’Europe entière. Les <hi rend="i">minnesänger</hi> (chanteurs de l’Amour) en Allemagne sont nourris de légendes cathares<note resp="author">Voir <hi rend="i">la Croisade du Graal</hi>, d’Otto Rahn, pour l’idée ou l’intuition, et <hi rend="i">Tristan</hi> de Gottfried Weber, pour la démonstration dans le cas précis de Gottfried de Strasbourg.</note> et par ailleurs ne font qu’adapter du français les récits de Chrétien de Troyes. On traduit le
             <pb n="207" xml:id="p207"/>
             <hi rend="i">Roman de Tristan</hi> dans toutes les langues d’Occident. L’Anglais Thomas Malory, à la fin du <num>xv<hi rend="sup">e</hi></num> siècle, en refait une version en prose. Dante considère le cycle épique et romanesque de la France du Nord comme le modèle universel de toute prose narrative, et Brunetto Latini extrait de <hi rend="i">Tristan</hi> (dans sa <hi rend="i">Rhétorique</hi>) le portrait de la femme idéale.</p>
@@ -1762,8 +1762,8 @@
              grotesque que parce qu’il veut imiter une ascèse à laquelle il n’est pas initié, et suivre une voie que le malheur des temps rend totalement impraticable. L’Église de Rome a triomphé. Mieux vaut dès lors se mettre du bon côté avec l’honnête et réaliste Sancho Pança…</p>
         </div>
         <div n="IV.7." xml:id="IV07">
-          <head type="kicker">7.</head>
-          <head><hi rend="i">Roméo et Juliette</hi>. — Milton</head>
+          <head><num>7.</num>
+<lb/><hi rend="i">Roméo et Juliette</hi>. — Milton</head>
           <p>Cependant Rome n’a pas triomphé partout. Il est une île où son pouvoir est contesté. C’est la dernière patrie des bardes. En Cornouailles et en Écosse, leurs traditions resteront vivantes jusqu’à l’époque où Macpherson les transcrira en langage moderne. Et en Irlande, elles vivent encore de nos jours.</p>
           <p>Je ne puis examiner ici le problème des rapports entre ce fonds de légendes celtiques et la littérature anglaise populaire et savante. Mais il est significatif qu’à la fin du <num>xvii<hi rend="sup">e</hi></num> siècle, un bon lettré comme Robert Kirk, théologien et humaniste, ait écrit un traité sur les fées, sans trace de scepticisme ou d’ironie. Nous ne savons presque rien de Shakespeare — mais nous avons <hi rend="i">le Songe d’une Nuit d’été.</hi> Et l’on dit qu’il était catholique — mais nous avons <hi rend="i">Roméo et Juliette</hi> qui est la seule tragédie courtoise, et la plus belle résurrection du mythe avant le <hi rend="i">Tristan</hi> de Wagner.</p>
           <p>Tant qu’on ignore à peu près tout de la vie, voire de l’identité de Shakespeare, il est vain de se demander s’il connaissait la tradition secrète des troubadours. Mais on peut relever ce fait : que Vérone fut un des principaux centres du catharisme en Italie. Selon le moine Ranieri Saccone, qui fut dix-sept ans hérétique, il y avait à Vérone près de cinq-cents « parfaits », sans compter les « croyants » en beaucoup plus grand nombre… Comment les légendes de ce temps n’auraient-elles point gardé de traces des luttes violentes qui opposèrent dans la cité les « patarins » aux orthodoxes ?</p>
@@ -1834,8 +1834,8 @@
           <p>Il reste cependant que la doctrine de Milton est bien plus « rationnelle » et sociale que celle des hérétiques du Midi. (Il considère par exemple le mariage comme un « remède contre l’incontinence ».) Aussi ne devait-elle point favoriser les confusions extrêmes de la chair et de l’esprit qui ne manquèrent pas de se produire dans les sectes néo-manichéennes.</p>
         </div>
         <div n="IV.8." xml:id="IV08">
-          <head type="kicker">8.</head>
-          <head><hi rend="i">L’Astrée</hi> : de la mystique à la psychologie</head>
+          <head><num>8.</num>
+<lb/><hi rend="i">L’Astrée</hi> : de la mystique à la psychologie</head>
           <p>L’histoire du mythe dans le Roman, au <num>xvii<hi rend="sup">e</hi></num> siècle français, peut se réduire, hélas, en une formule : la mystique se dégrade en pure psychologie. Le roman devient l’objet d’une littérature raffinée. D’Urfé, La Calprenède, Gomberville et les Scudéry n’ont plus la moindre idée du sens ésotérique de la chevalerie légendaire. La nature symbolique des sujets qu’ils reprennent les induit simplement à composer d’interminables romans à clef. Polexandre est Louis XIII, Cyrus est le Grand Condé, Diane est Marie de Médicis, etc.</p>
           <p>Le sujet du roman demeure les « contrariétés » de l’amour, mais l’obstacle n’est plus la volonté de mort, si secrète et métaphysique dans <hi rend="i">Tristan</hi> : c’est simplement le point d’honneur, manie sociale. C’est l’héroïne, ici, qui est la plus astucieuse lorsqu’il s’agit d’imaginer des prétextes de séparation. Elle terrorise avec délices son chevaleresque soupirant, et l’on voit Polexandre, dans le roman de Gomberville, parcourir comme un fou les cinq parties du monde pour apaiser un regard irrité de sa maîtresse. Au dénouement, il est encore à se demander si cette « reine de l’Île inaccessible » ne va pas
             <pb n="213" xml:id="p213"/>
@@ -1854,8 +1854,8 @@
           <p>Il n’y eut plus qu’une dernière flamme, mince et pure, qui s’appelle <hi rend="i">la Princesse de Clèves</hi>. La mort s’y atténue en séparation volontaire, et la chevalerie fait place à la vertu qui conclut en faveur du monde…</p>
         </div>
         <div n="IV.9." xml:id="IV09">
-          <head type="kicker">9.</head>
-          <head>Corneille, ou le mythe combattu</head>
+          <head><num>9.</num>
+<lb/>Corneille, ou le mythe combattu</head>
           <p>C’est dans le théâtre classique — donc au cœur même d’un ordre intolérant — que la passion devait trouver sa revanche la plus éclatante.</p>
           <p>On connaît le curieux sujet de <hi rend="i">la Place royale</hi>, comédie fort désobligeante. Alidor amant d’Angélique, et aimé d’elle, « se trouve incommodé d’un amour qui l’attache trop » et il veut faire en sorte que sa maîtresse se donne à son ami Cléandre. D’où l’on conclut généralement que Corneille est le premier auteur qui ait voulu soumettre la passion à la raison, sinon à la
             <pb n="216" xml:id="p216"/>
@@ -1918,8 +1918,8 @@
           <p>Ne nous étonnons point de cet aveuglement de l’auteur sur son dessein réel, pourtant si parfaitement mené à chef. L’essence du mythe de l’amour malheureux, nous le savons, c’est une passion inavouable. L’originalité de Corneille demeure d’avoir voulu combattre et nier cette passion dont il vivait, et ce mythe même que réinventent ses deux plus belles tragédies : <hi rend="i">Polyeucte</hi> et <hi rend="i">le Cid</hi>. Il a voulu sauver au moins le <hi rend="i">principe</hi> de la liberté, c’est-à-dire de la personne — sans lui sacrifier toutefois les effets délicieux et torturants du fatal « philtre » (ici métaphorique). Bien mieux ; cette volonté de liberté est devenue l’agent le plus efficace de la passion qu’elle prétendait guérir. D’où la tension inégalée de ce « théâtre du devoir » — comme le récitent et le réciteront toujours ceux qui ne sont guère capables de l’aimer…</p>
         </div>
         <div n="IV.10." xml:id="IV10">
-          <head type="kicker">10.</head>
-          <head>Racine, ou le mythe déchaîné</head>
+          <head><num>10.</num>
+<lb/>Racine, ou le mythe déchaîné</head>
           <p>L’opposition classique de Racine et de Corneille se réduit à ceci, touchant le mythe : Racine part du philtre comme d’un fait indiscutable privant ses victimes de toute espèce de responsabilité ; « <hi rend="i">C’est Vénus tout entière à sa proie attachée</hi> », — tandis que Corneille ne veut y voir qu’ « une tyrannie dont il faut secouer le joug ». D’où l’harmonie voluptueuse de l’un, et la
             <pb n="220" xml:id="p220"/>
              dialectique tendue de l’autre ; l’un s’abandonnant au courant, l’autre lui résistant, bien qu’entraîné (ou pour mieux se sentir entraîné…)</p>
@@ -1932,8 +1932,8 @@
           <p>Mais cette conversion-là ne pourra s’opérer qu’à la faveur d’une crise révélant à Racine lui-même la vraie nature de son délire. <hi rend="i">Phèdre</hi> est un moment décisif non seulement dans la vie du poète, mais dans l’évolution du mythe à travers l’histoire de l’Europe.</p>
         </div>
         <div n="IV.11." xml:id="IV11">
-          <head type="kicker">11.</head>
-          <head><hi rend="i">Phèdre</hi>, ou le mythe « puni »</head>
+          <head><num>11.</num>
+<lb/><hi rend="i">Phèdre</hi>, ou le mythe « puni »</head>
           <p>Le thème de la mort est écarté dans <hi rend="i">Bérénice</hi> par une « censure » morale évidemment chrétienne d’origine.
             <pb n="222" xml:id="p222"/>
              Racine ne peut ni ne veut être pleinement lucide. Car sa lucidité l’obligerait à condamner ce qu’il n’ose chérir que dans son cœur le plus secret, et sans se l’avouer. Mais la crise de sa passion pour une femme qui fut peut-être la Champmeslé, et les premières atteintes d’une vraie foi vont le pousser comme malgré lui, et plus qu’il n’espérait, aux extrêmes de l’aveu.</p>
@@ -1978,8 +1978,8 @@
           <p>Racine, comme Pétrarque, était de la race des troubadours qui trahissent l’Amour pour l’amour : ceux-là finissent presque toujours en religion. Mais notons-le : dans une religion de retraite — dernière injure peut-être au jour intolérable…</p>
         </div>
         <div n="IV.12." xml:id="IV12">
-          <head type="kicker">12.</head>
-          <head>Éclipse du mythe</head>
+          <head><num>12.</num>
+<lb/>Éclipse du mythe</head>
           <p>Malgré Corneille, malgré Racine jusqu’à <hi rend="i">Phèdre</hi>, la fin du <num>xvii<hi rend="sup">e</hi></num> siècle français souffre ou bénéficie, comme on voudra, d’une première éclipse du mythe dans les mœurs et la philosophie.</p>
           <p>La mise en ordre (pour ne pas dire mise au pas) de la société féodale par l’État-roi entraîne des modifications assez profondes dans les relations sentimentales et les coutumes. Le mariage redevient l’institution de base : il atteint un point d’équilibre où les siècles suivants auront grand-peine à se maintenir, et que les siècles précédents n’ont pas connu. Les « alliances » privées se traitent dans les formes, ni plus ni moins qu’entre parties diplomatiques. L’inclination réelle ou supposée n’y ajoute guère qu’un élément d’exquise perfection, de luxe heureux, dernière touche d’une fantaisie qui sent presque l’impertinence. (Le <num>xviii<hi rend="sup">e</hi></num> la jugera vite de mauvais goût.) La convenance des rangs et la conformité des « qualités » deviennent la mesure idéale du bon mariage : curieuse analogie avec la Chine. Et de fait, c’est à partir de ce <num>xvii<hi rend="sup">e</hi></num> siècle « rationnel » que nos mœurs se séparent des croyances religieuses (comme l’avait proposé Confucius) et, sans que nul paraisse y prendre garde, se rangent aux lois de la raison du siècle, reniant l’absolu chrétien. Les « mérites » et
             <pb n="226" xml:id="p226"/>
@@ -1998,8 +1998,8 @@
           <p>Un « mensonge d’idéal », c’est bien à quoi se résumera toujours la réaction cynique contre le mythe. Nous en avons donné plus d’un exemple. Le <num>xviii<hi rend="sup">e</hi></num> est trop poli pour admettre la gauloiserie : il la remplace par une <hi rend="i">affectation</hi> de facilité voluptueuse. Cette boutade, qui réduit tout l’amour au contact de deux épidermes j’y vois bien moins l’affirmation d’un matérialisme inhumain qu’une preuve de la secrète persistance du mythe au cœur des hommes du <num>xviii<hi rend="sup">e</hi></num>. Il fallait bien que subsistât quelque peu d’illusion amoureuse et d’idéalisme diffus, pour que Chamfort ait pu juger « piquant » de noter cette maxime et de la publier. Cela pouvait encore étonner. Ce n’était encore, et ce ne sera jamais, qu’un idéalisme à rebours.</p>
         </div>
         <div n="IV.13." xml:id="IV13">
-          <head type="kicker">13.</head>
-          <head>Don Juan et Sade</head>
+          <head><num>13.</num>
+<lb/>Don Juan et Sade</head>
           <p>Comme on voit, en fermant les yeux, une statue noire à la place de la blanche que l’on vient de considérer, l’éclipse du mythe devait faire apparaître l’antithèse absolue de Tristan. Si Don Juan n’est pas, historiquement, une invention du <num>xviii<hi rend="sup">e</hi></num>, du moins ce siècle a-t-il
             <pb n="229" xml:id="p229"/>
              joué par rapport à ce personnage le rôle exact de Lucifer par rapport à la Création, dans la doctrine manichéenne : c’est lui qui a donné sa figure au <hi rend="i">Tenorio</hi> de Molina, et qui lui a imprimé pour toujours ces deux traits si typiques de l’époque : la <hi rend="i">noirceur</hi> et la <hi rend="i">scélératesse</hi>. Antithèse vraiment parfaite des deux vertus de l’amour chevaleresque : la candeur et la courtoisie.</p>
@@ -2027,8 +2027,8 @@
              du sexe est une constante et rationnelle profanation de la morale profanée du <num>xviii<hi rend="sup">e</hi></num>. C’est la « voie négative » d’un athée qui désespère d’échapper à ses liens, et qui défie l’amour spirituel de se manifester en tuant le criminel<note resp="author">Voir <ref target="#app13">Appendice 13</ref>.</note>. Car là seulement serait la délivrance — selon la foi des troubadours…</p>
         </div>
         <div n="IV.14." xml:id="IV14">
-          <head type="kicker">14.</head>
-          <head>
+          <head><num>14.</num>
+<lb/>
             <hi rend="i">La Nouvelle Héloïse</hi>
           </head>
           <p>Paysan de Genève, Rousseau échappe à l’influence du don-juanisme citadin, mais non pas à une littérature qui trouve dans son tempérament des complicités bien profondes et qui n’est autre que le pétrarquisme. Le roman de Rousseau à proprement parler n’est pas une renaissance du mythe primitif de Tristan. Il n’a pas la violence sauvage de la légende, et encore moins son arrière-plan ésotérique. Ce qui revit en lui, c’est l’état d’âme créé chez les imitateurs des troubadours par une doctrine qu’ils « sécularisaient », n’en connaissant que la rhétorique profane. C’est l’<hi rend="i">acedia</hi>, l’heureuse mélancolie cultivée par l’ermite de Vaucluse. Qu’on relise les sommaires analytiques joints par un éditeur zélé à la troisième édition du roman : l’on y retrouve les situations que prévoyaient les <hi rend="i">leys de cortezia</hi>. C’est le <hi rend="i">Canzoniere</hi> mis en prose — et quelque peu embourgeoisé. (Çà et là une citation, une allusion, témoignent de la connaissance que Rousseau avait de Pétrarque, véritable inventeur du sentiment de la nature et du lyrisme de la solitude.) Avec d’Urfé, la courtoisie avait tourné en casuistique profane. Chez Rousseau, elle devient une sorte de piétisme raffiné. Ici encore, la décadence est manifeste.</p>
@@ -2048,8 +2048,8 @@
              D’où l’insistance pénible et, dès cette date, quelque peu excessive me semble-t-il, sur la roture de Saint-Preux, laquelle est censée interdire toute possibilité d’union légale. D’où encore l’assimilation du préjugé social et des exigences d’une vertu déclarée religieuse par opportunité. Mais on distingue les mobiles inavoués de la confusion. Au <num>xii<hi rend="sup">e</hi></num> siècle, c’était la loi de courtoisie qui imposait la chasteté ; ici, c’est la coutume bourgeoise. Mais sous le couvert de l’une et de l’autre, c’est toujours le mythe qui agit. Dans la lettre déjà citée où elle récapitule leurs épreuves, Julie appelle « sainte ardeur » l’amour chaste qui les ravissait — bien qu’il fût dès ce moment condamnable — et « crime », « horreurs », « corruption », ce même amour après la possession. La faute qui compte, pour eux, on le voit bien, c’est celle qui lèse la « courtoisie », non la vertu bourgeoise trop souvent invoquée. Et ainsi de suite : il serait aisé de reprendre, à propos de <hi rend="i">la Nouvelle Héloïse</hi>, toute notre exégèse de <hi rend="i">Tristan</hi>, notre dialectique de l’obstacle. Il y a pourtant cette différence capitale que Rousseau aboutit au mariage, c’est-à-dire au triomphe du monde sanctifié par le christianisme, alors que la légende glorifiait dans la mort l’entière dissolution des liens terrestres.</p>
         </div>
         <div n="IV.15." xml:id="IV15">
-          <head type="kicker">15.</head>
-          <head>Le romantisme allemand</head>
+          <head><num>15.</num>
+<lb/>Le romantisme allemand</head>
           <p>C’est à partir de l’état d’âme sentimental — et non mystique<note resp="author">Est-ce la faute à Rousseau ? Ou plutôt au symbolisme ? Beaucoup de dames d’aujourd’hui croient que « mystique » signifie sentimental. Vitraux, pénombre bleue, arpèges, somnolence de l’esprit, rêverie des sens…</note> — des amants de <hi rend="i">la Nouvelle Héloïse</hi> que le romantisme va tâcher de rejoindre une mystique primitive qu’il ignore, mais dont il redécouvre, par éclairs, la vertu sacrale et mortelle.</p>
           <p>Du <hi rend="i">Tristan</hi> de Thomas par Pétrarque et l’<hi rend="i">Astrée</hi> jusqu’à la tragédie classique, nous avons vu le mythe se dégrader, s’humaniser, s’analyser en éléments de moins
             <pb n="237" xml:id="p237"/>
@@ -2105,8 +2105,8 @@
           </quote>
         </div>
         <div n="IV.16." xml:id="IV16">
-          <head type="kicker">16.</head>
-          <head>Intériorisation du mythe</head>
+          <head><num>16.</num>
+<lb/>Intériorisation du mythe</head>
           <p>Le rythme intime du romantisme allemand, la diastole et la systole de son cœur, c’est l’enthousiasme et la tristesse métaphysique. C’est la dialectique abyssale de l’hérésie manichéenne, le renversement perpétuel du jour en Nuit et de la nuit en Jour. Le même élan qui portait l’âme vers la lumière et l’unité divine, considéré du point de vue de ce monde n’est plus qu’un élan vers la mort, une séparation essentielle. Tel est le tragique de l’Ironie transcendantale, ce mouvement perpétuel du romantisme, cette passion qui ruine sans relâche tous les objets qu’elle peut concevoir et désirer (la nature, l’être aimé, le moi), tout ce qui n’est pas l’Unité incréée, la dissolution sans retour. Mais cet enthousiasme est réel, c’est l’« endieusement » des troubadours, l’<hi rend="i">endiosada</hi> des mystiques espagnols, la <hi rend="i">joy d’amor</hi> dans son délire dionysiaque. Il en jaillit perpétuellement, au point suprême de son élévation, des fantaisies extravagantes. Il y a une gaieté romantique, comme il y a un attendrissement : moments de détente, entre deux élancements contradictoires, retours au monde…</p>
           <p>C’est ce moment de joie bizarre, né de l’ironie métaphysique, qui fait défaut au romantisme français. Ici, les données sont les mêmes mais le rythme est moins ample et l’esprit va trop vite au but. La France de la Révolution et de l’Empire n’a plus d’énergie disponible pour la spéculation spirituelle : elle n’a point de « religion nouvelle », point de philosophes romantiques<note resp="author">Il faudra attendre un siècle pour en voir un : Bergson, disciple de Schelling.</note>, peu ou point de métaphysique, et peu ou
             <pb n="242" xml:id="p242"/>
@@ -2130,8 +2130,8 @@
           <p>Rares sont toutefois les romantiques français qui atteignirent cette connaissance audacieuse, desséchée, exacte, et plus proche qu’on ne pourrait croire de la mystique négative. La plupart reviendront aux illusions de l’amour humain, sans retrouver pourtant la forte naïveté du mythe. Ils raffineront merveilleusement les « prétextes » traditionnels à la séparation des deux amants : du <hi rend="i">Lys dans la vallée</hi> (le plus naïf) jusqu’à <hi rend="i">Adolphe</hi> (le plus lucide) c’est tantôt le mariage et l’honneur, ou le devoir social, ou la vertu, ou le secret mélancolique de l’amant, ou quelque scrupule religieux, enfin le narcissisme avoué… Intériorisation progressive du mythe, à mesure que l’obstacle invoqué s’effrite et se dissout dans une critique sceptique, tandis que les morales s’abâtardissent, et que tout élément « sacré » disparaît de la vie sociale.</p>
         </div>
         <div n="IV.17." xml:id="IV17">
-          <head type="kicker">17.</head>
-          <head>Stendhal, ou le fiasco du sublime</head>
+          <head><num>17.</num>
+<lb/>Stendhal, ou le fiasco du sublime</head>
           <p>Homme du <num>xviii<hi rend="sup">e</hi></num> siècle, ayant subi la « touche » du romantisme, et fréquentant d’ailleurs une société des plus sceptiques, Stendhal nous offre un exemple parfait pour l’analyse de la profanation du mythe.</p>
           <p>Voici un homme que le besoin de la passion tourmente : il a découvert dans son « âme », c’est-à-dire dans son goût du sublime, ce vide dont parlait Fichte, cet appel insatiable à l’inconnu, à l’Inconnue qui pourrait seule le combler. Aimer passionnément, ce serait vivre !</p>
           <p>
@@ -2155,8 +2155,8 @@
              reproduit le code d’amour courtois en appendice. (Raynouard et Fauriel venaient de provoquer la renaissance des études romanes.) « Singulière civilisation », dit-il. Et il rêve un peu là-dessus. On dirait qu’il pressent quelque chose… Mais non : « Vingt anecdotes que je pourrais citer montrent partout dans cette Provence <hi rend="i">une galanterie aimable, spirituelle et conduite entre les deux sexes sur les principes de la justice…</hi> » Il finira, bien entendu, par les citer, ces anecdotes.</p>
         </div>
         <div n="IV.18." xml:id="IV18">
-          <head type="kicker">18.</head>
-          <head>Wagner, ou l’achèvement</head>
+          <head><num>18.</num>
+<lb/>Wagner, ou l’achèvement</head>
           <epigraph>
             <p>« Délivré du monde, je te possède enfin, ô toi seule qui remplis toute mon âme, suprême volupté d’amour ! »</p>
           </epigraph>
@@ -2192,8 +2192,8 @@
           <p>Que Wagner ait restitué le sens perdu de la légende, dans sa virulence intégrale, ce n’est point là une thèse à faire admettre, c’est l’évidence largement déclarée par la musique et les paroles de l’opéra. Par l’opéra, le mythe connaît son achèvement. Mais ce « terme » détient deux sens contradictoires — comme presque tous les termes du vocabulaire de l’existence, décrivant l’être en situation d’agir, non les objets. <hi rend="i">Achèvement</hi> désigne l’expression totale d’un être, d’un mythe ou d’une œuvre ; d’autre part, désigne leur mort. Ainsi le mythe « achevé » par Wagner a vécu. <hi rend="i">Vixit</hi> Tristan ! Et s’ouvre l’ère de ses fantômes.</p>
         </div>
         <div n="IV.19." xml:id="IV19">
-          <head type="kicker">19.</head>
-          <head>Vulgarisation du mythe</head>
+          <head><num>19.</num>
+<lb/>Vulgarisation du mythe</head>
           <p>Il y eut la <hi rend="i">voie poétique</hi> du mythe.</p>
           <p>Edgar Poe engendra Baudelaire, qui engendra le symbolisme, qui engendra des mandragores, des femmes sans corps, des jeunes Parques, des apparences à peine féminines de <hi rend="i">fuites</hi> — comme on dit que l’eau fuit d’un bassin : fissures dans le réel, fuites de rêves. C’est la tradition alanguie, intellectualisée, sophistiquée. Voie décidément trop étroite pour qu’un homme s’y engage tout entier : aussi déléguera-t-il à l’aventure quelques <hi rend="i">facultés</hi> détachées. Ascèse exactement facultative.</p>
           <p>Il y eut aussi la <hi rend="i">voie romanesque</hi> du mythe ; mais elle ne tarda guère à déboucher sur une route nationale encombrée, où l’on se promène le dimanche en famille
@@ -2226,8 +2226,8 @@
           <p>La <hi rend="i">religion</hi> des troubadours se prêtait aux complicités les plus sournoises avec l’<hi rend="i">instinct</hi>, qu’elle excitait par sa volonté même de le nier. L’ambiguïté du langage mystique de l’hérésie devait faire naître, dès le <num>xiii<hi rend="sup">e</hi></num> siècle, une rhétorique profane de la passion. Et c’est la diffusion de ce langage par la littérature romanesque qui aboutit, au cours du dernier siècle, à ce renversement des rôles : l’instinct devenant le vrai support d’une rhétorique dont les figures lui prêtent désormais un semblant d’idéalité.</p>
         </div>
         <div n="IV.20." xml:id="IV20">
-          <head type="kicker">20.</head>
-          <head>L’instinct glorifié</head>
+          <head><num>20.</num>
+<lb/>L’instinct glorifié</head>
           <p>Comme à la rose de Guillaume de Lorris répond la rose de Jean de Meung, comme à la rhétorique cristalline de Pétrarque s’oppose la fantasmagorie sensuelle de Boccace, le romantisme a provoqué de nos jours une révolte qui se veut « primitive ». Ce n’est plus le sentiment que l’on idéalise, c’est l’instinct.</p>
           <p>Je songe à une certaine école de romanciers anglo-américains, qui fleurit dans l’entre-deux-guerres, un Lawrence, un Caldwell, un Miller et leurs imitateurs. Voici ce que nous disaient ces hommes : « Nous en avons assez de souffrir pour des idées, des idéaux, des petites hypocrisies idéalisées et perverses auxquelles personne ne sait plus croire. Vous avez fait de la femme une espèce de divinité coquette, cruelle et vampirique. Vos femmes fatales, et vos femmes adultères, et vos femmes desséchées de vertu, nous ont gâté la joie de vivre. Nous nous vengerons de vos « divines ». La femme est d’abord une femelle. Nous la ferons se traîner sur le ventre vers le mâle dominateur<note resp="author">Scène d’un roman de Caldwell intitulé <hi rend="i">la Route au tabac</hi>.</note>. Au lieu de chanter la courtoisie, nous chanterons les ruses du désir
             <pb n="259" xml:id="p259"/>
@@ -2247,8 +2247,8 @@
              dieu. Voilà le mouvement dernier de la passion, dont l’exaspération s’appelle la guerre.</p>
         </div>
         <div n="IV.21." xml:id="IV21">
-          <head type="kicker">21.</head>
-          <head>La passion dans tous les domaines</head>
+          <head><num>21.</num>
+<lb/>La passion dans tous les domaines</head>
           <p>Le mythe sacré de l’amour courtois, au <num>xii<hi rend="sup">e</hi></num> siècle, avait eu pour <hi rend="i">fonction sociale</hi> d’ordonner et de purifier les puissances anarchiques de la passion. Une mystique transcendante orientait secrètement, polarisait vers l’au-delà les nostalgies de l’humanité souffrante. C’était sans doute une hérésie, mais pacifique, et par certains de ses aspects, très favorable à l’équilibre civilisateur. Cependant, du seul fait qu’elle s’opposait à la propagation de l’espèce et à la guerre, la société devait la persécuter. Ce fut Rome qui porta le fer et le feu dans les provinces gagnées à l’hérésie.</p>
           <p>En détruisant matériellement cette religion, l’Église romaine la condamnait à se propager sous la forme la plus ambiguë et peut-être la plus dangereuse. Traquée, refoulée et désorganisée, l’hérésie ne devait pas tarder à se dénaturer de mille manières. Les confusions qu’elle favorisait malgré elle, cette glorification de l’amour humain qui était l’envers de sa doctrine, ce langage d’une ambiguïté à la fois essentielle et opportune, qui permettait tous les abus, c’est cela qui allait échapper aux tribunaux de l’Inquisition, puis envahir la conscience européenne, même orthodoxe, et par une sorte d’ironie, donner sa rhétorique passionnelle au mysticisme des plus grands saints.</p>
           <p>Lorsque les mythes perdent leur caractère ésotérique et leur fonction sacrée, ils se résolvent en littérature. Le mythe courtois, mieux que tout autre, se prêtait à ce processus, puisqu’il n’avait pu se traduire que dans les termes de l’amour humain, bien qu’entendus au sens mystique. Ce sens évanoui restait une rhétorique. Elle pouvait exprimer nos instincts naturels, mais non sans les dévier, tout insensiblement, vers quelque au-delà de plus en plus mystérieux, apte à séduire le besoin d’<hi rend="i">idéal</hi>
@@ -2267,11 +2267,11 @@
       </div>
       <div n="V." type="chapter" xml:id="ddr19721100ao_07">
         <pb n="264" xml:id="p264"/>
-        <head type="kicker">Livre V</head>
-        <head>Amour et guerre</head>
+        <head><num>Livre V</num>
+<lb/>Amour et guerre</head>
         <div n="V.1." xml:id="V01">
-          <head type="kicker">1.</head>
-          <head>Parallélisme des formes</head>
+          <head><num>1.</num>
+<lb/>Parallélisme des formes</head>
           <p>Du désir à la mort par la <hi rend="i">passion</hi>, telle est la voie du romantisme occidental ; et nous y sommes tous engagés pour autant que nous sommes tributaires — inconsciemment bien entendu — d’un ensemble de mœurs et de coutumes dont la mystique courtoise a créé les symboles. Or passion signifie souffrance.</p>
           <p>Notre notion de l’amour, enveloppant celle que nous avons de la femme, se trouve donc liée à une notion de la <hi rend="i">souffrance féconde</hi> qui flatte ou légitime obscurément, au plus secret de la conscience occidentale, le goût de la guerre.</p>
           <p>Cette liaison singulière d’une certaine idée de la femme et d’une idée correspondante de la guerre, en Occident, entraîne de profondes conséquences pour la morale, l’éducation, la politique. Un fort gros livre ne serait pas de trop pour en démêler les aspects. On doit souhaiter que ce livre soit écrit, mais sans se dissimuler l’extrême difficulté de la tâche. Car en effet, pour la mener à bien, il s’agirait de posséder à fond la matière rapidement explorée dans les pages qui précèdent, puis une solide culture militaire, enfin la somme des recherches psychologiques entreprises depuis le <num>xix<hi rend="sup">e</hi></num> siècle sur la question de l’« instinct combatif »
@@ -2280,8 +2280,8 @@
           <p>On peut penser d’ailleurs que l’examen des <hi rend="i">formes</hi> n’est pas moins instructif, en ce domaine, que la recherche des <hi rend="i">causes</hi>, et qu’il est certainement moins trompeur. Il n’est pas nécessaire par exemple de recourir aux théories de Freud pour constater que l’instinct de guerre et l’érotisme sont fondamentalement liés : les figures courantes du langage le font <hi rend="i">voir</hi> avec plus d’évidence. Laissant donc de côté les hypothèses multiples et changeantes relatives à la genèse des instincts, je m’en tiendrai à quelques rapprochements formels entre les <hi rend="i">arts</hi> d’aimer et de guerroyer du <num>xii<hi rend="sup">e</hi></num> siècle jusqu’à nos jours. Mon propos étant simplement de marquer un parallélisme entre l’évolution du mythe et l’évolution de la guerre, sans préjuger d’ailleurs de la priorité de l’une ou de l’autre.</p>
         </div>
         <div n="V.2." xml:id="V02">
-          <head type="kicker">2.</head>
-          <head>Langage guerrier de l’amour</head>
+          <head><num>2.</num>
+<lb/>Langage guerrier de l’amour</head>
           <p>Dès l’Antiquité, les poètes ont usé de métaphores guerrières pour décrire les effets de l’amour naturel. Le dieu d’amour est un <hi rend="i">archer</hi> qui décoche des <hi rend="i">flèches mortelles</hi>. La femme se <hi rend="i">rend</hi> à l’homme qui la <hi rend="i">conquiert</hi> parce qu’il est le meilleur guerrier. L’enjeu de la guerre de Troie est la possession d’une femme. Et l’un des plus anciens romans que nous possédions, le <hi rend="i">Théagène et Chariclée</hi> d’Héliodore (<num>iii<hi rend="sup">e</hi></num> siècle) parle déjà des « <hi rend="i">luttes</hi> d’amour » et de la « délicieuse <hi rend="i">défaite</hi> » de celui « qui <hi rend="i">tombe sous les traits</hi> inévitables d’Éros ».</p>
           <p>Plutarque fait voir que la morale sexuelle des Spartiates s’ordonnait au rendement militaire de ce peuple. L’eugénisme de Lycurgue, et ses lois minutieuses réglant
             <pb n="266" xml:id="p266"/>
@@ -2297,8 +2297,8 @@
         </div>
         <div n="V.3." xml:id="V03">
           <pb n="268" xml:id="p268"/>
-          <head type="kicker">3.</head>
-          <head>La chevalerie, loi de l’amour et de la guerre</head>
+          <head><num>3.</num>
+<lb/>La chevalerie, loi de l’amour et de la guerre</head>
           <p>« Donner un style à l’amour », telle est, selon J. Huizinga, l’aspiration suprême de la société médiévale dans l’ordre éthique. « C’est une nécessité sociale, un besoin d’autant plus impérieux que les mœurs sont plus féroces. Il faut élever l’amour à la hauteur d’un rite, la violence débordante de la passion l’exige. À moins que les émotions ne se laissent encadrer dans des formes et des règles, c’est la barbarie. L’Église avait pour tâche de réprimer la brutalité et la licence du peuple, mais elle n’y suffisait pas. L’aristocratie, en dehors des préceptes de la religion, avait sa culture à elle, à savoir la courtoisie, et elle y puisait les normes de sa conduite. »<note resp="author"><hi rend="i">Le Déclin du Moyen Âge</hi> par <hi rend="sc">J. Huizinga</hi>. Cet ouvrage admirable par son information autant que par l’intelligence et la fécondité de ses vues critiques renouvelle notre conception du Moyen Âge en nous faisant pénétrer par mille chemins dans la vie quotidienne des bourgeois et des nobles de l’époque. Les passages entre guillemets de ce chapitre et du suivant sont des citations de la traduction française. (Paris, 1932.)</note> (Nous savons en effet que la courtoisie non seulement ne devait rien à l’Église, mais s’opposait à sa morale. Voilà qui peut nous inciter à réviser bien des jugements sur l’unité spirituelle de la société médiévale !) Or s’il est vrai que cette morale courtoise ne parvint guère à transformer les mœurs privées des hautes classes, qui demeuraient d’ « une rudesse étonnante », du moins joua-t-elle le rôle d’un idéal créateur de belles apparences. Elle triompha dans la littérature. Et par ailleurs, elle réussit à s’imposer à la réalité la plus violente du temps, celle de la guerre. Exemple unique d’un <hi rend="i">ars amandi</hi>, qui donne naissance à un <hi rend="i">ars bellandi</hi>.</p>
           <p>Ce n’est pas seulement dans le détail des règles de combat individuel que se fait sentir l’action de l’idéal chevaleresque, mais dans la conduite même des batailles, et jusque dans la politique. Le formalisme militaire revêt à cette époque une valeur d’absolu
             <pb n="269" xml:id="p269"/>
@@ -2310,8 +2310,8 @@
         </div>
         <div n="V.4." xml:id="V04">
           <pb n="271" xml:id="p271"/>
-          <head type="kicker">4.</head>
-          <head>Les tournois, ou le mythe en acte</head>
+          <head><num>4.</num>
+<lb/>Les tournois, ou le mythe en acte</head>
           <p>II est pourtant un domaine où s’opère la synthèse à peu près parfaite des instincts érotiques et guerriers et de la règle courtoise idéale : c’est le terrain nettement circonscrit de la <hi rend="i">lice</hi> où se jouent les tournois.</p>
           <p>Là, les fureurs du sang se donnent libre cours mais sous l’égide et dans les cadres symboliques d’une cérémonie sacrale. C’est un équivalent sportif de la fonction mythique du <hi rend="i">Tristan</hi> telle que nous la définissions : exprimer la passion dans toute sa force, mais en la voilant religieusement, de manière à la rendre acceptable au jugement de la société. Le tournoi « joue » le mythe, physiquement : — « Les transports de l’amour romanesque ne devaient pas seulement être présentés sous forme de lecture, mais surtout donnés en spectacle. Ce jeu peut revêtir deux formes : la représentation dramatique et le sport. Celui-ci est, au e, de beaucoup le plus important. Le drame ne traitait encore, en général, que la matière sacrée ; l’aventure amoureuse n’y était qu’exceptionnelle. Le sport médiéval, au contraire, et surtout le tournoi, était lui-même dramatique au plus haut point et contenait, en outre, une forte dose d’érotisme. Partout et toujours, le sport a associé ces deux facteurs : dramatiques et amoureux ; mais tandis que les sports modernes sont presque retournés à la simplicité grecque, le tournoi de la fin du Moyen Âge, avec ses riches ornements et sa mise en scène, pouvait remplir les fonctions du drame lui-même. »<note resp="author">Je serais assez tenté de voir dans la fonction dramatique du tournoi l’une des origines de la tragédie moderne. Celle-ci s’est constituée précisément à l’époque où les tournois passaient de mode, et où se dissociaient leurs éléments guerrier, sportif et théâtral. La tragédie serait ainsi une « action » privée du risque <hi rend="i">physique</hi> que comportait le tournoi mais satisfaisant d’autant mieux le besoin d’émotion sentimentale et spirituelle.</note></p>
           <p>
@@ -2332,8 +2332,8 @@
           <p>L’idée de valeur individuelle, ou d’exploit guerrier, représentée par le duel et la « prouesse » (tournoi, combat singulier des deux chefs en présence) ; l’idée de régler les batailles d’après un protocole quasi sacral ; la conception ascétique de la vie militaire (jeûnes prolongés avant l’épreuve des armes) ; les conventions permettant de déterminer le vainqueur (c’est par exemple celui qui <hi rend="i">passe la nuit</hi> sur le champ de bataille) ; enfin et surtout le parallélisme exact des symboles érotiques et militaires — tout cela ne cessera pas de déterminer les modes de guerroyer à travers les siècles suivants. Si bien que l’on pourra considérer tout changement dans la tactique militaire comme relatif à un changement dans les conceptions de l’amour, ou inversement.</p>
         </div>
         <div n="V.5." xml:id="V05">
-          <head type="kicker">5.</head>
-          <head>Condottieri et canons</head>
+          <head><num>5.</num>
+<lb/>Condottieri et canons</head>
           <p>« L’Italie n’avait jamais été si florissante ni si paisible qu’elle l’était vers l’année 1490. Une paix profonde régnait dans ses provinces : les montagnes et les plaines étaient également fertiles ; riche, bien peuplée et ne reconnaissant point de domination étrangère, elle tirait encore un nouveau lustre de la magnificence de plusieurs de ses Princes, de la beauté d’un grand nombre de
             <pb n="275" xml:id="p275"/>
              villes célèbres et de la majesté du Siège de la Religion. Les Sciences et les Arts fleurissaient dans son sein, elle possédait de grands hommes d’État, et même d’excellents capitaines pour ce temps-là. »<note resp="author"><hi rend="sc">Guichardin</hi>, <hi rend="i">Histoire des guerres d’Italie</hi>, I, p. 2.</note></p>
@@ -2354,8 +2354,8 @@
              manière dont on faisait alors la guerre en Italie », remarque Guichardin. Et ce n’était vraiment qu’un début ! Burckhardt affirme que les dévastations françaises furent peu de chose en comparaison de celles commises un peu plus tard par les Espagnols « chez lesquels peut-être un apport de sang non occidental, ou peut-être l’habitude des spectacles de l’Inquisition avaient déchaîné les instincts démoniaques ». Artillerie et massacre des civils : la guerre moderne venait de naître. Elle allait peu à peu transformer les chevaliers exaltés et magnifiques en troupes disciplinées et uniformes. Évolution qui devait aboutir de nos jours à l’annihilation de toute passion guerrière, à mesure que les hommes desservant les machines se feraient eux-mêmes des machines, n’exécutant qu’un petit nombre de mouvements automatiques, destinés à donner la mort à grande distance, sans colère ni pitié.</p>
         </div>
         <div n="V.6." xml:id="V06">
-          <head type="kicker">6.</head>
-          <head>La guerre classique</head>
+          <head><num>6.</num>
+<lb/>La guerre classique</head>
           <p>L’effort des hommes de guerre, aux <num>xvii<hi rend="sup">e</hi></num> et <num>xviii<hi rend="sup">e</hi></num> siècles, sera de dominer le monstre mécanique, afin de sauver autant que possible le caractère humain de la guerre. On ne peut pas renoncer aux inventions techniques, à l’artillerie, aux fortifications. Du moins va-t-on multiplier les <hi rend="i">règles</hi> de la tactique et de la stratégie, afin que l’intelligence, et la « valeur » des chefs gardent apparemment le premier rang parmi les facteurs de la lutte.</p>
           <p>La chevalerie représentait un effort pour donner un style à l’instinct. La guerre classique est un effort pour conserver et recréer ce style malgré l’intervention de facteurs inhumains. D’où le <hi rend="i">formalisme</hi> étonnant de l’art militaire de ces siècles.<note resp="author"><hi rend="sc">G. Ferrero</hi>, dans <hi rend="i">La Fin des aventures</hi>, note à juste titre qu’à la suite des dévastations qui marquèrent la guerre de Trente Ans, les armées s’imposèrent « des règles et des limites qui répondaient en même temps à un principe moral et à une nécessité pratique ». Il s’agissait d’éviter des dépenses excessives — les hommes coûtant cher — et de ne pas effrayer les peuples au point de rendre impossible tout recrutement des volontaires…</note></p>
           <p>
@@ -2374,8 +2374,8 @@
         </div>
         <div n="V.7." xml:id="V07">
           <pb n="281" xml:id="p281"/>
-          <head type="kicker">7.</head>
-          <head>La guerre en dentelles</head>
+          <head><num>7.</num>
+<lb/>La guerre en dentelles</head>
           <p>L’exemple du <num>xviii<hi rend="sup">e</hi></num> siècle est le plus propre à illustrer le parallèle de l’amour et de la guerre. Il suffira de quelques touches pour l’indiquer.</p>
           <p>Don Juan succède à Tristan, la volupté perverse à la passion mortelle. Et la guerre en même temps se « profanise » : aux Jugements de Dieu, à la chevalerie sacrée, bardée de fer, ascétique et sanglante, succède une diplomatie retorse, une armée commandée par des courtisans en dentelles, libertins et bien décidés à sauver « la douceur de vivre ».</p>
           <p>Les légendes épiques et les romans de la Table ronde multiplient les récits de tueries inouïes ; la gloire d’un chevalier est faite du nombre de ses adversaires pourfendus et décapités, et si possible tranchés en deux de la tête au sexe d’un formidable coup d’épée. Les exagérations sauvages de ces récits ne laissent pas de doute sur ce qui flatte la vraie passion de l’homme du Moyen Âge. Gloire du sang ! Mais le <num>xviii<hi rend="sup">e</hi></num> siècle considéra comme une réussite glorieuse d’avoir pris une ville assiégée et ne faisant de part et d’autre que trois morts. C’est l’art savant qui est à l’honneur. Maurice de Saxe écrit : « Je ne suis point pour les batailles, surtout au début d’une guerre. Je suis persuadé qu’un bon général pourra la faire <hi rend="i">toute sa vie</hi> sans s’y voir obligé. »</p>
@@ -2391,8 +2391,8 @@
              insinuants que Bernis, parmi cette petite bande d’hommes qui font de la séduction de la femme le but de leurs pensées et la grande affaire de leur vie… Que de combinaisons de romancier et de stratégiste ! Pas un n’attaque une femme sans avoir fait ce qu’on appelle un <hi rend="i">plan</hi>, sans avoir passé la nuit à se promener et à retourner la position… Et l’attaque commencée, ils sont jusqu’au bout des comédiens étonnants, pareils à ces livres du temps dans lesquels il n’y a pas un sentiment exprimé qui ne soit feint ou dissimulé… « N’omettre rien », c’est le précepte de l’un d’eux.<note resp="author">E. et J. de <hi rend="sc">Concourt</hi>, <title>La Femme au <num>xviii<hi rend="sup">e</hi></num> siècle</title>.</note> » Devise de général, que les Soubise, par malheur, n’oubliaient guère que sur le champ de bataille.</p>
         </div>
         <div n="V.8." xml:id="V08">
-          <head type="kicker">8.</head>
-          <head>La guerre révolutionnaire</head>
+          <head><num>8.</num>
+<lb/>La guerre révolutionnaire</head>
           <p>Entre Rousseau et le romantisme allemand, c’est-à-dire entre le premier réveil du mythe et son épanouissement orageux, il y a la Révolution française et les campagnes de Bonaparte, c’est-à-dire le retour dans la guerre de la passion catastrophique.</p>
           <p>Du point de vue proprement militaire, qu’apportait la Révolution ? « Un déchaînement de passion inconnu avant elle », répond Foch. L’hérésie de l’ancienne école, précise-t-il, c’était d’avoir voulu « faire de la guerre une <hi rend="i">science exacte</hi>, méconnaissant sa nature même de <hi rend="i">drame effrayant et passionné</hi> (Jomini) ».</p>
           <p>On sait par ailleurs quelle explosion de sentimentalisme précéda et accompagna la Révolution, phénomène beaucoup plus passionnel que politique, au sens strict du terme.<note resp="author">Sur le sentimentalisme humanitaire qui accompagna la Terreur, voir le très curieux ouvrage d’André <hi rend="sc">Monglond</hi>, <hi rend="i">Le Préromantisme français</hi>.</note> Longtemps contenue dans les formes classiques de la guerre, la violence, après le meurtre du
@@ -2412,8 +2412,8 @@
           <p>Ce qui est certain, c’est que Napoléon fut le premier à tenir compte du facteur passionnel dans la conduite des batailles. D’où ce cri d’un des généraux qu’il venait de battre en Italie : « Il n’est pas possible de méconnaître, comme ce Bonaparte, les principes les plus élémentaires de l’art de guerre. »</p>
         </div>
         <div n="V.9." xml:id="V09">
-          <head type="kicker">9.</head>
-          <head>La guerre nationale</head>
+          <head><num>9.</num>
+<lb/>La guerre nationale</head>
           <p>À partir de la Révolution, l’on va se battre « avec le cœur des soldats » c’est-à-dire d’une façon « farouche et tragique » (Foch). Il faudrait préciser : ce n’est pas le cœur de chaque soldat considéré comme un héros qui décidera du sort d’une guerre, mais bien le cœur collectif, si l’on ose dire, la puissance passionnelle de la Nation.</p>
           <p>Les poètes romantiques jouèrent un rôle notable dans les guerres de libération que mena la Prusse contre Napoléon. Et les philosophies d’essence passionnelle d’un Fichte et d’un Hegel, par exemple, furent les premiers appuis du nationalisme allemand. D’où le caractère de plus en plus sanglant des guerres du <num>xix<hi rend="sup">e</hi></num> siècle. Il ne s’agit plus d’intérêts, mais de « religions » antagonistes. Or les religions ne transigent point, à l’inverse des intérêts : elles préfèrent la mort héroïque. (De tous temps les guerres de religion ont été de beaucoup les plus violentes.)</p>
           <p>Ceci vaut pour les trois premiers quarts du siècle et particulièrement pour la période qui va de 1848 à 1870. Après quoi, les passions nationales, provisoirement apaisées, le céderont pendant quarante ans aux entreprises du capitalisme et du commerce. La violence ne
@@ -2429,8 +2429,8 @@
         </div>
         <div n="V.10." xml:id="V10">
           <pb n="289" xml:id="p289"/>
-          <head type="kicker">10.</head>
-          <head>La guerre totale</head>
+          <head><num>10.</num>
+<lb/>La guerre totale</head>
           <p>À partir de Verdun, que les Allemands baptisent la Bataille du matériel (<hi rend="i">Materialschlacht</hi>), il semble que le parallélisme institué par la chevalerie entre les <hi rend="i">formes</hi> de l’amour et de la guerre, soit rompu.</p>
           <p>Certes, le but concret de la guerre fut toujours de forcer la résistance ennemie, en détruisant sa force armée. (Forcer la résistance de la femme par la séduction, c’est la paix ; par le viol, c’est la guerre.) Mais pour autant, l’on ne détruisait pas la nation même dont on voulait se rendre maître : on se bornait à réduire ses défenses. Bataille rangée contre une armée de métier, siège des ouvrages fortifiés, capture du chef : un système de règles précises, donc un art, désignait le vainqueur. Et ce vainqueur triomphait d’un <hi rend="i">vivant</hi>, d’un pays ou d’un peuple encore désirables. L’intervention d’une technique inhumaine, qui met en œuvre toutes les forces d’un État, changea la face de la guerre à Verdun.</p>
           <p>Car dès que la guerre devient « totale » — et non plus seulement militaire — la destruction des résistances armées signifie l’anéantissement des forces vives de l’ennemi : des ouvriers embrigadés dans les usines, des mères qui procréent des soldats, bref de tous les « moyens de production », choses et personnes assimilées. La guerre n’est plus un viol mais un assassinat de l’objet convoité et hostile — c’est-à-dire un acte « total », détruisant cet objet au lieu de s’en emparer. Verdun ne fut d’ailleurs qu’un prodrome de cette guerre nouvelle, puisque le procédé se limita à la destruction méthodique d’un million de <hi rend="i">soldats</hi>, non de civils. Mais ce <hi rend="i">Kriegspiel</hi> permit de mettre au point un instrument qui, par la suite, devait se trouver en mesure d’opérer sur des étendues bien plus vastes, comme Londres et Berlin ; non plus seulement sur de la chair à canon, mais sur la chair qui fabrique les canons, ce qui est évidemment plus efficace.</p>
@@ -2446,8 +2446,8 @@
         </div>
         <div n="V.11." xml:id="V11">
           <pb n="292" xml:id="p292"/>
-          <head type="kicker">11.</head>
-          <head>La passion transportée dans la politique</head>
+          <head><num>11.</num>
+<lb/>La passion transportée dans la politique</head>
           <p>Chassée du champ de la guerre chevaleresque, lorsque ce champ cesse d’être clos comme doit l’être un terrain de jeu, et qu’il n’est plus une lice décorée de symboles, mais un secteur de bombardement — la passion a cherché et trouvé d’autres modes d’expression en actes.</p>
           <p>Elle y était d’ailleurs contrainte par la dépréciation des résistances morales et privées, non moins que par la dénaturation de la guerre. D’une part, dans les pays démocratiques, les mœurs se sont assouplies à tel point qu’elles tendent à n’offrir plus d’<hi rend="i">obstacles</hi> absolus, donc exaltants pour la passion ; d’autre part, dans les pays totalitaires, le dressage des jeunes par l’État tend à éliminer de la vie privée toute espèce de tragique intime et de problématique sentimentale. L’anarchie des mœurs et l’hygiène autoritaire agissent à peu près dans le même sens : elles déçoivent le besoin de passion, héréditaire ou acquis par la culture ; elles détendent ses ressorts intimes et personnels.</p>
           <p>L’amour, dans l’entre-deux-guerres, fut un curieux mélange d’intellectualisme angoissé (littérature de l’inquiétude et de l’anarchie bourgeoise) et de cynisme matérialiste (<hi rend="i">Neue Sachlichkeit</hi> des Allemands). L’on vit bien que la passion romantique ne trouvait plus de quoi se composer un mythe ; ne trouvait plus de résistances choisies au sein d’une atmosphère d’orageuse et secrète dévotion. La crainte morbide des entraînements « naïfs » et des « duperies du cœur », alliée à un désir fébrile d’aventure, voilà le climat des principaux romans de cette période. Et cela signifie sans équivoque que <hi rend="i">les relations individuelles des sexes ont cessé d’être le lieu par excellence où se réalise la passion</hi>. Celle-ci paraît se détacher de son support. Nous sommes entrés dans l’ère des <hi rend="i">libidos</hi> errantes, en quête d’un théâtre nouveau. Et le premier qui s’est offert, c’est le théâtre politique.</p>
@@ -2479,11 +2479,11 @@
       </div>
       <div n="VI." type="chapter" xml:id="ddr19721100ao_08">
         <pb n="297" xml:id="p297"/>
-        <head type="kicker">Livre VI</head>
-        <head>Le mythe contre le mariage</head>
+        <head><num>Livre VI</num>
+<lb/>Le mythe contre le mariage</head>
         <div n="VI.1." xml:id="VI01">
-          <head type="kicker">1.</head>
-          <head>Crise moderne du mariage</head>
+          <head><num>1.</num>
+<lb/>Crise moderne du mariage</head>
           <p>Deux morales s’affrontaient au Moyen Âge : celle de la société christianisée, et celle de la courtoisie hérétique. L’une impliquait le mariage, dont elle fit même un sacrement ; l’autre exaltait un ensemble de valeurs d’où résultait — en principe tout au moins — la condamnation du mariage.</p>
           <p>Le jugement porté sur l’adultère, dans l’une et l’autre perspective, caractérise fort bien l’opposition. Aux yeux de l’Église, l’adultère était tout à la fois un sacrilège, un crime contre l’ordre naturel et un crime contre l’ordre social. Car le sacrement unissait tout à la fois deux âmes fidèles, deux corps aptes à procréer, et deux personnes juridiques. Il se trouvait donc sanctifier les intérêts fondamentaux de l’espèce et les intérêts de la cité. Celui qui contrevenait à ce triple engagement ne se rendait pas « intéressant », mais pitoyable ou méprisable.</p>
           <p>La synthèse catholique s’efforçait de marier l’eau et le feu, car on pouvait tirer des Écritures et des Pères les thèses les plus contradictoires sur la sainteté de la procréation — loi de l’espèce — et sur la sainteté de la virginité — loi de l’esprit. Pour l’Ancien Testament, par exemple, une descendance nombreuse est signe d’élection
@@ -2512,8 +2512,8 @@
           <p>Cette dépréciation générale des obstacles institutionnels entraîne une chute de tension morale d’où résulte une immense confusion. L’adultère devient un sujet de délicates analyses psychologiques, ou de plaisanteries vaudevillesques. La fidélité dans le mariage paraît légèrement ridicule : elle prend figure de conformisme. Il n’y a plus, à proprement parler, <hi rend="i">conflit</hi> de deux morales hostiles — et par suite plus de mythe possible — mais on approche d’un état de neutralisation mutuelle au terme de la consomption des vieilles valeurs non transcendées mais déprimées.</p>
         </div>
         <div n="VI.2." xml:id="VI02">
-          <head type="kicker">2.</head>
-          <head>Idée moderne du bonheur</head>
+          <head><num>2.</num>
+<lb/>Idée moderne du bonheur</head>
           <p>Le mariage cessant d’être garanti par un système de contraintes sociales ne peut plus se fonder, désormais, que sur des déterminations individuelles. C’est-à-dire qu’il repose en fait sur une idée individuelle du bonheur, idée que l’on suppose commune aux deux conjoints dans le cas le plus favorable.</p>
           <p>Or s’il est assez difficile de définir en général le bonheur, le problème devient insoluble dès que s’y ajoute la volonté moderne d’être le maître de son bonheur, ou ce qui revient peut-être au même, de <hi rend="i">sentir</hi> de quoi il est fait, de l’analyser et de le goûter afin de pouvoir l’améliorer
             <pb n="303" xml:id="p303"/>
@@ -2522,8 +2522,8 @@
           <p>Ou l’ennui résigné ou la passion : tel est le dilemme qu’introduit dans nos vies l’idée moderne du bonheur. Cela va de toute manière à la ruine du mariage en tant qu’institution sociale définie par la <hi rend="i">stabilité</hi>.</p>
         </div>
         <div n="VI.3." xml:id="VI03">
-          <head type="kicker">3.</head>
-          <head>« Aimer, c’est vivre ! »</head>
+          <head><num>3.</num>
+<lb/>« Aimer, c’est vivre ! »</head>
           <p>Dès le <num>xii<hi rend="sup">e</hi></num> siècle provençal, l’amour était considéré comme noble. Non seulement il ennoblissait mais
             <pb n="304" xml:id="p304"/>
              encore il anoblissait : les troubadours accédaient socialement au niveau de l’aristocratie qui les traitait comme des égaux. C’est peut-être de là que nous vient, par le canal de la littérature, cette idée toute moderne et romantique que la passion est une noblesse morale, qu’elle nous met au-dessus des lois et des coutumes. Celui qui aime de passion accède à une humanité plus haute, où les barrières sociales s’évanouissent. Le Tzigane peut enlever la princesse, le mécano épouser l’héritière<note resp="author">L’aventure fameuse de la princesse de C… donna lieu au début du siècle à toute une littérature romanesque. Quant au thème de l’ouvrier ou du chauffeur qui « mérite » la fille du patron, il fut abondamment exploité par le film allemand, sous l’hitlérisme.</note>. De même, le Prix de Beauté a quelque chance de devenir comtesse ou milliardaire. C’est une « adaptation » moderne — pour parler le langage du cinéma, seul adéquat en l’occurrence — de la primauté de l’amour sur l’ordre social établi.</p>
@@ -2544,8 +2544,8 @@
              L’homme qui croit désirer « son » type de femme se trouve intimement déterminé par des facteurs de mode ou de commerce, c’est-à-dire par la nouveauté.</p>
         </div>
         <div n="VI.4." xml:id="VI04">
-          <head type="kicker">4.</head>
-          <head>Épouser Iseut ?</head>
+          <head><num>4.</num>
+<lb/>Épouser Iseut ?</head>
           <p>Supposons maintenant que, malgré tout, l’homme parvienne à se fixer sur un type, compromis entre ce qu’il aime et ce que le film le persuade d’aimer Il rencontre cette femme, il la reconnaît. C’est elle, la femme de son désir et de sa plus secrète nostalgie, l’Iseut du rêve<note resp="author">Le titre d’un roman de Max <hi rend="sc">Brod</hi>, <hi rend="i">Die Frau nach der man sich sehnt</hi> (la femme que l’on désire, la femme de notre nostalgie), est la meilleure définition d’Iseut. L’amour-passion veut « la Princesse <hi rend="i">lointaine</hi> » tandis que l’amour chrétien s’adresse au « <hi rend="i">prochain</hi> ». </note> ; elle est mariée, naturellement. Qu’elle divorce, et il l’épousera ! Avec elle, ce sera la « vraie vie », ce sera l’épanouissement de ce Tristan qu’il porte en soi comme son génie caché ! Et plus rien ne compte en regard de la révélation mythique. (Pas même la couronne s’il est roi.) Voilà le vrai « mariage d’amour » moderne : le mariage avec la passion !</p>
           <p>Mais aussitôt paraît une anxiété dans l’entourage (ou le public) : l’amant comblé va-t-il encore aimer cette Iseut <hi rend="i">une fois épousée</hi> ? Une nostalgie que l’on chérissait est-elle encore désirable une fois rejointe ?</p>
           <p>Car Iseut, c’est toujours l’étrangère, l’étrangeté même de la femme, et tout ce qu’il y a d’éternellement fuyant, évanouissant et presque hostile dans un être, cela même qui invite à la poursuite et qui éveille l’avidité de posséder, plus délicieuse que toute possession au cœur de l’homme en proie au mythe. C’est la femme-dont-on-est-séparé : on la perd en la possédant.</p>
@@ -2569,8 +2569,8 @@
           <p>Certes, il serait excessif d’estimer que la plupart de nos contemporains sont en proie au délire de Tristan. Bien peu ont assez soif pour boire le philtre, et j’en vois moins encore être élus par le sort pour succomber au tourment exemplaire. Mais tous ou presque tous en rêvent, ou en rêvassent. Et si brouillée, et défraîchie que soit l’empreinte du mythe primitif, c’est pourtant là qu’est le secret de l’inquiétude qui tourmente aujourd’hui les couples. Rien ne répugne autant à un esprit moderne que l’idée d’une limitation volontairement assumée ; et rien ne le flatte davantage que le mirage d’infini dépassement entretenu par le souvenir du mythe. Essayer de <hi rend="i">prendre conscience</hi> de la nature du phénomène, c’est à quoi se résume l’ambition des analyses qui précèdent ; mais je sens bien qu’elles m’ont porté déjà aux limites du désobligeant : nous aimons trop nos illusions pour souffrir même qu’on nous les nomme…</p>
         </div>
         <div n="VI.5." xml:id="VI05">
-          <head type="kicker">5.</head>
-          <head>De l’anarchie à l’eugénisme</head>
+          <head><num>5.</num>
+<lb/>De l’anarchie à l’eugénisme</head>
           <p>Cependant, l’anarchie permanente que représente le mariage moderne fondé — par antiphrase — sur les
             <pb n="311" xml:id="p311"/>
              débris du mythe, entraîne des menaces évidemment intolérables pour tout ordre <hi rend="i">social</hi>, quel qu’il soit. (Et je ne parle même pas du danger spirituel que fait courir à la personne l’éthique de l’évasion, qui est née du mythe.) D’où les multiples tentatives de « restauration » du mariage auxquelles nous avons assisté depuis la Première Guerre mondiale, début de l’ère totalitaire.</p>
@@ -2596,8 +2596,8 @@
              réussir, là où toutes nos morales échouent, entraînant l’effective abolition du besoin « spirituel », et donc artificiel, de la passion. Alors le cycle de l’amour courtois sera fermé. L’Europe de la passion aura vécu. Un Occident nouveau, imprévisible, naîtra dans les laboratoires.</p>
         </div>
         <div n="VI.6." xml:id="VI06">
-          <head type="kicker">6.</head>
-          <head>Sens de la crise</head>
+          <head><num>6.</num>
+<lb/>Sens de la crise</head>
           <p>Pour mieux voir notre état, regardons l’Amérique — cette Europe délivrée de ses routines, mais aussi de ses freins traditionnels. Nulle autre civilisation connue, depuis près de sept-mille ans qu’elles se succèdent, n’a donné à « l’amour » nommé <hi rend="i">romance</hi><note resp="author">Terme difficile à traduire, bien qu’il rappelle précisément les origines <hi rend="i">romanes</hi> (troubadours et trouvères) du sentiment qu’il désigne. C’est une combinaison à doses variables de sentimentalisme et de sexualité, de jeu et de tragique à bon marché, de <hi rend="i">glamour</hi> et de désir instinctif, de morale conformiste et d’aventure personnelle. C’est Hollywood.</note> cette publicité quotidienne : par l’écran, par l’affiche, par le texte et les annonces des magazines, par les chansons et les images, par la morale courante et ce qui la défie. Nulle autre non plus n’a tenté avec cette naïve assurance l’entreprise périlleuse de faire coïncider le mariage et « l’amour » ainsi compris, et de baser le premier sur le second.</p>
           <p>Pendant une grève des téléphones, en 1947, les opératrices de la petite ville de White Plains reçurent l’appel suivant : « Mon amie et moi voulons nous marier. Nous essayons de trouver un juge de paix. N’est-ce pas une urgence »<note resp="author"><hi rend="i">My girl and I want to get married. We’re trying to locate a Justice of peace. Is it an emergency ?</hi> Et le titre : <hi rend="i">Love is classified as an emergency</hi>.</note> ? Les opératrices décidèrent aussitôt que c’en était une. Et le journal qui rapportait l’histoire l’intitula : <hi rend="i">L’Amour est classé parmi les cas d’urgence</hi>. Ce petit fait banal illustre des croyances toutes naturelles pour un Américain : c’est
             <pb n="317" xml:id="p317"/>
@@ -2626,11 +2626,11 @@
       </div>
       <div n="VII." type="chapter" xml:id="ddr19721100ao_09">
         <pb n="322" xml:id="p322"/>
-        <head type="kicker">Livre VII</head>
-        <head>L’amour action, ou de la fidélité</head>
+        <head><num>Livre VII</num>
+<lb/>L’amour action, ou de la fidélité</head>
         <div n="VII.1." xml:id="VII01">
-          <head type="kicker">1.</head>
-          <head>Nécessité d’un parti pris</head>
+          <head><num>1.</num>
+<lb/>Nécessité d’un parti pris</head>
           <p>À l’heure où cet ouvrage touche à sa conclusion, il me semble que son dessein le plus secret m’échappe encore. L’aveu sera jugé insolite. Mais je pressens d’assez profondes raisons de le consentir. J’ai voulu décrire la passion comme une entité historique, née dans un temps et dans des lieux déterminés, et sous les astres dont le cours est calculable. J’ai cru cerner le secret du mythe. La découverte n’est pas négligeable. Mais peut-on décrire la passion ? On ne décrit pas une forme d’existence sans y participer, fût-ce même par une révolte contre la décision dont elle est née. Et pour tout dire, j’ignore encore si cela peut avoir un sens : approuver ou rejeter la passion. Combien serait vaine l’attitude intellectuelle qui se définirait elle-même comme une condamnation de la passion : il suffit, pour l’apercevoir, d’observer que la passion, quelle qu’elle soit, ne peut ni ne veut « avoir raison ». Contre elle, on a <hi rend="i">toujours</hi> raison, dès l’instant qu’on parle raison. Car l’homme de la passion est justement celui qui choisit d’être dans son tort, aux yeux du monde — et dans ce tort majeur, irrévocable, que signifie le choix de la mort contre la vie.</p>
           <p>Et comment échapper au démon que l’on fixe d’un œil fasciné ? Pour attaquer la passion dans l’amour il
             <pb n="323" xml:id="p323"/>
@@ -2643,8 +2643,8 @@
              homme déterminé — de connaître ses propres désirs et de sonder en vérité ses préférences les plus secrètes, du moins peut-il connaître ses actions, et reconnaître à leurs effets les décisions qu’il a risquées. C’est donc un parti pris tout personnel que je vais tenter de définir maintenant, et après coup, tel que je le reconnais dans ma vie. Et ce n’est à aucun degré une solution que je propose. Car outre qu’une telle solution probablement n’existe pas, si elle existait ce serait pour moi seul : on ne se décide jamais que pour son compte — et le reste est indiscrétion. Mais je ne pouvais écrire un livre entier sur la passion sans <hi rend="i">achever</hi> ma description par ce trait qui enfin la situe, non dans l’abstrait où la passion ne peut exister — et alors en parler n’est qu’un jeu — mais dans le choix qui détermine une existence.</p>
         </div>
         <div n="VII.2." xml:id="VII02">
-          <head type="kicker">2.</head>
-          <head>Critique du mariage</head>
+          <head><num>2.</num>
+<lb/>Critique du mariage</head>
           <p>Si je ne vois pas de raison qui tienne contre la passion véritable, il m’apparaît en second lieu que la raison n’est guère plus efficace pour légitimer le mariage ; et que les arguments les plus divers que lui opposent les meilleurs esprits demeurent <hi rend="i">absolument</hi> valables.</p>
           <p>De tout temps, les raisons du philistin ont eu mauvaise conscience devant les ironies du romantique. Mais elles sont mises en pleine déroute par la simple véracité. La fameuse « paix du foyer » n’existe guère qu’au niveau d’une certaine éloquence moyenne, politicienne, bourgeoise ou édifiante. Tolstoï, lui, la décrit comme un « enfer ». Et je lui fais un plus large crédit ! Étant donné que les humains des deux sexes, pris un à un, sont généralement des coquins — ou des névrosés, pourquoi seraient-ils des anges une fois appariés ? Ignore-t-on la réalité, ou n’a-t-on rien à dire de plus sérieux ? Poussez la première porte venue ! Ce silence que l’épouse est censée ménager autour du vaillant travailleur qui rentre le soir, harassé, se retremper dans la paix familiale, vous verrez que cela va, neuf fois sur
             <pb n="325" xml:id="p325"/>
@@ -2669,8 +2669,8 @@
           <p>Mais si je sais que l’Apôtre a raison, et si je l’accepte, je considère alors l’équilibre imparfait du mariage dans une perspective ouverte et dans l’attente — heureuse ou malheureuse — du parfait. Je sais que je tente une entreprise <hi rend="i">folle</hi> (et en même temps toute naturelle !) pour vivre le parfait dans l’imparfait. Mais je sais néanmoins que cet effort porte en lui-même une vérité imperturbable, s’il témoigne sans cesse en faveur de ce qui transcende tout résultat, même excellent.</p>
         </div>
         <div n="VII.3." xml:id="VII03">
-          <head type="kicker">3.</head>
-          <head>Le mariage comme décision</head>
+          <head><num>3.</num>
+<lb/>Le mariage comme décision</head>
           <p>Si l’on songe à ce que signifie le choix d’une femme <hi rend="i">pour toute la vie</hi>, l’on en vient à cette conclusion : choisir une femme, c’est parier.</p>
           <p>Or la sagesse populaire et bourgeoise recommande au jeune homme de « réfléchir » avant de prendre une décision : elle l’entretient ainsi dans l’illusion que le choix d’une femme dépend d’un certain nombre de raisons qu’il serait possible de peser. Cette erreur du bon sens est tout à fait grossière. Vous aurez beau tenter de mettre au départ toutes les chances de votre côté — et je suppose que la vie vous laisse le temps de calculer — jamais vous ne pourrez prévoir votre future évolution, et encore moins celle de l’épouse choisie, encore bien moins celle du couple formé. Les facteurs mis en jeu sont trop hétéroclites. À supposer que vous puissiez les calculer dans le présent (comme si leur nombre était fini) et que vous disposiez d’une telle science de l’humain que leurs valeurs vous soient connues et leur hiérarchie évidente, encore ne sauriez-vous prévoir la fin d’une union faite en connaissance de <hi rend="i">causes</hi>. Il a fallu,
             <pb n="328" xml:id="p328"/>
@@ -2689,8 +2689,8 @@
           <p>Seule une décision de cet ordre, irrationnelle mais non sentimentale, sobre mais sans aucun cynisme, peut servir de point de départ à une fidélité réelle ; et je ne dis pas à une fidélité qui soit une recette de « bonheur », mais bien à une fidélité qui soit possible, n’étant pas compromise en germe par un calcul forcément inexact.</p>
         </div>
         <div n="VII.4." xml:id="VII04">
-          <head type="kicker">4.</head>
-          <head>Sur la fidélité</head>
+          <head><num>4.</num>
+<lb/>Sur la fidélité</head>
           <p>On fausse l’éthique du mariage en faisant de la promesse de fidélité un problème, alors que le problème ne devrait se poser <hi rend="i">qu’à partir</hi> de cette promesse, considérée comme absolue. La problématique du mariage n’est pas du <hi rend="i">cur</hi>, mais du <hi rend="i">quomodo</hi>. « L’éthique ne commence pas, dit Kierkegaard, dans une ignorance qu’il faudrait muer en savoir, mais dans un savoir qui exige sa réalisation. » Ce n’est pas l’engagement qui est problématique, mais les conséquences qu’il entraîne. (De même on fausse la théologie en partant du « problème de Dieu » — exactement comme si l’on ne croyait pas — alors que le seul <hi rend="i">vrai</hi> problème est de savoir comment Lui obéir.)</p>
           <p>Car la fidélité est sans raisons — ou elle n’est pas — comme tout ce qui porte une chance de grandeur. (Comme la passion !)</p>
           <p>Les moralistes et certains sociologues ont essayé de prouver que la monogamie est naturelle, et de plus qu’elle est salutaire. Cela se discute à l’infini. Et cela nous sera des plus utiles dès que les hommes se régleront sur la raison et l’intérêt : quand ils n’auront plus de passions, quand ils cesseront de préférer l’erreur comme telle, quand ils cesseront de mériter cet inquiétant nom d’homme, au sens actuel.</p>
@@ -2726,8 +2726,8 @@
              d’un état où l’on se trouve aujourd’hui ; mais il peut et il doit impliquer l’avenir d’actes conscients que l’on assume : aimer, rester fidèle, éduquer ses enfants. On voit ici combien sont différents les sens du mot aimer dans le monde de l’Éros et dans le monde de l’Agapè. On le voit mieux encore si l’on constate que le Dieu de l’Écriture nous <hi rend="i">ordonne</hi> d’aimer. Le premier commandant du Décalogue : « Tu aimeras le Seigneur ton Dieu de tout ton cœur, de toute ton âme et de toute ta pensée » ne saurait concerner que des actes. Il serait totalement absurde d’exiger de l’homme un état de sentiment. L’impératif : « Aime Dieu et ton prochain comme toi-même » crée des structures de relations actives. L’impératif : « Sois amoureux ! » serait vide de sens ; ou s’il était réalisable, priverait l’homme de sa liberté.</p>
         </div>
         <div n="VII.5." xml:id="VII05">
-          <head type="kicker">5.</head>
-          <head>Éros sauvé par Agapè</head>
+          <head><num>5.</num>
+<lb/>Éros sauvé par Agapè</head>
           <p>Alors l’amour de charité, l’amour chrétien, qui est Agapè, paraît enfin dans sa pleine stature : il est l’affirmation de l’être en acte. Et c’est Éros, l’amour-passion, l’amour païen, qui a répandu dans notre monde occidental le poison de l’ascèse idéaliste — tout ce qu’un Nietzsche injustement reproche au christianisme. C’est Éros, et non pas Agapè, qui a glorifié notre instinct de mort, et qui a voulu l’« idéaliser ». Mais Agapè se venge d’Éros en le sauvant. Car Agapè ne sait pas détruire et ne veut même pas détruire ce qui détruit.</p>
           <quote>
             <l>Je ne veux pas la mort du pécheur, mais sa vie.</l>
@@ -2763,8 +2763,8 @@
           <p>Et nous pourrons maintenant dépasser la formule toute négative et privative de Croce, et définir enfin le mariage comme cette <hi rend="i">institution qui contient la passion non plus par la morale, mais par l’amour</hi>.</p>
         </div>
         <div n="VII.6." xml:id="VII06">
-          <head type="kicker">6.</head>
-          <head>Les paradoxes de l’Occident</head>
+          <head><num>6.</num>
+<lb/>Les paradoxes de l’Occident</head>
           <p>Ces quelques remarques sur la passion et le mariage mettent en lumière l’opposition fondamentale de l’Éros et de l’Agapè, c’est-à-dire des deux religions qui se disputent notre Occident.</p>
           <p>
             <pb n="342" xml:id="p342"/>
@@ -2795,8 +2795,8 @@
              la passion. C’est <hi rend="i">notre</hi> vie et <hi rend="i">notre</hi> mort. Et c’est pourquoi la crise moderne du mariage est le signe le moins trompeur d’une décadence occidentale. Il est en d’autres, certes, dans les domaines les plus divers : le culte du nombre, la poésie de l’évasion, l’envahissement de la culture par les passions nationalistes : tout ce qui tend à ruiner la personne. Mais ce sont là des phénomènes complexes et collectifs, qui échappent souvent aux prises individuelles. Le signe de la crise du mariage nous parle et nous avertit mieux : aucun n’est plus sensible et quotidien, plus intimement vérifiable.</p>
         </div>
         <div n="VII.7." xml:id="VII07">
-          <head type="kicker">7.</head>
-          <head>Au-delà de la tragédie</head>
+          <head><num>7.</num>
+<lb/>Au-delà de la tragédie</head>
           <p>Cet ouvrage, à bien des égards, peut apparaître comme le bilan d’une décadence : mythe dégradé, mariage en crise, formes et conventions décriées, extension du délire passionnel aux domaines où il peut entraîner la destruction de notre civilisation. Tout cela est, tout cela nous menace, et d’autant plus qu’on voudrait le nier. Cependant, à plusieurs reprises, la connaissance de ces périls nous a fait entrevoir des possibilités de les surmonter. Par exemple, il se peut que l’Europe, après une crise totalitaire (et supposé qu’elle n’y succombe point), retrouve le sens d’une fidélité gagée au moins sur des institutions solides, à la mesure de la personne. Il se peut que les excès mêmes de la passion provoquent des résistances, c’est-à-dire des <hi rend="i">formes</hi> nouvelles, ramenant alors un âge classique…</p>
           <p>Mais après tout, n’est-ce pas encore une tentation de la passion que ce souci des lendemains qui obsède aujourd’hui tant de fronts ? Notre vie ne se joue pas dans l’au-delà temporel, mais dans les décisions toujours actuelles qui fondent notre fidélité. Quoi qu’il arrive, heur ou malheur, le sort du monde nous importe bien moins que la connaissance de nos devoirs présents. Car « la figure de ce monde passe », mais notre
             <pb n="347" xml:id="p347"/>
@@ -2832,15 +2832,15 @@
         <pb n="353" xml:id="p353"/>
         <head>Appendices</head>
         <div n="i." xml:id="app1">
-          <head type="kicker">1.</head>
-          <head>Caractère sacré de la légende</head>
+          <head><num>1.</num>
+<lb/>Caractère sacré de la légende</head>
           <p>Pour éviter tout malentendu, je préciserai ici que mon analyse se borne à la légende <hi rend="i">écrite</hi> de Tristan. C’est d’elle seule que je parle quand je parle du mythe « primitif ». Il serait aisé de se prévaloir du caractère sacré que certains auteurs du siècle dernier ont cru pouvoir attribuer aux personnages de Tristan et d’Iseut (ou <hi rend="i">Essylt</hi>) dans la mythologie celtique. Dès le <num>vii<hi rend="sup">e</hi></num> siècle, Tristan aurait été un demi-dieu, le héraut symbolique des mystères, le « gardien des marcassins sacrés », c’est-à-dire des élèves des druides, rival de son oncle Markh, le roi-cheval, et amant d’Essylt, dont on a pu supposer que le nom signifiait « spectacle mystérieux, objet de contemplation », fée irlandaise, cavale aux crins blancs, ou encore figuration de l’eau de la chaudière de Cerridwen, qui donne l’inspiration aux bardes, guérit et ressuscite, c’est-à-dire élève l’initié à la vie de l’esprit. Tout cela est vraisemblable, et contesté. Dans les <hi rend="i">Mabinogion</hi>, recueil des légendes galloises, on ne trouve que cette seule indication très brève sur la légende originelle : « <hi rend="i">Drystan, fils de Tallwch, gardien des porcs de Markh, amant d’Essylt</hi>. » (C’est dans une énumération des amants fameux de la Bretagne.) On a voulu voir également dans la rivalité de Tristan et de Marc le symbole de la lutte entre les Bretons armoricains et les Gallo-Francs. Il est incontestable que maints éléments de la tradition bardique (orale) sont incorporés dans la légende. (Cf. <ref target="#appII11">livre II, chap. 11</ref>.) Mais il est non moins certain que Béroul, Thomas, Eilhart, l’auteur du <hi rend="i">Roman en prose</hi> et celui de <hi rend="i">la Folie Tristan n’étaient pas initiés à cette tradition</hi>. Ils ignoraient le sens
             <pb n="354" xml:id="p354"/>
              primitivement sacré et symbolique des personnages dont ils nous content les amours. Et les traces qui subsistent, dans leur texte, d’anciennes pratiques de magie montrent bien que l’usage de ces dernières est oublié, à l’époque et dans les pays où ils écrivent. Tout cela n’est plus qu’ornements d’art, pittoresque, anecdotes interprétées par la fantaisie individuelle du poète. Les faits que nous décrit l’auteur de <hi rend="i">la Folie Tristan</hi> étaient sans doute à l’origine tout autre chose qu’une suite d’extravagances. Chaque parole et chaque geste du héros devaient correspondre à des symboles déterminés. La <hi rend="i">maison de verre</hi> par exemple, dans laquelle Tristan fou veut emmener Iseut, était dans la mythologie druidique le vaisseau de la mort qui s’en va par-delà les nuages jusqu’au cercle céleste du Gwynfyd. Dans <hi rend="i">la Folie Tristan</hi>, la maison de verre n’est plus qu’une image émouvante née de la fantaisie poétique de l’amoureux. De même, chez Thomas, le départ de Tristan pour la Bretagne n’a plus aucun sens « historique » défini ; etc. C’est pour toutes ces raisons que je ne tiens compte, dans mon analyse, que de la légende rédigée, et réinventée quant au sens, par les poètes du <num>xii<hi rend="sup">e</hi></num> siècle ; <hi rend="i">elle seule agit encore sur nous</hi>, en tant que mythe de l’amour-passion.</p>
         </div>
         <div n="ii." xml:id="app2">
-          <head type="kicker">2.</head>
-          <head>Chevalerie sacrée</head>
+          <head><num>2.</num>
+<lb/>Chevalerie sacrée</head>
           <quote>
             <p>La pensée médiévale en général est saturée de conceptions religieuses. De la même manière, dans une sphère plus restreinte, la pensée de tous ceux qui vivent dans les cercles de la cour et de la noblesse est imprégnée de l’idéal chevaleresque. Cette conception envahit même le domaine de la religion : la prouesse de l’archange saint Michel était « la première milicie et prouesse chevaleureuse qui oncques fut mise en exploict » ; c’est de là que procède la chevalerie qui, en tant que « milicie terrienne et chevalerie humaine », est une imitation des chœurs des anges autour du trône de Dieu. Le poète espagnol Juan Manuel l’appelle une espèce de sacrement, qu’il compare au Baptême et au Mariage. (<hi rend="sc">J. Huizinga</hi>, <title>Le Déclin du Moyen Âge</title>, p. 78.)</p>
             <p>La conception chevaleresque constituait pour l’esprit superficiel de ces auteurs [Froissart, Monstrelet, Chastellain, La Marche…] une clef magique à l’aide de laquelle ils s’expliquaient les événements contemporains. En réalité, les guerres, tout comme la politique de leur temps, étaient extrêmement
@@ -2849,8 +2849,8 @@
           </quote>
         </div>
         <div n="iii." xml:id="app3">
-          <head type="kicker">3.</head>
-          <head>Chansons de geste et romans courtois</head>
+          <head><num>3.</num>
+<lb/>Chansons de geste et romans courtois</head>
           <p>Les chansons de geste sont nées au <num>xi<hi rend="sup">e</hi></num> siècle, et pas avant comme l’a montré Joseph Bédier. Elles furent composées, pour la plupart, par des clercs, et dans des intentions précises : c’étaient en quelque sorte des poèmes publicitaires destinés à attirer la gloire et la foule à tel pèlerinage ou abbaye en magnifiant ses reliques miraculeuses et ses héroïques fondateurs. Il est compréhensible que ces chansons de clercs parlent très peu ou point d’amour.</p>
           <p>Une seule, <hi rend="i">la Légende de Girard de Roussillon</hi> (composée entre 1150 et 1180 selon Bédier) contient un épisode d’amour courtois. Elle est écrite dans un dialecte intermédiaire entre le français et le provençal. À tous égards, elle marque la transition de l’épopée française au « roman » proprement dit.</p>
           <p>L’épisode d’amour nous intéresse d’autant plus qu’il décrit une situation fort analogue — dans sa forme — à celle du <hi rend="i">Roman de Tristan</hi>. Or il est évident que cette situation ne peut être qu’une invention courtoise (elle tranche nettement sur le reste de la légende qui est cléricale et féodale). Cette analogie avec <hi rend="i">Tristan</hi> nous donne un repère pour apprécier la transformation que les Béroul et les Thomas firent subir au vieux mythe celtique. Elle nous permet de mesurer l’influence <hi rend="i">décisive</hi> de l’amour courtois sur les auteurs du cycle breton.</p>
@@ -2878,8 +2878,8 @@
           <p>Or on n’a pas oublié que Tristan épouse la seconde Iseut alors qu’il croit que la première le néglige. Ce n’est point tant la constance de son amie que la sienne propre qu’il veut mettre à l’épreuve. À cette variante près — c’est plutôt un « transfert » au sens freudien — la situation juridique est bien du même ordre.</p>
         </div>
         <div n="iv." xml:id="app4">
-          <head type="kicker">4.</head>
-          <head>Conceptions orientales de l’amour</head>
+          <head><num>4.</num>
+<lb/>Conceptions orientales de l’amour</head>
           <p>Il est bien entendu que j’appelle Orient une certaine attitude totale de l’homme qui s’est manifestée principalement chez les peuples et dans les religions de l’Asie. L’Iran, l’islam, l’Arabie et le judaïsme ne sont pas cet Orient-là, et se rattachent directement (<ref target="https://www.unige.ch/rougemont/livres/ddr19721100ao/4#II02">Livre II, chap. 2</ref> et <ref target="https://www.unige.ch/rougemont/livres/ddr19721100ao/4#II09">9</ref>) aux cycles religieux occidentaux. Il en va tout autrement des Indes, de la Chine, du Tibet,
             <pb n="358" xml:id="p358"/>
              sinon peut-être du Japon médiéval (voir le célèbre roman <hi rend="i">Gengi</hi>), du Japon.</p>
@@ -2898,8 +2898,8 @@
         </div>
         <div n="v." xml:id="app5">
           <pb n="359" xml:id="p359"/>
-          <head type="kicker">5.</head>
-          <head>Mystique et amour courtois</head>
+          <head><num>5.</num>
+<lb/>Mystique et amour courtois</head>
           <p>Dans un appendice à son beau livre sur <hi rend="i">la Théologie mystique de saint Bernard</hi> (Paris, 1934, p. 193 à 216), M. Étienne Gilson examine le problème d’une influence possible de la mystique cistercienne sur les troubadours. En effet, « chronologiquement parlant, les deux mouvements sont à peu près contemporains ». On a donc supposé une filiation des cisterciens aux troubadours. M. Gilson réfute cette hypothèse en montrant : 1° que l’<hi rend="i">objet</hi> de l’amour n’est pas le même pour saint Bernard et pour les troubadours, ces derniers exaltant, selon lui, la sensualité naturelle ; 2° que la <hi rend="i">nature</hi> de l’amour est très différente dans les deux cas, malgré d’apparentes analogies d’expression. M. Gilson conclut qu’il ne peut donc s’agir que « de deux produits indépendants de la civilisation du <num>xii<hi rend="sup">e</hi></num> siècle », ayant tout au plus en commun quelques figures de langage. Je souscris sans réserve à ce jugement. Mais je le rejoins par de tout autres voies. Car l’opposition évidente entre la courtoisie et la mystique de saint Bernard n’est pas seulement, comme l’a vu M. Gilson, celle de la « chair » et de l’« esprit » au sens paulinien de ces termes, mais surtout celle de l’hérésie et de l’orthodoxie.</p>
           <p>Cependant certains arguments invoqués par M. Gilson me paraissent appeler une mise au point très opportune dans notre débat.</p>
           <p>a) « <hi rend="i">On ne peut hésiter</hi> — écrit notre auteur — <hi rend="i">sur l’objet et la nature de l’amour mystique tel que le conçoit saint Bernard : c’est un amour spirituel, par opposition à tout amour charnel</hi> » (p. 195). L’amour courtois serait au contraire « <hi rend="i">l’expression poétique de la concupiscence</hi> » (p. 200). Certes, une opinion assez répandue prête aux troubadours une attitude idéaliste du même genre que celle de saint Bernard. Pour dissiper cette illusion, M. Gilson — après M. Jeanroy — invoque le langage « <hi rend="i">d’une crudité intraduisible</hi> » d’un Marcabru et même d’un Rudel.</p>
@@ -2920,22 +2920,22 @@
           <p>Et il commente : « À moins de réformer sérieusement notre conception des amours d’Iseut et de Tristan, nous ne pouvons avoir de doutes sur la nature des sentiments dont Thibaut est animé. » Précisément, l’objet de mon ouvrage est, entre autres, de « réformer sérieusement notre conception des amours d’Iseut et de Tristan »…</p>
         </div>
         <div n="vi." xml:id="app6">
-          <head type="kicker">6.</head>
-          <head>Freud et les surréalistes</head>
+          <head><num>6.</num>
+<lb/>Freud et les surréalistes</head>
           <p>Sur les relations entre Freud et les surréalistes, voir dans <hi rend="i">Les Pas perdus</hi> d’André Breton la relation de sa courte et décevante visite à Freud (Vienne, 1921), puis dans le <hi rend="i">Manifeste du surréalisme</hi>, 1924, et <hi rend="i">Les Vases communicants</hi>, 1932, les pages sur le rêve, sa nécessaire revalorisation à la suite de Freud, mais aussi les limites de l’interprétation freudienne ; d’autre part, les déclarations de Freud sur un mouvement littéraire qu’il jugeait aussi sévèrement que C. G. Jung la peinture contemporaine. Dans une lettre à Stefan Zweig datée du 20 juillet 1938, qui relate la visite de Salvador Dali, Freud écrit :</p>
           <quote>Jusqu’alors, j’étais tenté de tenir les surréalistes, qui apparemment m’ont choisi comme saint patron, pour des fous intégraux (disons à 95 %, comme l’alcool absolu). Le jeune Espagnol, avec ses candides yeux de fanatique et son indéniable maîtrise technique, m’a incité à reconsidérer mon opinion. Il serait en effet très intéressant d’étudier analytiquement la genèse d’un tableau de ce genre. Du point de vue critique, cependant, on pourrait toujours dire que la notion d’art se refuse à toute extension lorsque le rapport quantitatif entre le matériel inconscient et l’élaboration préconsciente ne se maintient pas dans des limites déterminées. </quote>
         </div>
         <div n="vii." xml:id="app7">
-          <head type="kicker">7.</head>
-          <head>Avènement de la Dame au jeu d’échecs</head>
+          <head><num>7.</num>
+<lb/>Avènement de la Dame au jeu d’échecs</head>
           <p>On a tenté d’expliquer la transformation du jeu par l’avènement de la Dame ou Reine, qui survint dès l’introduction des échecs en Europe, en imaginant une série de mutations phoniques à partir du nom de la pièce originelle. Dans le <hi rend="i">shatranj</hi> (persan pour <hi rend="i">chaturanga</hi>, qui signifie les quatre <hi rend="i">angas</hi>
             <pb n="362" xml:id="p362"/>
              ou armes : les fantassins, les cavaliers, les chars et les éléphants) la pièce se nommant <hi rend="i">firz</hi> ou <hi rend="i">farz</hi> ou <hi rend="i">farzin</hi>, désignant un conseiller, ministre ou un général. Le mot aurait été latinisé en <hi rend="i">fercia</hi>, puis altéré par les Français <hi rend="i">en fierce</hi>, d’où selon certains : Vierge. En Russie au contraire, le mot <hi rend="i">firz</hi> aurait à peine changé, donnant <hi rend="i">fers</hi>, avec le sens de Premier ministre.</p>
           <p>Mais voilà qui recule simplement la difficulté. Le passage de « firz » à « fercia » n’apparaît pas plus convaincant que celui de « fercia » à « vierge » (latin « virgo »). La déviation du son est aussi prononcée que celle du sens. Il s’agit en tout cas d’une erreur, qui eût aussi bien pu être toute différente, ou ne pas être, comme on le voit en Russie, où la pièce reste masculine. Ensuite, le passage de Vierge à Dame ou Reine ne va pas de soi, mais constitue, précisément — s’il s’est vraiment produit — un signe de plus de la révolution psychique du Moyen Âge. C’est l’erreur sur le sens d’abord, puis la tendance révélée par l’erreur qui m’intéresse, qui signifie et qui ajoute un trait remarquable à mon tableau du <num>xii<hi rend="sup">e</hi></num> siècle, dans la mesure où cela « n’explique » rien, mais manifeste une attraction visible, un champ de force mesurable.</p>
         </div>
         <div n="viii." xml:id="app8">
-          <head type="kicker">8.</head>
-          <head>Dante hérétique</head>
+          <head><num>8.</num>
+<lb/>Dante hérétique</head>
           <p>Tout à fait indépendamment des travaux très sérieux d’un Asin Palacios sur une possible influence de la mystique soufiste dans la <hi rend="i">Comédie</hi>, il peut être intéressant de mentionner la thèse hardie et quelque peu aventureuse de deux auteurs du siècle dernier : Eugène Aroux et, à sa suite, Péladan. Aroux expose le résultat de ses inductions dans un ouvrage aujourd’hui presque introuvable intitulé : <hi rend="i">Dante, révolutionnaire, hérétique et socialiste</hi> (1854). Non seulement Dante faisait partie de l’ordre des Templiers, mais encore cet ordre aurait été lié à l’hérésie cathare — en dépit de certaines apparences — comme le bras séculier à l’autorité spirituelle. Dès lors, toute la <hi rend="i">Comédie</hi>, le <hi rend="i">Convito</hi>, et même le <hi rend="i">De vulgari eloquentia</hi> devraient être interprétés symboliquement. Dans un opuscule postérieur, Aroux précise son interprétation. La brochure porte un titre significatif : <hi rend="i">Clef de la Comédie anticatholique de Dante Alighieri</hi>, <hi rend="i">pasteur de l’Église albigeoise de la ville de Florence, affilié à l’ordre du Temple — donnant l’explication du langage symbolique des fidèles d’Amour dans les compositions lyriques, romans et épopées chevaleresques</hi>
             <pb n="363" xml:id="p363"/>
             <hi rend="i">des troubadours</hi> (1856). C’est un lexique donnant la traduction d’environ 500 termes, comme par exemple :</p>
@@ -2946,8 +2946,8 @@
           <p>Je ne prends pas à mon compte ces « explications » parfois très pénétrantes, souvent très arbitraires. Mais il reste que l’histoire littéraire et religieuse n’a fait que confirmer, plus tard, l’exactitude de bien des vues d’Aroux. (Gaston Paris établissant vers 1880 la filiation troubadours-trouvères-roman breton ; Asin Palacios et Luigi Valli reprenant la question de l’hérésie chez Dante, etc.)</p>
         </div>
         <div n="ix." xml:id="app9">
-          <head type="kicker">9.</head>
-          <head>« Coup de foudre » et conversion</head>
+          <head><num>9.</num>
+<lb/>« Coup de foudre » et conversion</head>
           <p>Le premier regard des amants, qui va changer toute leur vie, correspond à la première touche de l’amour divin, à la conversion du chrétien. Gottfried de Strasbourg peignant l’amour de Rivalen pour Blanchefleur (ce sont les parents de Tristan) accumule les expressions religieuses les plus insistantes :</p>
           <quote>
             <l>Alors la vraie Minne</l>
@@ -2975,8 +2975,8 @@
           <p>Les trois derniers vers sont une parfaite confirmation de ma définition de la passion opposée à l’amour naturel.</p>
         </div>
         <div n="x." xml:id="app10">
-          <head type="kicker">10.</head>
-          <head>Passion et Ascèse</head>
+          <head><num>10.</num>
+<lb/>Passion et Ascèse</head>
           <p>Dans le <hi rend="i">Tristan</hi> de Gottfried de Strasbourg, la grotte où se réfugient les amants (correspondant à la forêt de Morois chez Béroul) est décrite en détail, et chaque détail comporte un sens symbolique commenté par l’auteur. La « fossure » a été construite par des géants. C’est une voûte dont la clef est faite de pierres précieuses. Au milieu trône un lit de cristal, etc. Mais voici ce qui nous intéresse :</p>
           <quote>
             <l>Ce n’est pas sans raison</l>
@@ -3001,16 +3001,16 @@
           <p>Comment pourrait-il s’agir d’amour physique ? Et le dernier vers indique bien que la « fossure » est purement symbolique, puisqu’elle peut exister ailleurs qu’en Cornouailles. (Temple ou grotte d’hérétiques ?)</p>
         </div>
         <div n="xi." xml:id="app11">
-          <head type="kicker">11.</head>
-          <head>Saint François d’Assise et les cathares</head>
+          <head><num>11.</num>
+<lb/>Saint François d’Assise et les cathares</head>
           <p>Paul Sabatier, dans sa fameuse biographie de saint François, se pose la question d’une influence possible de l’hérésie courtoise sur la mystique franciscaine. Il commence par nier toute communication directe de l’une à l’autre. (L’argument avancé me convainc peu : l’hérésie était de nature dogmatique, et saint François ne s’occupait pas de doctrine… Mais croit-on que tous les cathares dogmatisaient ? Il y a de plus sérieuses raisons de nier l’hérésie du saint.) Cependant, il décrit fort bien l’ambiance cathare de l’Italie au temps de la jeunesse de François. Les hérétiques, baptisés <hi rend="i">Gazzari</hi> en Italie (Bulgares ou Bougres dans les pays du Nord), s’étaient emparés du gouvernement de plusieurs municipalités. Le podestat d’Assise était un hérétique, avant 1204 ! Dans les cités avoisinantes, il y eut de nombreux soulèvements et émeutes occasionnés par le conflit religieux. D’autre part, on sait bien que saint François avait été le disciple enthousiaste des poètes français (d’où son nom même). Il partageait l’engouement des Italiens pour les troubadours qui séjournaient fréquemment parmi eux (tels Peire Vidal, Peire d’Auvergne, Raimbaut de Vaqueiras, Bernard de Ventadour). Enfin, l’influence de Joachim de Flore sur saint François ne saurait faire de doute. Ce fameux ermite annonçait le règne de l’Esprit, l’approche de la troisième période de l’humanité, le régime de la grâce et de l’Amour. Certains troubadours le connurent. (Richard Cœur de Lion par exemple.) Les deux doctrines ont certains points de ressemblance.</p>
           <p>Il reste que saint François, s’il fut influencé par l’atmosphère de la religion d’Amour, en transporta toute la passion dans l’Église et l’orthodoxie, auxquelles il demeura toujours fidèle. Et Sabatier remarque, non sans profondeur, que la charité franciscaine obtint sans faire couler le sang la résorption de l’hérésie en Italie, alors que la brutalité des cléricaux dans le Midi n’y
             <pb n="366" xml:id="p366"/>
              parvint — et en apparence — qu’au prix d’effroyables massacres. Seule Agapè peut triompher d’Éros. Mars déchaîné, même contre Éros, n’est guère qu’un autre aspect du « mal » qu’il veut détruire, et plus barbare.</p>
         </div>
         <div n="xii." xml:id="app12">
-          <head type="kicker">12.</head>
-          <head>Les béguines : du catharisme à la mystique chrétienne par la poétique courtoise</head>
+          <head><num>12.</num>
+<lb/>Les béguines : du catharisme à la mystique chrétienne par la poétique courtoise</head>
           <p>« À la fin du <num>xii<hi rend="sup">e</hi></num> siècle et au début du <num>xiii<hi rend="sup">e</hi></num>, nous voyons se multiplier les témoignages qui attestent à la fois le nombre et l’enthousiasme des femmes pieuses, souvent affectées de phénomènes extatiques, vivant hors des cloîtres… mais finissant par constituer de nouvelles communautés religieuses. » Elles sont nombreuses — des centaines de mille, selon le pape Jean <num>xxii</num>, en 1321 — dans tout le Nord-Ouest de l’Europe, et spécialement en Brabant. Leur mouvement est né « au point de rencontre de deux courants généraux » : le catharisme et les hérésies voisines d’une part, le franciscanisme et la mystique du cœur de saint Bernard de Clairvaux d’autre part. Le nom de « béguine » provient du catharisme : on le dérive tantôt de « béguin », désignant le bonnet de laine que portaient les ascètes errants, tantôt de <hi rend="i">albigenses</hi>. (L’expression « avoir un béguin » signifie en français moderne « être coiffé de quelqu’un », être amoureux.) Les béguines, confondues avec les cathares au début, furent souvent persécutées par l’Église. L’une fut même brûlée vive en 1236, et plusieurs furent soumises à l’ordalie. L’époque où apparaissent les béguines « est non pas celle de l’affranchissement de la femme, mais celle où commence le règne de la Dame, qui devait en vérité former l’âme de l’Occident et fixer définitivement les traits de sa culture ». Leur mouvement devait « emprunter ses expressions, dans une curieuse mesure, à la littérature courtoise ». Leurs poèmes d’amour divin sont connus, publiés et traduits aujourd’hui en plusieurs langues. <hi rend="i">L’inspiration cathare et cistercienne s’y manifeste dans les formes rhétoriques du lyrisme courtois</hi>, et cette littérature influencera Maître Eckhart, puis Ruysbroeck, puis Suso et les autres mystiques flamands et rhénans.</p>
           <p>Les poèmes de la béguine Hadewych d’Anvers (milieu du <num>xiii<hi rend="sup">e</hi></num> siècle) ont été traduits en français, annotés et remarquablement introduits par le Frère J.-B. P…, en 1954. (C’est à cette introduction que j’emprunte toutes les citations de cet Appendice.)
             <pb n="367" xml:id="p367"/>
@@ -3019,8 +3019,8 @@
           <p>Est-il besoin de souligner que la seule existence des poèmes des béguines réduit à néant les raisonnements des historiens qui s’efforçaient de démontrer, contre ma thèse, qu’un « abîme sépare » le catharisme, l’amour courtois, et la mystique européenne ?</p>
         </div>
         <div n="xiii." xml:id="app13">
-          <head type="kicker">13.</head>
-          <head>Sur le sadisme</head>
+          <head><num>13.</num>
+<lb/>Sur le sadisme</head>
           <p>Je trouve une confirmation de mon analyse du crime sadique dans deux études remarquables de Pierre <hi rend="sc">Klossowski</hi> : <hi rend="i">le Mal et la négation d’autrui dans la philosophie de D. A. F. de Sade</hi> et <hi rend="i">Temps et Agressivité. (Recherches philosophiques</hi>, tomes IV et V.)</p>
           <p>L’auteur montre que, pour Sade, le mal est l’unique élément de la Nature. On lit dans <hi rend="i">la Nouvelle Justine</hi> : « Oui, j’abhorre la Nature : et c’est parce que je la connais trop bien que je la déteste : instruit de ses affreux secrets… j’ai éprouvé une sorte de plaisir à copier ses noirceurs. » (D’où le désir sadique de se libérer des tyrannies sensuelles par l’excès de débauche.)</p>
           <p>Autre condamnation vraiment manichéenne de la Création : « Le principe de vie dans tous les êtres n’est autre que celui de la mort ; nous les recevons et les nourrissons dans nous tous deux à la fois. » P. Klossowski oppose cette opinion de Sade à celle de Freud, qui voit une antithèse entre l’instinct de mort et Éros. L’analyse du mythe nous a montré que cette antithèse est purement apparente.</p>

@@ -171,8 +171,8 @@
       </div>
       <div n="I.">
         <pb n="21"/>
-        <head type="kicker">Première partie</head>
-        <head>Le paysage historique
+        <head><num>Première partie</num>
+<lb/>Le paysage historique
           <lb/>ou comment se forme une fédération</head>
         <div n="I.1." type="chapter" xml:id="ddr19650600shph_03">
           <pb n="23"/>
@@ -688,12 +688,12 @@
       </div>
       <div n="II.">
         <pb n="105"/>
-        <head type="kicker">Deuxième partie</head>
-        <head>L’union, sauvegarde de la diversité ou comment fonctionne une fédération</head>
+        <head><num>Deuxième partie</num>
+<lb/>L’union, sauvegarde de la diversité ou comment fonctionne une fédération</head>
         <div n="II.1." type="chapter" xml:id="ddr19650600shph_11">
           <pb n="107"/>
-          <head type="kicker">1.</head>
-          <head>Les institutions et la vie politique</head>
+          <head><num>1.</num>
+<lb/>Les institutions et la vie politique</head>
           <p>Une pratique séculaire, restée longtemps sans nom et sans doctrine trop clairement formulée, constitue le véritable apport de la Suisse <hi rend="i">comme telle</hi> à l’Europe. Encore, les Suisses la comprennent-ils différemment : pour les Alémaniques, fédération veut dire « communauté du serment » ou « lien » (<hi rend="i">Bund</hi>) ; pour les Romands : volonté de maintenir les libertés locales contre les empiètements de l’autorité commune. Rien d’étonnant si une telle pratique est mal connue ou mal comprise à l’extérieur, et notamment chez nos voisins français, épris de logique et centralisateurs. Un Français cultivé et qui se demande quel est le « vrai » sens du mot fédéralisme, recourt à son Littré, où il trouve ceci :</p>
           <quote>
             <p><hi rend="sc">Fédéralisme</hi> s.m. Néologisme. Système, doctrine du gouvernement fédératif. — « Le fédéralisme était une des formes politiques les plus communes employées par les sauvages », Chateaubriand, <hi rend="i">Amérique, Gouvernement</hi>. Pendant la révolution, projet attribué aux girondins de rompre l’unité nationale et de transformer la France en une fédération de petits États. « Aux jacobins, on agita gravement la question du fédéralisme, et on souleva mille fureurs contre les girondins », Thiers, <hi rend="i">Histoire de la révolution</hi>, chap. I.</p>
@@ -925,8 +925,8 @@
         </div>
         <div n="II.2." type="chapter" xml:id="ddr19650600shph_12">
           <pb n="145"/>
-          <head type="kicker">2.</head>
-          <head>Les paradoxes de la vie économique</head>
+          <head><num>2.</num>
+<lb/>Les paradoxes de la vie économique</head>
           <p>Il est clair que l’économie est le facteur unifiant par excellence des sociétés du <num>xx<hi rend="sup">e</hi></num> siècle. Comment peut-elle s’accommoder, en Suisse, d’un régime à ce point fédéraliste ? Et comment ce régime peut-il s’y adapter ?</p>
           <p>C’est à ces deux questions, qui n’en font qu’une en somme, que j’essaierai dans les pages qui suivent d’apporter certains éléments d’une réponse forcément provisoire et à bien des égards ambiguë : car si l’étude du passé récent de notre existence fédérale (de 1848 à nos jours) permet de juger que les relations entre l’économie et le fédéralisme ont été dans l’ensemble bonnes — surtout pour notre économie — il se peut qu’un avenir prochain les mette en crise, et nous force à des choix douloureux entre nos intérêts et nos principes. À moins que la grande révolution technique en cours (automation, électronique, nouvelles sources d’énergie et d’alimentation) et les progrès de l’intégration européenne ne révèlent, contrairement aux craintes présentes, que le fédéralisme est le régime politique qui correspond le mieux aux exigences futures…</p>
           <p>Pour situer le problème, je rappellerai d’abord les constantes naturelles de la Suisse, puis certaines attitudes psychologiques qu’elles ont déterminées au cours des siècles et leur parallélisme remarquable dans le domaine de l’économie et dans celui des formes d’existence politique.</p>
@@ -1137,8 +1137,8 @@
           <p>Quoi d’étonnant si, dans ces conditions, le Suisse moyen et même le grand patron, le chef syndicaliste, ou le haut magistrat fédéral, demeurent intimement persuadés qu’un système aussi bien ajusté et au total aussi satisfaisant, moralement et matériellement, met la Suisse à l’abri des options dramatiques que lui proposent quelques reporters étrangers, ou de rares intellectuels, suisses il est vrai, mais en marge des affaires sérieuses ? Et pourtant, la question « inopportune » de notre indépendance politique, de son degré de réalité, et de la durée possible du régime fédéral dans un monde à ce point transformé demeure posée à l’arrière-plan. Essayons de la serrer de plus près.</p>
         </div>
         <div n="II.3." type="chapter" xml:id="ddr19650600shph_13">
-          <head type="kicker">3.</head>
-          <head>Interaction de l’économique et du politique</head>
+          <head><num>3.</num>
+<lb/>Interaction de l’économique et du politique</head>
           <p>« Notre régime économique a fait ses preuves. Il convient à nos aspirations. Comment pourrait-il menacer le régime politique dont il dépend ? » C’est un raisonnement analogue que paraît tenir le Suisse moyen au sujet de la neutralité : « Elle nous a préservés jusqu’ici, gardons-la. » Mais l’Europe de la Sainte-Alliance, qui avait reconnu notre neutralité comme étant « dans ses intérêts » autant que dans ceux de notre « indépendance de toute influence étrangère », cette Europe a vécu et à sa place naît l’Europe du Marché commun. Et dans le domaine économique ? <hi rend="i">Tout a changé, depuis 1848, sauf le nombre de nos cantons</hi>. Cette constatation des plus simples me semble résumer le problème suisse, en cette seconde moitié du <num>xx<hi rend="sup">e</hi></num> siècle.</p>
           <p>Si l’on considère ce problème du seul point de vue de l’économie, en admettant que cette dernière représente un facteur de nivellement à l’échelle de l’Europe et du monde, il faut
             <pb n="166"/>
@@ -1182,8 +1182,8 @@
       </div>
       <div n="III." type="chapter" xml:id="ddr19650600shph_14">
         <pb n="173"/>
-        <head type="kicker">Troisième partie</head>
-        <head>La morale quotidienne et le climat de culture ou comment on vit dans une fédération</head>
+        <head><num>Troisième partie</num>
+<lb/>La morale quotidienne et le climat de culture ou comment on vit dans une fédération</head>
         <p>
           <pb n="175"/>
            Cette beauté bien drue d’énergie pure et neuve, aux matins luisants de rosée, quand le pays entier émerge de la brume, repeint durant la nuit comme un banc vert auprès du lac précieux où trempent des parois à peine moins translucides que le ciel, ce temps de création du monde juste avant l’homme et ses malheurs, c’est ma Suisse, telle que je la vois de très loin dans mon souvenir.</p>
@@ -1864,8 +1864,8 @@
       </div>
       <div n="IV." type="chapter" xml:id="ddr19650600shph_36">
         <pb n="275"/>
-        <head type="kicker">Quatrième partie</head>
-        <head>La Suisse, dans l’avenir européen</head>
+        <head><num>Quatrième partie</num>
+<lb/>La Suisse, dans l’avenir européen</head>
         <p>
           <pb n="277"/>
            Le régime que l’on vient de décrire est, dans l’Histoire, l’un des derniers venus. Si l’on représente par une journée la période des civilisations un peu connues et qui va des peintures de Lascaux, pièges magiques, jusqu’aux pièges cosmiques de nos laboratoires, le fédéralisme n’apparaît qu’au cours des cinq dernières minutes.</p>

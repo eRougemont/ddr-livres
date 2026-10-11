@@ -99,8 +99,8 @@
       </div>
       <div n="I." type="chapter" xml:id="ddr19370600jic_02">
         <pb n="11" xml:id="p11"/>
-        <head type="kicker">Première partie</head>
-        <head>N’habitez pas les villes !</head>
+        <head><num>Première partie</num>
+<lb/>N’habitez pas les villes !</head>
         <div>
           <pb n="13" xml:id="p13"/>
           <head>Début de novembre 1933</head>
@@ -847,8 +847,8 @@
       </div>
       <div n="II." type="chapter" xml:id="ddr19370600jic_03">
         <pb n="133" xml:id="p133"/>
-        <head type="kicker">Deuxième partie</head>
-        <head>Pauvre province</head>
+        <head><num>Deuxième partie</num>
+<lb/>Pauvre province</head>
         <div>
           <pb n="135" xml:id="p135"/>
           <head>22 septembre 1934. A… (Gard)</head>
@@ -1537,8 +1537,8 @@
       </div>
       <div n="III." type="chapter" xml:id="ddr19370600jic_04">
         <pb n="235" xml:id="p235"/>
-        <head type="kicker">Troisième partie</head>
-        <head>L’été parisien</head>
+        <head><num>Troisième partie</num>
+<lb/>L’été parisien</head>
         <div>
           <pb n="237" xml:id="p237"/>
           <head>2 juillet 1935</head>
