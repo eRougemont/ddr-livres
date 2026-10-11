@@ -85,7 +85,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19820500partdia_01">
         <pb n="11" xml:id="p11"/>
         <head>Introduction
           <lb/>Que la connaissance du vrai danger nous guérit des fausses peurs</head>
@@ -120,7 +120,7 @@
            que d’un essai d’interpréter certains déboires de notre temps, en les rapportant à l’action du seul être qui s’en réjouisse.</p>
         <p rend="right"><hi rend="i">New York, janvier 1942</hi>.</p>
       </div>
-      <div n="I." type="chapter">
+      <div n="I." type="chapter" xml:id="ddr19820500partdia_02">
         <pb n="19" xml:id="p19"/>
         <head type="kicker">Première partie</head>
         <head>L’Incognito et la révélation</head>
@@ -364,7 +364,7 @@
           <p>Un an s’écoula, sans progrès. Le médecin commençait à désespérer, il envisageait même d’abandonner la cure. (Et vous savez pourtant si rien n’égale la patience d’un psychanalyste !) Enfin, par un beau jour d’été, la malade vint pour une dernière tentative. Il faisait une chaleur torride. Jung possède une villa sur les rives du lac de Zurich. Il proposa que la séance eût lieu dans un petit pavillon au bord de l’eau. On sort, la dame la première ; et sitôt dans le jardin, conclut Jung, « eh bien… <hi rend="i">les oiseaux l’attaquaient</hi> ! »</p>
         </div>
       </div>
-      <div n="II." type="chapter">
+      <div n="II." type="chapter" xml:id="ddr19820500partdia_03">
         <pb n="57" xml:id="p57"/>
         <head type="kicker">Deuxième partie</head>
         <head>Hitler ou l’alibi</head>
@@ -513,7 +513,7 @@
              l’homme est de prévoir. Il s’imagine, et je ne sais s’il a tort, que la lucidité peut garantir l’intégrité de sa personne, et sinon son bonheur, du moins, le sens pur de sa vocation.</p>
         </div>
       </div>
-      <div n="III." type="chapter">
+      <div n="III." type="chapter" xml:id="ddr19820500partdia_04">
         <pb n="83" xml:id="p83"/>
         <head type="kicker">Troisième partie</head>
         <head>Le diable démocrate</head>
@@ -728,7 +728,7 @@
           <p>— Si vous voulez déjouer le premier tour du diable, et son second tour du même coup, si vous tenez sérieusement à l’attraper, je vais vous dire où vous le trouverez le plus sûrement : <hi rend="i">dans le fauteuil où vous êtes assis.</hi></p>
         </div>
       </div>
-      <div n="IV." type="chapter">
+      <div n="IV." type="chapter" xml:id="ddr19820500partdia_05">
         <pb n="119" xml:id="p119"/>
         <head type="kicker">Quatrième partie</head>
         <head>Le diable dans nos Dieux et dans nos maladies</head>
@@ -1137,7 +1137,7 @@
           <p>Mais j’entendais un chant plein de force et de grâce, quelque part au secret de la vie, quand la clameur du néant s’abaissait, quelque part au-dessus de la mort, comme une grande fugue puissante et soutenue, quand tout semblait perdu, gâché et sans remède, un chant profond qui ne cesse jamais, inaltérable et dominant, ah ! taisons-nous, le voici qui revient, et ce n’est pas encore notre consolation, mais il est plus dur que la mort et le mutisme de la mort, il est plus pur que nos douleurs, je l’ai nommé : cantique au bleu du ciel.</p>
         </div>
       </div>
-      <div n="V." type="chapter">
+      <div n="V." type="chapter" xml:id="ddr19820500partdia_06">
         <pb n="187" xml:id="p187"/>
         <head type="kicker">Cinquième partie</head>
         <head>Le Bleu du Ciel</head>
@@ -1361,7 +1361,7 @@
           </p>
         </div>
       </div>
-      <div type="chapter" when="1982">
+      <div type="chapter" when="1982" xml:id="ddr19820500partdia_07">
         <pb n="217" xml:id="p217"/>
         <head>Postface après quarante ans</head>
         <div>

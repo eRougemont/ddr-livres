@@ -79,7 +79,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19370600jic_01">
         <pb n="7" xml:id="p7"/>
         <head>Préambule</head>
         <p>Une vague vient se jeter sur la bâche qui couvre l’avant du bateau, et de l’eau gicle sur nos visages glacés. « Tire le gramophone entre tes jambes, là, sous ton imperméable, que le cuir ne soit pas mouillé. » (C’est qu’on nous l’a prêté, il faut le soigner…) Nous sortons du port, et tout de suite la mer est forte. Un éclair sur l’eau verte, un gros coup de vent : voilà nos compagnons de voyage, le médecin de l’île et trois représentants de commerce, qui se précipitent dans la cabine de la cale par une espèce de trappe. Nous restons seuls sur le pont, ma femme et moi, à entasser nos valises tant bien que mal à l’abri. Un autre éclair siffle et claque tout près. La tempête est venue brusquement avec l’aube. Depuis une heure nous battions la semelle sur les quais déserts de ce port fantomatique, sans ville derrière lui, vaguement américain et militaire, sous un ciel bas couleur d’acier où rien ne bougeait, et voilà tout d’un coup cet orage de novembre qui crible et bat les flots durant la courte traversée, puis s’apaise non moins subitement à
@@ -97,7 +97,7 @@
           <pb n="10" xml:id="p10"/>
            faire. J’étais chômeur depuis trois mois. On m’offrait un abri quelque part, une maison vide pendant l’hiver, une occasion de solitude désirée en secret dès longtemps. Je voudrais bien n’avoir pas l’air trop romantique : mes dernières années de Paris m’avaient appris que cette ville, au moins pour la jeunesse sans argent, est la ville des gérants ignobles et des concierges, des Lieux-sombres-et-populeux où il faut pénétrer l’âme basse et la petite enveloppe à la main. Tant d’autres disent : Allons-nous-en, et restent faute d’imagination. Et pourtant il suffit de bien peu pour partir : la France a des milliers de maisons vides. Dites autour de vous que vous en cherchez une, et vous en trouverez, pour rien, ou pas grand-chose. Encore faut-il savoir comment on y peut « vivre ». C’est à cette question judicieuse que j’ai voulu répondre par ce livre. Peut-être mon récit n’a-t-il pas d’autre but que de décrire un précédent, d’affirmer que cela peut se faire, que cela s’est fait, qu’il y a là un bonheur…</p>
       </div>
-      <div n="I." type="chapter">
+      <div n="I." type="chapter" xml:id="ddr19370600jic_02">
         <pb n="11" xml:id="p11"/>
         <head type="kicker">Première partie</head>
         <head>N’habitez pas les villes !</head>
@@ -845,7 +845,7 @@
              des choses » dont la moitié des hommes tire tout ce qu’elle a de contentement ? Je songe à ceux qui voudraient fuir les villes, et qui peut-être en me lisant, se diraient un instant que c’est possible…</p>
         </div>
       </div>
-      <div n="II." type="chapter">
+      <div n="II." type="chapter" xml:id="ddr19370600jic_03">
         <pb n="133" xml:id="p133"/>
         <head type="kicker">Deuxième partie</head>
         <head>Pauvre province</head>
@@ -1535,7 +1535,7 @@
           <p>— Demain, il faut remettre en place les aquarelles, les guéridons et les dessus de cheminée. Après-demain, nous partons. Nous fuyons.</p>
         </div>
       </div>
-      <div n="III." type="chapter">
+      <div n="III." type="chapter" xml:id="ddr19370600jic_04">
         <pb n="235" xml:id="p235"/>
         <head type="kicker">Troisième partie</head>
         <head>L’été parisien</head>

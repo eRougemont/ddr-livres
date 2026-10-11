@@ -79,7 +79,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19400800lg_01">
         <pb n="1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19400430mds/001.jpg/full/full/0/default.jpg"/>
         <head>I. Naissance de la Ligue</head>
         <p>Au mois de juin 1940, une douzaine d’hommes se réunirent pour tenter de mettre en commun leurs efforts au service du pays.</p>
@@ -98,14 +98,14 @@
         <p>Les événements actuels vont vite. Il s’agit de les précéder. Un rythme accéléré d’actions et de décisions est la condition primordiale de toute défense efficace du pays. C’est pourquoi, au lendemain des prises de contact préalables organisées entre diverses personnalités qu’on pouvait supposer sympathiques en principe à un mouvement de ce genre, <hi rend="i">les éléments les plus jeunes</hi> qui avaient participé à ces rencontres fondaient entre eux un comité d’action, adoptaient le nom de Ligue du Gothard, fixaient les cadres de l’organisation et publiaient <ref>un premier manifeste</ref>, suivi peu de jours après de <ref>principes</ref> et d’un <ref>plan d’action</ref>, le tout inséré dans un bon nombre de journaux suisses de toutes tendances.</p>
         <p>Ces publications — appuyées par un certain nombre de signatures d’aînés qui voulurent bien jouer le rôle de parrains — représentaient l’<hi rend="i">acte de naissance</hi> plutôt que le programme définitif de la Ligue.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19400800lg_02">
         <head>II. Le symbole du Gothard</head>
         <p>« Bastion naturel de la Suisse, cœur de l’Europe et limite des races, le Gothard est le grand symbole autour duquel tous les Confédérés peuvent s’unir dans leurs diversités », disait notre premier appel.</p>
         <p>En effet, le Gothard est à la fois la principale réalité physique sur quoi se fonde notre <hi rend="i">défense</hi>, et le grand signe de notre <hi rend="i">mission</hi>. Sur ce rocher se fonde l’édifice d’un État six fois séculaire. Aucun peuple en Europe ne peut se prévaloir d’un <pb n="4" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19400430mds/004.jpg/full/full/0/default.jpg"/> pareil symbole national, qui se trouve être en même temps pareille sauvegarde militaire.</p>
         <p>Adopter le nom du Gothard, c’était déjà tout un programme : double programme de défense à tout prix et de fidélité à une mission européenne et créatrice. Le Gothard, invincible bastion : c’est l’héritage suisse qu’il s’agit de maintenir contre la menace étrangère. Le Gothard, croix de fleuves et carrefour de cultures : c’est le symbole d’une mission médiatrice et d’un esprit de collaboration qui constituent nos raisons d’être, nos meilleures forces, notre grande espérance.</p>
         <p>C’est au pied du Gothard dont elles gardaient les cols que les premières communes des Waldstätten conclurent leur alliance perpétuelle. Historiquement, le Gothard représente tout un passé de solidarité confédérale, d’esprit communautaire, de libertés civiques, — tout un passé qui nous parle aujourd’hui le langage le plus actuel, et nous indique les voies de notre avenir.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19400800lg_03">
         <head>III. Organisation de la Ligue</head>
         <p>« Il est temps que les bonnes volontés deviennent une volonté commune », disait encore le premier Manifeste de la Ligue. Or, une volonté commune suppose en premier lieu une <hi rend="i">organisation</hi>. Le problème de l’organisation des forces jeunes du pays doit être mis au premier plan de notre vie politique d’aujourd’hui.</p>
         <p>Si l’on veut éviter des troubles révolutionnaires — et il faut à tout prix les éviter dans la situation présente — le seul moyen de rénover le pays, c’est de s’appuyer sur les groupes existants, et de coordonner leurs efforts. Notre première action a donc été de réunir des dirigeants ou militants de tous les groupes et de provoquer des contacts personnels, préparant le terrain pour des ententes plus larges ou pour certaines actions <pb n="5" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19400430mds/005.jpg/full/full/0/default.jpg"/> précises. Depuis quelques semaines, les rencontres se sont multipliées entre représentants et des bases d’action commune ont été posées dans plusieurs cantons. Des équipes locales de la Ligue se sont constituées afin de pousser ce travail. On y trouve mêlés en des proportions diverses, selon les cantons, syndicalistes et corporatistes, membres du groupe d’Oxford et des groupes <ref target="https://www.unige.ch/rougemont/articles/espr"><hi rend="i">Esprit</hi></ref>, « Éléphants » (de la Ligue des sans-subventions), officiers, indépendants, coopérateurs, unionistes chrétiens, militants des « Tatgemeinschaften », etc.</p>
@@ -115,20 +115,20 @@
         <p>Nos principes d’action sont les suivants : camaraderie, solidarité pratique, engagement et responsabilité personnelle à tous les degrés, sélection par l’action seule, initiative locale — plutôt se tromper une fois que ne rien faire dix fois — et fidélité absolue aux directives générales. Suggérer avant, critiquer après, mais pendant l’action : obéir.</p>
         <p>Ainsi l’organisation de la Ligue correspond à la fois à la tradition fédéraliste de notre État et à l’esprit nouveau qui doit animer notre action civique.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19400800lg_04">
         <head>IV. La Ligue du Gothard sera-t-elle un parti ?</head>
         <p>Ceux qui croient que nous entendons déclarer la guerre aux partis, nous reprochent en même temps de vouloir en fonder un. Il y a là une contradiction flagrante :</p>
         <p>Si les partis reflétaient l’opinion du peuple entier, nous aurions le droit, nous aussi, d’exprimer nos idées par ce moyen, et les formations existantes auraient le devoir d’accepter notre concurrence. Mais nous pensons que les partis, seuls, ne sont plus suffisamment représentatifs de la communauté nationale ! Nous déclarons donc sans équivoque que nous ne voulons pas fonder un parti de plus, mais rassembler toutes les forces vivantes du pays.</p>
         <p>La Ligue du Gothard veut être avant tout une <hi rend="i">activité</hi>. Elle compte sur le travail d’équipes disciplinées, non sur l’agitation des masses inorganisées. Elle donne à chacun de ses membres des <hi rend="i">tâches</hi> précises. Elle n’a que faire de citoyens dont la seule participation à la vie nationale consiste à se rendre aux urnes une fois l’an — encore s’ils s’y rendent ! — ni des girouettes qui tournent au gré de tous les vents.</p>
         <p>Nous ne voulons pas nous lier, comme tant d’autres, à un programme « historique » et définitif, trop vague et trop <pb n="7" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19400430mds/007.jpg/full/full/0/default.jpg"/> ambitieux pour être jamais réalisé. Nous voulons rester un <hi rend="i">mouvement</hi> et porter nos efforts sur des points définis, par ordre d’urgence. C’est pourquoi nous ne partons pas d’une utopie sur le papier, mais d’un groupement de volontés personnelles. De la confiance née de l’esprit d’équipe et de la lutte poursuivie en commun se dégageront naturellement les directives d’une action à plus longue échéance.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19400800lg_05">
         <head>V. Des hommes nouveaux !</head>
         <p>Il y a des hommes qui se sont trompés depuis longtemps non seulement dans leurs actes, mais dans leur attitude. Il y a des hommes qui prétendent rester aux commandes alors qu’ils n’ont pas su prévoir les difficultés actuelles. Hommes consciencieux souvent, mais qui se voient contraints d’improviser, faute d’avoir prévu.</p>
         <p>Il y a des hommes que la routine, ou la rancune, empêchent de changer d’attitude, quelle que soit leur bonne volonté. Il y a des députés et des journalistes qui redoutent par-dessus tout qu’une union nouvelle se fonde, et que l’on « jette par-dessus bord » — comme l’écrit un d’entre eux — « tout ce qui faisait l’objet de leurs controverses ». Nous demandons qu’on les mette au bénéfice de la retraite.</p>
         <p>Nous appelons des <hi rend="i">hommes nouveaux</hi>. Des hommes qui ont fait la preuve de leur lucidité. Des hommes qui ont su prévoir la situation présente. Des hommes qui ne se sont pas compromis dans la cuisine de certaines factions, de certains fronts. Des hommes qui désirent une collaboration sans arrière-pensée avec leurs adversaires d’hier. Des hommes qui mettent l’intérêt national au-dessus des intérêts d’un trust ou d’une classe, — et qui le prouvent sans équivoque. — Un homme nouveau, ce n’est pas forcément un très jeune homme, mais c’est quelqu’un qui se montre capable de prendre le rythme exigé par l’époque.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19400800lg_06">
         <pb n="8" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19400430mds/008.jpg/full/full/0/default.jpg"/>
         <head>VI. Que faire tout de suite ?</head>
         <p>À ces hommes nouveaux, à ces équipes, quels buts proposons-nous ?</p>
@@ -141,7 +141,7 @@
         <p>D’autres objectifs immédiats ne peuvent être atteints que par l’action d’un groupe local ou de la Ligue dans son ensemble, mais chacun peut y travailler à sa manière, en préparant le <pb n="9" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19400430mds/009.jpg/full/full/0/default.jpg"/> terrain dans son rayon, entre autres : lutte contre le chômage dans le cadre des entreprises et de grands travaux à créer ; organisation de la profession non par l’État, mais par les syndicats ouvriers et patronaux réunis en chambres professionnelles ; transformation des caisses de compensation en caisses professionnelles d’assurance-vieillesse ; développement du mouvement coopératif ; action en faveur de la famille (salaire familial, lutte contre la dénatalité et contre l’alcoolisme) ; etc., etc.</p>
         <p>Ce n’est pas le travail qui manquera !</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19400800lg_07">
         <head>VII. Réformes politiques</head>
         <p>Elles ne pourront être évitées, à plus ou moins longue échéance selon les cas. Il importe donc que la Ligue les prépare dès maintenant et en toute indépendance vis-à-vis des partis politiques et des influences ou même des pressions étrangères.</p>
         <p><hi rend="i">La Suisse doit être gouvernée</hi>, et non pas seulement administrée. Le Conseil fédéral doit être libéré de toute préoccupation partisane. Il doit être soulagé d’un travail administratif qui ne laisse plus aux chefs de départements le temps de gouverner. Le président de la Confédération ne doit plus être en même temps chargé d’un département. Il est contraire au bon sens qu’il soit nommé automatiquement par rotation, sans tenir compte des qualités personnelles que requiert la conduite de l’État.</p>
@@ -151,7 +151,7 @@
         <p>La vitalité des cantons et des communes dépend de celle des entreprises et des familles. Nous demandons d’une part, la création d’un institut de surveillance du crédit et d’un institut d’enquête et de recherche pour organiser l’économie du pays, d’autre part l’introduction du salaire familial et la mise à l’étude de mesures légales pour la protection de la famille.</p>
         <p>Tout ceci une fois de plus à titre d’exemples, et sans préjuger des mesures que l’évolution rapide des événements rendra sans doute nécessaires. Les hommes sont plus importants que les programmes — et même que les institutions.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19400800lg_08">
         <head>VIII. La Ligue du Gothard vue par la presse</head>
         <p>Rien ne pouvait mieux démontrer la nécessité de notre Ligue que l’immense curiosité qu’elle a soulevée dans la population, et les espoirs que sa seule annonce a réveillés.</p>
         <p>Si la presse, celle qui sent notre époque et ses métamorphoses, a montré, vis-à-vis de notre mouvement, soit de l’objectivité, soit de la sympathie, certains journaux, en revanche, se sont hâtés de satisfaire à leur manière cette curiosité et de miner dans la mesure du possible ces espoirs.</p>
@@ -159,7 +159,7 @@
         <p>Lorsque les noms des fondateurs de la Ligue eurent paru, suivis des noms de personnalités qui déclaraient appuyer cette initiative, telles agences politiques tentèrent de semer la confusion et le doute en annonçant que des défections retentissantes s’étaient « déjà » produites dans nos rangs. Or, les personnalités citées n’avaient jamais fait partie de la Ligue, quoi qu’en eussent dit, deux semaines plus tôt… ces mêmes agences !</p>
         <p>Un seul membre du directoire s’est séparé de nous dans cette phase préparatoire — non pas pour des divergences dans les questions de principe mais dans les questions de tactique. Nous n’avons pas voulu nous laisser imposer une organisation qui aurait fait de nous un parti : nous avons tenu à rester un « mouvement ».</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19400800lg_09">
         <head>IX. Premiers résultats de notre action</head>
         <p>Mais tout ce bruit ne saurait troubler ceux sur lesquels nous comptons ; ces calomnies ne déconsidèrent que leurs fauteurs, elles démasquent nos adversaires et nous permettent de mesurer les forces contre lesquelles tout mouvement nouveau doit lutter : force d’inertie et de routine, le plus souvent, force d’attachement à des doctrines dépassées ou à des <pb n="12" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19400430mds/012.jpg/full/full/0/default.jpg"/> intérêts plus ou moins avouables, d’ailleurs compromis par l’évolution générale, — forces négatives de défaitisme intérieur ou de peur.</p>
         <p>D’ores et déjà, nous pouvons constater trois résultats de notre activité dont l’importance dépasse largement celle des malentendus multipliés à dessein autour de nous :</p>

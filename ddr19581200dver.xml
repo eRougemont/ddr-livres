@@ -78,7 +78,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19581200dver_01">
         <pb n="1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19581200dver/003.jpg/full/full/0/default.jpg"/>
         <head>Note liminaire</head>
         <p>Au terme d’une année de recherches en séminaires, dont nos <hi rend="i">Bulletins</hi> ont publié les conclusions, et qui portaient sur des secteurs bien définis de la vie culturelle en Europe — comme l’Université, l’enseignement secondaire, les techniques d’avant-garde et les méthodes d’union — il nous a paru bon de revenir aux principes qui donnent leur véritable sens à ces efforts.</p>
@@ -89,7 +89,7 @@
         <p><pb n="2" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19581200dver/004.jpg/full/full/0/default.jpg"/> Quant aux deux autres essais… <hi rend="i">Et dona ferentes</hi> et <hi rend="i">Pour une politique de la recherche</hi>, ils ont paru sous d’autres titres et une forme un peu différente, le premier dans <hi rend="i">Occident-Western World</hi> d’octobre 1957, le second dans le n° 1 de la <hi rend="i">Revue internationale du Marché commun</hi>, en avril 1958.</p>
         <p>Conçus pour des publics bien différents, de propos tantôt général, tantôt nettement délimité, ces quatre textes restent indépendants les uns des autres. De là certaines répétitions inévitables, qu’on y a laissées chaque fois qu’elles semblaient nécessaires à la logique de l’exposé. Mieux vaut dix fois se répéter que d’être obscur, quand on parle ou quand on écrit en vue de l’action. Et l’on voit bien que « l’idée européenne » n’est qu’une nostalgie assez vaine, si elle ne commande pas une action — je ne dis pas une agitation — visant à <hi rend="i">fédérer</hi> nos énergies.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19581200dver_02">
         <pb n="3" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19581200dver/005.jpg/full/full/0/default.jpg"/>
         <head>Comment définir l’Europe ?</head>
         <p>Le titre des considérations que je voudrais vous proposer m’a rappelé la mémoire de l’écrivain, dont la chaire où je parle ici porte le nom.</p>
@@ -191,7 +191,7 @@
         <p>Rien n’est fatal. Les deux éventualités sont possibles : celle d’une nouvelle royauté pacifique de l’Europe sur toute la planète, si nous savons à temps nous unir, et celle d’un asservissement de l’Europe, si elle reste divisée devant les menaces mondiales.</p>
         <p>Je ne puis donc conclure ces réflexions qu’en revenant à ma thèse de départ : l’Europe, c’est ce qu’il nous faut unir. Nous avons beaucoup moins à la définir dans l’abstrait qu’à la faire dans le concret. Cessons donc de demander ce qu’elle est, comme si nous n’étions pas personnellement impliqués dans l’affaire. Prenons en main notre sort, le sort de l’Europe, qui est aussi celui de nos enfants, et à l’éternelle question « Qu’est-ce que l’Europe ? », répondons avec réalisme : l’Europe, c’est ce que tous les hommes et les femmes qui habitent ce continent, c’est ce que vous et moi saurons en faire demain.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19581200dver_03">
         <pb n="19" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19581200dver/021.jpg/full/full/0/default.jpg"/>
         <head>… Et dona ferentes (Remarques sur la diffusion inégale de nos valeurs et de nos produits)</head>
         <div>
@@ -232,7 +232,7 @@
           <p>Il nous reste à trouver des formules d’équilibre ou de compromis tolérables entre ces extrêmes idéaux. C’est la tâche la plus importante de la seconde moitié du <num>xx<hi rend="sup">e</hi></num> siècle. Et c’est sans doute la première fois dans toute l’Histoire qu’un même problème crucial se pose au même moment à l’humanité tout entière.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19581200dver_04">
         <pb n="25" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19581200dver/027.jpg/full/full/0/default.jpg"/>
         <head>L’Europe de l’énergie</head>
         <p>Devant cet auditoire de techniciens, producteurs et distributeurs d’énergie, si je me risque à prendre la parole, ce matin, ce ne peut être qu’au seul titre de technicien de la culture générale, producteur et distributeur d’idées.</p>
@@ -300,7 +300,7 @@
           <p>Il me reste à souhaiter que plusieurs d’entre vous consacrent désormais à cette union vitale — comme je l’ai fait depuis dix ans — leur énergie de techniciens et d’hommes.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19581200dver_05">
         <pb n="36" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19581200dver/038.jpg/full/full/0/default.jpg"/>
         <head>Pour une politique de la recherche</head>
         <div>
@@ -337,7 +337,7 @@
           <p>Mais pour qu’une politique de ce genre porte effet, il faut absolument que les responsables de notre vie économique et politique saisissent la réalité du <num>xx<hi rend="sup">e</hi></num> siècle : <hi rend="i">c’est le pool des cerveaux qui fera marcher les autres</hi>, et l’Europe gagnera la maîtrise de la paix si elle se décide enfin à soutenir puissamment la culture, son meilleur atout.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19581200dver_06">
         <pb n="41" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19581200dver/043.jpg/full/full/0/default.jpg"/>
         <head>Notes sur deux projets</head>
         <div>

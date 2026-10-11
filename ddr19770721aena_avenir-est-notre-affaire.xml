@@ -80,7 +80,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19770721aena_01">
         <pb n="7" xml:id="p7"/>
         <head>Introduction
           <lb/>Crise de l’avenir</head>
@@ -120,7 +120,7 @@
         <pb n="13" xml:id="p13"/>
         <head type="kicker">Première partie</head>
         <head>Système de la crise</head>
-        <div n="1." type="chapter">
+        <div n="1." type="chapter" xml:id="ddr19770721aena_02">
           <pb n="15" xml:id="p15"/>
           <head type="kicker">1</head>
           <head>La religion de la croissance</head>
@@ -456,7 +456,7 @@
             <p>La politique de croissance matérielle que pratiquent nos gouvernements a pour effet inévitable d’occulter ce qui ne saurait être compté dans le PNB. Ainsi l’attention du public, mais aussi de la plupart de nos économistes s’est laissé détourner des réalités humaines non nationales, sacrifiées à la seule croissance. Et voilà le principe même des crises dont nous souffrons et dont le système constitue la grande crise que je vais achever de décrire.</p>
           </div>
         </div>
-        <div n="2." type="chapter">
+        <div n="2." type="chapter" xml:id="ddr19770721aena_03">
           <pb n="61" xml:id="p61"/>
           <head type="kicker">2</head>
           <head>Le grand litige</head>
@@ -708,7 +708,7 @@
             <p>La majorité des politiciens de nos pays, nostalgiques sans jamais se l’avouer de la monarchie absolue, se livrent à l’empire de ces structures obscurément ressenties comme celles du pouvoir même : c’est qu’ils veulent commander. La majorité des contribuables se laissent tondre sans résistance, dans l’idée d’assurer leur confort, mais surtout, leur sécurité : c’est qu’ils veulent être commandés. Et tous les imbéciles répètent qu’on n’arrêtera pas le progrès.</p>
           </div>
         </div>
-        <div n="3." type="chapter">
+        <div n="3." type="chapter" xml:id="ddr19770721aena_04">
           <pb n="89" xml:id="p89"/>
           <head type="kicker">3</head>
           <head>La clé du système ou l’État-nation</head>
@@ -988,7 +988,7 @@
         <pb n="121" xml:id="p121"/>
         <head type="kicker">Deuxième partie</head>
         <head>De la prévision</head>
-        <div n="4." type="chapter">
+        <div n="4." type="chapter" xml:id="ddr19770721aena_05">
           <pb n="123" xml:id="p123"/>
           <head type="kicker">4</head>
           <head>Un « Essai sur l’avenir » en 1948</head>
@@ -1049,7 +1049,7 @@
             <p><label>2.</label> Si l’Humanité choisit au contraire l’<hi rend="i">aventure spirituelle</hi>, celle-ci sera sans doute initiée par une élite en tous points comparable à celle de nos savants actuels, dotée des mêmes prestiges populaires, exerçant une autorité analogue sur l’orientation de la recherche organisée, et définissant <hi rend="i">de facto</hi> les nouveaux standards d’utilité et de valeur. Mais l’effort de cette élite, au lieu de se tourner vers la matière — désormais « dépassée » — se tournera vers la découverte et la maîtrise de réalités d’un autre ordre, totalement ignorées ou négligées de nos jours, aussi peu imaginables pour nous que pouvait l’être pour les savants du <num>xviii<hi rend="sup">e</hi></num> siècle la destruction instantanée d’une ville par suite de la dissociation d’un invisible point de matière. Ce sont ces réalités indescriptibles, et sans nom dans notre langage, que je désignais en débutant par le terme symbolique de fées.</p>
           </div>
         </div>
-        <div n="5." type="chapter">
+        <div n="5." type="chapter" xml:id="ddr19770721aena_06">
           <pb n="131" xml:id="p131"/>
           <head type="kicker">5</head>
           <head>Naissance de la prospective</head>
@@ -1156,7 +1156,7 @@
             <p>Mais tout cela ne prouve rien contre la prospective : ses vraies difficultés ne sont pas dans nos erreurs, mais dans la nature même de l’avenir.</p>
           </div>
         </div>
-        <div n="6." type="chapter">
+        <div n="6." type="chapter" xml:id="ddr19770721aena_07">
           <pb n="145" xml:id="p145"/>
           <head type="kicker">6</head>
           <head>L’avenir sensible au cœur</head>
@@ -1298,7 +1298,7 @@
             <p>Or, personne n’aurait pu prévoir la résultante du croisement fortuit de deux histoires de fous.</p>
           </div>
         </div>
-        <div n="7." type="chapter">
+        <div n="7." type="chapter" xml:id="ddr19770721aena_08">
           <pb n="161" xml:id="p161"/>
           <head type="kicker">7</head>
           <head>Première histoire de fous : l’auto</head>
@@ -1460,7 +1460,7 @@
             <p>Ainsi prévoyaient-ils, dès 1932, les triomphes et le désastre, également « nécessaires », d’Adolf Hitler.</p>
           </div>
         </div>
-        <div n="8." type="chapter">
+        <div n="8." type="chapter" xml:id="ddr19770721aena_09">
           <pb n="183" xml:id="p183"/>
           <head type="kicker">8</head>
           <head>Deuxième histoire de fous : Hitler</head>
@@ -1593,7 +1593,7 @@
         <pb n="199" xml:id="p199"/>
         <head type="kicker">Troisième partie</head>
         <head>Repartir de l’homme</head>
-        <div n="9." type="chapter">
+        <div n="9." type="chapter" xml:id="ddr19770721aena_10">
           <pb n="201" xml:id="p201"/>
           <head type="kicker">9</head>
           <head>Devenir soi-même</head>
@@ -1711,7 +1711,7 @@
                Mais chez les hommes de chair et sang, la personne est toujours instante, c’est une <hi rend="i">virtualité universelle</hi>, encore qu’elle ne se réalise que par et dans les actes qui l’engagent, ou dans l’œuvre qu’elle crée, qui l’exprime et la forme, et qui est la preuve de son existence. Or, tout homme est capable d’une œuvre, et presque tout homme en fait une, en conduit même plusieurs de front, le plus souvent à son insu. Son mariage. Son métier. Sa carrière. Le visage de sa maturité. Un certain équilibre entre soi et le monde, un déséquilibre orienté, ou assumé. Une manière de regarder ou d’être fasciné. Un rythme, un effort acharné, le réseau des approches d’une découverte, un certain style de vie, soi-même enfin, ma personne même en train de se faire, et cela c’est le grand-œuvre, l’œuvre par excellence — le salut. C’est ce jeu qu’il est sacrilège d’interrompre, sous prétexte d’une « simple vérification », de saccager ou de prétendre organiser. Or, c’est exactement ce que font nos États, et qu’ils feront toujours plus grossièrement, tant que la société ne sera pas reconstruite en vue de cet homme créateur.</p>
           </div>
         </div>
-        <div n="10." type="chapter">
+        <div n="10." type="chapter" xml:id="ddr19770721aena_11">
           <pb n="215" xml:id="p215"/>
           <head type="kicker">10</head>
           <head>Passage de la personne à la cité</head>
@@ -1931,7 +1931,7 @@
               civiques, des groupes, et un climat qui permette l’exercice de nos responsabilités, donc de nos libertés personnelles. Un milieu favorable au développement normal de la <hi rend="i">dimension communautaire</hi>, celle qui lie la personne au prochain, et sans laquelle la dimension vocative, celle qui distingue ma personne de toutes les autres, resterait une vue de l’intellect, lequel serait alors une trahison de l’esprit par refus de son incarnation.</p>
           </div>
         </div>
-        <div n="11." type="chapter">
+        <div n="11." type="chapter" xml:id="ddr19770721aena_12">
           <pb n="241" xml:id="p241"/>
           <head type="kicker">11</head>
           <head>Les variétés de l’expérience communautaire</head>
@@ -2205,7 +2205,7 @@
             <p><hi rend="i">b)</hi> Le maire, le syndic ou l’échevin, n’est plus le Monsieur qui saura décrocher des subventions de l’État central, mais le citoyen responsable — bien moins devant le préfet que devant les électeurs — et qui a besoin de savoir, besoin de s’informer sur tous ces problèmes scientifiques — à vrai dire politiques et sociaux. Il a trop de pouvoir dans certains domaines (immobilier, aménagement du territoire) et pas assez de moyens financiers pour mener une vraie politique, et pour s’entourer de conseillers dans les domaines de l’écologie, de l’énergie, de l’éducation, de l’agriculture, etc. Il n’a que faire d’informations prodiguées « au niveau national ». Il a besoin d’informations utiles à son échelle municipale. Elles lui manquent, et ce manque appelle la région. Comme l’appellent à vrai dire tant d’autres « manques » dans les secteurs vitaux de notre société. Et c’est au lieu de convergence de ces appels que va se former <hi rend="i">en creux</hi> le modèle de la région.« </p>
           </div>
         </div>
-        <div n="12." type="chapter">
+        <div n="12." type="chapter" xml:id="ddr19770721aena_13">
           <pb n="277" xml:id="p277"/>
           <head type="kicker">12</head>
           <head>Que tout appelle les régions</head>
@@ -2317,7 +2317,7 @@
             <p><label>3.</label> — <hi rend="i">La région est à faire</hi>, elle n’est pas une donnée. Elle n’est pas pré-formée dans le ciel des idées mais potentielle dans nos besoins et nos désirs. De même que la personne qui se fait tous les jours par ses actes imprévisibles, elle n’est jamais achevée, toujours instante, toujours à inventer au jour le jour à venir. La région vit et veut la vie, et c’est pourquoi, l’État-nation la hait, lui qui n’est fait que pour la guerre.</p>
           </div>
         </div>
-        <div n="13." type="chapter">
+        <div n="13." type="chapter" xml:id="ddr19770721aena_14">
           <pb n="289" xml:id="p289"/>
           <head type="kicker">13</head>
           <head>Les variétés de l’expérience régionale</head>
@@ -2428,7 +2428,7 @@
             <p>Tout ce qu’on a dit jusqu’ici dans ce livre appelle, prépare et qualifie la participation civique. Or, celle-ci implique et appelle comme condition première de son exercice ce qu’on nommait <hi rend="i">l’autonomie</hi> dans la cité-État des Grecs anciens — le fait de se donner ses propres lois — et ce qu’on nomme aujourd’hui <hi rend="i">l’autogestion</hi> — le fait de décider soi-même de ses affaires.</p>
           </div>
         </div>
-        <div n="14." type="chapter">
+        <div n="14." type="chapter" xml:id="ddr19770721aena_15">
           <pb n="305" xml:id="p305"/>
           <head type="kicker">14</head>
           <head>L’autogestion politique</head>
@@ -2581,7 +2581,7 @@
             <p>Ici l’on voit paraître la nécessité d’un organisme qui assumerait au plan continental la concertation politique, l’arbitrage entre les régions, et leur information sans retard ni réserve, condition de leur autonomie.</p>
           </div>
         </div>
-        <div n="15." type="chapter">
+        <div n="15." type="chapter" xml:id="ddr19770721aena_16">
           <pb n="325" xml:id="p325"/>
           <head type="kicker">15</head>
           <head>Stratégie</head>
@@ -2962,7 +2962,7 @@
           </div>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19770721aena_17">
         <pb n="367" xml:id="p367"/>
         <head>Conclusion
           <lb/>« Sentinelle, que dis-tu de la nuit ? »</head>

@@ -80,14 +80,14 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19441210persdram_01">
         <pb n="9"/>
         <head>Note de l’auteur</head>
         <p>Ce livre allait être mis sous presse en mai 1940, lorsque se déclencha la bataille de France. Le manuscrit et la composition typographique ont disparu. Mais j’avais conservé par hasard un jeu d’épreuves, que j’emportai en Amérique.</p>
         <p>Plusieurs des chapitres de ce livre ont été publiés en première version par les revues suivantes : <ref target="https://www.unige.ch/rougemont/articles/nrf"><hi rend="i">Nouvelle Revue française</hi></ref>, <hi rend="i">Bulletin de l’Union pour la vérité</hi>, <hi rend="i">Hermès</hi>, <ref target="https://www.unige.ch/rougemont/articles/fv"><hi rend="i">Foi et Vie</hi></ref>, <ref target="https://www.unige.ch/rougemont/articles/espr"><hi rend="i">Esprit</hi></ref>, <ref target="https://www.unige.ch/rougemont/articles/rpar"><hi rend="i">La Revue de Paris</hi></ref>. Tous ont été remaniés et souvent notablement augmentés pour cette édition. Le premier date de 1932, les derniers de 1939. Si je me décide à les publier aujourd’hui, ce n’est point que je ne me sois éloigné de certains des auteurs dont je m’inspirais alors — comme on quitte sa nourrice au moment du sevrage. Mais la doctrine de la personne, que leurs œuvres et leur vie illustraient à mes yeux, m’apparaît plus valable que jamais. Elle est le vrai sujet de ce livre — comme de tous ceux que j’ai signés jusqu’à ce jour.</p>
         <p rend="right noindent">New York, 1944.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19441210persdram_02">
         <pb n="11"/>
         <head>Introduction</head>
         <p>Celui qui cherche un homme et ne trouve qu’un auteur : est-il déçu par l’homme ou par l’auteur ? Il est déçu par la relation de l’un à l’autre. Par l’homme insuffisant qui se révèle dans l’auteur, donc par l’auteur aussi, qui révèle trop peu d’homme.</p>
@@ -125,7 +125,7 @@
         <pb n="21"/>
         <head type="kicker">I.</head>
         <head>Sagesse et folie de la personne</head>
-        <div type="chapter" n="1.">
+        <div type="chapter" n="1." xml:id="ddr19441210persdram_03">
           <pb n="23"/>
           <head type="kicker">1.</head>
           <head>Le silence de Goethe</head>
@@ -180,7 +180,7 @@ au profit d’une expression « utile », renaît comme libérée intérieurem
           <p>Il reste que les temps nous pressent de toutes parts au choix, jusque dans nos admirations, nous pressent d’affecter toute chose, même spirituelle, d’une sorte de coefficient d’utilité. En ce jour de février 1932, dans ce Francfort en proie au Carnaval et à l’angoisse, ce n’est pas moi qui pose la question : elle m’assiège. Le dernier carnaval, peut-être, pour cette bourgeoisie<note place="bottom">La révolution hitlérienne s’est accomplie en février 1933. (Note de 1944.)</note> dont je viens d’admirer les trésors patinés dans la haute demeure familiale des Goethe. <hi rend="i">Aujourd’hui…</hi></p>
           <p>Un immense glissement de la réalité hors des cadres d’une logique statique et cartésienne nous porte en des régions nouvelles de l’esprit où l’action redevient notre seul critère de cohérence. C’est dire que nous demandons <pb n="40"/> aux œuvres que nous aimons de témoigner d’une certaine force de révolte. Notre premier mouvement nous porte vers Rimbaud, nous détourne de Goethe. Mais prenons garde de tomber dans un conformisme à rebours, victimes de valeurs sentimentales héritées des temps révolus. Prenons garde de nous laisser convaincre par les seuls éclats d’un fanatisme à vrai dire splendide. Plus que jamais, il faudra s’appliquer à distinguer dans ce vertige la réelle puissance d’une voix volontairement assourdie. Le silence de Goethe n’est pas moins dangereux, pour qui sait l’entendre, que l’imprécation de Rimbaud ; et tous deux nous contraignent aux tâches immédiates, c’est-à-dire : à l’actualisation de notre réalité. « <hi rend="i">Il faut être absolument moderne.</hi> »</p>
         </div>
-        <div type="chapter" n="2.">
+        <div type="chapter" n="2." xml:id="ddr19441210persdram_04">
           <pb n="41"/>
           <head type="kicker">2.</head>
           <head>Goethe médiateur</head>
@@ -209,7 +209,7 @@ au profit d’une expression « utile », renaît comme libérée intérieurem
           </quote>
           <p><pb n="49"/> Les élites, en tant qu’élites, se rencontrent dans la compréhension, alors que les masses, en tant que masses se battent dans la confusion<note place="bottom">« Les haines nationales sont des vices de populace », disait Goethe. Je n’oublie pas, d’ailleurs, ce mot d’un bon observateur des choses politiques, William Martin : « Les masses seraient volontiers internationalistes ; ce sont les élites qui sont nationalistes. » L’observation me paraît juste en ce sens : que ce sont toujours les élites qui ont pris conscience des valeurs nationales en voyageant, en comparant. Mais il est clair que si ces élites adoptent ensuite les passions des masses (créées par la propagande de l’État) elles trahissent leur fonction de compréhension, et cessent de mériter le nom d’élites. Par malheur, c’est cette trahison-là que l’on baptise aujourd’hui « nationalisme. »</note>. C’est pourquoi notre tâche — que Goethe eût approuvée — reste de fédérer des <hi rend="i">différences authentiques</hi>, et non pas d’uniformiser des médiocrités décolorées. L’harmonie d’un tableau naît de l’opposition des tons : c’est une harmonie fédérale.</p>
         </div>
-        <div type="chapter" n="3.">
+        <div type="chapter" n="3." xml:id="ddr19441210persdram_05">
           <pb n="51"/>
           <head type="kicker">3.</head>
           <head>Kierkegaard</head>
@@ -470,7 +470,7 @@ méfait de la « foule » dans notre existence morale. Une question mal posée
             </div>
           </div>
         </div>
-        <div type="chapter" n="4.">
+        <div type="chapter" n="4." xml:id="ddr19441210persdram_06">
           <pb n="105"/>
           <head type="kicker">4.</head>
           <head>Franz Kafka
@@ -541,7 +541,7 @@ certaines bizarreries du récit…</p>
         <pb n="127"/>
         <head type="kicker">II.</head>
         <head>Liberté et fatum</head>
-        <div type="chapter" n="5.">
+        <div type="chapter" n="5." xml:id="ddr19441210persdram_07">
           <pb n="129"/>
           <head type="kicker">5.</head>
           <head>Luther et la liberté de la personne</head>
@@ -599,7 +599,7 @@ décision, et néglige les moyens termes où voulait se complaire Érasme. Le pr
         <pb n="145"/>
         <head type="kicker">III.</head>
         <head>Sincérité et authenticité</head>
-        <div type="chapter" n="6..">
+        <div type="chapter" n="6.." xml:id="ddr19441210persdram_08">
           <pb n="147"/>
           <head type="kicker">6.</head>
           <head>Le <hi rend="i">Journal</hi> d’André Gide</head>
@@ -643,7 +643,7 @@ non par dégoût de l’autorité en soi, mais <hi rend="i">au contraire</hi> pa
           <p>Règles et choix — convenir et créer — ce sont les conditions de toute culture. Toutefois, j’ai dit la méfiance d’artiste que Gide nourrit à l’endroit des « idées ». C’est par là que je sens le mieux la distance qui sépare de la sienne ma génération littéraire.</p>
           <p>Notre culture est beaucoup plus philosophique — je simplifie — que littéraire. Non point par préférence, loin de là. Mais les problèmes qui se posent à nous, nous n’avons pas pu les choisir, et moins encore les circonscrire dans un domaine privilégié : celui des lettres et de leur morale, qui est l’esthétique. Les problèmes qui <hi rend="i">nous sont posés</hi> nous contraignent parfois davantage qu’ils ne servent nos goûts naturels. D’où le danger de didactisme que nous courons tous plus ou moins. À cet égard, il m’apparaît <pb n="160"/> que la leçon de Gide, pour ceux de mon âge, est moins urgente dans l’ordre de l’éthique que dans celui de l’esthétique. C’est le maître-artisan de la langue plus que l’immoraliste qui nous importe, et qui nous intéresse au double sens du mot. Ceci n’exclut d’ailleurs aucun revirement dans les générations qui nous suivront : je prévois le jour où nos cadets nous opposeront l’exemple du probe adversaire des orthodoxies orgueilleuses, que Gide, n’en doutons pas, restera jusqu’au bout.</p>
         </div>
-        <div type="chapter" n="7.">
+        <div type="chapter" n="7." xml:id="ddr19441210persdram_09">
           <pb n="161"/>
           <head type="kicker">7.</head>
           <head>Vues sur Ramuz</head>
@@ -742,7 +742,7 @@ non par dégoût de l’autorité en soi, mais <hi rend="i">au contraire</hi> pa
             <p>Il fallait nous apprendre cet embrassement, cette saisie des choses et des êtres, cette présence au monde et à soi-même, — l’originalité de l’homme « radical ». Ramuz l’a fait plus qu’aucun de nos maîtres. De lui donc, plus que <pb n="190"/> d’aucun autre, nous attendons qu’il aille jusqu’au tenue. Le fondement dernier de la personne est témoignage. Témoigner, c’est risquer en dépit de tout et de soi, ce qu’aucune sagesse n’a jamais justifié.</p>
           </div>
         </div>
-        <div type="chapter" n="III.3.">
+        <div type="chapter" n="III.3." xml:id="ddr19441210persdram_10">
           <pb n="191"/>
           <head>L’Art poétique de Claudel</head>
           <epigraph>
@@ -780,7 +780,7 @@ non par dégoût de l’autorité en soi, mais <hi rend="i">au contraire</hi> pa
         <pb n="199"/>
         <head type="kicker">IV.</head>
         <head>Une maladie de la personne</head>
-        <div type="chapter" n="8.">
+        <div type="chapter" n="8." xml:id="ddr19441210persdram_11">
           <pb n="201"/>
           <head type="kicker">8.</head>
           <head>Le romantisme allemand</head>

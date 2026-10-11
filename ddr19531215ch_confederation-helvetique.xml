@@ -84,7 +84,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19531215ch_01">
         <pb n="7"/>
         <head>Introduction (par Lucien Febvre)</head>
         <p>Révélation de la Suisse : j’intitulerais volontiers ainsi, pour ma part, le beau travail de M. Denis de Rougemont. Que de choses, et précieuses à savoir, il apprendra à la masse internationale des hommes qui, pour avoir traversé le Léman de Genève à Villeneuve, admiré le bleu étonnant du lac de Thoune, contemplé d’Interlaken la Jungfrau et peut-être suivi, à la lunette, la marche audacieuse et prudente sur les glaciers d’une caravane d’encordés — à la question : « Vous connaissez la Suisse ? » — peuvent répondre en conscience : « Bien sûr ! »</p>
@@ -116,7 +116,7 @@
         <p>Mais quand ils réussissent à se dégager de leur canton — alors, pas de milieu, ils atteignent à l’universel. C’est ce que je disais tout à l’heure. Au fond, de son trou, l’homme de Dissentis, de Göschenen, de Viège — entre les hautes parois de sa prison. Mais s’il monte sur la montagne… Alors, cette ivresse des sommets. L’intuition de la grandeur. Et plus d’obstacle devant la pensée. Le Suisse s’appelle Jean-Jacques. Il s’appelle Germaine de Staël. Il s’appelle Burckhardt ou, dans un autre domaine, Karl Barth. Son canton — ou l’Europe.</p>
         <p rend="right">Lucien <hi rend="sc">Febvre</hi>.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19531215ch_02">
         <pb n="15"/>
         <head>Note de l’auteur</head>
         <p>Ce petit ouvrage, écrit en mars 1949, fait partie d’une série d’études sur les nations modernes, entreprise sous la responsabilité de la Conférence permanente des hautes études internationales, dans le cadre du programme de l’Unesco.</p>
@@ -127,7 +127,7 @@
           <hi rend="i">Septembre 1953</hi>
         </p>
       </div>
-      <div n="1." type="chapter">
+      <div n="1." type="chapter" xml:id="ddr19531215ch_03">
         <pb n="19"/>
         <head type="kicker">Chapitre I.</head>
         <head>Le peuple et son histoire</head>
@@ -305,7 +305,7 @@
         <p>La fonction, nous l’avons définie en décrivant le Gothard et son rôle décisif à l’origine de la Confédération. Celle-ci reste une grand-garde montée perpétuellement autour du cœur physique du continent, mais aussi autour du principe qui peut ramener la paix entre les peuples, le principe de la foi jurée et de l’alliance des égaux : la fédération.</p>
         <p>Quant aux institutions, leur connaissance sommaire va nous mettre en mesure d’apercevoir pourquoi l’on peut parler des Suisses comme d’un seul peuple, malgré toutes leurs diversités.</p>
       </div>
-      <div n="2." type="chapter">
+      <div n="2." type="chapter" xml:id="ddr19531215ch_04">
         <pb n="59"/>
         <head type="kicker">Chapitre II.</head>
         <head>Les institutions politiques</head>
@@ -457,7 +457,7 @@
              en revient beaucoup plus au respect des principes fédéralistes qu’aux dimensions naturelles du pays. C’est dans ce sens que l’on a pu écrire : « La Suisse est une victoire de l’homme sur l’homme.<note place="bottom">Gonzague de <hi rend="sc">Reynold</hi>,<hi rend="i">Conscience de la Suisse</hi>, 1938.</note> »</p>
         </div>
       </div>
-      <div n="3." type="chapter">
+      <div n="3." type="chapter" xml:id="ddr19531215ch_05">
         <pb n="91"/>
         <head type="kicker">Chapitre III.</head>
         <head>Institutions et aspirations économiques</head>
@@ -636,7 +636,7 @@
           <pb n="116"/>
            intelligence quotidienne des exigences contradictoires de la libre initiative et du marché élargi. La multiplicité des cellules de base — communes et entreprises, cantons et cartels régionaux — tend à ralentir l’évolution vers l’étatisme, d’une part, et vers certains progrès sociaux ou rationnels d’autre part. Par ailleurs, elle freine utilement les courants qui parcourent l’Europe, elle les filtre et les divise par tout un jeu d’écluses. Et il apparaît, au total, que la lenteur à s’adapter, qu’on peut reprocher aux Suisses, est une nécessité profonde de leur économie, si dangereusement liée, nous l’avons dit, à la conjoncture mondiale.</p>
       </div>
-      <div n="4." type="chapter">
+      <div n="4." type="chapter" xml:id="ddr19531215ch_06">
         <pb n="119"/>
         <head type="kicker">Chapitre IV.</head>
         <head>La famille et l’éducation</head>
@@ -815,7 +815,7 @@
           <p>Ni antimilitariste ni militariste, le peuple suisse considère son armée, avant tout, comme une école pour adultes : école de civisme, d’égalité, de virilité, et aussi de culture physique. Un grand nombre d’instituteurs deviennent officiers, et tout officier subalterne joue plus ou moins le rôle d’un instituteur pour sa section ou sa compagnie, à laquelle il est tenu de faire chaque jour une brève causerie ou « théorie », qui ne porte pas seulement sur l’instruction militaire, mais aussi sur l’histoire, la géographie, les institutions politiques, la neutralité, les assurances, l’entraide, et la morale en général.</p>
         </div>
       </div>
-      <div n="5." type="chapter">
+      <div n="5." type="chapter" xml:id="ddr19531215ch_07">
         <pb n="141"/>
         <head type="kicker">Chapitre V.</head>
         <head>La vie religieuse</head>
@@ -919,7 +919,7 @@
         <p>Une seule exception mérite d’être signalée à la règle laïque, gage de la paix confessionnelle : c’est l’institution du « Jeûne fédéral », jour fixé pour la repentance et l’action de grâces nationale, et que l’on célèbre par la publication et la lecture de « mandements » officiels, généralement rédigés par les églises. Elle est devenue prétexte à des « menus de Jeûne » fort abondants, qu’annoncent les meilleurs restaurants.</p>
         <p>La religion des Suisses ne saurait être mesurée à ses manifestations extérieures. Plus morale que rituelle, et plus théologique que mystique, c’est dans une œuvre comme la Croix-Rouge ou dans le rayonnement mondial de la pensée d’un Karl Barth qu’elle témoigne de sa véritable nature ; ou encore, d’une manière plus diffuse et collective, dans un certain sens de la solidarité humaine, dans l’équilibre des institutions qui en résultent, — dans la paix helvétique.</p>
       </div>
-      <div n="6." type="chapter">
+      <div n="6." type="chapter" xml:id="ddr19531215ch_08">
         <pb n="157"/>
         <head type="kicker">Chapitre VI.</head>
         <head>Le peuple suisse et le monde</head>

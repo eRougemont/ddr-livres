@@ -79,7 +79,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19421200partdia_01">
         <pb n="7"/>
         <head>Introduction
           <lb/>Que la connaissance du vrai danger nous guérit des fausses peurs</head>
@@ -112,7 +112,7 @@
         <ab type="ornament">⁂</ab>
         <p>Encore un mot. On se tromperait sur l’intention de ce petit traité, si l’on y voyait un effort pour « démontrer » l’existence du diable. Il ne s’agit ici que d’un essai d’interpréter certains déboires de notre temps, en les rapportant à l’action du seul être qui s’en réjouisse.</p>
       </div>
-      <div n="I." type="chapter">
+      <div n="I." type="chapter" xml:id="ddr19421200partdia_02">
         <pb n="15"/>
         <head type="kicker">Première partie</head>
         <head>L’Incognito et la Révélation</head>
@@ -272,7 +272,7 @@
           <p>Un an s’écoula, sans progrès. Le médecin commençait à désespérer, il envisageait même d’abandonner la cure. (Et vous savez pourtant si rien égale la patience d’un psychanalyste !) Enfin, par un beau jour d’été, la malade vint pour une dernière tentative. Il faisait une chaleur torride. Jung possède une villa sur les rives du lac de Zurich. Il proposa que la séance eût lieu dans un petit pavillon au bord de l’eau. On sort, la dame la première ; et sitôt dans le jardin, conclut Jung, eh bien… <hi rend="i">les oiseaux l’attaquaient</hi> !</p>
         </div>
       </div>
-      <div n="II." type="chapter">
+      <div n="II." type="chapter" xml:id="ddr19421200partdia_03">
         <pb n="43"/>
         <head type="kicker">Deuxième partie</head>
         <head>Hitler ou l’alibi</head>
@@ -369,7 +369,7 @@
              Ce n’est pas d’attaquer les Églises, mais c’est de le faire en nationalisant la Providence, et en son Nom. Ce qui est proprement diabolique, c’est moins de faire le mal que de le baptiser bien, quand on le fait. C’est de vider tous les mots de leur sens, de les retourner et de les lire à rebours, selon la coutume des messes noires. C’est d’invertir et de ruiner par l’intérieur les critères mêmes de la vérité. Et c’est enfin d’aller loger le mensonge, de préférence, dans une parole de vérité !</p>
         </div>
       </div>
-      <div n="III." type="chapter">
+      <div n="III." type="chapter" xml:id="ddr19421200partdia_04">
         <pb n="63"/>
         <head type="kicker">Troisième partie</head>
         <head>Le diable démocrate</head>
@@ -464,7 +464,7 @@
           <p>— Si vous voulez déjouer le premier tour du diable, et son second tour du même coup, si vous tenez sérieusement à l’attraper, je vais vous dire où vous le trouverez le plus sûrement : <hi rend="i">dans le fauteuil où vous êtes assis</hi>.</p>
         </div>
       </div>
-      <div n="IV." type="chapter">
+      <div n="IV." type="chapter" xml:id="ddr19421200partdia_05">
         <pb n="83"/>
         <head type="kicker">Quatrième partie</head>
         <head>Le diable dans nos dieux et dans nos maladies</head>
@@ -804,7 +804,7 @@
           <p>Mais j’entendais un chant plein de force et de grâce, quelque part au secret de la vie, quand la clameur du néant s’abaissait, quelque part au-dessus de la mort, comme une grande fugue puissante et soutenue, quand tout semblait perdu, gâché et sans remède, un chant profond qui ne cesse jamais, inaltérable et dominant, ah ! taisons-nous, le voici qui revient, et ce n’est pas encore notre consolation, mais il est plus dur que la mort et le mutisme de la mort, il est plus pur que nos douleurs, je l’ai nommé : cantique au bleu du ciel.</p>
         </div>
       </div>
-      <div n="V." type="chapter">
+      <div n="V." type="chapter" xml:id="ddr19421200partdia_06">
         <pb n="155"/>
         <head type="kicker">Cinquième partie</head>
         <head>Le Bleu du Ciel</head>

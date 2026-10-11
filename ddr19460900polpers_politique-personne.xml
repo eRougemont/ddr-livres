@@ -81,7 +81,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter" when="1946">
+      <div type="chapter" when="1946" xml:id="ddr19460900polpers_01">
         <head>Préface pour l’édition de 1946</head>
         <p>Daté ne veut pas dire nécessairement caduc. Ce recueil « d’essais de circonstances » porte en toute évidence la marque des années au cours desquelles il fut écrit et dit. Cependant, je ne l’ai guère modifié. (Quelques pages ont été coupées, parce qu’elles contenaient trop d’allusions à des incidents oubliés ; et j’ajoute une <ref target="https://www.unige.ch/rougemont/livres/ddr19460900polpers/21">V<hi rend="sup">e</hi> partie</ref>, qui précise la visée religieuse de ma conception propre du personnalisme.)</p>
         <p>Bien sûr, après une douzaine d’années — cette douzaine-là ! —, l’insuffisance de plusieurs pages, l’outrance ou l’étroitesse de tel jugement que je confondais sans doute avec de la rigueur, ne vont-elles pas sans me gêner. Mais on ne récrit pas un livre de ce genre sans lui faire perdre sa vertu de prise de position dans le vif, à tous risques. Et surtout, je n’ai pas éprouvé un seul instant, tout en relisant ce recueil, le besoin de corriger ses diagnostics pour les rendre après coup plus conformes au développement, désormais historique, des maladies que j’étudiais.</p>
@@ -108,7 +108,7 @@
       </div>
       <div>
         <head>Introduction</head>
-        <div n="a." type="chapter">
+        <div n="a." type="chapter" xml:id="ddr19460900polpers_02">
           <head type="kicker">1.</head>
           <head>L’engagement politique</head>
           <p>J’ai, pour la politique, une espèce d’aversion naturelle. L’aveu paraîtra maladroit au seuil du livre que voici. Mais faut-il aimer davantage l’espèce d’adresse au jour le jour qui tient lieu de vertu politique à ce siècle débile et fiévreux ? On se demande alors de quoi je me mêle. Je réponds que je voudrais bien n’avoir jamais été forcé de m’en mêler. Mais tel est le malheur des temps : pour peu que l’intellectuel d’aujourd’hui ait préservé en lui un pouvoir de colère, et par ailleurs le besoin de penser, il se voit obligé de répondre <hi rend="i">activement</hi> aux empiètements dans son domaine de ce qu’on a nommé le désordre établi.</p>
@@ -122,7 +122,7 @@
             <pb n="16" xml:id="p16"/>
              tel qu’il lui est offert, elle court le risque de s’y dégrader. J’ai préféré ce risque à la politique de l’autruche. L’issue fût-elle désespérée. Et peut-être ne l’est-elle pas.</p>
         </div>
-        <div n="b." type="chapter">
+        <div n="b." type="chapter" xml:id="ddr19460900polpers_03">
           <head type="kicker">2.</head>
           <head>Ridicule et impuissance du clerc qui s’engage</head>
           <p>Le risque est la santé de la pensée, à condition toutefois qu’elle l’envisage sans illusion ni romantisme. L’enjeu d’une partie aussi mal engagée que celle que doit jouer notre génération, n’est pas de ceux dont on puisse parler avec une légèreté de bon aloi. Je ne m’excuse pas du sérieux peut-être pesant des considérations qui suivent.</p>
@@ -139,7 +139,7 @@
           <p>Il y a un sentiment très juste dans le goût du pratique, des « solutions pratiques » qu’affirme un autre groupe de clercs, fort désireux d’aller au peuple. On est frappé cependant de voir que ce goût du pratique n’aboutit, pratiquement, qu’à une espèce de négation de la pensée. Le peuple veut des programmes pratiques, mais se contente, en fait, du verbalisme électoral. Les intellectuels prétendent « entrer dans l’action », et cela se traduit par de généreux manifestes, des formules vagues, à peine sonores et toujours anti-quelque chose. Ni l’adhésion à un programme « résolument démocratique, laïque, progressiste, etc. », ni l’effort de signer quelques appels à l’Opinion publique, n’engagent à rien, personnellement. Il se peut que cela tranquillise des consciences faiblement troublées ; il se peut que cela dispense de porter sérieusement nos angoisses ; il est certain que cela n’est pas pratique, ne sert à rien et détourne d’agir au moins autant que de penser.</p>
           <p>Entre ces deux écueils, le ridicule et l’impuissance, existe-t-il un détroit navigable ? Existe-t-il pour l’intellectuel une <hi rend="i">possibilité</hi> de sortir de sa chambre ? Car il y dépérit, — et sa sécurité n’est plus, nous l’avons vu en maint autre pays, qu’une espèce de liberté sous conditions. Le clerc bourgeois, chez nous, se croit <hi rend="i">encore</hi> tranquille. On ne le laissera plus tranquille bien longtemps.</p>
         </div>
-        <div n="c." type="chapter">
+        <div n="c." type="chapter" xml:id="ddr19460900polpers_04">
           <pb n="20" xml:id="p20"/>
           <head type="kicker">3.</head>
           <head>Le vrai pouvoir des intellectuels et son usage</head>
@@ -159,7 +159,7 @@
           <p>Ces faits bien établis — et nous y reviendrons d’une manière plus concrète à propos de situations précises — on peut en déduire ceci :</p>
           <p>La première tâche des intellectuels est, aujourd’hui, de conduire une critique des <hi rend="i">mythes collectivistes</hi> nés de la maladie de la personne. Puis il s’agit de retrouver une définition concrète de la personne. Enfin de la traduire en institutions et coutumes. Ou, tout au moins, d’indiquer les limites, la formule et <hi rend="i">les buts</hi> de ces institutions.</p>
         </div>
-        <div n="d." type="chapter">
+        <div n="d." type="chapter" xml:id="ddr19460900polpers_05">
           <head type="kicker">4.</head>
           <head>Pour une politique à hauteur d’homme</head>
           <p>Toute la question est de savoir à quel niveau l’on situe le concret ; à quelles fins les pouvoirs entendent mener les hommes. Toute la question est de savoir quelle définition de l’homme est impliquée dans telle politique qu’on défend. C’est cette question qu’on a cessé de poser dans le monde des politiciens.</p>
@@ -174,7 +174,7 @@
             <pb n="26" xml:id="p26"/>
              une minorité. Il y a peu d’hommes réellement humains : mais c’est à eux que le pouvoir doit revenir, c’est par eux qu’il peut être humanisé. Le but de la société, c’est la personne. On n’y atteindra jamais que par une politique établie dès le départ à ce niveau.</p>
         </div>
-        <div n="e." type="chapter">
+        <div n="e." type="chapter" xml:id="ddr19460900polpers_06">
           <head type="kicker">5.</head>
           <head>En dernier ressort</head>
           <p>Quel que soit le dégoût qu’inspire au clerc l’action publique, je pense qu’il doit le surmonter en premier lieu pour se défendre ; en second lieu pour se réaliser, c’est-à-dire pour conduire sa pensée à son terme ; enfin je crois que la vision d’un homme non point parfait mais librement humain, ne peut exister autrement que sous l’espèce d’un appel à restaurer cette stature dégradée. Les trois motifs d’agir que je viens d’exposer appartiennent à l’ordre humain, et relèvent, pourrait-on dire, des intérêts de la pensée protectrice de notre condition. En tant qu’intéressés, au meilleur sens du mot, ces motifs peuvent très bien revêtir les apparences d’une politique supérieure, et comme tels se voir adoptés par des clercs même incroyants. Plusieurs, que je connais, les jugent suffisants, et n’éprouvent aucun besoin de les étayer autrement. Je ne saurais croire pourtant à l’efficacité d’une foi en l’homme fondée sur l’homme seul.</p>
@@ -208,7 +208,7 @@
         <pb n="33" xml:id="p33"/>
         <head type="kicker">Première partie</head>
         <head>Primauté du spirituel ?</head>
-        <div n="1." type="chapter">
+        <div n="1." type="chapter" xml:id="ddr19460900polpers_07">
           <pb n="35" xml:id="p35"/>
           <head type="kicker">I</head>
           <head>Destin du siècle ou vocation personnelle ?<note place="bottom">Conférence donnée à Genève, le 12 février 1934, au cours de la <hi rend="i">Semaine chrétienne universitaire</hi>.</note></head>
@@ -316,7 +316,7 @@
           <p>L’homme désespéré, l’homme sans vocation personnelle, c’est un homme incomplet, désuni. Et ce n’est pas la connaissance intellectuelle du destin de sa classe ou de sa race qui va suffire pour l’arracher à sa misère ; il lui faut une <hi rend="i">rencontre</hi>, un événement, un acte.</p>
           <p>Et voilà le mystère devant lequel je vous laisse maintenant. Nous ne rencontrons personne au monde, avant d’avoir rencontré Dieu.</p>
         </div>
-        <div n="2." type="chapter">
+        <div n="2." type="chapter" xml:id="ddr19460900polpers_08">
           <pb n="53" xml:id="p53"/>
           <head type="kicker">II</head>
           <head>Personne ou individu ?
@@ -362,7 +362,7 @@
           <p>La primauté du spirituel, c’est pratiquement la primauté de la personne.</p>
           <p>La primauté de la personne, voilà la définition de la seule <hi rend="i">autorité réelle</hi>, rayonnante, et qui ne se fonde pas sur la contrainte matérielle, mais sur le pouvoir créateur, ordonnateur. L’Esprit dont nous parlons n’est pas une espèce de fluide très subtil, d’autant plus respectable qu’il serait plus invisible. Et ce n’est pas non plus l’intelligence, ni la pensée, ni les fameuses « valeurs spirituelles » dont le <num>xix<hi rend="sup">e</hi></num> siècle a fait une véritable inflation. Mais c’est l’Esprit qui vient <hi rend="i">s’incarner</hi> parmi nous. L’Esprit est autorité, disait Rimbaud. Ou il n’est rien.</p>
         </div>
-        <div n="3." type="chapter">
+        <div n="3." type="chapter" xml:id="ddr19460900polpers_09">
           <pb n="63" xml:id="p63"/>
           <head type="kicker">III</head>
           <head>Précédence ou primauté de l’économique dans le marxisme ?
@@ -433,7 +433,7 @@
         <pb n="77" xml:id="p77"/>
         <head type="kicker">Deuxième partie</head>
         <head>Principes d’une politique du pessimisme actif</head>
-        <div n="4." type="chapter">
+        <div n="4." type="chapter" xml:id="ddr19460900polpers_10">
           <pb n="79" xml:id="p79"/>
           <head type="kicker">IV</head>
           <head>Ni ange ni bête : ni gauche ni droite
@@ -464,7 +464,7 @@
              de l’homme à Dieu, d’où découle la relation concrète et humainement bienfaisante que l’Évangile appelle l’amour du prochain.</p>
           <p>Ni ange ni bête, ni droite ni gauche. Pessimisme quant aux fins terrestres, mais impliquant l’activité de l’homme considérée comme un <hi rend="i">service</hi> nécessaire — voilà peut-être définie l’attitude chrétienne en politique : une révolution sans illusions.</p>
         </div>
-        <div n="5." type="chapter">
+        <div n="5." type="chapter" xml:id="ddr19460900polpers_11">
           <pb n="85" xml:id="p85"/>
           <head type="kicker">V</head>
           <head>Sur la devise du Taciturne</head>
@@ -512,7 +512,7 @@
           <ab type="ornament">⁂</ab>
           <p>Que faire donc ? Briser d’abord les idoles menaçantes. Et puis rester aux ordres de l’esprit. Nous n’avons pas à prendre d’assurances sur l’avenir. Nous n’avons pas à nous garantir à l’avance par un programme, si « chrétien » qu’on le veuille. Un certain nombre de compromissions nous sont à jamais impossibles : et tout le reste est affaire d’obéissance aux ordres imprévisibles et concrets de la Parole. Point de « synthèse », point de « consolation » ailleurs qu’en Dieu : notre action baigne dans l’« angoisse de l’espérance ».<note place="bottom">Expression qu’Arnaud Dandieu opposait dans un intéressant article de la <hi rend="i">Revue d’Allemagne</hi> (oct. 1932), à la conception kierkegaardienne du désespoir. Cette formule ne désigne en réalité qu’un des <hi rend="i">moments</hi> de la dialectique du désespoir : le moment décisif, l’acte. Elle n’a de sens, pour nous, que parce qu’il y a la foi.</note></p>
         </div>
-        <div n="6." type="chapter">
+        <div n="6." type="chapter" xml:id="ddr19460900polpers_12">
           <pb n="93" xml:id="p93"/>
           <head type="kicker">VI</head>
           <head>Note sur un certain humour</head>
@@ -541,7 +541,7 @@
           <p>« Idola tribus »</p>
           <bibl> <hi rend="sc">Bacon</hi> </bibl>
         </epigraph>
-        <div n="7." type="chapter">
+        <div n="7." type="chapter" xml:id="ddr19460900polpers_13">
           <pb n="99" xml:id="p99"/>
           <head type="kicker">VII</head>
           <head>Comment rompre ?<note place="bottom">La revue <ref target="https://www.unige.ch/rougemont/articles/espr"><hi rend="i">Esprit</hi></ref> publiait, dans son numéro 6 (mars 1933), une confrontation sur ce sujet : <hi rend="i">Rupture entre l’ordre chrétien et le désordre établi.</hi> Cet article y parut, « confronté » avec ceux de MM. Mounier, Maritain, Philip, Berdiaev et Dulot.</note></head>
@@ -599,7 +599,7 @@
           <p>Tel est le paradoxe, qui remonte au cœur même du christianisme, si le christianisme est la foi au Christ « éternellement <hi rend="i">actuel</hi> ».</p>
           <p>Cette foi est inaliénable. Elle ne constitue pas un ordre : elle donne des ordres, simplement. Elle n’est jamais entrée en collusion avec aucune durée, étant la rupture de toute durée. Mais dès lors, nous savons le véritable nom de la rupture, son lieu, son mode et son enjeu total : <hi rend="i">rétablir à chaque instant le christianisme, dans sa nouveauté prophétique, tel est l’Acte</hi> — le seul ! — et tel est aussi le mystère ; car cette seule Rupture effective surpasse absolument nos forces, en même temps qu’elle en exige tout : c’est la conversion.</p>
         </div>
-        <div n="8." type="chapter">
+        <div n="8." type="chapter" xml:id="ddr19460900polpers_14">
           <pb n="111" xml:id="p111"/>
           <head type="kicker">VIII</head>
           <head>Humanisme et christianisme<note place="bottom">Introduction à une discussion organisée par la Fédération des étudiants chrétiens au Foyer international du boulevard Saint-Michel (le 25 janvier 1933).</note></head>
@@ -644,7 +644,7 @@
           <p>L’homme chrétien est à la fois ange et bête. Dans ce conflit perpétuel, il trouve sa joie et sa souffrance — peu importe le nom qu’il leur donne ; et il y trouve sa raison de vivre, c’est-à-dire de lutter pour devenir une <hi rend="i">personne</hi> devant Dieu.</p>
           <p>Le succès de l’humanisme triomphant serait-il tout simplement d’enlever à l’homme toute raison <hi rend="i">personnelle</hi> de vivre ? Le succès de l’homme abandonné à ses calculs serait-il, en définitive, un suicide supérieurement organisé du « genre humain » ?</p>
         </div>
-        <div n="9." type="chapter">
+        <div n="9." type="chapter" xml:id="ddr19460900polpers_15">
           <pb n="119" xml:id="p119"/>
           <head type="kicker">IX</head>
           <head>Antimarxiste parce que chrétien<note place="bottom">Causerie donnée au cercle d’études marxistes de la Fédération des étudiants de Paris, au mois de mai 1933.</note></head>
@@ -693,7 +693,7 @@
              Je crois que toute autre solution, et en particulier, tout compromis <hi rend="i">partiel</hi> avec le marxisme, n’aboutirait, pratiquement, qu’à faire du chrétien un mauvais marxiste, sans cesse soupçonné de « sabotage idéaliste » par les camarades du parti, — ou un de ces chrétiens incertains, dont justement l’incertitude a provoqué l’inévitable et juste révolte de nos camarades athées.</p>
           <p>Il n’est de charité bien ordonnée que celle qui commence par rendre à Dieu ce qui est à Dieu. Sinon, César lui-même pâtira.</p>
         </div>
-        <div n="10." type="chapter">
+        <div n="10." type="chapter" xml:id="ddr19460900polpers_16">
           <pb n="129" xml:id="p129"/>
           <head type="kicker">X</head>
           <head>Fascisme<note place="bottom">Ici, d’une manière plus pressante qu’à l’occasion de tout autre chapitre de ce livre, il convient de rappeler sa date : début de 1934. L’hitlérisme ne faisait que s’installer dans le pouvoir conquis un an plus tôt. Et le fascisme italien jouissait encore de toutes les faveurs de nos droites. (Note de 1946.)</note></head>
@@ -768,7 +768,7 @@
         <pb n="141" xml:id="p141"/>
         <head type="kicker">Quatrième partie</head>
         <head>Problèmes de la révolution personnaliste</head>
-        <div n="11." type="chapter">
+        <div n="11." type="chapter" xml:id="ddr19460900polpers_17">
           <pb n="143" xml:id="p143"/>
           <head type="kicker">XI</head>
           <head>D’un Cahier de revendications</head>
@@ -835,7 +835,7 @@
              seule chose pour laquelle j’accepterais la mort, parce que ce ne serait pas crever bassement dans la haine, mais ce serait un acte enfin dans lequel je posséderais <hi rend="i">toute</hi> ma vie, d’un seul coup, en la donnant.</p>
           <p>Je n’ai pas à sauver quoi que ce soit de la terre, mais seulement à recevoir le pardon. Or il n’est de pardon que pour celui qui agit. On me dira sans doute que je me perds dans ma mystique ? Allez, vous ne vous retrouvez que trop bien dans les vôtres ! Déjà les hommes le pressentent : il n’y a rien d’autre à attendre que cette force surhumaine d’entrer dans l’Ordre de la Pauvreté, qui vaincra toutes les révolutions — <hi rend="i">après les avoir faites.</hi></p>
         </div>
-        <div n="12." type="chapter">
+        <div n="12." type="chapter" xml:id="ddr19460900polpers_18">
           <pb n="155" xml:id="p155"/>
           <head type="kicker">XII</head>
           <head>Communauté révolutionnaire</head>
@@ -895,7 +895,7 @@
             <p>Nous n’appelons pas un chef, ni des meneurs, mais des hommes humains. On ne refait un monde qu’avec des hommes responsables.</p>
           </div>
         </div>
-        <div n="13." type="chapter">
+        <div n="13." type="chapter" xml:id="ddr19460900polpers_19">
           <pb n="165" xml:id="p165"/>
           <head type="kicker">XIII</head>
           <head>Triomphe de la Personne
@@ -1030,7 +1030,7 @@
             <p>Supposez maintenant qu’on vous dise : partez pour une course qui n’aura pas de fin, puisque vous devrez marcher jusqu’à votre mort, sans nul espoir d’atteindre le but ! (Ce but étant caché <hi rend="i">dans</hi> la mort même.) L’incroyant — celui qui ne croit pas au but — refusera de partir, ou tentera de se suicider. Le croyant, au contraire, trouvera des forces infinies dans la foi qu’il aura au but — au but caché derrière sa mort. Il marchera « à mort », portant en lui à chaque moment la mesure d’un effort infini.</p>
           </div>
         </div>
-        <div n="14." type="chapter">
+        <div n="14." type="chapter" xml:id="ddr19460900polpers_20">
           <pb n="183" xml:id="p183"/>
           <head type="kicker">XIV</head>
           <head>Tactique personnaliste</head>
@@ -1090,7 +1090,7 @@
         <pb n="191" xml:id="p191"/>
         <head type="kicker">V<hi rend="sup">e</hi> partie</head>
         <head>À la fois libre et engagé</head>
-        <div type="chapter" when="1940-04">
+        <div type="chapter" when="1940-04" xml:id="ddr19460900polpers_21">
           <pb n="193" xml:id="p193"/>
           <head>Le protestantisme créateur de personnes<note place="bottom">Conférence prononcée au mois de janvier 1939 dans les aulas des universités de Neuchâtel, Lausanne et Genève, sous les auspices des <hi rend="i">Amis de la pensée protestante</hi>, ainsi qu’à l’aula de l’Université de Bâle, sur la demande de l’Association générale des étudiants de cette ville.</note></head>
           <p>Je souhaite que beaucoup d’entre vous, apercevant le titre de cette conférence, aient ressenti quelque méfiance. Je souhaite que beaucoup aient tenu le petit raisonnement que voici : pour les réformateurs, l’homme devant Dieu égale zéro ; pour les modernes, un protestant égale une personnalité. Que peut bien signifier cette contradiction affligeante ?</p>
@@ -1226,7 +1226,7 @@
           <pb n="225" xml:id="p225"/>
           <hi rend="i"> À titre documentaire, nous réunissons ici cinq articles qui pourront préciser utilement quelques aspects de la doctrine personnaliste, ou donner un aperçu des groupes qui la défendent.</hi>
         </p>
-        <div n="i." type="chapter">
+        <div n="i." type="chapter" xml:id="ddr19460900polpers_22">
           <head type="kicker">1</head>
           <head>Liberté ou chômage ?</head>
           <p>Nous entendions l’autre jour, en buvant un café sur le zinc : « Le travail, c’est la liberté, — pour celui qui ne travaille pas ! »</p>
@@ -1258,7 +1258,7 @@
              divisés à l’infini. Du peuple on a fait une masse, — comme de la personne un numéro. De la patrie on a fait la nation, — et des attachements humains, des chaînes sociales. Du travailleur on a fait un salarié, — et de sa liberté on a fait le chômage.</p>
           <p>Mais la misère présente est un appel à <hi rend="i">l’homme.</hi> Seuls sauront y répondre en pleine efficacité ceux pour lesquels il n’est pas de salut hors de cette réalité perpétuellement réparatrice et proprement humaine : <hi rend="i">la personne.</hi></p>
         </div>
-        <div n="ii." type="chapter">
+        <div n="ii." type="chapter" xml:id="ddr19460900polpers_23">
           <pb n="233" xml:id="p233"/>
           <head type="kicker">2</head>
           <head>Loisir ou temps vide ?</head>
@@ -1300,7 +1300,7 @@
             <p>Un jour, l’empereur de la Chine fait appeler auprès de lui son peintre. « Peins-moi sur ce rouleau un crabe. » — « Il me faut vingt ans », dit le peintre. Et pendant vingt ans, l’empereur subvient à l’existence du peintre. Cependant l’artiste se promène. Sur les plages, il vagabonde, il contemple, il apprend, il calcule. Au terme qu’il s’était fixé, le voici devant son seigneur. « Ton tableau ? » — « Qu’on m’apporte un rouleau, des pinceaux. » On fait cela, on déroule une soie. Et d’un seul trait miraculeux…</p>
           </div>
         </div>
-        <div n="iii." type="chapter">
+        <div n="iii." type="chapter" xml:id="ddr19460900polpers_24">
           <pb n="239" xml:id="p239"/>
           <head type="kicker">3</head>
           <head>Groupements personnalistes</head>
@@ -1335,7 +1335,7 @@
             <pb n="245" xml:id="p245"/>
              disent Esprit ! Esprit !… » Mais tandis que <ref target="https://www.unige.ch/rougemont/articles/on"><hi rend="i">L’Ordre nouveau</hi></ref> évitait l’emploi fort équivoque du mot Esprit, pour y substituer l’adjectif « spirituel » qualifiant l’acte personnel — et cette nuance est capitale —, il est incontestable que l’« esprit » d’<ref target="https://www.unige.ch/rougemont/articles/espr"><hi rend="i">Esprit</hi></ref> est d’inspiration spécifiquement chrétienne. La revue a d’ailleurs franchement pris position dans un numéro spécial intitulé : <hi rend="i">Rupture entre l’ordre chrétien et le désordre établi.</hi> Elle n’en reste pas moins le lieu de rencontre de jeunes écrivains « de toutes croyances et de toutes incroyances », comme disait Péguy, le lieu d’une enquête permanente et approfondie sur la condition humaine telle que la déterminent le capitalisme et l’esprit bourgeois, — le lieu enfin d’un ambitieux effort de reconstruction culturelle. Il faut citer ici les numéros volumineux consacrés à la question du <hi rend="i">Travail</hi>, ou à <hi rend="i">l’Argent misère du pauvre, misère du riche.</hi> Un tel titre n’évoque-t-il pas un souvenir fameux ? Cette revue jouera-t-elle un rôle comparable à celui des <hi rend="i">Cahiers de la quinzaine</hi> ? Elle a su se garder assez bien de la démagogie, des à peu près journalistiques, des attaques personnelles qui assurent d’ordinaire aux publications dites révolutionnaires un succès de lecture, aux dépens de toute adhésion durable.</p>
         </div>
-        <div n="iv." type="chapter">
+        <div n="iv." type="chapter" xml:id="ddr19460900polpers_25">
           <pb n="247" xml:id="p247"/>
           <head type="kicker">4</head>
           <head>Qu’est-ce que la politique ?</head>
@@ -1401,7 +1401,7 @@
             <hi rend="i">(paru dans <ref target="https://www.unige.ch/rougemont/articles/on"><hi rend="i">L’Ordre nouveau</hi></ref>, 1936.)</hi>
           </p>
         </div>
-        <div n="v." type="chapter">
+        <div n="v." type="chapter" xml:id="ddr19460900polpers_26">
           <pb n="259" xml:id="p259"/>
           <head type="kicker">5</head>
           <head>Trop d’irresponsables s’engagent !

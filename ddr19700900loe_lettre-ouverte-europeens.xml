@@ -83,7 +83,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19700900loe_01">
         <pb n="7"/>
         <head>Lettre ouverte</head>
         <dateline>Ferney-Voltaire (Ain), France, le 21 février 1970.</dateline>
@@ -231,7 +231,7 @@
         <p>C’est l’État-nation qui a créé les problèmes tragiques de l’Europe — et c’est lui qui interdit de les résoudre. Faire l’Europe suppose donc défaire l’État-nation au profit des régions d’une part, de leur fédération d’autre part, ces deux réalités complémentaires ayant pour fin non pas la puissance collective, mais la plus grande liberté des personnes.</p>
         <p>Si vous ouvrez maintenant le dossier joint, une soixantaine de vues et d’arguments en grappe, vous y trouverez, je l’espère, presque autant d’occasions d’illustrer cet argument simple et de répondre à nos deux questions.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19700900loe_02">
         <pb n="25"/>
         <head>I. L’unité de culture</head>
         <epigraph>
@@ -782,7 +782,7 @@
           <p>Car tel est le secret occidental de la recherche spirituelle sans quoi la science se rendort, et la technique tourne à vide, et toutes nos libertés morales et civiques s’enlisent dans l’accoutumance d’un confort tyrannique à la manière des drogues, non plus libérateur d’énergies neuves. Secret lui-même paradoxal, puisqu’il exige d’être communiqué, comme l’amour même, sous peine de lésions explosantes dans l’inconscient d’où surgira l’histoire.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19700900loe_03">
         <pb n="108"/>
         <head>II. L’union fédérale</head>
         <div>
@@ -922,7 +922,7 @@
           <p>En tant que méthode générale d’aménagement des relations humaines, le fédéralisme tel que je viens de le définir ne fait que commencer. Il n’est pas matière historique, mais prospective. <hi rend="i">Il a plus d’avenir que de passé</hi>.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19700900loe_04">
         <pb n="129"/>
         <head>III. La puissance ou la liberté</head>
         <div>
@@ -1037,7 +1037,7 @@
           <p>Mais créer du pouvoir, ou créer <hi rend="i">le</hi> pouvoir dans la société qu’il faut faire, c’est d’abord créer les régions, seul échelon où le pouvoir puisse à la fois servir et être contrôlé, seul échelon de participation, de responsabilité, et donc de liberté.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19700900loe_05">
         <pb n="148"/>
         <head>IV. Vers une fédération des régions</head>
         <q rend="i">
@@ -1436,7 +1436,7 @@
              réalités, qui peut en résulter, sera sans nul doute beaucoup moins simple à dessiner — et surtout à mobiliser — que l’Europe des mythes nationaux, mais tellement plus intéressante à vivre !</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19700900loe_06">
         <pb n="197"/>
         <head>Lettre ouverte, suite et fin</head>
         <p>

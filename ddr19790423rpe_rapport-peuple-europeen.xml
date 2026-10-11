@@ -80,7 +80,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter" xml:id="ddr19790423rpe01">
+      <div type="chapter" xml:id="ddr19790423rpe_01">
         <head>Avertissement</head>
         <p>Constitué en 1976 à l’initiative du Centre européen de la culture (Genève)</p>
         <quote>
@@ -119,7 +119,7 @@
         <p>porte seul l’entière responsabilité de l’ordonnance des contributions si généreusement mises à sa disposition par les membres du Groupe, de leur synthèse et des conclusions qu’il en a tirées.</p>
         <p>Le Centre européen de la culture remercie la Fondation européenne de la culture (Amsterdam) qui a rendu possible les réunions du groupe Cadmos et la préparation de ce premier Rapport.</p>
       </div>
-      <div type="chapter" xml:id="ddr19790423rpe02">
+      <div type="chapter" xml:id="ddr19790423rpe_02">
         <head>Introduction</head>
         <div>
           <head>De quelle Europe s’agit-il ?</head>
@@ -392,7 +392,7 @@
           <p>Les pages qui suivent dégageront de la sorte les grandes lignes d’un Programme pour l’Europe, dédié pour cette première année aux candidats à l’élection du siècle.</p>
         </div>
       </div>
-      <div n="I." type="chapter" xml:id="ddr19790423rpe03">
+      <div n="I." type="chapter" xml:id="ddr19790423rpe_03">
         <pb n="53"/>
         <head type="kicker">I.</head>
         <head>L’économie</head>
@@ -590,7 +590,7 @@
           </div>
         </div>
       </div>
-      <div n="II." type="chapter" xml:id="ddr19790423rpe04">
+      <div n="II." type="chapter" xml:id="ddr19790423rpe_04">
         <head type="kicker">II.</head>
         <head>L’énergie</head>
         <div n="II.1.">
@@ -742,7 +742,7 @@
              vingt-deux États de l’Ouest en attendant que ceux de l’Est puissent s’y joindre, s’ils le désirent. Il n’y a qu’une solution au problème énergétique : l’Europe unie.</p>
         </div>
       </div>
-      <div n="III." type="chapter" xml:id="ddr19790423rpe05">
+      <div n="III." type="chapter" xml:id="ddr19790423rpe_05">
         <head type="kicker">III.</head>
         <head>L’environnement</head>
         <div n="III.1.">
@@ -862,7 +862,7 @@
           </div>
         </div>
       </div>
-      <div n="IV." type="chapter" xml:id="ddr19790423rpe06">
+      <div n="IV." type="chapter" xml:id="ddr19790423rpe_06">
         <pb n="111"/>
         <head type="kicker">IV.</head>
         <head>Les régions</head>
@@ -1018,7 +1018,7 @@
           </div>
         </div>
       </div>
-      <div n="V." type="chapter" xml:id="ddr19790423rpe07">
+      <div n="V." type="chapter" xml:id="ddr19790423rpe_07">
         <head type="kicker">V.</head>
         <head>La défense de l’Europe</head>
         <div n="V.1.">
@@ -1144,7 +1144,7 @@
              L’Europe unie peut seule inaugurer la désescalade des armements, sans laquelle il n’y a guère d’avenir pour notre Histoire.</p>
         </div>
       </div>
-      <div n="VI." type="chapter" xml:id="ddr19790423rpe08">
+      <div n="VI." type="chapter" xml:id="ddr19790423rpe_08">
         <pb n="149"/>
         <head type="kicker">VI.</head>
         <head>L’Europe et le tiers-monde</head>
@@ -1209,7 +1209,7 @@
           <p>L’avenir d’un ordre solidaire global, qui est la seule solution au désastre économique et à la guerre nucléaire, se trouve lié à l’avenir d’une fédération réussie de l’Europe occidentale.</p>
         </div>
       </div>
-      <div n="VII." type="chapter" xml:id="ddr19790423rpe09">
+      <div n="VII." type="chapter" xml:id="ddr19790423rpe_09">
         <head type="kicker">VII.</head>
         <head>Programme pour les Européens</head>
         <div n="VII.1.">
@@ -1301,7 +1301,7 @@
           </quote>
         </div>
       </div>
-      <div type="chapter" xml:id="ddr19790423rpe10">
+      <div type="chapter" xml:id="ddr19790423rpe_10">
         <pb n="169"/>
         <head>Annexes</head>
         <div n="i.">

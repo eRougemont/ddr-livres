@@ -83,7 +83,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19820900paysan_01">
         <pb n="9"/>
         <head>Introduction
 <lb/>Le sentiment de l’Europe centrale</head>
@@ -145,7 +145,7 @@
       <div n="I.">
         <head>Première partie
 <lb/>Le paysan du Danube</head>
-        <div type="chapter" n="I.1.">
+        <div type="chapter" n="I.1." xml:id="ddr19820900paysan_02">
           <pb n="25"/>
           <head>Une « tasse de thé » au palais C…<note place="bottom">C’est ainsi qu’était formulée l’invitation au bal du célèbre banquier Castiglioni.</note></head>
           <epigraph>
@@ -177,7 +177,7 @@
           <p>La joie du jour, hélas, la plus forte…</p>
           <dateline>Vienne, 1928.</dateline>
         </div>
-        <div type="chapter" n="I.2.">
+        <div type="chapter" n="I.2." xml:id="ddr19820900paysan_03">
           <pb n="33"/>
           <head>Voyage en Hongrie</head>
           <epigraph>
@@ -341,7 +341,7 @@ benzine industrielle.</p>
             <dateline>1929.</dateline>
           </div>
         </div>
-        <div type="chapter" n="I.3.">
+        <div type="chapter" n="I.3." xml:id="ddr19820900paysan_04">
           <pb n="62"/>
           <head>Le balcon sur l’eau</head>
           <p>Tu es appuyée debout contre moi, et nous regardons à nos pieds l’eau vivante. La brume est proche. Une haute muraille derrière nous ferme le monde. Tu ne trembles plus, tu t’appuies. Nos reflets ondulent très peu, gris sur le blanc doucement luisant de la surface ; mais le silence a des vagues profondes.</p>
@@ -360,7 +360,7 @@ benzine industrielle.</p>
           <p>… C’est le domaine de l’homme qui n’a pas d’empressement. »</p>
           <bibl><hi rend="sc">Senancour</hi> (Obermann).</bibl>
         </epigraph>
-        <div type="chapter" n="II.1.">
+        <div type="chapter" n="II.1." xml:id="ddr19820900paysan_05">
           <pb n="65"/>
           <head>Châteaux en Prusse</head>
           <p>Au loin passaient des voiles claires parmi les blés violents ; le ciel paraissait plus grand que la terre. Des bois de pins s’approchaient, s’écartaient, livrant passage à la chaussée impériale dont brillaient les grandes portées blanches sur les ondulations sablonneuses de la plaine. Des prairies doucement soulevées s’arrêtaient au bord du ciel, devant la lumière maritime ; puis cédaient de l’épaule et l’on voyait le golfe violacé écumer sous la masse du soleil. Une lisière qui nous accompagnait vira largement, nous fit front, et il n’y eut plus qu’une piste de terre entre les sapins noirs, la rumeur du rivage et du soleil derrière nous décroissant, tumulte d’un matin d’été. Maintenant une odeur fine de benzine traverse les odeurs de la forêt, et le moteur halète au ralenti, dans la fraîcheur sobre. L’on s’éveille enfin du long voyage nocturne, les yeux cessent de cligner, le corps se détend. Là devant, un chauffeur immobile guette les ornières profondes où les roues s’enfoncent parfois avec un cahot mou. Le silence grandit ; cris de pics, vibration basse des cylindres. On voit paraître de plus hauts arbres et bientôt un vaste portail, aux piles couronnées de grands cerfs de bronze. La piste se fait plane, la forêt s’ordonne. Échappée sur des étangs couverts de mousse jaune. (Tout à fait réveillé et attentif, maintenant.) Jardin anglais. Soudain, des pelouses <pb n="66"/> filent à gauche et à droite entre des hêtres rouges, piquées au loin de massifs éclatants, le gravier d’une allée fait son bruit luxueux, tout s’éclaire : cent fenêtres, sur la gauche, dans une façade de grès Louis XV. Nous la longeons, nous montons une rampe pavée qui s’engage sous un porche couvert aux colonnes enguirlandées de roses. Toute une famille de géants, debout sur un seuil solennel, me regarde piquer du nez à l’arrêt brusque.</p>
@@ -413,7 +413,7 @@ benzine industrielle.</p>
             <p>En 1945, tous les châteaux de la Prusse-Orientale ont été rasés par les Russes, sous prétexte de communisme. Personne n’a dénoncé ce crime, nul n’en ayant tiré profit.</p>
           </div>
         </div>
-        <div type="chapter" n="II.2.">
+        <div type="chapter" n="II.2." xml:id="ddr19820900paysan_06">
           <pb n="77"/>
           <head>La tour de Hölderlin</head>
           <p>« Je lui ai raconté qu’il habite une chaumière au bord d’un ruisseau, qu’il dort les portes ouvertes, et pendant des heures récite des odes grecques au murmure de l’eau ; la princesse de Homburg lui a fait cadeau d’un piano dont il a coupé les cordes, mais pas toutes, en sorte que plusieurs touches sonnent encore, et c’est là-dessus qu’il improvise, oh ! j’aimerais tant aller là-bas, cette folie m’apparaît comme une chose si douce et si grande… »<note place="bottom">Bettina von Arnim-Brentano : <hi xml:lang="de" rend="i">Die Günderode</hi>.</note></p>
@@ -440,7 +440,7 @@ humaine, est plus divine quand c’est une telle femme qui la confesse : « <h
           <p>Le tragique de la facilité, c’est qu’elle n’est qu’un oubli. Et pourtant, comme elle paraît ici bien établie, triomphante, à beau fixe. Pourquoi troubler le miroir innocent <pb n="82"/> de ces eaux, ces âmes indulgentes à leur banalité ? Est-ce qu’ils ne soupçonnent jamais rien ? Ou bien, peut-être, seulement, quand l’amour leur donne une petite fièvre, — cette semaine de leur jeunesse où ils ont cru pressentir de grandes choses généreuses autour d’eux… Cela s’oublie. Et l’amour, tout justement, nous fait comprendre, dans le temps même qu’il nous entr’ouvre le ciel, qu’il est bon qu’il y ait la terre… Mais que cette musique vulgaire, par quel hasard, donne l’accord qui m’ouvre un vrai silence : déjà je leur échappe — je t’échappe ô douceur de vivre ! Tout redevient autour de moi insuffisant, transitoire, allusif. Tout se remet à signifier l’absence.</p>
           <dateline>1929.</dateline>
         </div>
-        <div type="chapter" n="II.3.">
+        <div type="chapter" n="II.3." xml:id="ddr19820900paysan_07">
           <pb n="83"/>
           <head>Petit journal de Souabe</head>
           <p>À la tombée d’une nuit froide, en avril, le voyageur descend dans un vieux bourg de Souabe, — quelques lumières au milieu d’une étroite vallée où le train longtemps côtoya une rivière, des forêts. Les rues sont vides jusqu’au cœur de la ville, où l’attend une ample demeure.</p>
@@ -607,7 +607,7 @@ humaine, est plus divine quand c’est une telle femme qui la confesse : « <h
           </div>
         </div>
       </div>
-      <div type="chapter" n="III.">
+      <div type="chapter" n="III." xml:id="ddr19820900paysan_08">
         <pb n="107"/>
         <head>Quand je me souviens — C’est l’Europe</head>
         <p>Ces pages sont nées à des dates différentes d’un même état de sensibilité, dont j’ai remarqué qu’il se révèle en moi par une même allure d’écriture, toutes les fois que se trouve atteint le seuil de ce que j’ai nommé <hi rend="i">le sentiment européen</hi>. Nom de code, mais aussi vrai nom — par cela même précisé — de mon <hi rend="i">Europe</hi>. Et vrai sujet, tout au moins manifeste, de cette suite d’entrevisions des temps mêlés — « Ce présent que je vis déjà comme un passé dans le futur que j’anticipe » — et qui devait me conduire à une action : celle que je n’ai cessé de mener depuis, pour l’avenir du sens de nos vies.</p>
@@ -755,7 +755,7 @@ humaine, est plus divine quand c’est une telle femme qui la confesse : « <h
       </div>
       <div n="IV.">
         <head>Suite neuchâteloise</head>
-        <div type="chapter" n="IV.1.">
+        <div type="chapter" n="IV.1." xml:id="ddr19820900paysan_09">
           <head>I</head>
           <p>On se trompe en croyant qu’un voyageur à longueur de chemin perd sa patrie : c’est souvent elle qu’il découvre le mieux quand il parcourt le globe et vit chez l’étranger. Non qu’il y pense toujours, mais les hommes qu’il fréquente la voient en lui d’abord, l’en tiennent pour responsable, et par l’erreur la plus commune, l’en nomment si bien le représentant qu’il lui faut à la fin se la représenter comme il n’eût jamais fait en y restant. Dans sa cité, il était d’une famille, et pour sa famille un prénom ; à l’étranger, il devient toute une race. Serait-ce vrai ? se dit-il. Le voient-ils mieux que moi ? Mais que voient-ils, dont je n’ai pas conscience et que je croyais bien quitté ? Il se retourne et le voilà tout étonné… Désormais, nul n’est plus curieux des apparences et des secrets de son pays. Il songe : c’est là-bas que le mystère m’attend, et que ne vais-je pas y découvrir, à mon retour, que jamais je n’ai su regarder ?</p>
           <p>On lui dit : — Vous êtes Suisse ? Vous en avez de la chance ! Mais vous avez si peu l’air suisse.</p>
@@ -769,7 +769,7 @@ humaine, est plus divine quand c’est une telle femme qui la confesse : « <h
           <p>Et voici les brumes sur le lac, les murs de vignes séculaires, et ce toit qui demande aux voyageurs, en grandes lettres de tuiles blanches : <hi rend="sc">êtes-vous sauvés du péché ?</hi> Tout de suite les questions personnelles, et ce besoin de réformer le prochain…</p>
           <p>Est-ce que ceux qui vivent sous ce toit sont tellement sûrs de leur affaire ?</p>
         </div>
-        <div type="chapter" n="IV.2.">
+        <div type="chapter" n="IV.2." xml:id="ddr19820900paysan_10">
           <pb n="136"/>
           <head>II</head>
           <p>L’irruption du souvenir est aussi mystérieuse que celle de l’invention, dans notre esprit. Peu s’en faut, si j’y pense, que je ne les distingue plus. Tout se passe comme si la mémoire inventait soudain quelque forme que vient emplir le flot de l’émotion, mais n’est-ce pas le même piège que posera l’invention, en le tournant dans l’autre sens, comme pour se souvenir de ce qui vient ? D’où remontent ces rythmes de mots, cette épithète, ce nœud d’idées, où je ne reconnais rien de déjà lu ? Et de quel ciel me tombent ces visions surprenantes, où je reconnais bientôt ce que j’ai déjà vécu ? Certes, dans les deux cas, c’est moi que je découvre, puisqu’il s’agit d’un souvenir, d’une invention, sans autre précédent que moi. Mais la volonté n’y peut rien. Pourquoi maintenant, à cet instant précis, et non pas hier ni même une seule seconde plus tôt ? Quel mouvement ai-je donc fait par mégarde, qui m’accorde à la longueur d’ondes d’un passé, d’un avenir toujours présents ? Proust a surpris le mécanisme du souvenir conditionné. Il nous livre à l’accidentel, et ses accidents sont petits : une madeleine trempée dans du thé, un pavé qui bascule sous la semelle. Mais les grands accidents de la vie raniment de tout autres mystères. Ils nous font découvrir plus que nous-mêmes.</p>
@@ -778,7 +778,7 @@ humaine, est plus divine quand c’est une telle femme qui la confesse : « <h
           <p>Ces mouvements les plus profonds de l’être nous semblent déclenchés par un destin absurde, et nous les subissons d’abord comme une force tout étrangère. Pourtant, ils nous rapportent à quelque chose en nous qui n’est pas moins intime que la conscience, mais qui lui est antérieur et qui lui survivra ; quelque chose que l’on peut désigner d’un mot simple, et qui figure dans l’ordre naturel comme un reflet de la communion des saints : notre histoire, le passé qui passe en chacun de nous ; qui par nous, maintenant, <hi rend="i">se passe</hi>, lié à toute l’histoire des autres hommes ; et sans lequel il n’y aurait jamais de plénitude du présent.</p>
           <p>Dans le silence d’une vaste pièce où j’étais seul devant l’admirable visage, debout au pied du lit, prolongeant le gisant, j’ai su que j’étais d’une lignée.</p>
         </div>
-        <div type="chapter" n="IV.3.">
+        <div type="chapter" n="IV.3." xml:id="ddr19820900paysan_11">
           <pb n="138"/>
           <head>III</head>
           <p>C’est l’un des traits les moins connus de notre pays que la <hi rend="i">continuité</hi> de ses familles, ailleurs rompue par des révolutions ou de fréquents changements de condition sociale. Nos archives sont intactes, minutieusement tenues par les communes les plus modestes, et tenues depuis plusieurs siècles pour une beaucoup plus grande proportion d’habitants que dans d’autres nations de l’Europe. La plupart des citoyens suisses, qu’ils soient bourgeois, ouvriers ou paysans, pourraient sans peine reconstituer leur ascendance jusqu’à des époques où n’atteignent, chez nos voisins, que les familles de la noblesse. La Suisse n’est pas démocratique pour avoir tardivement aboli ce que l’on nomme les privilèges, mais pour les avoir étendus, dès l’origine, au plus grand nombre.</p>
@@ -800,7 +800,7 @@ humaine, est plus divine quand c’est une telle femme qui la confesse : « <h
           <p>« En 1818 déjà — écrit M. Arthur Piaget dans sa remarquable <hi rend="i">Histoire de la révolution neuchâteloise</hi> — le Procureur général de Rougemont… considérait la monarchie comme fatalement condamnée » (II. 242). « Il jugeait ridicule et dangereux l’esprit de caste et de famille qui régnait à Neuchâtel. <hi rend="i">Dieu nous préserve</hi>, écrivait-il, <hi rend="i">des parvenus par droit de naissance et de fortune qui clabaudent contre ceux qui parviennent par droits de talents et de vertus. Il estimait ces prétentions déplacées dans un pays où la plus ancienne noblesse n’est pas chapitrale, où les trois quarts de la noblesse trouvent des paysans aux quatrième et cinquième échelons en remontant</hi> » (II. 63). Et il avait été, en 1814, l’un des principaux artisans du « cantonnement » de Neuchâtel, c’est-à-dire <pb n="142"/> de son inclusion, mais sans changer de régime, dans le Corps helvétique.</p>
           <p>Dès la chute de Napoléon, et malgré la Restauration, l’on s’aperçut que ce beau mouvement d’horlogerie fine retardait sans espoir sur l’heure du siècle, avancée pour le reste de l’Europe par la Révolution, puis par l’Empire, dans le sens des droits individuels et de la tyrannie collective. La population s’accroissait, le commerce prospérait, l’industrie naissait, les radicaux triomphaient partout. Il était temps d’adopter l’heure de Berne. Et ce fut 1848.</p>
         </div>
-        <div type="chapter" n="IV.4.">
+        <div type="chapter" n="IV.4." xml:id="ddr19820900paysan_12">
           <head>IV</head>
           <p>…Une lignée. Une famille parmi d’autres, et qui n’a guère cherché d’illustration en dehors des limites de la communauté qu’elle a servie pendant cinq siècles.</p>
           <p>Dans l’ascendance directe de mon père, je trouve d’abord, dès la Réforme, deux « ministres du saint Évangile » et deux juges. À partir du <num>xvii<hi rend="sup">e</hi></num> siècle, les généalogies que j’ai pu consulter ne mentionnent plus que des charges publiques : lieutenant des Assises, membres du Petit Conseil, conseiller d’État, enfin Procureur général de la Principauté. Puis survient la révolution dont nous allons célébrer le centenaire, et le dessaisissement du patriciat ; de là cette notice symbolique : Denis-François-Henry, rentier. (Un rentier n’est qu’un chômeur riche.) Suivent mon grand-père, professeur de théologie, et mon père, pasteur. Cela fait, au début et à la fin, pas mal de robes et de rabats, soit de justice, soit d’église ; et entre-temps plus de deux siècles de participation continuelle au gouvernement du pays.</p>
@@ -826,7 +826,7 @@ humaine, est plus divine quand c’est une telle femme qui la confesse : « <h
           <p>Jours prolongés, non pas multipliés. (Ce n’est pas une recette pour mourir centenaire !) Prolongés vers cet au-delà de la mémoire individuelle, le passé qui se passe en nous, et sans lequel il n’y aurait jamais de plénitude du <pb n="147"/> présent. Jours prolongés comme un accord qui réveille au loin l’harmonique et qui fait vibrer tous les temps, créant notre avenir aussi, parce qu’il ouvre l’attente ardente de sa résolution — de son pardon.</p>
           <p>Jours de nos vies, comptés de toute éternité, mais prolongés par l’acte de piété à la durée des siècles écoulés et futurs de ce « pays que Dieu nous donne ».</p>
         </div>
-        <div type="chapter" n="IV.5.">
+        <div type="chapter" n="IV.5." xml:id="ddr19820900paysan_13">
           <head>V</head>
           <p>J’ai refermé les livres, les mémoires. L’année finit. J’écris sans hâte. Quel silence ! Et je m’attarde à suivre encore ces harmoniques, comme à l’écoute clandestine, l’oreille au son d’un passé qui faiblit mais qui n’a pas terminé son message. Il me parle ce soir de plus loin, d’au-delà de mon petit pays, dans l’espace et le temps d’une plus vaste patrie.</p>
           <p>Les perspectives changent à vue, vertige et grisaille du temps. Une lignée, une famille parmi d’autres… Je la voyais dans son canton ; mais dans la Suisse, mais dans l’Europe, que devient ce fil rouge que je croyais tenir ? Où vont se perdre les sentiers de la mémoire, ces voies ouvertes à l’imagination ?</p>
@@ -845,7 +845,7 @@ humaine, est plus divine quand c’est une telle femme qui la confesse : « <h
           <p>Nous ne savons presque rien de l’hérédité. Mais quand on m’aura démontré que le sentiment d’obscure reconnaissance qui m’a toujours saisi dans ces provinces ne doit rien aux mystères du sang, une idée chimérique ne cessera de me plaire : sur ces lieux où jadis des hommes dont je <pb n="150"/> descends exercèrent leurs droits de seigneurs, je garde encore un droit de rêve, d’imaginaire intimité.</p>
           <p>Voilà un privilège qui ne peut gêner personne ! Pourquoi ceux qui vivent pour l’avenir et dans les voies de l’ambition jalouseraient-ils ceux qui parfois se plaisent à remonter dans leur passé pour l’agrandir ? Leurs imaginations se valent.</p>
         </div>
-        <div type="chapter" n="IV.6.">
+        <div type="chapter" n="IV.6." xml:id="ddr19820900paysan_14">
           <head>VI</head>
           <p>Ces retours sur l’histoire d’un pays, où je cherchais à mieux situer les miens, m’ont proposé chemin faisant quelques énigmes, et permis d’entrevoir quelques réponses. Voici pourtant un fait que je m’explique très mal, et qui touche à ma profession : Neuchâtel, pour tant de culture, pour tant de livres lus, relus, et de bon choix, accumulés depuis des siècles dans les maisons publiques et privées ; pour tant de livres publiés, aussi, n’a rien produit qui marque dans la langue, à part la Bible d’Ostervald.</p>
           <p>Les ouvrages distingués ne manquent pas. Mais les seuls qui aient franchi nos limites sont ceux de nos théologiens, Ostervald encore, puis Godet ; et le <hi rend="i">Droit des gens</hi> de Vattel. Nous avons eu d’excellents historiens : l’auteur de la <hi rend="i">Chronique des Chanoines</hi> (apocryphe), Chambrier pour l’ancien régime, Arthur Piaget pour la Révolution, Philippe Godet pour Madame de Charrière. Un moraliste au style subtil et naturel, Félix Bovet. Mais la littérature au sens étroit du terme — le roman, le poème, l’essai, le jeu d’idées — est restée chez nous pauvre ou nulle. Nous n’avons rien tiré de grand ou d’émouvant d’une culture solide et variée, d’une nature <pb n="151"/> contrastée de charme et de tristesse, ni même de la tension des contraintes morales, dont vécut le roman victorien. Faut-il penser que cette culture fut trop mêlée, cette nature trop vantée pour nous troubler ? Que ces contraintes furent ou bien trop pesantes, ou au contraire trop aisément tournées ? Je ne sais. Et tout cela, sauf la nature, est en train de changer rapidement. L’accent se gâte, la rhétorique n’est plus enseignée ni connue. L’histoire et la théologie fuient le discours, ignorent le style. Entendrons-nous un jour quelqu’un qui chante, ou crie, après des siècles où nul n’a prononcé un mot plus haut que l’autre, ou plus bas, de plus près ? J’ai vu percer quelques poètes à nos vitrines de libraires…</p>
@@ -858,7 +858,7 @@ humaine, est plus divine quand c’est une telle femme qui la confesse : « <h
           <p>Il a fallu le prix Nobel pour qu’on s’aperçût un beau jour qu’il était parmi nous, caché dans sa pèlerine.</p>
           <p>Une semaine plus tôt, chez les Heyd, nous avions joué au jeu des questions et réponses. L’un écrit trois <pb n="153"/> questions, et l’autre en même temps trois réponses. Puis on lit à haute voix les deux papiers. Jeu de hasard, ou de télépathie. J’avais écrit, dernière question : — <hi rend="i">Qu’est-ce que le style</hi> ? Catherine, la fille de Gide, lut sa dernière réponse : — <hi rend="i">L’originalité de mon père</hi>. Gide s’éclaircit la voix pour observer que le jeu devenait bien personnel, et proposa des bouts-rimés.</p>
         </div>
-        <div type="chapter" n="IV.7.">
+        <div type="chapter" n="IV.7." xml:id="ddr19820900paysan_15">
           <head>VII</head>
           <p>« Combien j’aimai ce lac aux rives glauques ! sans rien d’alpestre, et dont les eaux, comme celles d’un marécage, longtemps se mêlent à la terre et filtrent entre les roseaux. » (<hi rend="i">L’Immoraliste</hi>.)</p>
           <p>Près de ces eaux, ma vie sentimentale est née. Et depuis lors elle est restée lacustre. « Odeur de l’eau — pour toute la vie », écrivait un <hi rend="i">Paysan du Danube</hi>, et vingt ans ne l’ont pas démenti.</p>
@@ -879,7 +879,7 @@ l’ai-je quitté ?</p>
           <p>Mais soudain la tempête a fait silence autour de lui, et seul reste distinct le bruit profond des vagues. Il roule maintenant dans l’ombre tiède et abritée d’un bois de pins. Que vient-il donc chercher sur ces rivages désertés par le crépuscule ? Quelle est cette hâte inconnue, qu’il se flattait de n’éprouver jamais, bien au contraire, avant un rendez-vous ? Cette envie de crier : « J’accours ! Attends !… » Ah ! mais qu’est-ce qu’il m’arrive ? se dit-il. Il faut en avoir le cœur net. (Tout son orgueil réside en la maîtrise de soi, idéal de sportif plus que de puritain.) Il ralentit, pose un pied sur le sol, et s’appuie de la main au tronc d’un pin. Ce qui lui arrive est solennel, comme l’attente du pays sous le ciel orageux. Oui, c’est bien cela qu’il sent, il ne peut s’y tromper : la brûlure douce au cœur, le sang plus vite, le soulèvement plus ample de la respiration. Tout ce que disent les poètes qu’il dédaigne, tous leurs clichés, c’était donc vrai ? Il ne sait quelle ardeur le pénètre… Mais il sent qu’il va dire les grands mots impossibles, dans un fol abandon, et ce sera vrai. Comme tout est facile et violent quand les portes du cœur ont cédé !</p>
           <p>Le lac était d’un bleu très sombre, le ciel bas, des éclairs de chaleur palpitaient dans la nue, et le jeune homme savait en repartant sur les sentiers obscurs, vers les roseaux, qu’avant le rendez-vous ce qui l’avait rejoint, <pb n="158"/> c’était cette chose absurde et magnifique, entre haut mal et bien suprême, qu’on nomme si légèrement l’amour.</p>
         </div>
-        <div type="chapter" n="IV.8.">
+        <div type="chapter" n="IV.8." xml:id="ddr19820900paysan_16">
           <head>VIII</head>
           <p>On peut écrire aussi contre les lacs, ces endormeurs, et porter sa louange à des lieux plus sévères. Mais plutôt il convient d’alterner ces agréments et ces vertus. Qui nous parlera des forêts ? Pour ma part, j’ai trop peu vécu sous les sapins, dans les vallées du Jura. J’y suis né, certes, mais les vraies patries sont celles où l’on naît à l’amour.</p>
           <p>Un portrait de notre pays, peint de là-haut, ne ressemblerait guère à mes esquisses. Au lieu de la lumière souvent voilée du lac, on y verrait un éclairage cru, des ombres longues et givrées, des couchants d’incendie sur les menées moroses des hauts plateaux boisés de noir. Ils vont jusqu’au Tibet, me disait un jour Ramuz (dont la géographie se passait bien d’atlas). C’est la même civilisation, les mêmes fumées sur les tourbières, les mêmes chants tristes, la même vie intérieure… Il me disait aussi que les paysans huguenots des Cévennes et du Languedoc sont en réalité des musulmans, qu’il suffit de les voir, tout noirs dans leurs cuisines, fatalistes et irréductibles… J’aime tous ceux qui prolongent ou qui ouvrent des voies. Je garde ma méfiance pour l’espèce de mensonge qui rend la vie plus petite que nature, sous prétexte d’exactitude.</p>

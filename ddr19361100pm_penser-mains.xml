@@ -83,7 +83,7 @@
         <pb n="5" xml:id="p5"/>
         <head>Première partie
 <lb/>La commune mesure</head>
-        <div type="chapter" n="I.1.">
+        <div type="chapter" n="I.1." xml:id="ddr19361100pm_01">
           <pb n="7" xml:id="p7"/>
           <head type="kicker">I</head>
           <head>Le problème de la culture</head>
@@ -149,7 +149,7 @@ réalité qu’en tant que lutte du pouvoir neuf contre celui qui se survit. <hi
             <p>Ces constatations préalables vont nous guider dans l’examen du concept de culture en soi — de ses apparitions les plus considérables dans l’histoire —, de sa décadence actuelle, — enfin des grands essais de restauration que le premier tiers de ce siècle aura vus naître en Russie et en Allemagne.</p>
           </div>
         </div>
-        <div type="chapter" n="I.2.">
+        <div type="chapter" n="I.2." xml:id="ddr19361100pm_02">
           <pb n="20" xml:id="p20"/>
           <head type="kicker">II</head>
           <head>D’une culture qui parle dans le vide</head>
@@ -179,7 +179,7 @@ réalité qu’en tant que lutte du pouvoir neuf contre celui qui se survit. <hi
           <p>L’examen des triomphes ultérieurs, beaucoup plus complets et durables, de la bourgeoisie d’Occident, nous permettra peut-être de répondre à cette question décisive. L’établissement légal des classes bourgeoises ne date que du <num>xix<hi rend="sup">e</hi></num> siècle. Mais il a revêtu aussitôt une ampleur <pb n="30" xml:id="p30"/> et une assurance qui ont permis aux écrivains bourgeois d’exprimer sans aucun scrupule les fondements secrets de leur puissance. Aussi les écrits des grands clercs du <num>xix<hi rend="sup">e</hi></num> et des débuts du <num>xx<hi rend="sup">e</hi></num> siècle vont-ils sans doute nous révéler plus aisément la nature <hi rend="i">spirituelle</hi> de l’erreur qui, peut-être, affecta dès le principe l’éthique et la culture bourgeoises.</p>
           <p>Quelques remarques préliminaires nous aideront à interpréter les illustrations qui vont suivre.</p>
         </div>
-        <div type="chapter" n="I.3.">
+        <div type="chapter" n="I.3." xml:id="ddr19361100pm_03">
           <pb n="31" xml:id="p31"/>
           <head type="kicker">III</head>
           <head>Fatalités du rationalisme bourgeois</head>
@@ -195,7 +195,7 @@ sa nature de composer longtemps avec les illusions qu’elle sait utiliser dans 
           <p>L’histoire de cette fatalité est celle du monde contemporain. Son mécanisme est simple, et son rythme constant. La raison joue le rôle d’une force d’<hi rend="i">émancipation</hi> tant qu’elle met au service d’un idéal à conquérir ses puissances conjuguées de critique et de mise en ordre ; mais une fois l’idéal conquis, et le combat rompu, elle se dissocie fatalement, et l’ordre abstrait prenant le pas sur les facultés d’invention, il en résulte une <hi rend="i">tyrannie</hi>, qui s’appellera selon les cas rationalisation, rationalisme, raison d’État ou dictature.</p>
           <p>L’examen des doctrines les plus puissantes du dernier siècle nous fournira l’illustration de cette thèse.</p>
         </div>
-        <div type="chapter" n="I.4.">
+        <div type="chapter" n="I.4." xml:id="ddr19361100pm_04">
           <pb n="37" xml:id="p37"/>
           <head type="kicker">IV</head>
           <head>Hegel, Comte, Marx, ou la rationalisation</head>
@@ -218,7 +218,7 @@ l’activité des « hommes d’action ». Car on déléguera au technicien, e
           <p>Mais la reconnaissance de cet unique lieu commun suppose la suppression de tous les autres. L’inactualité de l’esprit suppose la suppression de tous les liens qui unissent naturellement une pensée et une action dévouées à une fin commune. Et voici qu’apparaît la liaison organique de ces deux phénomènes culturels : finalité de la civilisation et actualité de l’esprit. Qu’on supprime l’un, et l’autre disparaît. Qu’on voile le but, et l’action se relâche. Mais à l’inverse, que l’on déclare l’esprit sans force, voici que la fin commune des efforts théoriques et pratiques cesse aussitôt d’être perçue. Elle cesse d’être connue de tous, présente à tout instant, justifiant ou jugeant les moyens, et recréant sans cesse les hiérarchies. Et ces hiérarchies à leur tour cessent de valoir, puisque leur principe même est contesté, qui veut que l’esprit soit toujours responsable de l’action ; ou sinon tous deux se corrompent.</p>
           <p>La destruction des lieux ou principes communs à la pensée et à l’action, je dis aux penseurs comme tels et aux hommes d’action comme tels, voilà l’aboutissement des mesures rationnelles qui furent un temps celles du Progrès. Et nous voici revenus à cette crise dont nous avions en débutant posé le fait.</p>
         </div>
-        <div type="chapter" n="I.5.">
+        <div type="chapter" n="I.5." xml:id="ddr19361100pm_05">
           <pb n="45" xml:id="p45"/>
           <head type="kicker">V</head>
           <head>Importance de la notion de commune mesure</head>
@@ -234,7 +234,7 @@ l’activité des « hommes d’action ». Car on déléguera au technicien, e
           <p>L’anarchie de notre langage révélera l’anarchie spirituelle d’un monde où la mesure est morte.</p>
           <p>Enfin les tentatives de rénovation qui sont en cours en URSS et en Allemagne nous montreront le négatif de notre état : une culture unifiée par la force, et dont la mesure actuelle est une tactique au service de la force commune, et non pas de <hi rend="i">la</hi> vérité…</p>
         </div>
-        <div type="chapter" n="I.6.">
+        <div type="chapter" n="I.6." xml:id="ddr19361100pm_06">
           <pb n="49" xml:id="p49"/>
           <head type="kicker">VI</head>
           <head>L’Arche de l’Alliance</head>
@@ -268,7 +268,7 @@ l’activité des « hommes d’action ». Car on déléguera au technicien, e
           <p>Mais cette Promesse enfin s’est incarnée. Et dès lors la mesure n’est plus dans l’ancienne Loi, <pb n="56" xml:id="p56"/> mais dans la foi qui se manifeste, dans la foi qui témoigne en actes.</p>
           <p>Voilà pourquoi le peuple juif qui n’a pas cru à sa victoire et qui repousse la nouvelle mesure, c’est-à-dire la Nouvelle Alliance, est aujourd’hui le peuple sans mesure, sans limites et sans foyer. Sans espérance, il crée des utopies. Sans obéissance, il imagine des lois fatales. Sans Messie, il se fait précurseur des messies qui ne viendront pas…</p>
         </div>
-        <div type="chapter" n="I.7.">
+        <div type="chapter" n="I.7." xml:id="ddr19361100pm_07">
           <pb n="57" xml:id="p57"/>
           <head type="kicker">VII</head>
           <head>Sur le déclin du Moyen Âge</head>
@@ -293,7 +293,7 @@ dans le langage de tous les jours, de tous les hommes.</p>
           <p>Dès lors, la tâche de la révolution spirituelle est définie : en face de la mesure ancienne qui se survit en tyrannie stérile et idolâtre, affirmer une mesure nouvelle, une mesure qui ramène d’un même mouvement l’Église, la politique et la culture à la source commune de toute autorité et de toute légitimité, qui est la connaissance existentielle des fins dernières. La protestation de Luther contre la cour de Léon X se traduit sur le plan culturel par la substitution du langage vulgaire au latin. Le vrai clerc, désormais, ce n’est plus le rhéteur, mais le prédicateur. Ce n’est plus l’élégant, mais l’efficace. Ce n’est plus celui qui se sert d’une mesure adorée pour elle-même, mais c’est celui qui recrée une mesure en se mettant au service de la foi. Luther à Worms et à Augsbourg, voilà le clerc, le fanatique de la plus haute vérité. Tandis qu’Érasme qui refuse par deux fois de venir témoigner en faveur de la sagesse qu’il estime détenir, Érasme est le clerc qui trahit et qui déprime la vérité « pour nourrir une paix fardée<note place="bottom"><hi rend="sc">Calvin</hi>, <hi rend="i">Traité des scandales</hi>. On peut penser que le passage vise Érasme. « Il leur semble qu’il n’y a rien meilleur que de se tenir coi… », etc.</note> ».</p>
           <p>Ce conflit de la mesure stérilisée, idolâtrée, et de la mesure recréée, c’est dans le débat qui opposa Calvin au cardinal Sadolet qu’on peut en trouver l’expression la plus forte et la moins équivoque. Sadolet chargé d’adresser une lettre pastorale aux Genevois pour les ramener dans le giron de l’Église, toutes les ressources de sa « grâce merveilleuse » à exposer les doctrines de Rome, les « propos ambigus et circonlocutions <pb n="65" xml:id="p65"/> de paroles » du meilleur latiniste de l’époque n’aboutissent qu’à orner un discours dont l’ornement paraît enfin tout le sujet. Mais de la réponse de Calvin, de cette <hi rend="i">Épître à Sadolet</hi> dont chaque phrase est tendue comme un arc par la passion de servir l’Éternel, Luther dira, d’un tour proverbial : « Voilà un écrit qui a des pieds et des mains !<note place="bottom">« <hi rend="i">Das hat Hand, und Fuss</hi> », se dit en allemand courant d’une argumentation, ou d’un ouvrage qui se tiennent, qui ont un sens et une raison.</note> »</p>
         </div>
-        <div type="chapter" n="I.8.">
+        <div type="chapter" n="I.8." xml:id="ddr19361100pm_08">
           <pb n="66" xml:id="p66"/>
           <head type="kicker">VIII</head>
           <head>Décadence des lieux communs</head>
@@ -328,7 +328,7 @@ flatte ainsi la paresse de l’esprit, décourage le sens critique, décontenanc
           <p>Mais ce que l’homme ne fait pas pour l’homme, le diable le fait à sa place, et contre l’homme qu’il séduit et qu’il trompe. Cette fin commune, cet idéal commun que nous devions servir ensemble dans la fraternité que crée l’œuvre unanime, nous les cherchions en vain, et sans le savoir, dans la cité qu’on nous a faite. C’est une faim, une soif, une nostalgie que tous nos gestes, à notre insu, trahissent. Mais quelqu’un s’en est aperçu. Quelqu’un a formé le projet de tromper cette faim et cette soif. Au païen ignorant du vrai Dieu, les prêtres donnent des idoles faites à l’image des terreurs de l’homme. Dans le culte de ces images, le peuple croit trouver son unité, et il y retrouve en effet le symbole agrandi d’un désespoir qu’il sent vivre dans tous les cœurs. L’homme d’aujourd’hui méprise les religions. Il sait ce qu’il faut penser des prêtres. On lui donnera donc autre chose : les mêmes choses sous d’autres noms, des mystiques et des dictateurs.</p>
           <p>Les lieux communs sont morts et embaumés : déjà, on leur fait des musées. Ou pire : ils n’ont jamais été vivants pour cette génération sans but. On nous en donnera donc de nouveaux fabriqués à notre mesure, — et quelle misérable mesure ! « Slogans » publicitaires, mots d’ordre politiques, <pb n="75" xml:id="p75"/> tels sont les ersatz pitoyables que nous proposent l’Argent et l’État. <hi rend="i">Giovinezza ! Tod den Juden</hi> ! Nous ferons mieux que l’Amérique ! Achetez français ! Passez vos vacances à la mer ! C’est avec ça qu’on fait les bons fascistes, les bons nazis, les vertueux komsomols, les petits bourgeois disciplinés. C’est ce conformisme enthousiaste qui tient lieu de conscience commune aux grandes masses européennes, quel que soit leur régime politique. Ainsi la mesure n’est plus cette loi qui vit en l’homme réel et personnel, cette alliance du peuple avec sa vocation, qui faisait la grandeur des cultures authentiques. Elle est devenue la loi inexorable et mécanique qui plie l’individu à des calculs de masses, à des disciplines extérieures, à des ambitions inhumaines. Nous vivons à l’âge des mots d’ordre. L’on peut penser que c’est une espèce de progrès sur l’âge des clichés bourgeois. Mais si les mots d’ordre sont faux ? Si l’ordre qu’ils imposent est arbitraire, ou s’il ne mise que sur l’indignité humaine ? Et si la <hi rend="i">propagande</hi> et la <hi rend="i">publicité</hi> qui ont pris la place des lieux communs spirituels et affectifs ne nous ordonnent qu’à des fins provisoires ou dégradantes : l’état totalitaire et la richesse matérielle ? Que vaut alors cette communauté de réflexes et d’obsessions ? N’est-elle pas une somme de nos défaites intimes, de nos dénis d’humanité, — le contraire absolu de la culture, si la culture est justement la part active que prend l’homme à tout ce qui est création dans la nature, dans l’histoire, dans la vie de l’esprit ?</p>
         </div>
-        <div type="chapter" n="I.9.">
+        <div type="chapter" n="I.9." xml:id="ddr19361100pm_09">
           <pb n="76" xml:id="p76"/>
           <head type="kicker">IX</head>
           <head>Tentatives de restauration d’une commune mesure</head>
@@ -343,7 +343,7 @@ flatte ainsi la paresse de l’esprit, décourage le sens critique, décontenanc
           <p>Le seul mot de <hi rend="i">totalitaire</hi> qui qualifie les deux régimes fondés par ces révolutions, suffirait à prouver ma thèse. Quelle que soit la haine violente qui oppose un Staline et un Hitler, ils se ressemblent au moins en ceci, qui est décisif : c’est qu’ils veulent l’un et l’autre imposer à leur peuple une conception et une pratique de la vie qui obéissent à un but commun, au service duquel s’harmonisent et se confondent les énergies tant spirituelles que matérielles. Bien ou mal, ces deux hommes ont répondu à l’appel angoissé et inconscient de leur époque. Ils ont refait au moins provisoirement une mesure, en imposant une fin commune à l’action et à la pensée. Et dans ce sens, ils sont les vrais <hi rend="i">génies</hi> du siècle, dès lors qu’il s’agit de construire.</p>
           <p>Mais que valent ces mesures imposées ? Quelle est la vérité des fins qu’elles servent ? Et si ces fins se réalisent, échapperont-elles à la critique passionnée des meilleurs et des plus humains des hommes, qui s’y seront d’abord sacrifiés, de gré ou de force ? Les sauveront-elles vraiment de leur angoisse, ou bien empêcheront-elles seulement cette angoisse de s’exprimer, de s’avouer, de porter témoignage en faveur d’une plus haute vérité ?</p>
         </div>
-        <div type="chapter" n="I.10.">
+        <div type="chapter" n="I.10." xml:id="ddr19361100pm_10">
           <pb n="80" xml:id="p80"/>
           <head type="kicker">X</head>
           <head>La mesure soviétique</head>
@@ -383,7 +383,7 @@ miracle qui résoudrait seul le conflit du calcul et du rêve, du matériel et d
           <p>Est-ce que tout le progrès acquis par une si dure révolution n’aura été que de donner aux hommes, avec quelques milliers de tracteurs, d’avions, de tanks et de parachutes, cette illusion philosophique ? Il est vrai que le monde bourgeois n’a même plus l’énergie de concevoir une illusion, une démesure ou une mesure qui fasse battre pendant cinq ans le cœur d’un peuple. Cela suffira sans doute à rendre vaines toutes mes critiques, aux yeux des intellectuels bourgeois justement tourmentés dans leur conscience, et qui se rassurent en glorifiant l’URSS. Pour moi, je me bornerai à tirer de tout cela une conclusion concrète qui peut nous être utile pour une future construction : la <hi rend="i">mesure</hi> pseudo-marxiste <pb n="93" xml:id="p93"/> que les Soviets proposent en exemple s’est avérée, après quelques années, incapable de maintenir l’unité vraie de la pensée et de l’action. Elle est déjà divisée contre elle-même. Elle n’est plus réellement commune, encore qu’elle soit réellement imposée. Et je ne préjuge rien de l’avenir d’un peuple qui dispose de ressources mystiques aussi puissantes. Peut-être était-ce inévitable. Peut-être les bienfaits concrets du Plan surpassent-ils largement pour l’heure sa malfaisance « culturelle ». Mais pour nous, il ne s’agit plus de découvrir les semelles-crêpe et le métro. Notre espérance est au-delà de ces réussites utiles. Vis-à-vis de la jeune Russie, notre devoir n’est pas de railler des naïvetés plus sympathiques que nos astuces, mais il n’est pas non plus de les admirer ; il n’est pas de dire <hi rend="i">non</hi> à tout, ni <hi rend="i">oui</hi> à tout ; c’est un devoir de critique lucide ; et j’ajouterai : de critique méfiante, dans la mesure où les jeunes communistes viennent à nous avec cette morgue que l’on disait naguère américaine, et qui ressemble à celle des nouveaux riches de tous les temps. Nous avons fait des expériences dont ils ne soupçonnent pas la gravité, et encore moins la vanité. Ils les feront
 avant longtemps. Ils retrouveront avant longtemps nos problèmes spirituels. Toute la question est alors de savoir si nous les aurons résolus, dans nos catégories occidentales. Sinon, il sera toujours temps d’aller demander là-bas ce qui nous manque.</p>
         </div>
-        <div type="chapter" n="I.11.">
+        <div type="chapter" n="I.11." xml:id="ddr19361100pm_11">
           <pb n="94" xml:id="p94"/>
           <head type="kicker">XI</head>
           <head>La mesure nationale-socialiste</head>
@@ -423,7 +423,7 @@ avant longtemps. Ils retrouveront avant longtemps nos problèmes spirituels. Tou
           <p/>
           <p><hi rend="i">Attitude philosophique et religieuse</hi>. — Il n’est plus nécessaire d’insister sur la direction générale de l’humanisme soviétique. Malgré les racines qu’il plonge dans le <num>xviii<hi rend="sup">e</hi></num> siècle français, c’est encore un mot allemand qui le résume le plus exactement : <hi rend="i">Diesseitigkeit</hi>, qualité de ce qui est terrestre, de ce qui concerne l’ici-bas, par opposition à tout au-delà transcendant. Bien que le parti national-socialiste prétende imposer à ses membres la dénomination de « croyants » (en vertu de l’article 24 du programme de base, comme le rappelait récemment le ministre des Cultes !) et bien qu’il attaque violemment le parti soviétique des sans-Dieu, on ne saurait nier que le Dieu qu’il sert est immanent aux intérêts du <hi rend="i">Volkstum</hi>, et doit se confondre avec ces intérêts sous peine de mort. La <hi rend="i">Diesseitigkeit</hi> de la philosophie hitlérienne a été fort bien exprimée par Rosenberg dans un discours où il s’élève avec violence contre toute conception ascétique ou moyenâgeuse de la vie : « Nous condamnons tous les systèmes d’éducation qui se fondaient d’une façon ou <pb n="106" xml:id="p106"/> d’une autre sur la peur et l’angoisse de l’imagination. Au lieu de la résignation, nous avons exalté la fierté ; au lieu de cultiver le sentiment d’infériorité, nous avons mis sur le pavois le sentiment de l’honneur. Et au lieu de cultiver l’angoisse de l’imagination, nous avons poussé à l’estime de soi-même. » Avec des différences d’accent notables et qui s’expliquent surtout, je crois, par les circonstances de départ différentes, nous retrouvons dans les deux régimes la même condamnation orgueilleuse de toute « fuite hors de l’ici-bas » — entendez hors des tâches immédiates qu’impose le Parti.</p>
         </div>
-        <div type="chapter" n="I.12.">
+        <div type="chapter" n="I.12." xml:id="ddr19361100pm_12">
           <pb n="107" xml:id="p107"/>
           <head type="kicker">XII</head>
           <head>Leçon des dictatures</head>
@@ -446,7 +446,7 @@ expresse dans les récents discours d’Hitler.</note>. Le composé hitlérien d
           <p><hi rend="i">a</hi>) Oui, vos circonstances étaient telles que je serais incapable de vous dire ce que vous auriez pu faire d’autre. Vous en étiez au point où l’homme ayant démissionné, il fallait enregistrer cette démission. Il fallait partir d’autre chose que de l’individu : de l’état, de la classe ou de la race. Vous vous êtes refait un corps. Mais les problèmes spirituels n’ont pas été résolus pour autant. Vous avez reculé la question, de dix ans ou d’un siècle, je ne sais ; mais ce que je sais, c’est que tous nos pays se trouveront un jour futur en face des mêmes tâches décisives dans le domaine culturel. Vous disposez d’un matériel de base beaucoup plus puissant que le nôtre ; mais nous gardons l’avantage important d’une tradition de liberté. Et vos premières expériences nous enseignent. Toute la question est alors de savoir si nous saurons utiliser ces avantages, et le temps de réflexion ou de manœuvre qui nous reste, pour calculer et préparer spirituellement une révolution qui soit nôtre, sans brutalités extérieures, sans destructions aveugles, sans propagande de masse abêtissante. Autrement dit, nous avons à <hi rend="i">créer un nouveau type de révolution</hi>, dont l’exemple vous sera certainement plus utile que les critiques de nos vieillards. Dans cette tâche-là, je vois le seul fondement d’une nouvelle culture européenne…</p>
           <p><pb n="113" xml:id="p113"/><hi rend="i">b</hi>) Il est faux que nous soyons obligés de commencer par l’extérieur, si nous voulons rétablir une mesure commune à la pensée et à l’action. Car un ordre extérieur n’est solide et fécond que s’il résulte d’un ordre intérieur. Et cet ordre intérieur ne se crée pas à coups de décrets d’urgence et de propagande de masses. Pas d’ordre spirituel sans un minimum matériel, c’est l’évidence. Mais pas d’ordre total sans une soumission organique du matériel au spirituel. C’est encore là une évidence, et qui n’est pas moins actuelle.</p>
         </div>
-        <div type="chapter" n="I.13.">
+        <div type="chapter" n="I.13." xml:id="ddr19361100pm_13">
           <pb n="114" xml:id="p114"/>
           <head type="kicker">XIII</head>
           <head>commune mesure et acte de foi</head>
@@ -476,7 +476,7 @@ expresse dans les récents discours d’Hitler.</note>. Le composé hitlérien d
           <p>Et d’abord, il faudra déblayer et débrousser le point de départ ; ensuite il faudra s’orienter et inventer une <hi rend="i">méthode</hi> de marche qui nous procure à chaque pas la certitude d’obéir au seul appel du but final. Cette méthode sera la mesure que nous cherchons : à la fois intime et <pb n="122" xml:id="p122"/> active, réglant la pensée et l’action dès leur naissance, indivisible, au foyer même de leur genèse.</p>
           <p>Je tenterai d’en donner les éléments dans la seconde partie de ce livre. Mais il reste à tirer de notre examen de quelques mesures anciennes ou actuelles, la conclusion précise en vue de quoi nous sommes partis.</p>
         </div>
-        <div type="chapter" n="I.14.">
+        <div type="chapter" n="I.14." xml:id="ddr19361100pm_14">
           <pb n="123" xml:id="p123"/>
           <head type="kicker">XIV</head>
           <head>L’appel à la commune mesure, ou l’Europe du <num>xx<hi rend="sup">e</hi></num> siècle</head>
@@ -534,7 +534,7 @@ se rassure par de faciles railleries à l’adresse des États libéraux.</p>
         <pb n="139" xml:id="p139"/>
         <head>Deuxième partie
 <lb/>Penser avec les mains</head>
-        <div type="chapter" n="II.">
+        <div type="chapter" n="II." xml:id="ddr19361100pm_15">
           <pb n="141" xml:id="p141"/>
           <head>Préambule</head>
           <p>L’objet de la seconde partie de cet ouvrage risquerait d’être mal compris, si je n’écartais dès l’abord deux malentendus très courants dans les débats contemporains.</p>
@@ -555,7 +555,7 @@ se rassure par de faciles railleries à l’adresse des États libéraux.</p>
           <p>Qui est la vérité à hauteur d’homme.</p>
           <p>Et j’ajouterai : à portée de la main.</p>
         </div>
-        <div type="chapter" n="II.1.">
+        <div type="chapter" n="II.1." xml:id="ddr19361100pm_16">
           <pb n="145" xml:id="p145"/>
           <head type="kicker">I</head>
           <head>La pensée prolétarisée</head>
@@ -734,7 +734,7 @@ marxistes bénéficient d’une faveur toute nouvelle dans les revues et jusqu�
             <p>Oui, je suis de ceux-là jusque dans ma colère, déchiré par l’insurmontable ironie ! Et sinon je ne crierais point. Mais le silence n’est pas donné à l’homme par son effort. Le silence et l’intelligence pitoyable sont l’œuvre seule du Pardon. J’assume l’anathème prononcé sur ceux que j’ai dits et sur ce discours déplorable. Et me tenant <pb n="192" xml:id="p192"/> sous le joug, cependant, je déclare et répète — sachant encore que cela seul peut me faire solidaire de leurs fautes dans l’instant où je les dénonce : tous ceux-là participent de la démission permanente de la pensée, de son inactualité, de sa séparation, de sa servitude inhumaine, de sa bassesse distinguée, de sa révolte contre la condition qui nous est assignée, — créatrice ; tous ceux-là fondent, ici et maintenant, et dans leur vie, l’État totalitaire<note place="bottom"><p>Des réalistes nous diront : oui, mais les États totalitaires procurent aux ouvriers des voyages gratuits en Méditerranée, assurent l’ordre dans la rue, la défense nationale et le sommeil des rentiers. J’ajouterai à cette liste de bienfaits le développement intensif et intelligent des sports, et de la puériculture, la fondation de monuments durables et utiles, l’abolition progressive des classes anciennes, un goût de la grandeur ou de l’énormité, des fêtes sublimes. Quand je dis que l’État totalitaire <hi rend="i">menace</hi> de provoquer le désastre humain le plus grandiose de l’histoire, c’est parce que, dans <hi rend="i">l’ensemble</hi> de ses ambitions concrètes, dans la frénésie unitaire qui préside à chacun de ses actes, je vois les symptômes cliniques d’une maladie de l’esprit et du cœur des citoyens, qui est mortelle.</p><p>Mais certains hommes, enlevez-leur l’âme, non seulement ils n’y sentiront rien, mais encore ils en éprouveront une espèce de renouveau. Euphorie des hommes à qui l’on a ôté l’âme. « Depuis qu’on m’a enlevé l’âme, c’est un fait, je cours mieux, le cœur est plus solide, etc. »</p></note> qu’ils pourront baptiser soviétique ou fasciste, peu importe — ces noms sont insensés pour nous — l’État qui sanctionnera la lâcheté sociale par décret des tyrans, la pensée sans douleur par des diplômes et des titres, la religion sans foi par le respect public ; oui, tous ceux-là, dès maintenant, instituent dans leur vie quotidienne, autorisent et enracinent dans l’inconscience générale le règne inexorable de la masse — cette immense peur de la mort —, le régime que dès maintenant la volonté blessée des hommes francs, par un acte, ici, que j’atteste, met en <hi rend="i">crise</hi>.</p>
           </div>
         </div>
-        <div type="chapter" n="II.2.">
+        <div type="chapter" n="II.2." xml:id="ddr19361100pm_17">
           <pb n="193" xml:id="p193"/>
           <head type="kicker">II</head>
           <head>Éléments d’une morale de la pensée</head>

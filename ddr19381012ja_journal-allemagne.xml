@@ -84,7 +84,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19381012ja_01">
         <pb n="7"/>
         <head>Avertissement</head>
         <p>Voici des notes qui, par leurs dates, prennent la suite du <ref target="https://www.unige.ch/rougemont/livres/ddr19370600jic"><title>Journal d’un intellectuel en chômage</title></ref>. Mais il ne s’agit plus de chômage. L’auteur vit en Allemagne hitlérienne, et il y vit de son travail. (Des cours à l’Université d’une ville que l’on n’a pas jugé utile de nommer.)</p>
@@ -95,7 +95,7 @@
         <p><hi rend="i">Ce</hi> petit livre est un journal, mais bien que publié, c’est un <hi rend="i">journal privé.</hi> La fonction de ce genre littéraire est à peu près l’inverse de la fonction de la presse. Qu’attendons-nous des journalistes publics, des grands reporters ? Une espèce de stylisation improvisée des événements, conforme aux vues générales d’un parti, ou tout au moins à l’opinion moyenne telle qu’elle se trouve préformée dans un pays. Or le journaliste privé prend au contraire son plaisir à noter ce qui contredit les stylisations opportunes. Ou pour mieux dire — car la contradiction dépend encore trop étroitement des préjugés qu’elle veut réduire — il s’attache aux faits et aux gestes qui ne sont ni tout à fait ce que l’on croyait, ni exactement le contraire. Et il se flatte d’atteindre ainsi, mais dans l’histoire, ce même genre de réalité qu’imaginent les romanciers : le particulier général. Seulement au lieu de décrire des relations amoureuses, il décrit des relations sociales, ou politiques, ou religieuses : une affectivité plus vaste, aux manifestations non moins précises, mais encore peu connues des psychologues, et très curieusement ignorées des sociologues et des hommes politiques.</p>
         <p>De même que le roman psychologique, centré sur des héros individuels, a traduit la réalité de l’époque qui prend fin sous nos yeux, il se peut que le journal privé soit la forme de transition qui corresponde à la réalité d’un temps nouveau : elle traduit les relations d’une personne avec les passions collectives. Demain peut-être, il n’y aura plus que des manifestes, des épopées de propagande. Je dédie cette brochure à ceux qui, dès maintenant, veulent et préparent un après-demain.</p>
       </div>
-      <div n="1." type="chapter">
+      <div n="1." type="chapter" xml:id="ddr19381012ja_02">
         <pb n="9"/>
         <head type="kicker">I</head>
         <head>Journal (1935-1936)</head>
@@ -561,7 +561,7 @@
              ils en font leur affaire, et je n’en suis pas. Mais j’essaie de savoir ce qu’il est, pour le reconnaître ailleurs à sa naissance, là où il peut nous concerner ; là où si peu que ce soit dépend de notre effort, et de notre lucidité. Que sert de critiquer la « religion » des autres ? Il vaut mieux croire d’une foi plus vraie, et le prouver. Les faux dieux font de faux miracles ; mais les sceptiques et les malins sont destinés à les prendre au sérieux. La foi seule nous délivrera des religions nées de la peur des hommes.</p>
         </div>
       </div>
-      <div n="2." type="chapter">
+      <div n="2." type="chapter" xml:id="ddr19381012ja_03">
         <pb n="67"/>
         <head type="kicker">II</head>
         <head>Conclusion 1938</head>
@@ -611,7 +611,7 @@
           <hi rend="i">(Été 1938.)</hi>
         </p>
       </div>
-      <div n="i." type="chapter">
+      <div n="i." type="chapter" xml:id="ddr19381012ja_04">
         <pb n="77"/>
         <head type="kicker">Appendice <num>i</num></head>
         <head>Instruction spirituelle donnée aux étudiants hitlériens
@@ -632,7 +632,7 @@
         <p>Finalement le chef des étudiants du Reich arrive au camp. Il déclare que « le temps vient où beaucoup de camarades du Parti seront désillusionnés, qui avaient cru mener un combat purement politique. Ils auront à se décider ! Certains cercles protestants, ajoute-t-il avec un sourire, paraissent n’avoir point encore remarqué la nature essentielle de l’opposition entre le national-socialisme et le christianisme… Il fait évidemment allusion aux <hi rend="i">Deutsche Christen.</hi> » Finalement les étudiants récalcitrants reçoivent l’autorisation de quitter le camp.</p>
         <p>Ils ont dû émigrer tôt après pour échapper à la prison ou à la mort.</p>
       </div>
-      <div n="ii." type="chapter">
+      <div n="ii." type="chapter" xml:id="ddr19381012ja_05">
         <pb n="80"/>
         <head type="kicker">Appendice <num>ii</num><note place="bottom">Les deux articles qui suivent ont été écrits à l’époque de ce journal, pour la revue <ref target="https://www.unige.ch/rougemont/articles/on"><hi rend="i">L’Ordre nouveau</hi></ref>. Ils dégagent des jugements restés implicites dans mes notes.</note></head>
         <head>Plébiscite et démocratie
@@ -676,7 +676,7 @@
           <p>Nous sommes contre la centralisation, contre l’étatisme, contre le nationalisme étatisé, contre toute espèce de fascisme imité de Mussolini, d’Hitler ou de Staline, mais aussi contre toute espèce de fascisme « à la française ». Parce que nous sommes pour le fédéralisme communaliste, pour l’exercice de l’autorité <hi rend="i">sur place</hi>, par des hommes responsables et qui savent ce qu’ils font, dans un cadre qui soit à mesure d’homme, — pour la seule vraie « démocratie », dirions-nous volontiers, si le mot ne couvrait aujourd’hui les plus flagrantes trahisons de la chose.</p>
         </div>
       </div>
-      <div n="iii." type="chapter">
+      <div n="iii." type="chapter" xml:id="ddr19381012ja_06">
         <pb n="86"/>
         <head type="kicker">Appendice <num>iii</num></head>
         <head>Les jacobins en chemise brune</head>

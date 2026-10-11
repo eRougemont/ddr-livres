@@ -81,7 +81,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19721100ao_01">
         <pb n="7" xml:id="p7"/>
         <head>Avertissement</head>
         <p>J’ai appelé « livres » les différentes parties de cet ouvrage, parce que chacune esquisse le contenu d’un volume de dimensions ordinaires.</p>
@@ -103,7 +103,7 @@
         <byline>D. <hi rend="sc">de</hi> R.
           <lb/>21 juin 1938.</byline>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19721100ao_02">
         <pb n="11" xml:id="p11"/>
         <head>Préface à l’édition de 1956</head>
         <p>C’est à la suggestion de mon éditeur anglais — qui par une chance dont je m’honore se trouve être T. S. Eliot — que je dois d’avoir entrepris la révision de cet ouvrage.</p>
@@ -119,7 +119,7 @@
            détecter ses radiations dans la vie comme dans l’œuvre d’art. Amener quelques esprits à cette prise de conscience ne peut être tout à fait vain. Car s’il est vrai que les mutations du cœur se préparent et s’opèrent dans l’inconscient, elles datent en fait de leur épiphanie dans l’<hi rend="i">expression</hi> écrite, plastique ou picturale — comme un amour de son premier aveu.</p>
         <byline>D. de R.</byline>
       </div>
-      <div n="I." type="chapter">
+      <div n="I." type="chapter" xml:id="ddr19721100ao_03">
         <pb n="15" xml:id="p15"/>
         <head type="kicker">Livre premier</head>
         <head>Le mythe de Tristan</head>
@@ -490,7 +490,7 @@
           <p>Parcourons-les l’une après l’autre, librement. Nous ferons halte ici ou là pour vérifier telle origine nettement localisée, ou telle conséquence imprévue des <hi rend="i">relations</hi> que nous venons de dégager.</p>
         </div>
       </div>
-      <div n="II." type="chapter">
+      <div n="II." type="chapter" xml:id="ddr19721100ao_04">
         <pb n="59" xml:id="p59"/>
         <head type="kicker">Livre II</head>
         <head>Les origines religieuses du mythe</head>
@@ -1250,7 +1250,7 @@
           <p>C’est de quoi l’on traitera dans les livres qui viennent.</p>
         </div>
       </div>
-      <div n="III." type="chapter">
+      <div n="III." type="chapter" xml:id="ddr19721100ao_05">
         <pb n="155" xml:id="p155"/>
         <head type="kicker">Livre III</head>
         <head>Passion et mystique</head>
@@ -1512,7 +1512,7 @@
           <p>L’histoire de la passion d’amour, dans toutes les grandes littératures, du <num>xiii<hi rend="sup">e</hi></num> siècle jusqu’à nous, c’est l’histoire de la déchéance du mythe courtois dans la vie « profanée ». C’est le récit des tentatives de plus en plus désespérées que fait l’Éros, pour remplacer la transcendance mystique par une intensité émue. Mais grandiloquentes ou plaintives, les figures du discours passionné, les « couleurs » de sa rhétorique ne seront jamais que les exaltations d’un crépuscule, promesses de gloire jamais tenues…</p>
         </div>
       </div>
-      <div n="IV." type="chapter">
+      <div n="IV." type="chapter" xml:id="ddr19721100ao_06">
         <pb n="190" xml:id="p190"/>
         <head type="kicker">Livre IV</head>
         <head>Le mythe dans la littérature</head>
@@ -2265,7 +2265,7 @@
           <p>Cette progressive profanation du mythe — sa conversion en rhétorique, puis la dissolution de cette rhétorique et la totale vulgarisation de son contenu, l’on peut en suivre les étapes dans un domaine en apparence fort étranger à ceux que nous venons de parcourir : dans l’évolution de la guerre et de ses méthodes en Occident.</p>
         </div>
       </div>
-      <div n="V." type="chapter">
+      <div n="V." type="chapter" xml:id="ddr19721100ao_07">
         <pb n="264" xml:id="p264"/>
         <head type="kicker">Livre V</head>
         <head>Amour et guerre</head>
@@ -2477,7 +2477,7 @@
           <p>C’est l’éventualité de la paix que j’envisageai dans les deux livres terminaux : le premier situant le conflit du mythe et du mariage dans nos mœurs, le second décrivant une attitude que je donne bien moins pour <hi rend="i">la</hi> réponse décisive, que pour mon choix particulier.</p>
         </div>
       </div>
-      <div n="VI." type="chapter">
+      <div n="VI." type="chapter" xml:id="ddr19721100ao_08">
         <pb n="297" xml:id="p297"/>
         <head type="kicker">Livre VI</head>
         <head>Le mythe contre le mariage</head>
@@ -2624,7 +2624,7 @@
           <p>Essayer de résoudre notre crise du mariage par des mesures morales, sociales ou scientifiques, déduites du seul désir d’arrêter les dégâts, ne serait-ce pas lui dénier arbitrairement le caractère qu’elle semble avoir : celui de la recherche, presque aveugle encore, d’un <hi rend="i">nouvel équilibre du couple</hi>. Équilibre tendu entre les exigences toujours simultanées, contraires et légitimes, de la stabilité et de l’évolution, de l’espèce et de l’individu, enfin de l’accomplissement de la personne et de l’Absolu qui seul la suscite et la juge.</p>
         </div>
       </div>
-      <div n="VII." type="chapter">
+      <div n="VII." type="chapter" xml:id="ddr19721100ao_09">
         <pb n="322" xml:id="p322"/>
         <head type="kicker">Livre VII</head>
         <head>L’amour action, ou de la fidélité</head>
@@ -2828,7 +2828,7 @@
             <lb/><hi rend="i">(Révision : 1954.)</hi></dateline>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19721100ao_10">
         <pb n="353" xml:id="p353"/>
         <head>Appendices</head>
         <div n="i." xml:id="app1">
@@ -3029,7 +3029,7 @@
              veut être criminel plutôt que victime. Ainsi la conscience sadique est l’inverse de la conscience romantique. Le romantique (Pétrarque) se châtie pour conserver l’objet aimé, tandis que Sade veut le tuer.</p>
         </div>
       </div>
-      <div type="chapter" when="1972">
+      <div type="chapter" when="1972" xml:id="ddr19721100ao_11">
         <pb n="369" xml:id="p369"/>
         <head>Post-scriptum</head>
         <head type="subtitle">non définitif et scientifico-polémique</head>
@@ -3593,7 +3593,7 @@
           <p>Toute tentative d’éliminer l’un des deux pôles de ces tensions, de le confondre avec son opposé, de le réduire à la loi de l’autre (qu’il soit le plus fort ou le plus fin) par annexion ou colonisation, ou d’établir une subordination quelconque de l’un à l’autre, fonde et appelle l’État totalitaire et détruit à mes yeux l’intérêt de la vie, pour parler d’une manière très générale ; quant au sujet qui nous occupe : c’est détruire l’existence de l’Amour essentiel.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19721100ao_12">
         <pb n="424" xml:id="p424"/>
         <head>Bibliographie</head>
         <listBibl>

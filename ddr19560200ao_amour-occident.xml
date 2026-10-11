@@ -81,7 +81,7 @@
   </teiHeader>
   <text>
     <front>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19560200ao_01">
         <head>Avertissement</head>
         <p>J’ai appelé « livres » les différentes parties de cet ouvrage, parce que chacune esquisse le contenu d’un volume de dimensions ordinaires.</p>
         <p>Le grand nombre des faits et des textes cités, le jeu des « leitmotive » entrelacés, risqueraient d’égarer certains lecteurs si je ne donnais ici la clef de ma composition. Le premier livre expose le contenu caché de la légende ou du mythe de Tristan. C’est une descente aux cercles successifs de la passion. Le dernier livre indique une attitude humaine diamétralement opposée, et par là il achève la description de la passion, car on ne connaît vraiment que les choses dépassées, ou du moins celles dont on a pu toucher, fût-ce même sans les franchir, les limites.</p>
@@ -98,7 +98,7 @@
         <dateline>D. <hi rend="sc">de</hi> R.
           <lb/>21 juin 1938.</dateline>
       </div>
-      <div rend="i" type="chapter">
+      <div rend="i" type="chapter" xml:id="ddr19560200ao_02">
         <head>Préface à l’édition de 1956</head>
         <p>C’est à la suggestion de mon éditeur anglais — qui par une chance dont je m’honore se trouve être T. S. Eliot — que je dois d’avoir entrepris la révision de cet ouvrage.</p>
         <p>Trois lustres ont passé depuis sa parution, une guerre aussi, et bien des expériences mettant mes thèses à dure épreuve. Je n’ai rien oublié mais j’ai un peu appris, plus en vivant, d’ailleurs, qu’en lisant mes critiques, car ceux-ci n’étaient guère d’accord entre eux. Certains cependant m’ont convaincu : j’ai remplacé, dans cette nouvelle version, quelques outrances de plume par quelques analyses dont je sens qu’elles aggravent mon cas.</p>
@@ -111,7 +111,7 @@
       </div>
     </front>
     <body>
-      <div n="I." type="chapter">
+      <div n="I." type="chapter" xml:id="ddr19560200ao_03">
         <head type="kicker">Livre premier</head>
         <head>Le mythe de Tristan</head>
         <div n="I.1.">
@@ -385,7 +385,7 @@
           <p>Parcourons-les l’une après l’autre, librement. Nous ferons halte ici ou là pour vérifier telle origine nettement localisée, ou telle conséquence imprévue des <hi rend="i">relations</hi> que nous venons de dégager.</p>
         </div>
       </div>
-      <div n="II." type="chapter">
+      <div n="II." type="chapter" xml:id="ddr19560200ao_04">
         <head type="kicker">Livre II</head>
         <head>Les origines religieuses du mythe</head>
         <div n="II.1.">
@@ -933,7 +933,7 @@
           <p>C’est de quoi l’on traitera dans les livres qui viennent.</p>
         </div>
       </div>
-      <div n="III." type="chapter">
+      <div n="III." type="chapter" xml:id="ddr19560200ao_05">
         <head type="kicker">Livre III</head>
         <head>Passion et mystique</head>
         <div n="III.1.">
@@ -1128,7 +1128,7 @@
           <p>L’histoire de la passion d’amour, dans toutes les grandes littératures, du <num>xiii<hi rend="sup">e</hi></num> siècle jusqu’à nous, c’est l’histoire de la déchéance du mythe courtois dans la vie « profanée ». C’est le récit des tentatives de plus en plus désespérées que fait l’Éros pour remplacer la transcendance mystique par une intensité émue. Mais grandiloquentes ou plaintives, les figures du discours passionné, les « couleurs » de sa rhétorique ne seront jamais que les exaltations d’un crépuscule, promesses de gloire jamais tenues…</p>
         </div>
       </div>
-      <div n="IV." type="chapter">
+      <div n="IV." type="chapter" xml:id="ddr19560200ao_06">
         <head type="kicker">Livre IV</head>
         <head>Le mythe dans la littérature</head>
         <epigraph>
@@ -1722,7 +1722,7 @@
           <p>Cette progressive profanation du mythe — sa conversion en rhétorique, puis la dissolution de cette rhétorique et la totale vulgarisation de son contenu, l’on peut en suivre les étapes dans un domaine en apparence fort étranger à ceux que nous venons de parcourir : dans l’évolution de la guerre et de ses méthodes en Occident.</p>
         </div>
       </div>
-      <div n="V." type="chapter">
+      <div n="V." type="chapter" xml:id="ddr19560200ao_07">
         <head type="kicker">Livre V</head>
         <head>Amour et guerre</head>
         <div n="V.1.">
@@ -1877,7 +1877,7 @@
           <p>C’est l’éventualité de la paix que j’envisagerai dans les deux livres terminaux : le premier situant le conflit du mythe et du mariage dans nos mœurs, le second décrivant une attitude que je donne bien moins pour <hi rend="i">la</hi> réponse décisive, que pour mon choix particulier.</p>
         </div>
       </div>
-      <div n="VI." type="chapter">
+      <div n="VI." type="chapter" xml:id="ddr19560200ao_08">
         <head type="kicker">Livre VI</head>
         <head>Le mythe contre le mariage</head>
         <div n="VI.1.">
@@ -1980,7 +1980,7 @@
           <p>Essayer de résoudre notre crise du mariage par des mesures morales, sociales ou scientifiques, déduites du seul désir d’arrêter les dégâts, ne serait-ce pas lui dénier arbitrairement le caractère qu’elle semble bien avoir : celui de la recherche, presque aveugle encore, d’un <hi rend="i">nouvel équilibre du couple</hi>. Équilibre tendu entre les exigences toujours simultanées, contraires et légitimes, de la stabilité et de l’évolution, de l’espèce et de l’individu, enfin de l’accomplissement de la personne et de l’Absolu qui seul la juge et la suscite.</p>
         </div>
       </div>
-      <div n="VII." type="chapter">
+      <div n="VII." type="chapter" xml:id="ddr19560200ao_09">
         <head type="kicker">Livre VII</head>
         <head>L’amour action, ou de la fidélité</head>
         <div n="VII.1.">
@@ -2124,7 +2124,7 @@
       </div>
     </body>
     <back>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19560200ao_10">
         <head>Appendices</head>
         <label>1. — Caractère sacré de la légende</label>
         <p>Pour éviter tout malentendu, je préciserai ici que mon analyse se borne à la légende <hi rend="i">écrite</hi> de Tristan. C’est d’elle seule que je parle quand je parle du mythe « primitif ». Il serait aisé de se prévaloir du caractère sacré que certains auteurs du siècle dernier ont cru pouvoir attribuer aux personnages de Tristan et d’Iseut (ou <hi rend="i">Essylt</hi>) dans la mythologie celtique. Dès le <num>vii<hi rend="sup">e</hi></num> siècle, Tristan aurait été un demi-dieu, le héraut symbolique des mystères, le « gardien des marcassins sacrés », c’est-à-dire des élèves des druides, rival de son oncle Markh, le roi-cheval, et amant d’Essylt, dont on a pu supposer que le nom signifiait « spectacle mystérieux, objet de contemplation », fée irlandaise, cavale aux crins blancs, ou encore figuration de l’eau de la chaudière de Cerridwen, qui donne l’inspiration aux bardes, guérit et ressuscite, c’est-à-dire élève l’initié à la vie de l’esprit. Tout cela est vraisemblable, et contesté. Dans les Mabinogion, recueil des légendes galloises, on ne trouve que cette seule indication très brève sur la légende originelle : « <hi rend="i">Drystan, fils de Tallwch, gardien des porcs de Markh, amant d’Essylt</hi>. » (C’est dans une énumération des amants fameux de la Bretagne.) On a voulu voir également dans la rivalité de Tristan et de Marc le symbole de la lutte entre les Bretons armoricains et les Gallo-Francs. Il est incontestable que maints éléments de la tradition bardique (orale) sont incorporés dans la légende. (Cf. livre <num>ii</num>, chap. 11.) Mais il est non moins certain que Béroul, Thomas, Eilhart, l’auteur du Roman en prose et celui de la Folie Tristan <hi rend="i">n’étaient pas initiés à cette tradition</hi>. Ils ignoraient le sens primitivement sacré et symbolique des personnages dont ils nous content les amours. Et les traces qui subsistent, dans leur texte, d’anciennes pratiques de magie montrent bien que l’usage de ces dernières est oublié, à l’époque et dans les pays où ils écrivent. Tout cela n’est plus qu’ornements d’art, pittoresque, anecdotes interprétées par la fantaisie individuelle du poète. Les faits que nous décrit l’auteur de la <hi rend="i">Folie Tristan</hi> étaient sans doute à l’origine tout autre chose qu’une suite d’extravagances. Chaque parole et chaque geste du héros devaient correspondre à des symboles déterminés. La maison de verre par exemple, dans laquelle Tristan fou veut emmener Iseut, était dans la mythologie druidique le vaisseau de la mort qui s’en va par-delà les nuages jusqu’au cercle céleste du Gwynfyd. Dans la <hi rend="i">Folie Tristan</hi>, la maison de verre n’est plus qu’une image émouvante née de la fantaisie poétique de l’amoureux. De même, chez Thomas, le départ de Tristan pour la Bretagne n’a plus aucun sens « historique » défini ; etc. C’est pour toutes ces raisons que je ne tiens compte, dans mon analyse, que de la légende rédigée, et réinventée quant au sens, par les poètes du <num>xii<hi rend="sup">e</hi></num> siècle : <hi rend="i">elle seule agit encore sur nous</hi>, en tant que mythe de l’amour-passion.</p>
@@ -2246,7 +2246,7 @@
         <p>Autre condamnation vraiment manichéenne de la Création : « Le principe de vie dans tous les êtres n’est autre que celui de la mort ; nous les recevons et les nourrissons dans nous tous deux à la fois. » P. Klossowski oppose cette opinion de Sade à celle de Freud, qui voit une antithèse entre l’instinct de mort et Éros. L’analyse du mythe nous a montré que cette antithèse est purement apparente.</p>
         <p>Mais si la vie et la Nature créée ne sont que noirceurs et cruauté, il faut alors pour s’en délivrer renchérir sur cette cruauté et ces noirceurs. Il n’y a qu’une alternative : exercer la cruauté sur soi ou sur le prochain. Sade choisit le prochain : il veut être criminel plutôt que victime. Ainsi la conscience sadique est l’inverse de la conscience romantique. Le romantique (Pétrarque) se châtie pour conserver l’objet aimé, tandis que Sade veut le tuer.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19560200ao_11">
         <head>Bibliographie<note resp="author">Notice renouvelée à l’intention de la présente version.</note></head>
         <listBibl>
           <head>I. — Le Mythe de Tristan</head>

@@ -79,7 +79,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19610400ctm_01">
         <pb n="7" xml:id="p7"/>
         <head>Note liminaire</head>
         <p>Cet ouvrage prend la suite de quelques autres où j’ai parlé de la passion d’amour, des mythes de l’âme et du mystère de la personne<note place="bottom">Il s’agit de <ref target="https://www.unige.ch/rougemont/livres/ddr19390600ao"><hi rend="i">L’Amour et l’Occident</hi></ref> (1939 et 1956), de <ref target="https://www.unige.ch/rougemont/livres/ddr19470703df"><hi rend="i">Doctrine fabuleuse</hi></ref> (1947) et des <ref target="https://www.unige.ch/rougemont/livres/ddr19441210persdram"><hi rend="i">Personnes du Drame</hi></ref> (1944) notamment.</note> ; il en prolonge les lignes, vers un point de perspective d’où le regard puisse embrasser un champ mieux unifié du phénomène humain : corps-âme-esprit.</p>
@@ -98,7 +98,7 @@
         <pb n="11" xml:id="p11"/>
         <head>Introduction
           <lb/>L’érotisme et les mythes de l’âme</head>
-        <div n="a." type="chapter">
+        <div n="a." type="chapter" xml:id="ddr19610400ctm_02">
           <head type="kicker">I</head>
           <head>L’amour et la personne dans le monde christianisé</head>
           <p>Éros, qui était un dieu pour les Anciens, est un problème pour les Modernes. Le dieu était ailé, charmant et secondaire ; le problème est sérieux, complexe et encombrant. Mais cela n’est vrai qu’en Occident, car <hi rend="i">on n’observe rien de tel en Inde, en Chine ou en Afrique</hi>. Comment nous expliquer ce fait ? Et pourquoi l’érotisme est-il devenu synonyme de perversité non seulement dans le jargon des lois de l’État laïque, mais aux yeux des chrétiens exigeants et sincères, depuis des siècles ? Pour comprendre la situation problématique de notre temps, il faut remonter aux origines du christianisme.</p>
@@ -134,7 +134,7 @@
              la réalité de la personne, l’amour sexuel, sentimental ou spirituel (amour des <hi rend="i">corps</hi>, des <hi rend="i">âmes</hi> ou des <hi rend="i">esprits</hi>, selon la tripartition traditionnelle et non moins paulinienne que gnostique, soulignons-le) se trouvait lié du même coup à la dialectique du salut, c’est-à-dire du péché et de la grâce, — et valorisé à l’extrême. Ceci ne pouvait se produire — et ne s’est pas produit — en dehors de la sphère d’influence du christianisme.</p>
           <p>C’est pourquoi le phénomène que je nomme <hi rend="i">érotisme</hi>, englobant le mariage d’amour, la passion mystique de Tristan et la licence impie de Don Juan (l’une au-delà et l’autre en deçà du mariage), ne devait développer toutes ses complexités que dans une Europe travaillée par la doctrine et la morale chrétiennes, séculairement aux prises avec leurs exigences (sans cesse mieux codifiées par les casuistes), dans une Europe formée par l’Église ou contre elle, et longtemps confondue avec la « chrétienté ». On ne saurait donc interpréter ce phénomène — dans son évolution au cours des siècles et dans sa situation contemporaine — qu’à la lumière de ses origines religieuses et de ses fins trans-naturelles.</p>
         </div>
-        <div n="b." type="chapter">
+        <div n="b." type="chapter" xml:id="ddr19610400ctm_03">
           <head type="kicker">II</head>
           <head>Naissance de l’érotisme occidental</head>
           <p>Apparu pour la première fois aux lisières médiévales de l’inconscient, annoncé sous le couvert des symboles et du mythe au <num>xii<hi rend="sup">e</hi></num> siècle, animant secrètement dès ce temps la poésie et les premiers romans (qui prennent leur nom de la Romania des troubadours), l’<hi rend="i">érotisme</hi> n’accède au niveau de la conscience occidentale qu’au début du <num>xix<hi rend="sup">e</hi></num> siècle : c’est la
@@ -152,7 +152,7 @@
           <p>Kierkegaard, dans l’<hi rend="i">Alternative</hi>, montre comment le christianisme, en apportant au monde le « principe positif de l’Esprit », qui exclut le sensuel, a posé du même coup le sensuel comme « catégorie spirituelle ». (Autrement dit, le christianisme a suscité le problème sexuel et l’érotisme.) Kierkegaard ne se contente pas de substituer cette bipolarité à la simple dualité des classiques. Il définit en effet l’érotisme (en termes étonnamment modernes) comme « une synthèse psycho-sensible ». L’érotisme est donc tout autre chose qu’un euphémisme désignant les aspects sexuels de l’amour dans le langage pudique et parfois si pédant du jeune disciple de Hegel. Entre la spontanéité démoniaque du désir, irrité par l’esprit qui veut l’anéantir, et la spontanéité de l’inclination amoureuse « qui ne reconnaît comme son égale que la spontanéité religieuse » ; entre les figures contrastées du Séducteur et du Mari, entre la décision négative et la décision positive du spirituel, l’érotisme kierkegaardien noue sa problématique absolument nouvelle, « psycho-sensible », donc incluse dans la sphère animique.</p>
           <p>Or, le langage de l’âme n’est autre que le Mythe. Il est donc naturel que Kierkegaard, pour décrire la catégorie du sensuel pur telle que la pose l’attaque de l’Esprit, et Wagner, pour décrire la passion pure telle que la transfigure l’élan mystique, aient eu recours aux mythes extrêmes de l’érotique occidentale : Don Juan, Tristan.</p>
         </div>
-        <div n="c." type="chapter">
+        <div n="c." type="chapter" xml:id="ddr19610400ctm_04">
           <pb n="23" xml:id="p23"/>
           <head type="kicker">III</head>
           <head>Présence des mythes et leurs pouvoirs dans divers ordres</head>
@@ -178,7 +178,7 @@
              dont le « paradoxe absolu » est de « vouloir sa propre perte » ; mais aussi, comme en filigrane, dans le dessein secret de tant de romans modernes et dans le destin « fatal » de leur protagoniste — souvent à l’insu de l’auteur… Et bien d’autres que moi ont su voir, c’est-à-dire prévoir Don Quichotte, dans la folie grandiose de Christophe Colomb partant pour les Indes du rêve.</p>
           <p>Un mot encore, pour ceux qui m’accuseraient de blasphémer — et j’en connais — en voyant « Tristan » dans ce siècle. S’il est vrai que les mythes nous en apprennent bien autant sur l’Europe que les statues de dieux animaux ou de Shivas à quatre bras sur la civilisation de l’Égypte ou de l’Inde anciennes, c’est de la même manière : non par leur « réalisme » ou leur fidélité aux apparences quotidiennes, mais par leur pouvoir d’expression du sacré et de l’âme ; non par leur valeur figurée, mais par leur valeur figurante. Nul Européen n’a jamais été Tristan, ni Don Juan, — et pas plus dans le passé qu’aujourd’hui ; mais sans ces mythes les Européens ne seraient pas ce qu’ils sont, n’aimeraient pas comme ils aiment, et leurs passions seraient incompréhensibles : car elles naissent de leurs rêves et non de leurs doctrines.</p>
         </div>
-        <div n="d." type="chapter">
+        <div n="d." type="chapter" xml:id="ddr19610400ctm_05">
           <head type="kicker">IV</head>
           <head>Problèmes de la personne aux prises avec les mythes</head>
           <p>Que les mythes de l’amour déterminent largement nos conduites individuelles, les hasards apparents de nos rencontres, et les choix que nous croyons décider librement — on admet qu’il serait superflu de le
@@ -190,7 +190,7 @@
             <pb n="30" xml:id="p30"/>
              d’explorer l’espace cosmique et de subvenir à l’alimentation des corps, l’autre peut permettre à l’esprit d’explorer les richesses mal connues de l’espace et du temps animiques, et d’y trouver de quoi nourrir des faims d’une autre espèce, dès maintenant éveillées.</p>
         </div>
-        <div n="e." type="chapter">
+        <div n="e." type="chapter" xml:id="ddr19610400ctm_06">
           <head type="kicker">V</head>
           <head>Invasion de l’érotisme au <num>xx<hi rend="sup">e</hi></num> siècle</head>
           <p>Chrétiens traditionnels, moralistes laïques, rationalistes libéraux et communistes orthodoxes s’unissent pour déplorer l’invasion dans nos vies d’une sexualité « obsédante ». Les affiches dans les rues, les bureaux, les métros, et tout au long des autostrades, les magazines illustrés et les films, les romans noirs et les albums de nus, les journaux populaires et les bandes dessinées, les chansons à la mode, les danses et les strip-teases : il suffit de regarder le décor des journées et des nuits citadines pour vérifier l’omniprésence de l’appel au désir sexuel. Ce phénomène mille fois décrit n’en demeure pas moins stupéfiant par sa soudaineté et son ampleur. Il est daté du premier tiers du <num>xx<hi rend="sup">e</hi></num> siècle, et même si on lui trouvait des parallèles en d’autres temps, ses moyens d’expression, eux, sont sans précédent. La culture commercialisée, qui est son véhicule principal, le rend sans doute irréversible, et les cultures totalitaires (ou dirigées), normalement puritaines, seront bientôt débordées. Au surplus, l’accroissement quantitatif et plus encore qualitatif des temps de loisir, accroît aussi — comme l’avait dit Baudelaire avec plus de précision que le proverbe antique sur l’oisiveté mère des vices — les chances pratiques de l’érotisme. Déplorer le phénomène est donc vain. Il s’agit de
@@ -211,7 +211,7 @@
             <pb n="35" xml:id="p35"/>
              valable et nécessaire, cependant que la vérité est sûrement au-delà d’eux tous, soit dans la résultante de leurs tensions, comme j’incline à le croire en tant qu’Occidental, soit dans cette vision purifiée dont nous parlent les Orientaux, et qui ramènerait tout à l’Un sans distinction. Les essais réunis dans ce livre ne sont pas des mises en jugement de tel penseur particulier ou de telle attitude générale, mais des recherches sur la nature et les motifs des options caractéristiques d’une personne ou d’un personnage, et du style qui les définit ; sur la notion de l’homme qu’elles impliquent et supposent, <hi rend="i">nolens volens</hi>. Prendre conscience de ces motivations dans des cas bien concrets mais exemplaires, peut aider à mieux prendre son risque, à mieux assumer sa personne.</p>
         </div>
-        <div n="f." type="chapter">
+        <div n="f." type="chapter" xml:id="ddr19610400ctm_07">
           <head type="kicker">VI</head>
           <head>Soulèvement des puissances animiques</head>
           <p>Mais la soudaine turbulence de l’Éros, avant de nous poser ces problèmes, est d’abord un grand fait <hi rend="i">psychique</hi> ; ou tout au moins elle le signale et elle le signe.</p>
@@ -236,7 +236,7 @@
              aient des motifs inverses d’être indignés, inquiets ou angoissés. Les deux camps se rendent bien leur mépris, et chacun refuse de tolérer fût-ce un instant, par simple hypothèse de dialogue, les bonnes raisons que peut invoquer l’autre.</p>
           <p>C’est à partir de là que j’essaie de réfléchir, d’élucider l’amour tel qu’on l’écrit de mon temps.</p>
         </div>
-        <div n="g." type="chapter">
+        <div n="g." type="chapter" xml:id="ddr19610400ctm_08">
           <head type="kicker">VII</head>
           <head>Parenthèse sur le sens des mots</head>
           <p>À la <hi rend="i">clé</hi> de cette Introduction, j’aurais aimé pouvoir inscrire un signe d’objectivité, annonçant qu’ici l’on décrit, avant de juger. Qu’il reste donc bien entendu que, dans ces pages liminaires et dans les essais qui les suivent, je n’utilise jamais les termes de <hi rend="i">morale bourgeoise</hi> et de <hi rend="i">puritanisme</hi> comme des injures, ni comme des épithètes nécessairement dépréciatives. En revanche, le terme d’<hi rend="i">érotisme</hi> ne définit pour moi ni le bien ni le mal, mais un phénomène passionnant par excellence, dont j’essaie, avant de l’évaluer, de mieux voir ce qu’il est, d’où il vient, où il va.</p>
@@ -246,7 +246,7 @@
           <p>En revanche, sans l’érotisme et les libertés qu’il suppose, notre culture vaudrait-elle mieux que celle qu’un Staline, qu’un Mao, ont tenté d’imposer par décrets ? Elle serait strictement adaptée à la production matérielle, à la procréation socialisée. Et cela, nos puritains l’oublient non moins souvent.</p>
           <p>Je pose donc un problème au plus haut point concret, et que l’angoisse compréhensible des Occidentaux d’aujourd’hui conduit en général à trancher brutalement avant de l’avoir considéré.</p>
         </div>
-        <div n="h." type="chapter">
+        <div n="h." type="chapter" xml:id="ddr19610400ctm_09">
           <head type="kicker">VIII</head>
           <head>Pour une mythanalyse de la culture</head>
           <p>La littérature érotique embrasse plus de réalités psychologiques que la morale bourgeoise ne voulait en connaître, et que le puritanisme n’en tolère. Or ces réalités, quoi qu’on en juge, sont au moins aussi quotidiennes et obsédantes que les réalités économiques, qui d’ailleurs en dépendent dans une certaine mesure, comme le confort dépend de notre psychologie.</p>
@@ -274,7 +274,7 @@
       <div n="I.">
         <pb n="45" xml:id="p45"/>
         <head>Première partie</head>
-        <div n="1." type="chapter">
+        <div n="1." type="chapter" xml:id="ddr19610400ctm_10">
           <pb n="47" xml:id="p47"/>
           <head>Nouvelles métamorphoses de Tristan</head>
           <p>La passion est cette forme de l’amour qui refuse l’immédiat, fuit le prochain, veut la distance et l’invente au besoin, pour mieux se ressentir et s’exalter. Cette définition rend compte de la plupart des vrais romans, par quoi j’entends non point les meilleures œuvres qu’on est convenu de ranger dans ce genre littéraire, mais, indépendamment de leur qualité d’art, de leur notoriété ou de leur portée humaine, ces œuvres seules où transparaît, dominateur, l’archétype médiéval de <hi rend="i">Tristan</hi>.</p>
@@ -485,7 +485,7 @@
                l’Inaccessible, et toute femme aimée une Iseut, même si nul interdit moral ou nul tabou ne vient symboliser, pour les besoins de la fable et la commodité du romancier, l’essence même de l’obstacle excitant, celui qui ne dépendra jamais que de l’être même : l’autonomie de la personne aimée, son étrangeté fascinante ?<hi rend="sup">6</hi></p>
           </div>
         </div>
-        <div n="2." type="chapter">
+        <div n="2." type="chapter" xml:id="ddr19610400ctm_11">
           <pb n="82" xml:id="p82"/>
           <head>Deux princes danois
             <lb/>Kierkegaard et Hamlet</head>
@@ -599,7 +599,7 @@
           <p>Quelles aides, quels repères, quels principes directeurs nous offrira donc Kierkegaard ? À vrai dire, le seul guide qu’il nous propose, c’est la souffrance, lorsqu’il écrit cette phrase lourde de sens : « Ce n’est pas le chemin qui est difficile, mais c’est le difficile qui est le chemin. »</p>
           <p>On voit ici que la notion de vocation, chez Kierkegaard, s’oppose diamétralement à la notion courante. Car, selon cette dernière, suivre sa vocation, c’est aller dans le sens où la nature nous pousse, dans le sens de nos talents, de nos « facilités », tandis que Kierkegaard nous propose la souffrance non pas seulement comme signe et garantie de la vraie voie, mais plus radicalement, comme la voie même…</p>
         </div>
-        <div n="3." type="chapter">
+        <div n="3." type="chapter" xml:id="ddr19610400ctm_12">
           <pb n="102" xml:id="p102"/>
           <head>Don Juan</head>
           <p>Lorsqu’il paraît brillant d’or et de soie, dressé sur ses ergots de grand ténor, l’on est tenté de ne voir en lui que le feu naturel du désir, une espèce d’animalité véhémente, et comme innocente… Mais jamais la Nature n’a rien produit de pareil.</p>
@@ -635,7 +635,7 @@
           <p>Comme je parlais de ces choses à une amie : « J’ai connu, me dit-elle, un homme marié avec lequel ayant été coquette en vain, il me dit en me quittant : Je vous ajoute à ma liste des <hi rend="i">mille e tre</hi>. C’étaient les femmes qu’il n’avait pas eues par fidélité à la sienne. »</p>
           <p>Où est la tricherie ? Dans le défi, installé au cœur de la règle ?</p>
         </div>
-        <div n="4." type="chapter">
+        <div n="4." type="chapter" xml:id="ddr19610400ctm_13">
           <pb n="109" xml:id="p109"/>
           <head>Dialectique des mythes I
             <lb/>Méditation au carrefour fabuleux</head>
@@ -986,7 +986,7 @@
             <p>Tous les deux ont raison contre la vie, dès qu’elle relâche ses tensions. Tous les deux ont raison contre l’amour, sitôt qu’il se ramène en soi, cessant d’être un échange vivant. Enfin tous les deux ont raison contre nos morales de série, hygiéniques, étatiques, et sans style ni <hi rend="i">virtu</hi>. Dès qu’un déséquilibre se trahit en nous, ou provoque une crise dans le couple, ils s’y jettent et l’aggravent à plaisir. Que l’un des deux gagne à la main, il aura tôt fait de ruiner mariage, modération, personne, et la vie même. Mais sans eux, que seraient nos amours ?</p>
           </div>
         </div>
-        <div n="5." type="chapter">
+        <div n="5." type="chapter" xml:id="ddr19610400ctm_14">
           <pb n="160" xml:id="p160"/>
           <head>Dialectique des mythes II
             <lb/>Les deux âmes d’André Gide</head>
@@ -1109,7 +1109,7 @@
       <div n="II.">
         <pb n="185" xml:id="p185"/>
         <head>Deuxième partie</head>
-        <div n="6." type="chapter">
+        <div n="6." type="chapter" xml:id="ddr19610400ctm_15">
           <pb n="187" xml:id="p187"/>
           <head>Rudolf Kassner et la grandeur humaine</head>
           <p>Rudolf Kassner vient de mourir à l’âge de 86 ans, au comble de sa gloire secrète. Qui l’a mis à son rang dans notre siècle ? Les meilleurs, certes, mais presque seuls : Valéry, Gide, Eliot, Auden, Paulhan, Saint-John Perse, Keyserling, C. J. Burckhardt. La France l’ignore encore, malgré trois traductions<note place="bottom"><hi rend="i">Les Éléments de la grandeur humaine</hi>, NRF, 1931 ; <hi rend="i">Le Livre du souvenir</hi>, Stock, 1942 ; <hi rend="i">Évocations et paraboles</hi>, Plon, 1956.</note> qui suffiraient à résumer son œuvre, laquelle compte environ quarante volumes d’une séduisante difficulté. (Il a traduit aussi Platon, Pouchkine et Gogol, Laurence Sterne et Newman, le <hi rend="i">Philoctète</hi> de Gide et les <hi rend="i">Éloges</hi> de Saint-John Perse.) Intimement hé avec Rilke et avec Hofmannsthal, il procède à la fois, par un étrange paradoxe, de la dialectique kierkegaardienne, comme son cadet Kafka, et de la société autrichienne d’avant 1914, comme Robert Musil. Ces cinq noms que l’Autriche a donnés à l’Europe sont parmi les plus grands des Lettres de ce temps. Ils illustrent, au même titre que ceux qu’on a cités d’entre les amis de Kassner, la seule littérature digne du nom ; et l’on ne s’étonnera pas que Kassner soit resté, jusqu’ici, le moins connu d’entre eux, si l’on songe à ce dont parle la presse dans ses rubriques dites « littéraires ».</p>
@@ -1249,7 +1249,7 @@
             </quote>
           </div>
         </div>
-        <div n="7." type="chapter">
+        <div n="7." type="chapter" xml:id="ddr19610400ctm_16">
           <pb n="209" xml:id="p209"/>
           <head>La personne, l’ange et l’absolu ou Le dialogue Occident-Orient</head>
           <div n="7.a.">
@@ -1503,7 +1503,7 @@
             <p>La création tout entière, « soumise à la vanité » mais travaillée par « un ardent désir, attend la révélation des fils de Dieu » (Romains, 8). Et saint Justin, l’œcuménique du <num>ii<hi rend="sup">e</hi></num> siècle, ose parler d’un salut de la Matière. À force de l’étreindre de ses mains, de la mesurer par la vue, de la dissoudre et de la recomposer, de l’épier dans sa vie secrète, comme l’alchimiste, cette matière du cosmos en expansion, de l’atome élusif, des corps vivants, l’homme d’Occident ne cherche pas seulement à dévoiler ses lois secrètes, mais à se transformer lui-même, en tant qu’il participe au mystère du créé. Il a choisi cette voie, qu’il aille jusqu’au bout ! Pour lui la Réalité est dans l’individuel, et l’Être dans les raisons d’être des uniques. Or ce choix est celui de l’amour, de la connaissance par l’amour, car tout ce qui existe est unique, à voir de près, comme voit l’amour.</p>
           </div>
         </div>
-        <div n="8." type="chapter">
+        <div n="8." type="chapter" xml:id="ddr19610400ctm_17">
           <pb n="246" xml:id="p246"/>
           <head>L’amour même</head>
           <div n="8.a.">
@@ -1634,7 +1634,7 @@
       <div>
         <pb n="263" xml:id="p263"/>
         <head>Annexes</head>
-        <div n="i." type="chapter">
+        <div n="i." type="chapter" xml:id="ddr19610400ctm_18">
           <pb n="265" xml:id="p265"/>
           <head type="kicker">Annexe I</head>
           <head>L’amour selon les évangiles</head>
@@ -1707,7 +1707,7 @@
             <p>7. En regard des déclarations constantes de Jésus sur l’amour spirituel, seul décisif, et de ses rares jugements (autant de pardons, d’ailleurs) sur l’amour sexuel « irrégulier », contrastant avec sa sévérité envers les autres « attachements » de la chair, tels que les liens familiaux, voici dans l’Évangile une « omission » qui doit faire réfléchir puritains et ascètes : lorsque le diable tente Jésus qui a jeûné quarante jours dans le désert, il le tente par la faim (transforme ces pierres en pains), par la magie (jette-toi dans le vide du haut du Temple et les anges te porteront), et par la puissance (je te donnerai tous les royaumes du monde). Mais non point par cela qui, pour tous les ascètes et puritains, figure la tentation par excellence.</p>
           </div>
         </div>
-        <div n="ii." type="chapter">
+        <div n="ii." type="chapter" xml:id="ddr19610400ctm_19">
           <pb n="271" xml:id="p271"/>
           <head type="kicker">Annexe II</head>
           <head>Misère et grandeur de saint Paul</head>
@@ -1719,7 +1719,7 @@
             <pb n="273" xml:id="p273"/>
              la culture. Je propose <hi rend="i">au contraire</hi> que l’on cesse de confondre avec la vérité de l’Esprit le puritanisme et la misogynie de l’Apôtre, qui me paraissent dépendre en premier lieu de contingences tout historiques et personnelles. Je propose d’appliquer à la morale paulinienne la critique qu’il recommandait lui-même d’appliquer aux morales ritualistes et magiques de son temps. Il nommait cela : « discerner les esprits ». Et il disait aussi qu’il tenait du Seigneur que « rien n’est impur en soi, et qu’une chose n’est impure que pour celui qui la croit telle » (Rom., XII, 14). « Tout est permis, mais tout n’édifie pas »…</p>
         </div>
-        <div n="iii." type="chapter">
+        <div n="iii." type="chapter" xml:id="ddr19610400ctm_20">
           <pb n="274" xml:id="p274"/>
           <head type="kicker">Annexe III</head>
           <head>Post-scriptum</head>

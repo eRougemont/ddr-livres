@@ -80,7 +80,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19470307va_01">
         <pb n="7"/>
         <head>Avertissement</head>
         <p>Je ne pensais pas écrire sur l’Amérique, parce que j’y avais vécu cinq ans — et l’on sait bien qu’il faut un séjour de trois semaines ou toute une vie pour oser parler d’un pays — quand Gérard Boutelleau, de passage à New York, me demanda quelques articles pour un hebdomadaire français.</p>
@@ -90,7 +90,7 @@
         <p>Telle, est l’origine de, ce recueil<note place="bottom">La plupart des articles ici réunis ont été publiés en première version par les journaux et revues dont les noms suivent : <ref target="https://www.unige.ch/rougemont/articles/carf"><hi rend="i">Carrefour</hi></ref>, <hi rend="i">Le Littéraire</hi>, le <ref target="https://www.unige.ch/rougemont/articles/fig"><hi rend="i">Figaro</hi></ref>, le <ref target="https://www.unige.ch/rougemont/articles/jg"><hi rend="i">Journal de Genève</hi></ref>, la <ref target="https://www.unige.ch/rougemont/articles/glaus"><hi rend="i">Gazette de Lausanne</hi></ref>, <ref target="https://www.unige.ch/rougemont/articles/ref"><hi rend="i">Réforme</hi></ref>, Temps présent, Fontaine, <ref target="https://www.unige.ch/rougemont/articles/espr"><hi rend="i">Esprit</hi></ref>, <ref target="https://www.unige.ch/rougemont/articles/rpar"><hi rend="i">La Revue de Paris</hi></ref>, <hi rend="i">La Nef</hi>.</note>.</p>
         <p>Je ne prétends donc pas un instant peindre un tableau complet de l’Amérique. La table des matières non traitées dans le volume tiendrait plus de place que celle qui le termine. Mes articles n’ont d’autre unité que l’effort de comparaison que je viens de dire, <pb n="9"/> et je vous laisse juge des résultats. Honnêtement, j’ignore si mon livre est au total plus favorable à l’un des continents qu’à l’autre. La réponse théorique dépend des goûts, et la réponse pratique, des vocations. J’ai choisi pour ma part d’être agent de liaison, Européen quoi qu’il m’arrive, et persuadé que l’amitié des deux nations doit se nouer dans l’échange de leurs vérités, après tant de caricatures.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19470307va_02">
         <pb n="11"/>
         <head>Prologue
 <lb/>Sentiment de l’Amérique</head>
@@ -111,7 +111,7 @@
         <ab type="ornament">⁂</ab>
         <p>Je ne vous ai pas parlé d’actualités brûlantes, dans cette préface à quelques articles sur l’Amérique. C’est que je crois aux <hi rend="i">signes</hi> plus qu’aux faits ; aux courants d’opinion ou de sensibilité plus qu’aux chiffres et aux statistiques ; à ce qui prépare et fait mûrir lentement les événements, plus qu’aux incidents de la semaine. Il me semble assez important, pour faire comprendre à des Français certaines démarches surprenantes de la diplomatie américaine, de parler tout d’abord et surtout de ce qu’on ne dit pas dans les dépêches, de ce qui n’est pas matière d’enquêtes et de reportages, de ces nuances de sentiments ou de coutumes qui qualifient la vie et la vision d’un peuple, et qui par là, vont peut-être expliquer l’histoire du siècle, notre histoire réelle. Car celle-ci dépend de deux peuples — l’autre est le russe — dont toutes les réactions intimes et sautes d’humeur vont affecter notre sort matériel, aussi directement que naguère les crises d’un certain névropathe.</p>
       </div>
-      <div type="chapter" n="1.">
+      <div type="chapter" n="1." xml:id="ddr19470307va_03">
         <pb n="19"/>
         <head type="kicker">I</head>
         <head>Vie politique</head>
@@ -238,7 +238,7 @@
           <p>Cette timidité de la politique américaine me paraît beaucoup plus dangereuse, pour l’Europe, que cet impérialisme qu’on redoute pour de mauvaises raisons, ou parce qu’on l’assimile à des tendances européennes qui n’ont de commun avec lui que le nom.</p>
         </div>
       </div>
-      <div type="chapter" n="2.">
+      <div type="chapter" n="2." xml:id="ddr19470307va_04">
         <pb n="59"/>
         <head type="kicker">II</head>
         <head>Vie culturelle et religieuse</head>
@@ -387,7 +387,7 @@
           <p>Il ne me reste plus qu’à noter que Kierkegaard, précisément, est entièrement traduit en Amérique, et que j’ai trouvé partout des étudiants — non seulement chez les théologiens — qui le lisent et commentent avec passion. Ce petit signe en contredit bien d’autres.</p>
         </div>
       </div>
-      <div type="chapter" n="3.">
+      <div type="chapter" n="3." xml:id="ddr19470307va_05">
         <pb n="113"/>
         <head type="kicker">III</head>
         <head>Vie privée</head>
@@ -446,7 +446,7 @@ mariages manquent de sens et de sérieux. Il n’y entre pas pour toute la vie, 
           <p>Entre les moralistes puritains qui tentaient follement de faire « comme si » l’instinct sexuel pouvait être passé sous silence ou nié ; les sexologues qui tenteront follement de faire « comme si » ce même instinct souffrait des mesures, rationnelles ; les producers de Hollywood qui tentent follement de l’exciter tout en le contenant dans de « justes » limites, fixées par le Comité Hays, — le jeune Américain, s’il trouve une voie saine et quelques disciplines praticables, sera vraiment le génie du siècle et l’objet d’une grâce spéciale. Or c’est bien ce qu’il pense être, étant Américain. Je ne l’observe pas sans inquiétude ; non plus sans beaucoup d’amitié.</p>
         </div>
       </div>
-      <div type="chapter" n="4.">
+      <div type="chapter" n="4." xml:id="ddr19470307va_06">
         <pb n="135"/>
         <head type="kicker">IV</head>
         <head>Conseil à un Français pour vivre en Amérique</head>
@@ -650,7 +650,7 @@ mariages manquent de sens et de sérieux. Il n’y entre pas pour toute la vie, 
           <p>Enfin, apprenons d’eux le souci d’être dignes non seulement d’un passé qui nous a faits, mais surtout d’un avenir qu’il dépend de nous de faire. Cette attitude détient le secret de la liberté. Car il n’est de liberté réelle qu’en avant, dans tous les ordres, à chaque instant, — si l’on veut bien y réfléchir en refermant ce petit livre.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19470307va_07">
         <pb n="181"/>
         <head>Épilogue
 <lb/>La route américaine</head>

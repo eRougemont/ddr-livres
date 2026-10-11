@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr19590300oe">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr19590300oe" type="book">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -78,7 +78,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19590300oe_01">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19590300oe/003.jpg/full/full/0/default.jpg" n="1"/>
         <head>Introduction</head>
         <p>D’où vient le nom ?</p>
@@ -100,7 +100,7 @@ Gonzague de Reynold, par le premier tome de sa très belle histoire de la <hi re
         <p><ref target="https://www.unige.ch/rougemont/livres/ddr19611200vhse">L’anthologie où l’on retrouvera ces textes est en cours d’élaboration</ref>. Elle paraîtra sans doute à la fin de cette année, par les soins d’un groupe d’éditeurs représentant huit de nos langues, <ref>qui se sont associés sous les auspices du Centre en vue de publier tous ensemble une série d’ouvrages sur l’Europe</ref>.</p>
         <p rend="right">D. R.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19590300oe_02">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19590300oe/005.jpg/full/full/0/default.jpg" n="3"/>
         <head>I. Protohistoire d’un continent sans nom</head>
         <p>La quatrième période glaciaire avait recouvert près de la moitié des plaines et des montagnes d’une épaisse calotte, dont la fonte transforma le continent en marécage puis en forêt vierge. Ainsi fut anéantie, vers l’an 8000 av. J.-C., la civilisation qui avait produit les fascinantes peintures rupestres de Lascaux et d’Altamira.</p>
@@ -122,7 +122,7 @@ aux Celtes. La conquête de la Gaule par César va marquer le début de la fusio
         <p>Quant à la préhistoire, ou mieux protohistoire dont on vient d’indiquer quelques étapes, c’est celle d’un <hi rend="i">continent sans nom</hi>, lentement peuplé, civilisé et travaillé par des hommes, des idées, et des techniques venus des rives du Proche-Orient.</p>
         <p>Mais qui va baptiser ce continent ? À quelle date ? Et sous quels auspices ? Et que signifiera son nom ?</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19590300oe_03">
         <head>II. Le mythe de l’enlèvement d’Europe</head>
         <epigraph>
           <p>Quant à l’Europe, il ne paraît pas que l’on sache, ni d’où elle a tiré ce nom ni qui le lui a donné, à moins que nous ne disions qu’elle l’a pris d’Europe de Tyr, car, auparavant, ainsi que les deux autres parties du monde, elle n’avait point de nom. Il est certain qu’Europe était Asiatique et qu’elle n’est jamais venue dans ce pays que les Grecs appellent maintenant l’Europe, mais qu’elle passa seulement de Phénicie en Crète et de Crète en Lycie.<note xml:id="fn2">Hérodote : livre IV, dédié à Melpomène.</note></p>
@@ -242,7 +242,7 @@ faire entrer dans son polythéisme et pour l’humaniser. Alors, le principe mâ
           </quote>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19590300oe_04">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19590300oe/018.jpg/full/full/0/default.jpg" n="16"/>
         <head>III. Le Mythe de Japhet<note xml:id="fn8">Nous suivons ici la démonstration de Jürgen <hi rend="sc">Fischer</hi>, <hi rend="i">op. cit</hi>., p. 10 à 19 : « Die Japhet-Historie ».</note></head>
         <p>S’il reste vrai que le mythe du rapt d’Europe se trouve traduire les grandes données ethnographiques et historiques de la formation de l’Europe, c’est à un autre mythe, bien moins connu, que nous devons attribuer la persistance d’un concept de l’Europe comme continent distinct, même aux époques où le nom d’Europe n’éveillait plus, dans les esprits, que la seule idée géographique d’une des trois grandes régions de l’univers alors connu.</p>
@@ -255,7 +255,7 @@ vrai Dieu. Le mot sur lequel insistent tous ces exégètes est celui que nous av
         <p>« Il n’est certes pas démontrable, mais possible, que la relation entre Japhet et l’Europe se soit vue confirmée dans l’esprit de ces auteurs par la traduction en grec de l’allégorie (biblique) : au latin <hi rend="i">latus</hi> (large, étendu) correspond le grec <hi rend="i">eurus</hi>, dont dérive la forme poétique <hi rend="i">europos</hi>, assimilée à “Europe” par homophonie. »<note xml:id="fn9"><hi rend="i">Ibid.</hi>, p. 15.</note></p>
         <p>Un lien — problématique, il est vrai, et proche du calembour — serait ainsi établi entre la Genèse et la mythologie grecque. L’Europe ferait partie de l’économie du salut, serait donc un concept acceptable aux yeux des Pères. Et le mythe de Japhet, ainsi interprété, exprimerait assez bien l’état du continent dans la seconde moitié de notre premier millénaire : ce mélange originellement « indifférent » (à l’égard de la vraie foi) de païens et de convertis toujours plus nombreux, qui porte en bloc le nom d’Europe.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19590300oe_05">
         <head>IV. Cadmus ou la quête d’Europe</head>
         <p>Relevons enfin un autre point de contact ou de contamination entre les deux mythes, le grec et le biblique.</p>
         <p>Agénor, roi de Tyr venu d’Égypte pour habiter le pays de Canaan, est le père de cinq fils et d’une fille : Europe. Cette dernière ayant été
@@ -267,7 +267,7 @@ enlevée par le taureau divin (ou par le roi de Crète Taurus), les cinq fils d�
 <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19590300oe/021.jpg/full/full/0/default.jpg" n="19"/>
 <hi rend="i">Japet</hi> de la mythologie, ce Titan père de Prométhée, et donc grand-père de Deucalion qui fut précisément le Noé des Grecs ? L’Antiquité tenait Japet pour l’ancêtre du genre humain. <hi rend="i">Audax Japeti genum</hi> écrit Horace… Nous y reviendrons.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19590300oe_06">
         <head>V. Les étymologies</head>
         <p>L’étymologie, trop souvent, nous est donnée pour science par ceux qui la pratiquent sans art. À travers des filiations, des signes et des sons qu’il est parfois possible d’établir sans équivoque, elle se propose de rechercher des <hi rend="i">significations</hi>, tenant les primitives pour plus authentiques que les actuelles, qui en seraient dérivées. En tant que science, elle n’en trouve guère, et recense surtout des erreurs, rapprochements abusifs, calembours, pataquès ; en tant qu’art, elle n’en trouve que trop et c’est alors son choix qui est significatif. Elle décrit donc les préférences de celui qui découvre une « vraie » racine, plutôt qu’elle ne statue sur le « vrai » sens du mot. Et c’est pourquoi il est intéressant de rappeler ici quelques-unes des « origines » retenues par diverses époques pour expliquer ce nom d’Europe, dont Hérodote pensait que nul mortel ne saurait espérer découvrir le vrai sens.</p>
         <p>a) Voici d’abord l’interprétation pittoresque proposée par un médecin brabançon du <num>xvi<hi rend="sup">e</hi></num> siècle, Johannes Goropius. Elle se fonde sur la double croyance traditionnelle que le nom d’Europe vient de l’hébreu et que notre continent fut la part de Japhet. (Il s’agit donc, comme on l’a vu plus haut, de donner une racine biblique à ce nom qui, autrement, rappellerait fâcheusement les coupables amours du roi des dieux païens et d’une fille de Tyr, cette ville cent fois maudite par les prophètes.) Goropius écrit, selon Mercator :</p>
@@ -307,7 +307,7 @@ toutefois le mot ne se lit pas <hi rend="i">eur-ope</hi> mais <hi rend="i">eu-ro
         <p>Faut-il rappeler au surplus que Hellén — masculin d’Hélène et ancêtre éponyme de tous les Hellènes — était le fils de Deucalion ? Que celui-ci est le Noé de la mythologie grecque, seul rescapé avec Pyrrha sa femme (grâce à l’Arche en demi-lune que Prométhée son père lui a fait construire) d’un déluge dont une colombe lui annonça la fin ? Hellén est donc l’arrière-petit-fils du Japet grec, tandis que Japhet était le fils du Noé biblique. La mère de Hellén, Pyrrha, serait la même que la déesse Ishtar, qui selon la mythologie babylonienne aurait provoqué le Déluge au 3<hi rend="sup">e</hi> millénaire av. J.-C. ; et qui est aussi la déesse des Philistins, peuple venu de Crète en Palestine vers 1200 av. J.-C.</p>
         <p>Vertigineuse réfraction des symboles et des mythes ! On n’en finirait pas de les préciser, de les distinguer, de les contraster — jusqu’au moment où ils apparaîtraient, peut-être, comme autant de récits véridiques d’une seule et même histoire, vue par divers témoins.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19590300oe_07">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19590300oe/025.jpg/full/full/0/default.jpg" n="23"/>
         <head>VI. Le concept géographique</head>
         <p>On a coutume d’attribuer à <hi rend="i">Paul Valéry</hi> la remarque que l’Europe n’est qu’un cap ou « un appendice de l’Asie ». Voici son texte le plus souvent cité à ce sujet :</p>
@@ -429,7 +429,7 @@ Vierge : une Vierge couronnée, pour tête l’Espagne, pour cœur la France, p
           <p>La Vierge chrétienne qui a conçu par l’Esprit.</p>
         </quote>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19590300oe_08">
         <head>VII. De la géographie à l’histoire</head>
         <p>Des pages qui précèdent, deux conclusions se dégagent : le concept géographique d’Europe est <hi rend="i">beaucoup plus ancien</hi>, et les mythes grecs et sémitiques <hi rend="i">beaucoup moins éloignés de la réalité</hi> qu’on ne l’imagine généralement de nos jours.</p>
         <p>Mais la conscience politico-historique d’une entité européenne, c’est-à-dire d’une communauté de destin des peuples habitant l’Europe telle qu’Hérodote ou Strabon la décrivent, peut-elle être attestée par les textes à des dates aussi reculées ? On en relèvera quelques traces dans les comparaisons globales entre le destin des peuples de l’Europe et de l’Asie, esquissées par Hippocrate et Aristote. Mais ces deux grands génies n’étaient pas l’expression d’une opinion courante ou d’une conscience populaire : celles-ci ne pouvaient exister, de leur temps, que dans la croyance religieuse et dans les mythes.</p>
@@ -494,7 +494,7 @@ entendre que l’Europe ne le cède pas à toute l’Asie, grâce au seul Martin
         </quote>
         <p>Ainsi le terme d’<hi rend="i">Européens</hi>, pour la première fois dans notre ère, désigne une communauté continentale, celle qui englobe dans un même destin de défense contre un même ennemi les peuples vivant au nord des Pyrénées et des Alpes. Il se peut que les historiens qui ramènent la bataille de Poitiers à un « mythe » ou à « un incident sans importance » aient raison sur le plan militaire. Et il semble bien que les Arabes n’aient qu’à peine enregistré la défaite d’Abdarrahmân : selon leurs historiens de l’époque, elle n’aurait marqué que l’issue malheureuse d’une razzia de plus chez les Francs. Le recul de l’islam à partir de cette date serait dû, selon E. Berl, à une crise intérieure du monde arabe, et surtout à la défaite subie par la flotte musulmane devant Byzance, dès 718<note xml:id="fn33">Emmanuel <hi rend="sc">Berl</hi>, <hi rend="i">Les Impostures de l’histoire</hi>, Paris, 1959.</note>. Mais il y a cette chronique de l’anonyme espagnol, il y a ce mot <hi rend="i">Europenses</hi> qui suffit à lui seul pour que Poitiers marque une date décisive dans notre histoire. La preuve est là, qu’au <num>viii<hi rend="sup">e</hi></num> siècle, ceux qui défendent ce continent se voient <hi rend="i">naturellement</hi> décrits non comme les défenseurs d’une Romania devenue mythique, ni de l’Occident en général, ni de la papauté, ni de leur « nation » ou patrie particulière, mais bien comme les membres d’une même famille de peuples.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19590300oe_09">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19590300oe/040.jpg/full/full/0/default.jpg" n="38"/>
         <head>VIII. « Europa vel regnum Caroli »</head>
         <p>Cette conscience commune de l’Europe — remplaçant de plus en plus le concept déprécié ou dépréciatif d’Occident — va s’affermir et se préciser avec les conquêtes de Charlemagne, de 768 à 814.</p>

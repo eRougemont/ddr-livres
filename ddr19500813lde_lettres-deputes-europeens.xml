@@ -80,7 +80,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19500813lde_01">
         <pb n="7" xml:id="p7"/>
         <head>Première lettre</head>
         <p>Messieurs les députés européens,</p>
@@ -98,7 +98,7 @@
         <p>Mais il n’est pas exact que l’Europe d’aujourd’hui soit plus grande que la Suisse d’alors : vous êtes venus de Stockholm à Strasbourg — ou de Rome, ou même d’Ankara — en moins de temps qu’il n’en fallait, il y a cent ans, pour aller de Genève ou des Grisons à Berne. Pour la guerre entre vos pays, les deux dont vous sortez suffisent. Nos Nations vivent ensemble depuis autant de siècles, et souvent davantage, que nos cantons. Leurs sorts ne sont pas moins liés, si vous regardez l’Europe dans l’ensemble du monde. Vos cordons de douanes ne sont pas plus nombreux, ni moins strangulatoires, que ne l’étaient les nôtres. Et vos économies ne sont pas plus disparates que celles de Zurich, par exemple, et de ses petits voisins paysans. Les sombres prévisions des réalistes quant aux effets d’une union « trop rapide » remplissaient nos journaux, il y a cent-trois ans : il n’en est pas une seule qui se soit vérifiée, mais pas une seule non plus qui ne reparaisse dans la bouche même de ceux qui affirment que nos réalités sont tellement différentes… Certes, comparaison n’est pas raison, mais quand les raisons de ne rien faire restent les mêmes quoi qu’il arrive, c’est qu’elles traduisent une certaine forme d’esprit, <pb n="11" xml:id="p11"/> une cécité partielle devant les leçons de l’Histoire, que j’ai plus d’une raison de nommer le <hi rend="i">daltonisme politique.</hi></p>
         <p>Messieurs les députés, n’oubliez pas la Suisse : elle existe en dépit de tous les arguments qu’on oppose aujourd’hui à l’Europe. Son exemple vivant tend à nous démontrer que la solution fédéraliste n’est pas seulement praticable en principe, mais pratique. C’est assez pour que j’ose vous supplier d’y réfléchir quelques minutes. La Suisse s’est unie en neuf mois. Il vaut la peine de s’arrêter devant ce fait, pour mieux se persuader qu’on peut aller très vite. Car le temps fait beaucup à l’affaire. Celui que vous n’auriez pas, Staline le prend : c’est le temps de méditer avant d’agir. Mais celui que vous risquez de perdre, cet été, soyez bien sûrs qu’il le retrouvera : c’est le temps de modifier non pas des paragraphes mais l’ordre de bataille de l’Armée rouge.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19500813lde_02">
         <pb n="12" xml:id="p12"/>
         <head>Deuxième lettre</head>
         <p>Messieurs les députés,</p>
@@ -121,7 +121,7 @@ quand il n’en est pas deux qui tombent d’accord sur autre chose que ne rien 
         <p>Si vous ne voulez pas fédérer l’Europe, vous ne voulez rien qui l’intéresse. Si vous ne faites rien cet été, vous serez oubliés cet automne. Si vous croyez qu’il vaut mieux ne rien faire, ou qu’on ne peut rien faire de sérieux, vous pouvez encore rendre un service à l’Europe : allez-vous-en. Laissez la place à ceux qui ont décidé d’agir. Avouez que rien ne vous paraît possible : on comprendra que vous n’êtes plus nécessaires. Mais assez de faire semblant d’être là. Constater le néant représente un progrès sur l’entretien d’une illusion coûteuse dans un édifice inachevé.</p>
         <p>Mais si quelques-uns d’entre vous, comme je le crois, sont fédéralistes, qu’ils le disent, qu’ils proclament leur but, et tout changera dans un instant. Il s’agit d’une révolution, qui est le passage des vœux aux volontés.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19500813lde_03">
         <pb n="17" xml:id="p17"/>
         <head>Troisième lettre</head>
         <p>Messieurs les députés européens,</p>
@@ -137,7 +137,7 @@ quand il n’en est pas deux qui tombent d’accord sur autre chose que ne rien 
         <p>Mais cette beauté, ce bonheur, cet honneur, et cette conscience inquiète aussi, et ce grand risque de la liberté, tout cela qui vous délègue en ce lieu décisif, dans l’histoire concrète de <pb n="21" xml:id="p21"/> ce temps, tout cela peut disparaître à tout jamais si vous manquez à une mission précise, celle de fédérer nos faiblesses pour en faire la force du siècle.</p>
         <p>Messieurs les députés européens, saurez‑vous mériter votre nom ? On attend de vous la grandeur. Les chances de l’Europe, aujourd’hui, sont confondues avec les chances de l’homme. Personne n’est assez grand pour répondre au défi d’un tel destin. Groupez‑vous. Dites au moins votre but ! Nous sommes plusieurs millions qui n’attendons qu’un signe.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19500813lde_04">
         <pb n="22" xml:id="p22"/>
         <head>Quatrième lettre</head>
         <p>Messieurs de l’Assemblée consultative,</p>
@@ -157,7 +157,7 @@ quand il n’en est pas deux qui tombent d’accord sur autre chose que ne rien 
         <p>N’attaquez pas les souverainetés, dépassez-les ! Refaites-en une à l’échelle de l’Europe ! Il y va de notre indépendance, qui vaut mieux qu’elles, et qu’elles sabotent.</p>
         <p>Le peuple suisse, il y a cent ans, n’a pas voté la suppression des souverainetés. Ses vingt-cinq États sont souverains sur le papier, mais fédérés en fait. Chacun d’eux a gardé sa personnalité, parce qu’un groupe d’Imprudents et d’Utopistes, qui voyaient et qui aimaient toutes les couleurs du prisme, leur a donné presque sans qu’ils s’en doutent la force et les moyens de l’indépendance : une Autorité fédérale. Nous n’attendons rien de plus, ni rien de moins de vous.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19500813lde_05">
         <pb n="28" xml:id="p28"/>
         <head>Cinquième lettre</head>
         <p>Messieurs les députés de l’Europe à sauver !</p>

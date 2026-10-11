@@ -80,7 +80,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19651030fc_01">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19651030fc/003.jpg/full/full/0/default.jpg" n="9"/>
         <head>I. « Toute culture est création de diversité »</head>
         <p>J’aime beaucoup les anniversaires. Ils nous invitent à déclarer des sentiments d’amitié trop souvent tacites, qui vont sans dire mais qui vont tellement mieux en les disant. Et ils invitent aussi à des retours sur le passé de ceux que l’on fête, à des prises de conscience renouvelées de ce qu’ils ont été et de ce que l’on attend d’eux. L’anniversaire qui nous réunit aujourd’hui me touche d’autant plus personnellement qu’il m’offre l’occasion — et l’honneur, auquel je suis très sensible — de vous entretenir d’un sujet qui depuis bien des années m’a beaucoup occupé, dans tous les sens de l’expression, qui peut sembler par ses prolongements européens voire mondiaux, m’avoir beaucoup éloigné de mes sources neuchâteloises, et qui au contraire m’y ramène, non seulement physiquement en ce jour, mais par sa nature même, telle que je la conçois.</p>
@@ -106,7 +106,7 @@ elle joue le même rôle que l’État français imposant de Paris les mêmes sl
         <p>Il faut donc, plus que jamais, ranimer les foyers de la culture régionale et locale. Il faut que chaque cité vivante redevienne comme jadis la capitale d’une région bien typique, bien intégrée — peu importe ses dimensions, ou mieux vaut qu’elles ne soient pas trop vastes — d’une région qui possède, comme le dit Valéry dans un beau vers : « Cette inimitable saveur que l’on ne trouve qu’à soi-même. »</p>
         <p>Voici donc ma thèse principale : dans les perspectives ouvertes par une Europe en train de s’unir, et devant les promesses mais aussi les dangers de la culture de masse, il importe plus que jamais de maintenir ou de créer des foyers régionaux de culture vécue, assimilée par une communauté bien liée et consciente de ses valeurs. C’est dire le rôle vital qui incombe aujourd’hui à des instituts comme le vôtre — comme le nôtre dirai-je, car j’en suis membre.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19651030fc_02">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19651030fc/009.jpg/full/full/0/default.jpg" n="15"/>
         <head>II. « Devenons nous-mêmes ! »</head>
         <p>Après la thèse, l’antithèse.</p>

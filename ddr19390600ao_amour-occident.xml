@@ -83,7 +83,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19390600ao_01">
         <pb n="I"/>
         <head>Avertissement</head>
         <p>J’ai appelé « livres » les différentes parties de cet ouvrage, parce que chacune esquisse le contenu d’un volume de dimensions ordinaires.</p>
@@ -101,7 +101,7 @@
         <p>J’ai vécu ce livre pendant toute mon adolescence et ma jeunesse ; je l’ai conçu sous forme d’œuvre écrite, et nourri de quelques lectures, depuis deux ans ; enfin je l’ai rédigé en quatre mois. Ceci me rappelle le mot de Vernet, à propos d’un tableau qu’il vendait assez cher : « Il m’a demandé une heure de travail, et toute la vie. »</p>
         <byline><hi rend="sc">D. de</hi> R.</byline>
       </div>
-      <div n="I." type="chapter">
+      <div n="I." type="chapter" xml:id="ddr19390600ao_02">
         <pb n="1" xml:id="p1"/>
         <head type="kicker">Livre premier</head>
         <head>Le mythe de Tristan</head>
@@ -473,7 +473,7 @@
           <p>Parcourons-les l’une après l’autre, librement. Nous ferons halte ici ou là pour vérifier telle origine nettement localisée, ou telle conséquence imprévue des <hi rend="i">relations</hi> que nous venons de dégager.</p>
         </div>
       </div>
-      <div n="II." type="chapter">
+      <div n="II." type="chapter" xml:id="ddr19390600ao_03">
         <pb n="49" xml:id="p49"/>
         <head type="kicker">Livre II</head>
         <head>Les origines religieuses du mythe</head>
@@ -1049,7 +1049,7 @@
           <p>C’est de quoi l’on traitera dans les livres qui viennent.</p>
         </div>
       </div>
-      <div n="III." type="chapter">
+      <div n="III." type="chapter" xml:id="ddr19390600ao_04">
         <pb n="121" xml:id="p121"/>
         <head type="kicker">Livre III</head>
         <head>Passion et mystique</head>
@@ -1322,7 +1322,7 @@
           <p>L’histoire de la passion d’amour, dans toutes les grandes littératures, du <num>xiii<hi rend="sup">e</hi></num> siècle jusqu’à nous, c’est l’histoire de la déchéance du mythe courtois dans la vie « profanée ». C’est le récit des tentatives de plus en plus désespérées que fait l’Éros pour remplacer la transcendance mystique par une intensité émue. Mais grandiloquentes ou plaintives, les figures du discours passionné, les « couleurs » de sa rhétorique ne seront jamais que les exaltations d’un crépuscule, promesses de gloire jamais tenues…</p>
         </div>
       </div>
-      <div n="IV." type="chapter">
+      <div n="IV." type="chapter" xml:id="ddr19390600ao_05">
         <pb n="159" xml:id="p159"/>
         <head type="kicker">Livre IV</head>
         <head>Le mythe dans la littérature</head>
@@ -2095,7 +2095,7 @@
           <p>Cette progressive profanation du mythe, sa conversion en rhétorique, puis la dissolution de cette rhétorique et la totale vulgarisation de son contenu, l’on peut en suivre les étapes dans un domaine en apparence fort étranger à ceux que nous venons de parcourir : dans l’évolution de la guerre et de ses méthodes en Occident.</p>
         </div>
       </div>
-      <div n="V." type="chapter">
+      <div n="V." type="chapter" xml:id="ddr19390600ao_06">
         <pb n="239" xml:id="p239"/>
         <head type="kicker">Livre V</head>
         <head>Amour et guerre</head>
@@ -2324,7 +2324,7 @@
           <p>C’est l’éventualité de la paix que j’envisagerai dans les deux livres terminaux : le premier situant le conflit du mythe et du mariage dans nos mœurs, le second décrivant une attitude que je donne bien moins pour <hi rend="i">la</hi> réponse décisive que pour mon choix particulier.</p>
         </div>
       </div>
-      <div n="VI." type="chapter">
+      <div n="VI." type="chapter" xml:id="ddr19390600ao_07">
         <pb n="275" xml:id="p275"/>
         <head type="kicker">Livre VI</head>
         <head>Le mythe contre le mariage</head>
@@ -2449,7 +2449,7 @@
           <p>Enfin, l’on peut encore imaginer que la pratique forcée de l’eugénisme <hi rend="i">réussira</hi>, là où toutes nos morales échouent, entraînant l’effective abolition du besoin « spirituel », et donc artificiel, de la passion. Alors le cycle de l’amour courtois sera fermé. L’Europe de la passion aura vécu. Un Occident nouveau, imprévisible, naîtra dans les laboratoires.</p>
         </div>
       </div>
-      <div n="VII." type="chapter">
+      <div n="VII." type="chapter" xml:id="ddr19390600ao_08">
         <pb n="297" xml:id="p297"/>
         <head type="kicker">Livre VII</head>
         <head>L’Amour action, ou de la fidélité</head>
@@ -2650,7 +2650,7 @@
           <trailer>FIN</trailer>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19390600ao_09">
         <pb n="329" xml:id="p329"/>
         <head>Appendices</head>
         <div>

@@ -79,7 +79,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19510300lpp_01">
         <pb n="1" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19510300lpp/001.jpg/full/full/0/default.jpg"/>
         <head>Le drame de la liberté, aujourd’hui</head>
         <p>Si l’on passe en revue tous les arguments avancés depuis des siècles pour ou contre la liberté humaine en soi, on en vient vite à ne plus savoir si elle existe ou non, si elle est légitime ou non comme idéal ou comme réalité. Mais un homme en prison, qu’il soit intellectuel ou paysan, sait très bien ce qu’il a perdu. Il n’en demande pas la définition. Il en exige la jouissance immédiate, à n’importe quel prix.</p>
@@ -94,7 +94,7 @@
         <p>Premièrement : pourquoi les hommes d’aujourd’hui ont-ils peur de la liberté et sont-ils tentés d’y renoncer ?</p>
         <p>Secondement : quelles sont les libertés réelles que nous avons, et que demain nous pourrions perdre ?</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19510300lpp_02">
         <pb n="3" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19510300lpp/003.jpg/full/full/0/default.jpg"/>
         <head>L’anxiété de l’homme moderne</head>
         <p>Notre première question : « Pourquoi l’homme de ce temps a-t-il peur de la liberté ? » demanderait un long examen de conscience de notre civilisation, une analyse qui remonterait de plusieurs siècles dans notre histoire, et peut-être une psychanalyse. En attendant, prenons tout simplement l’Européen de la moitié du <num>xx<hi rend="sup">e</hi></num> siècle dans sa situation pratique. Prenons le jeune homme qui entre dans la vie.</p>
@@ -145,7 +145,7 @@
           <p>Comment se peut-il que beaucoup, jeunes ou vieux, qui ne sont pas du tout staliniens ou fascistes, croient sincèrement ce mensonge-là ? Comment donc s’expliquer une illusion aussi radicalement réfutée par les faits ? Réponse : Ceux qui disent que l’Europe ne mérite pas qu’on la défende, ce sont ou bien des gens qui ont perdu la conscience des libertés réelles dont ils jouissent ; ou bien des gens que la tyrannie attire dans le secret de leur cœur.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19510300lpp_03">
         <pb n="9" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19510300lpp/009.jpg/full/full/0/default.jpg"/>
         <head>Libertés « formelles » et libertés « réelles »</head>
         <p>Nos libertés réelles et quotidiennes, en Occident, nous les avons toujours connues, dans cette génération du moins. Elles sont devenues si naturelles que nous oublions qu’elles existent. Elles sont l’air que nous respirons. Si nous sentions que l’air, demain, que presque toutes nos libertés peuvent nous manquer, nous sentirions qu’elles valent toutes les « mystiques » du monde, et méritent bien qu’on les défende ! Essayons de nous imaginer ce qui se passerait dans nos vies quotidiennes, si notre vieille Europe, que l’on dit décadente, misérable et pourrie d’injustices, se trouvait demain rajeunie à grands coups de règlements dictatoriaux.</p>
@@ -166,7 +166,7 @@
           <p>Le <num>xx<hi rend="sup">e</hi></num> siècle n’a pas seulement redécouvert, à la faveur des camps et des fours crématoires, la valeur <hi rend="i">primordiale</hi> de l’<hi rend="i">habeas corpus</hi>. Il découvre soudain que la liberté humaine par excellence, comme l’a dit récemment Ignazio Silone, c’est le droit de chaque homme à son âme — <hi rend="i">habeas animam</hi> ! — et nous pouvons le perdre.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19510300lpp_04">
         <pb n="13" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19510300lpp/013.jpg/full/full/0/default.jpg"/>
         <head>Contre-offensive de la liberté</head>
         <p>Nous avons formulé jusqu’ici deux thèses principales. La première, c’est que la liberté, dans notre monde complexe et démesuré, est sentie par beaucoup comme insécurité. La seconde, c’est que nous possédons un capital de libertés réelles dont nous n’avons plus même conscience.</p>

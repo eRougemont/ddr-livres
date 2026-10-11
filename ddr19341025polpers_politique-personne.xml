@@ -83,7 +83,7 @@
       <div>
         <pb n="7"/>
         <head>Introduction</head>
-        <div type="chapter" n="a.">
+        <div type="chapter" n="a." xml:id="ddr19341025polpers_01">
           <head type="kicker">1.</head>
           <head>L’engagement politique</head>
           <p>J’ai, pour la politique, une espèce d’aversion naturelle. L’aveu paraîtra maladroit au seuil du livre que voici. Mais faut-il aimer davantage l’espèce d’adresse au jour le jour qui tient lieu de vertu politique à ce siècle débile et fiévreux ? On se demande alors de quoi je me mêle. Je réponds que je voudrais bien n’avoir jamais été forcé de m’en mêler. Mais tel est le malheur des temps : pour peu que l’intellectuel d’aujourd’hui ait préservé en lui un pouvoir de colère, et par ailleurs le besoin de penser, il se voit obligé de répondre activement aux empiètements dans son domaine de ce qu’on a nommé le désordre établi.</p>
@@ -92,7 +92,7 @@ clerc engagé malgré lui dans le désordre de l’époque. Ce sont là des moti
           <p>Voici notre désordre. On ne peut plus penser sans buter aussitôt contre un dilemme absurde : ou bien la pensée reste « libre », comme l’entendaient les libéraux — mais c’est la liberté du rêveur impuissant, la même, exactement, qu’on laisse aux prisonniers<note place="bottom">Dans le cas le plus favorable, et sous réserve de l’adhésion conformiste que j’ai dite.</note> — ou bien elle s’engage dans un conflit concret, — et découvre bientôt qu’il est social ou politique. Ce n’était pas ce qu’elle cherchait, elle avait cru voir autre chose, pouvoir choisir ses résistances, et provoquer des adversaires plus nobles. Est-ce que tout se ramène à des querelles de gros sous ? Est-ce que Marx a <pb n="10"/> raison, est-ce que l’économique serait le dernier mot des souffrances morales ? Pour peu qu’on sorte de sa chambre, on est presque forcé d’en convenir<note place="bottom">M. Benda dirait qu’il préfère garder la chambre. S’il était moine, on le comprendrait mieux…</note>. Mais c’est cela qui est révoltant, c’est cela qu’il faut dénoncer. C’est pour aider à changer cela qu’un intellectuel d’aujourd’hui se doit de sortir de sa chambre, quelle que soit par ailleurs l’utilité de sa démarche.</p>
           <p>Bon gré, mal gré, tout ce que l’on écrit contribue en quelque façon au bien ou au mal de beaucoup. Lorsque l’intelligence, dégoûtée, déserte le Forum, c’est la bêtise qui s’occupe des affaires publiques et tout finit en dictature : plus question de pensée libre, j’entends : de pensée responsable. Mais si l’intelligence, passant outre à son dégoût, accepte le combat tel qu’il lui est offert, elle court le risque de s’y dégrader. J’ai préféré ce risque à la politique de l’autruche. L’issue fût-elle désespérée. Et peut-être ne l’est-elle pas.</p>
         </div>
-        <div type="chapter" n="b.">
+        <div type="chapter" n="b." xml:id="ddr19341025polpers_02">
           <head type="kicker">2.</head>
           <head>Ridicule et impuissance du clerc qui s’engage</head>
           <p>Le risque est la santé de la pensée, à condition toutefois qu’elle l’envisage sans illusions ni romantisme. <pb n="11"/> L’enjeu d’une partie aussi mal engagée que celle que doit jouer notre génération, n’est pas de ceux dont on puisse parler avec une légèreté de bon aloi. Je ne m’excuse pas du sérieux peut-être pesant des considérations qui suivent.</p>
@@ -104,7 +104,7 @@ clerc engagé malgré lui dans le désordre de l’époque. Ce sont là des moti
           <p>Il y a un sentiment très juste dans le goût du pratique, des « solutions pratiques » qu’affirme, depuis la guerre, un autre groupe de clercs, fort désireux d’aller au peuple. On est frappé cependant de voir que ce goût du pratique n’aboutit, pratiquement, qu’à une espèce de négation de la pensée. Le peuple veut des programmes pratiques, mais se contente, en fait, du verbalisme électoral. Les intellectuels prétendent « entrer dans l’action », et cela se traduit par de généreux manifestes, des formules vagues, à peine sonores et toujours anti-quelque chose. Ni l’adhésion à un programme « résolument démocratique, laïque, progressiste, etc. », ni l’effort de signer quelques appels à l’Opinion publique<note place="bottom">On compose des affiches péremptoires signées de quelques grands noms de Sorbonne, pour exiger d’Hitler la libération d’un journaliste allemand de gauche. Où seront placardées ces affiches ? À Paris. Hitler, plusieurs fois renversé par les électeurs parisiens réunis en meeting à Bullier, pourrait bien se fâcher un jour et décréter la dissolution de nos partis de gauche. Qu’ils y prennent garde !</note>, n’engagent à rien, personnellement. Il se peut que cela tranquillise des consciences faiblement troublées ; il se peut que cela dispense de porter sérieusement nos angoisses ; <pb n="15"/> il est certain que cela n’est pas pratique, ne sert à rien et détourne d’agir au moins autant que de penser.</p>
           <p>Entre ces deux écueils, le ridicule et l’impuissance, existe-t-il encore un détroit navigable ? Existe-t-il pour l’intellectuel une <hi rend="i">possibilité</hi> de sortir de sa chambre ? Car il y dépérit, — et sa sécurité n’est plus, nous l’avons vu en maint autre pays, qu’une espèce de liberté sous conditions. Le clerc bourgeois, chez nous, se croit encore tranquille. On ne le laissera plus tranquille bien longtemps.</p>
         </div>
-        <div type="chapter" n="c.">
+        <div type="chapter" n="c." xml:id="ddr19341025polpers_03">
           <head type="kicker">3.</head>
           <head>Le vrai pouvoir des intellectuels et son usage</head>
           <p>Si le désordre est tel que la pensée n’engrène plus à rien ; et si la pensée « débrayée » ne fait plus que tourner sur elle-même ; si l’action devient impensable et la pensée inefficace, cela provient, je crois, d’une seule et même cause, d’une seule et même erreur initiale sur l’homme.</p>
@@ -118,7 +118,7 @@ l’Humanité, qui traduit une fuite devant l’humanité particulière telle qu
           <p>Ces faits bien établis — et nous y reviendrons d’une manière plus concrète à propos de situations précises — on peut en déduire ceci :</p>
           <p>La première tâche des intellectuels est, aujourd’hui, de conduire une critique des <hi rend="i">mythes collectivistes</hi> nés de la maladie de la personne. Puis il s’agit de retrouver une définition concrète de la <pb n="20"/> personne. Enfin de la traduire en institutions et coutumes. Ou, tout au moins, d’indiquer les limites, la formule et les buts de ces institutions.</p>
         </div>
-        <div type="chapter" n="d.">
+        <div type="chapter" n="d." xml:id="ddr19341025polpers_04">
           <head type="kicker">4.</head>
           <head>Pour une politique à hauteur d’homme</head>
           <p>Toute la question est de savoir à quel niveau l’on situe le concret ; à quelles fins les pouvoirs entendent mener les hommes. Toute la question est de savoir quelle définition de l’homme est impliquée dans telle politique qu’on défend. C’est cette question qu’on a cessé de poser dans le monde des politiciens !</p>
@@ -127,7 +127,7 @@ l’Humanité, qui traduit une fuite devant l’humanité particulière telle qu
           <p>Elle affirme la plus totale incompétence en ces matières. Et je la vois trop ignorante dans cet art pour être en rien touchée par ces artistes. Ils cesseront d’ailleurs de jouer dès qu’on ne prendra plus la peine de croire à ce qu’ils font. Victimes de l’obscurantisme laïque, ils ont cru pouvoir vivre sur des mots d’ordre « progressistes » que <pb n="22"/> nos enfants mettront au nombre des superstitions les plus étranges du siècle athée. Ils font ce qu’ils ont toujours vu faire, ils ne se posent pas beaucoup de questions, ils ont peu d’imagination. Leur médiocrité même, leur petite taille morale, empêcheront qu’on les juge trop durement responsables. Mais prenons garde de borner notre vision aux proportions du spectacle qu’ils offrent, à ce ballet si mal réglé que dansent les droites et les gauches. <hi rend="i">Changeons de plan</hi> ! Reposons la question politique dans une perspective humaine, et non plus dans « l’optique parlementaire ».</p>
           <p>Une politique à hauteur d’homme, c’est une politique dont le principe de cohérence s’appelle la responsabilité de la personne humaine. En d’autres termes, c’est une politique dont chaque temps et chaque but se trouvent subordonnés à la défense et à l’affirmation de la personne, module universel de toutes les institutions. Cette politique s’oppose au gigantisme américain, soviétique et capitaliste ; elle s’oppose à l’émiettement social de la démocratie individualiste ; elle s’oppose à l’exploitation de l’homme par ses créations, par l’État et par les bavards. Elle refuse la dictature, parce que le centre vivant d’un pays n’est pas dans un organisme de contrainte, mais doit être en chacun des citoyens conscients, fussent-ils, et c’est le cas, une minorité. Il y a peu d’hommes réellement humains : mais c’est à eux que le pouvoir doit <pb n="23"/> revenir, c’est par eux qu’il peut être humanisé. Le but de la société, c’est la personne. On n’y atteindra jamais que par une politique établie dès le départ à ce niveau.</p>
         </div>
-        <div type="chapter" n="e.">
+        <div type="chapter" n="e." xml:id="ddr19341025polpers_05">
           <head type="kicker">5.</head>
           <head>En dernier ressort</head>
           <p>Quel que soit le dégoût qu’inspire au clerc l’action publique, je pense qu’il doit le surmonter en premier lieu pour se défendre ; en second lieu pour se réaliser, c’est-à-dire pour conduire sa pensée à son terme ; enfin je crois que la vision d’un homme non point parfait mais librement humain, ne peut exister autrement que sous l’espèce d’un appel à restaurer cette stature dégradée. Les trois motifs d’agir que je viens d’exposer appartiennent à l’ordre humain, et relèvent, pourrait-on dire, des intérêts de la pensée protectrice de notre condition. En tant qu’intéressés, au meilleur sens du mot, ces motifs peuvent très bien revêtir les apparences d’une politique supérieure, et comme tels se voir adoptés par des clercs même incroyants. Plusieurs, que je connais, les jugent suffisants, et n’éprouvent aucun besoin de les étayer autrement. Je ne saurais croire pourtant à l’efficacité d’une foi en l’homme fondée sur l’homme seul.</p>
@@ -152,7 +152,7 @@ l’Humanité, qui traduit une fuite devant l’humanité particulière telle qu
         <pb n="31"/>
         <head type="kicker">Première partie</head>
         <head>Primauté du spirituel ?</head>
-        <div type="chapter" n="1.">
+        <div type="chapter" n="1." xml:id="ddr19341025polpers_06">
           <pb n="33"/>
           <head type="kicker">I.</head>
           <head>Destin du siècle ou vocation personnelle ?<note place="bottom">Conférence donnée à Genève, le 12 février 1934, au cours de la <hi rend="i">Semaine chrétienne universitaire</hi>.</note></head>
@@ -229,7 +229,7 @@ l’Humanité, qui traduit une fuite devant l’humanité particulière telle qu
           <p>L’homme désespéré, l’homme sans vocation personnelle, c’est un homme incomplet, désuni. Et ce n’est pas la connaissance intellectuelle du destin de sa classe ou de sa race qui va suffire pour l’arracher à sa misère ; il lui faut une <hi rend="i">rencontre</hi>, un événement, un acte.</p>
           <p>Et voilà le mystère devant lequel je vous laisse maintenant. Nous ne rencontrons personne au monde, avant d’avoir rencontré Dieu.</p>
         </div>
-        <div type="chapter" n="2.">
+        <div type="chapter" n="2." xml:id="ddr19341025polpers_07">
           <pb n="55"/>
           <head type="kicker">II.</head>
           <head>Personne ou individu ?
@@ -259,7 +259,7 @@ l’Humanité, qui traduit une fuite devant l’humanité particulière telle qu
           <p>La primauté du spirituel, c’est pratiquement la primauté de la personne.</p>
           <p>La primauté de la personne, voilà la définition de la seule <hi rend="i">autorité</hi> réelle, rayonnante, et qui ne <pb n="65"/> se fonde pas sur la contrainte matérielle, mais sur le pouvoir créateur, ordonnateur. L’Esprit dont nous parlons n’est pas une espèce de fluide très subtil, d’autant plus respectable qu’il serait plus invisible. Et ce n’est pas non plus l’intelligence, ni la pensée, ni les fameuses « valeurs spirituelles » dont le <num>xix<hi rend="sup">e</hi></num> siècle a fait une véritable inflation. Mais c’est l’Esprit qui vient <hi rend="i">s’incarner</hi> parmi nous. L’Esprit est autorité, disait Rimbaud. Ou il n’est rien.</p>
         </div>
-        <div type="chapter" n="3.">
+        <div type="chapter" n="3." xml:id="ddr19341025polpers_08">
           <pb n="67"/>
           <head type="kicker">III.</head>
           <head>Précédence ou primauté de l’économique dans le marxisme ?
@@ -307,7 +307,7 @@ humaniste, cette thèse matérialiste ne se soutient guère. Marx l’eût d’a
         <pb n="83"/>
         <head type="kicker">Deuxième partie</head>
         <head>Principes d’une politique du pessimisme actif</head>
-        <div type="chapter" n="4.">
+        <div type="chapter" n="4." xml:id="ddr19341025polpers_09">
           <pb n="85"/>
           <head type="kicker">IV.</head>
           <head>Ni ange ni bête : ni gauche ni droite<note place="bottom">Réponse à une enquête de la <hi rend="i" xml:lang="fr">Revue du christianisme social</hi>, sur l’attitude des jeunes protestants devant les problèmes sociaux et culturels du temps.</note>
@@ -329,7 +329,7 @@ humaniste, cette thèse matérialiste ne se soutient guère. Marx l’eût d’a
           <p>Une phrase de Kierkegaard résume, à mon sens, le fondement et la seule direction possible de toute politique chrétienne : « L’homme seul (devant Dieu) est au-dessus de la collectivité<note place="bottom">Rencontre curieuse avec Thomas d’Aquin ! Voir en particulier <hi rend="i" xml:lang="fr">Summ. Theol.</hi> I-II, 2, 8 et II-II, 26, 4.</note>. » Cela ne signifie pas que le croyant doive s’isoler de la communauté, mais bien que la communauté doit toujours être subordonnée à cette fin la plus haute de l’homme qu’est sa foi, — sa situation personnelle devant Dieu. Non seulement le chrétien pourra et devra collaborer avec tous les « mouvements » politiques qui revendiquent les droits supérieurs de la personne par rapport à l’ensemble ; mais encore il pourra et devra affirmer que la seule communauté réelle et humainement bienfaisante est celle qui se fonde dans ce rapport originel de l’homme à Dieu, d’où découle <pb n="90"/> la relation concrète et humainement bienfaisante que l’Évangile appelle l’amour du prochain.</p>
           <p>Ni ange ni bête, ni droite ni gauche<note place="bottom">Voir à <ref target="https://www.unige.ch/rougemont/livres/ddr19341025polpers/23">l’appendice, § 4</ref>, quelques précisions sur la portée proprement politique de cette formule.</note>. Pessimisme quant aux fins terrestres, mais impliquant l’activité de l’homme considérée comme un service nécessaire — voilà peut-être définie l’attitude chrétienne en politique : une révolution sans illusions.</p>
         </div>
-        <div type="chapter" n="5.">
+        <div type="chapter" n="5." xml:id="ddr19341025polpers_10">
           <head type="kicker">V.</head>
           <head>Sur la devise du Taciturne</head>
           <p>Faisons-nous donc du paradoxe ? Non : Dieu nous <hi rend="i">est</hi> paradoxal. Le paradoxe est la réalité, ou plus exactement le paradoxe est la marque et la preuve de toute réalité en tant que saisie et vécue, c’est-à-dire assumée par l’homme. Sortir du paradoxe pour s’évader dans une synthèse quelconque, rationaliste, romaine, ou marxiste, c’est sortir de la réalité même. Car la réalité est précisément ce qui nous met en relation personnelle et immédiate avec Dieu : et que la relation d’un être déchu avec son Créateur ne puisse être que paradoxale, cela est clair, d’une clarté proprement aveuglante et même insupportable, si nous n’avions le Christ, seul méditateur et seul espoir, seulement accessible au plus profond du désespoir et <pb n="92"/> de la nuit, par la foi seule, — qui ne vient pas de nous.</p>
@@ -362,7 +362,7 @@ humaniste, cette thèse matérialiste ne se soutient guère. Marx l’eût d’a
           <ab type="ornament">⁂</ab>
           <p>Que faire donc ? Briser d’abord les idoles menaçantes. Et puis rester aux ordres de l’esprit. Nous n’avons pas à prendre d’assurances sur l’avenir. Nous n’avons pas à nous garantir à l’avance par un programme, si « chrétien » qu’on le veuille. Un certain nombre de compromissions nous sont à jamais impossibles : et tout le reste est affaire d’obéissance aux ordres imprévisibles et concrets de la Parole. Point de « synthèse », point de « consolation » ailleurs qu’en Dieu : notre action baigne dans l’« angoisse de l’espérance<note place="bottom">Expression qu’Arnaud Dandieu opposait dans un intéressant article de la <hi rend="i">Revue d’Allemagne</hi> (oct. 1932), à la conception kierkegaardienne du désespoir. Cette formule ne désigne en réalité qu’un des <hi rend="i">moments</hi> de la dialectique du désespoir : le moment décisif, l’acte. Elle n’a de sens, pour nous, que parce qu’il y a la foi.</note> ».</p>
         </div>
-        <div type="chapter" n="6.">
+        <div type="chapter" n="6." xml:id="ddr19341025polpers_11">
           <pb n="101"/>
           <head type="kicker">VI.</head>
           <head>Note sur un certain humour</head>
@@ -389,7 +389,7 @@ humaniste, cette thèse matérialiste ne se soutient guère. Marx l’eût d’a
             <hi rend="sc">Bacon</hi>
           </bibl>
         </epigraph>
-        <div type="chapter" n="7.">
+        <div type="chapter" n="7." xml:id="ddr19341025polpers_12">
           <pb n="109"/>
           <head type="kicker">VII.</head>
           <head>Comment rompre ?<note place="bottom">La revue <hi rend="i" xml:lang="fr">Esprit</hi> publiait, dans son numéro 6 (mars 1933), une confrontation sur ce sujet : <hi rend="i" xml:lang="fr">Rupture entre l’ordre chrétien et le désordre établi.</hi> Cet article y parut, « confronté » avec ceux de MM. Mounier, Maritain, Philip, Berdiaev et Dulot.</note></head>
@@ -430,7 +430,7 @@ avait pour but de contribuer à la sauvegarde des hautes valeurs spirituelles et
           <p>Tel est le paradoxe, qui remonte au cœur même du christianisme, si le christianisme est la foi au Christ « éternellement <hi rend="i">actuel</hi> ».</p>
           <p><pb n="121"/> Cette foi est inébranlable. Elle ne constitue pas un ordre : elle donne des ordres, simplement. Elle n’est jamais entrée en collusion avec aucune durée, étant la rupture de toute durée. Mais dès lors, nous savons le véritable nom de la rupture, son lieu, son mode et son enjeu total : <hi rend="i">rétablir à chaque instant le christianisme, dans sa nouveauté prophétique, tel est l’Acte</hi> — le seul ! — et tel est aussi le mystère ; car cette seule Rupture effective surpasse absolument nos forces, en même temps qu’elle en exige tout : c’est la conversion.</p>
         </div>
-        <div type="chapter" n="8.">
+        <div type="chapter" n="8." xml:id="ddr19341025polpers_13">
           <pb n="123"/>
           <head type="kicker">VIII.</head>
           <head>Humanisme et christianisme<note place="bottom">Introduction à une discussion organisée par la Fédération des étudiants chrétiens au Foyer international du boulevard Saint-Michel (le 25 janvier 1933).</note></head>
@@ -462,7 +462,7 @@ avait pour but de contribuer à la sauvegarde des hautes valeurs spirituelles et
           <p>L’homme chrétien est à la fois ange et bête. Dans ce conflit perpétuel, il trouve sa joie et sa souffrance — peu importe le nom qu’il leur donne ; — il y trouve sa raison de vivre, c’est-à-dire de lutter pour devenir une <hi rend="i">personne</hi> devant Dieu.</p>
           <p>Le succès de l’humanisme triomphant serait-il tout simplement d’enlever à l’homme toute raison <hi rend="i">personnelle</hi> de vivre ? Le succès de l’homme abandonné à ses calculs serait-il, en définitive, un suicide supérieurement organisé, du « genre humain » ?</p>
         </div>
-        <div type="chapter" n="9.">
+        <div type="chapter" n="9." xml:id="ddr19341025polpers_14">
           <pb n="133"/>
           <head type="kicker">IX.</head>
           <head>Antimarxiste parce que chrétien<note place="bottom">Causerie donnée au cercle d’études marxistes de la Fédération des étudiants de Paris, au mois de mai 1933.</note></head>
@@ -495,7 +495,7 @@ Qui est précisément le plan du marxisme.</p>
           <p>Je crois que toute autre solution, et en particulier, tout compromis <hi rend="i">partiel</hi> avec le marxisme, n’aboutirait, pratiquement, qu’à faire du chrétien un mauvais marxiste, sans cesse soupçonné de <pb n="144"/> « sabotage idéaliste » par les camarades du parti, — ou un de ces chrétiens incertains, dont justement l’incertitude a provoqué l’inévitable et juste révolte de nos frères athées.</p>
           <p>Il n’est de charité bien ordonnée que celle qui commence par rendre à Dieu ce qui est à Dieu. Sinon, César lui-même pâtira.</p>
         </div>
-        <div type="chapter" n="10.">
+        <div type="chapter" n="10." xml:id="ddr19341025polpers_15">
           <pb n="145"/>
           <head type="kicker">X.</head>
           <head>Fascisme</head>
@@ -549,7 +549,7 @@ Qui est précisément le plan du marxisme.</p>
         <pb n="157"/>
         <head type="kicker">Quatrième partie</head>
         <head>Problèmes de la révolution personnaliste</head>
-        <div type="chapter" n="11.">
+        <div type="chapter" n="11." xml:id="ddr19341025polpers_16">
           <pb n="159"/>
           <head type="kicker">XI.</head>
           <head>D’un Cahier de revendications</head>
@@ -594,7 +594,7 @@ Qui est précisément le plan du marxisme.</p>
           <p>C’est dangereux, c’est grave de penser juste. La vérité ne peut exister parmi nous que sous la forme d’une accusation personnelle. Il faut savoir entendre ce mutisme formidable. Je crois que seule la foi peut en donner jusqu’au bout le courage. Je parle de la foi chrétienne où je veux être, de ce suprême « choix » qui ne vient pas de moi, mais qui soudain me choisit, me saisit. Je parle de cette seule chose au monde qui n’ait pas besoin d’arguments <pb n="172"/>pour juger les idoles du monde ; de cette seule chose pour laquelle j’accepterais la mort, parce que ce ne serait pas crever bassement dans la haine, mais ce serait un acte enfin dans lequel je posséderais <hi rend="i">toute</hi> ma vie, d’un seul coup, en la donnant.</p>
           <p>Je n’ai pas à sauver quoi que ce soit de la terre, mais seulement à recevoir le pardon. Or il n’est de pardon que pour celui qui agit. On me dira sans doute que je me perds dans ma mystique ? Allez, vous ne vous retrouvez que trop bien dans les vôtres ! Déjà les hommes le pressentent : il n’y a rien d’autre à attendre que cette force surhumaine d’entrer dans l’Ordre de la Pauvreté, qui vaincra toutes les révolutions — <hi rend="i">après les avoir faites</hi>.</p>
         </div>
-        <div type="chapter" n="12.">
+        <div type="chapter" n="12." xml:id="ddr19341025polpers_17">
           <head type="kicker">XII.</head>
           <head>Communauté révolutionnaire</head>
           <p>L’époque où nous vivons cherche la paix comme d’autres ont cherché la puissance, ou l’ordre, ou l’aventure, ou le plaisir. Cette ardeur est évidemment maladive. L’homme sain ne s’excite pas sur l’idée de sécurité. Il demande un principe de grandeur, ou simplement quelque chose à faire. La paix n’est pas une occupation, ni un but. Du moins pour notre civilisation, elle n’est rien que l’absence obsédante de la guerre. Tout cela est assez connu, mais peu de personnes en tiennent compte. Si nous le répétons, c’est afin d’insister, une fois de plus, sur cette <hi rend="i">absence de tout principe vivant d’unité et d’union</hi>, qui est la marque de notre temps, et la cause de notre psychose de sécurité. Tant que cette carence fondamentale ne sera pas dénoncée, reconnue et combattue, on perdra son temps à dénoncer et à combattre les instruments de la guerre <pb n="174"/> menaçante : politiciens, maîtres de forges, journalistes. La corruption est tellement générale que ces dénonciations perdent toute efficacité. Elles sont d’ailleurs filtrées et maquillées par la Presse, c’est-à-dire par l’un des agents les plus puissants qui travaillent pour la guerre. Les communistes ont parfaitement raison de soutenir que le régime est organiquement lié à la guerre, et que la guerre est une des pièces indispensables du système capitaliste. Mais ils s’arrêtent à la dénonciation des moyens et des personnes. Le danger est beaucoup plus profond : il est dans la conception rationaliste de l’État moderne et dans la conception abstraite de l’homme considéré comme individu atomique. Or ces deux conceptions sont également à la base de tout le système marxiste-stalinien. Elles y sont même plus rigoureusement formulées que dans le système parlementaire. C’est pourquoi nous considérons le communisme comme l’agent le plus perfectionné de la désagrégation atomique de notre monde, — désagrégation dont l’aboutissement fatal serait la ruine de toute vie organique et de toute solidarité
@@ -638,7 +638,7 @@ réelle, comme il était, en régime capitaliste, la guerre du droit et de la ju
             <p>Nous n’appelons pas un chef, ni des meneurs, mais des hommes humains. On ne refait un monde qu’avec des hommes responsables.</p>
           </div>
         </div>
-        <div type="chapter" n="13.">
+        <div type="chapter" n="13." xml:id="ddr19341025polpers_18">
           <pb n="185"/>
           <head type="kicker">XIII.</head>
           <head>Triomphe de la Personne
@@ -746,7 +746,7 @@ réelle, comme il était, en régime capitaliste, la guerre du droit et de la ju
             <p>Supposez maintenant qu’on vous dise : partez pour une course qui n’aura pas de fin, puisque vous devrez marcher jusqu’à votre mort, sans nul espoir d’atteindre le but ! (Ce but étant caché <hi rend="i">dans</hi> la mort même.) L’incroyant — celui qui ne croit pas au but — refusera de partir, ou tentera de se suicider. Le croyant au contraire trouvera des forces infinies dans la foi qu’il aura au but — au but caché derrière sa mort. Il marchera « à mort », portant en lui à chaque moment la mesure d’un effort infini.</p>
           </div>
         </div>
-        <div type="chapter" n="14">
+        <div type="chapter" n="14" xml:id="ddr19341025polpers_19">
           <pb n="207"/>
           <head type="kicker">XIV.</head>
           <head>Tactique personnaliste</head>
@@ -793,7 +793,7 @@ réelle, comme il était, en régime capitaliste, la guerre du droit et de la ju
         <pb n="217"/>
         <head>Appendice</head>
         <p rend="i">À titre documentaire, nous réunissons ici cinq articles qui pourront préciser utilement quelques aspects de la doctrine personnaliste, ou donner un aperçu des groupes qui la défendent.</p>
-        <div type="chapter" n="i.">
+        <div type="chapter" n="i." xml:id="ddr19341025polpers_20">
           <pb n="219"/>
           <head type="kicker">1.</head>
           <head>Liberté ou chômage ?</head>
@@ -816,7 +816,7 @@ réelle, comme il était, en régime capitaliste, la guerre du droit et de la ju
           <p>Tout a commencé par les philosophes, le jour où, à la personne créatrice, ils ont substitué pour les besoins de leurs systèmes l’individu abstrait, l’atome désigné par un chiffre et dépourvu de résistance active. Alors le travail créateur, seul travail qui n’implique pas la négation du loisir, qui ne vide pas le loisir de toute signification positive mais bien au contraire en figure la plénitude, ce travail véritable a fait place dans les desseins de l’homme au labeur qu’on mesure et tarife. Et l’on s’est mis à calculer avec les hommes, comme s’ils n’étaient plus des hommes. On les a pris d’ici pour les poser là, côte à côte, additionnés, soustraits, multipliés et divisés à l’infini. Du peuple on a fait une masse, — comme de la personne un numéro. De la patrie on a fait la nation, — et des attachements <pb n="225"/> humains, des chaînes sociales. Du travailleur on a fait un salarié, — et de sa liberté on a fait le chômage.</p>
           <p>Mais la misère présente est un appel à <hi rend="i">l’homme</hi>. Seuls sauront y répondre en pleine efficacité ceux pour lesquels il n’est pas de salut hors de cette réalité perpétuellement réparatrice et proprement humaine : <hi rend="i">la personne</hi>.</p>
         </div>
-        <div type="chapter" n="ii.">
+        <div type="chapter" n="ii." xml:id="ddr19341025polpers_21">
           <head type="kicker">2.</head>
           <head>Loisir ou temps vide ?</head>
           <div n="ii.a.">
@@ -854,7 +854,7 @@ réelle, comme il était, en régime capitaliste, la guerre du droit et de la ju
             <p>3° que si l’on veut sauvegarder l’acte créateur, fondement humain de la personne, il faut légiférer <hi rend="i">à partir de cet acte</hi>. Il ne peut sortir d’un système que ce que l’on y met dès l’origine.</p>
           </div>
         </div>
-        <div type="chapter" n="iii.">
+        <div type="chapter" n="iii." xml:id="ddr19341025polpers_22">
           <pb n="232"/>
           <head type="kicker">3.</head>
           <head>Groupements personnalistes</head>
@@ -884,7 +884,7 @@ réelle, comme il était, en régime capitaliste, la guerre du droit et de la ju
 pensante…</p>
           <p>Il faut citer enfin la <hi rend="i">Troisième Force</hi>, mouvement d’action né de la doctrine d’<ref target="https://www.unige.ch/rougemont/articles/espr"><hi rend="i">Esprit</hi></ref>, mais qui n’a pas tardé à dévier vers le Front commun de M. Bergery.</p>
         </div>
-        <div type="chapter" n="iv.">
+        <div type="chapter" n="iv." xml:id="ddr19341025polpers_23">
           <pb n="241"/>
           <head type="kicker">4.</head>
           <head>Ni droite ni gauche</head>
@@ -901,7 +901,7 @@ pensante…</p>
           <p>Les attardés qui nous demandent : « Mais enfin, vous sentez-vous plus près des communistes que de <hi rend="i">l’Écho de Paris</hi> ? », manifestent simplement par cette question l’emprise d’une idéologie, voire d’une sensibilité conditionnée <pb n="244"/>par la démocratie parlementaire, — absolument stérile du point de vue révolutionnaire. Celui-là seul est mûr pour la révolution qui a compris l’absurdité d’une pareille classification.</p>
           <p rend="right">(Janvier 1934.)</p>
         </div>
-        <div type="chapter" n="v.">
+        <div type="chapter" n="v." xml:id="ddr19341025polpers_24">
           <pb n="245"/>
           <head type="kicker">5.</head>
           <head>

@@ -78,7 +78,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19740600jdef_01">
         <pb n="3" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19740600jdef/005.jpg/full/full/0/default.jpg"/>
         <head>Note liminaire</head>
         <p>Les textes de discours et conférences que l’on va lire ne sont sans doute que les approches d’un même thème, varié selon les circonstances et adapté aux préoccupations des différents congrès où je les ai prononcés.</p>
@@ -87,12 +87,12 @@
         <p>Le sentiment croissant de l’imminence des désastres explique sans doute la multiplication des tentatives « pour y voir clair ensemble » qu’ont été les congrès de septembre et d’octobre dont j’essaie de tirer ici les conclusions.</p>
         <p rend="right">D. R.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19740600jdef_02">
         <pb n="4" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19740600jdef/006.jpg/full/full/0/default.jpg"/>
         <head>L’Europe au miroir des congrès en 1974</head>
         <p>Au début de septembre 1974, je me lançais dans ma première galopade — et ma dernière, c’est juré — à travers six congrès européens et internationaux en moins de deux mois. Non certes que je n’eusse pas connu plus tôt ce genre de fêtes ou de cohues intellectuelles, mais ce n’avait été jusqu’ici qu’au rythme d’une manifestation tous les deux ou trois ans depuis 1946, et il s’agissait, dans la plupart des cas, de colloques internationaux dont j’étais soit l’initiateur et le rapporteur principal, soit l’un des responsables politiques ou intellectuels. Ma situation devait être bien différente dans les congrès de septembre et d’octobre 1974, auxquels j’avais imprudemment accepté de participer, pensant bien avant cette date qu’<ref target="https://www.unige.ch/rougemont/livres/ddr19770721aena">un livre que j’avais en train — sur l’Avenir !</ref> — serait achevé, de même que ma nouvelle maison. Pronostic faux dans les deux cas, et qui allait me jeter dans les difficultés les plus variées, tout en me permettant de prendre une série de vues révélatrices sur les réalités de l’Europe d’aujourd’hui.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19740600jdef_03">
         <pb n="5" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19740600jdef/007.jpg/full/full/0/default.jpg"/>
         <head>I. Alpbach : le trentième anniversaire du Forum européen</head>
         <label>Du 22 au 26 août 1974</label>
@@ -167,7 +167,7 @@
           <p>Et j’ai noté que dans deux séminaires, un quart des étudiants étaient les fils et filles des fondateurs du Forum européen. Petite observation lourde d’enseignements évidemment contradictoires : l’idée européenne se transmet, c’est très bien, mais si elle consistait à faire l’Europe dans l’espace d’une génération, qu’est-ce au juste qui s’est transmis ? L’idée elle-même ou son échec — jusqu’ici ?</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19740600jdef_04">
         <pb n="18" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19740600jdef/020.jpg/full/full/0/default.jpg"/>
         <head>II. Strasbourg : la deuxième table ronde du Conseil de l’Europe (« Promesses du <num>xx<hi rend="sup">e</hi></num> siècle »)</head>
         <label>Du 18 au 22 septembre 1974</label>
@@ -257,7 +257,7 @@
           <p>La galopade devient course d’obstacles.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19740600jdef_05">
         <pb n="39" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19740600jdef/041.jpg/full/full/0/default.jpg"/>
         <head>III. Venise : colloque sur le fédéralisme, modèle de l’Europe</head>
         <p>Sur les instances d’Alexandre Marc, en mars dernier, j’avais accepté de prendre part au colloque de Venise — du 10 au 13 octobre — sur <hi rend="i">Le Fédéralisme, un modèle pour l’Europe</hi>.</p>
@@ -305,7 +305,7 @@
           <p>Départ de l’aéroport de Genève à 7 h. Berlin à 11 h 15.</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19740600jdef_06">
         <pb n="44" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19740600jdef/046.jpg/full/full/0/default.jpg"/>
         <head>IV. Berlin : le second Rapport au club de Rome</head>
         <label>Du 14 au 17 octobre 1974</label>
@@ -372,7 +372,7 @@
           <p>Par ailleurs je reçois l’adhésion chaleureuse d’un grand biologiste italien, d’un grand psychiatre américain, d’un contestataire iranien, d’un ancien président de la Confédération suisse, de Robert Jungk, et du ministre de la Culture d’un des jeunes États africains : « Savez-vous que nous en sommes à nous battre pour des frontières que les puissances coloniales ont tracées à la règle sur la carte, et qui coupent à travers nos tribus et leurs fédérations traditionnelles ? »</p>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19740600jdef_07">
         <pb n="60" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19740600jdef/062.jpg/full/full/0/default.jpg"/>
         <head>V. Grandvaux : assemblée annuelle du Pen-Club de Suisse romande</head>
         <label>Le 18 octobre 1974</label>
@@ -383,7 +383,7 @@
         <p>Sur quoi le président de la Fondation PEN Emergency Fund, le romancier hollandais A. den Doolaard, nous expose la tragique situation de plusieurs douzaines d’écrivains emprisonnés sur tous les continents pour leurs opinions politiques, et qu’il faut essayer d’aider, ou sinon eux, du moins leurs familles.</p>
         <p>Il semblerait que les écrivains s’engagent d’une manière responsable pour toutes les causes imaginables, non pour l’Europe, qui jusqu’ici ne compte pas un martyr. Serait-ce une cause trop raisonnable ?</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19740600jdef_08">
         <pb n="61" facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19740600jdef/063.jpg/full/full/0/default.jpg"/>
         <head>VI. Dubrovnik : assemblée générale annuelle de l’Association européenne des festivals de musique</head>
         <label>Du 20 au 24 octobre 1974</label>

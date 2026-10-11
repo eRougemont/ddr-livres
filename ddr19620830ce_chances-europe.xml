@@ -80,13 +80,13 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19620830ce_01">
         <pb n="7"/>
         <head>Avertissement</head>
         <p>Les conférences réunies dans ce petit volume ont été prononcées à l’aula de l’Université de Genève, dans le cadre des cours de <hi rend="i">studium generale</hi> destinés aux étudiants de toutes les facultés et ouverts au public. Le thème m’en avait été proposé par le professeur Éric Martin, recteur de l’Université, auquel je dis ici ma gratitude. En m’invitant à occuper, les quatre jeudis du mois de mai cette chaire comparable à plus d’un égard au « siège périlleux » dont parlent les romans bretons, il me proposait une épreuve d’une séduisante difficulté. Présenter en quelques quarts d’heure l’aventure millénaire des Européens, c’était en soi courir une « aventure ». Bien plus, il s’agissait de répondre à la question que le titre posait d’une manière implicite, et de risquer un pronostic sur l’avenir prochain de l’Europe, devant un public jeune dont je croyais connaître certaines tendances à ne tenir pour sérieux que les constats de crise sans issue, exprimés dans le jargon à la mode de naguère. Je me trompais sur ce dernier point. La patience et la sympathie des étudiants m’en ont finalement convaincu. C’est donc à eux que je dédie ces quatre brefs essais sur l’espoir de l’Europe.</p>
         <p rend="right">D. de R.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19620830ce_02">
         <head>I. L’aventure mondiale des Européens</head>
         <p>Je voudrais vous parler de l’Europe non pas comme d’une cause à défendre ou d’une patrie plus vaste à glorifier, mais comme d’une <hi rend="i">aventure décisive pour l’humanité tout entière.</hi> Je voudrais vous parler de l’Europe comme de cette partie-là du monde qui a fait « le Monde », ayant été le foyer de l’idée de « genre humain », ayant été aussi la condition instrumentale et nécessaire d’une véritable histoire universelle — celle où nous sommes bel et bien engagés dans cette seconde moitié du <num>xx<hi rend="sup">e</hi></num> siècle, en sorte que les chances de l’Europe dans l’avenir se confondent pratiquement, désormais, avec celles de la civilisation née de ses œuvres, qu’elle a propagée sans prudence ni plan d’ensemble, dont elle n’est plus propriétaire, mais dont elle garde encore certains secrets vitaux. Je n’aurai pas trop de quatre leçons pour établir cette thèse centrale, cette <hi rend="i">définition de l’Europe par sa fonction mondialisante.</hi> Car cela revient en somme à définir le phénomène européen par ses <hi rend="i">effets</hi>, alors qu’on s’est toujours efforcé jusqu’ici de l’expliquer par certaines <hi rend="i">causes</hi>, qui seraient tantôt, selon les auteurs et selon les modes, géographiques ou climatiques, économiques ou démographiques.</p>
         <p>Ce que j’appelle le phénomène européen se signale, dans l’histoire du monde, par quelques traits absolument originaux dont je donne tout de suite trois exemples :</p>
@@ -140,7 +140,7 @@ l’<hi rend="i">Odyssée</hi>, cet interminable voyage vers la sagesse originel
         <p>— les <hi rend="i">forces vitales</hi> dont l’Europe dispose encore, si elle s’unit, et les <hi rend="i">secrets</hi> qu’elle reste seule à détenir, d’une civilisation bientôt universelle ; et enfin :</p>
         <p>— la <hi rend="i">fonction</hi> qu’elle doit encore remplir en dépit des prophètes de sa décadence, dans un monde qui lui en veut surtout de lui avoir révélé sa misère, mais que parfois je crois entendre murmurer à son oreille cette parole qui a sauvé des malades à la mort : défends-toi, tu dois vivre, car j’ai besoin de toi.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19620830ce_03">
         <pb n="25"/>
         <head>II. Secret du dynamisme européen</head>
         <p>J’ai retracé l’aventure inouïe des habitants du cap occidental de l’Asie, étendant leur puissance sur tous les continents successivement, de la Renaissance jusqu’aux deux guerres mondiales, et ce reflux qui sous nos yeux s’achève, ramenant l’Europe à ses limites du <num>xv<hi rend="sup">e</hi></num> siècle. Et je vous ai laissés sur cette question : serait-ce la fin de l’Aventure ?</p>
@@ -199,7 +199,7 @@ intitulée <hi rend="i">Communes d’Europe</hi>. Sous les auspices du CCE, de t
         <p><pb n="41"/>J’entends par là : saura-t-il rassembler à temps ses forces vives, pour faire face non seulement à ses problèmes — éducatifs, sociaux et politiques — mais aussi aux nouvelles tâches mondiales que lui impose la diffusion de sa propre civilisation et de ses propres idéaux ?</p>
         <p>Saura-t-il, enfin, prévenir ces affreux accidents de sa santé mentale et de son existence physique que symbolise, sur la place du village, un dernier monument dont je n’ai pas parlé, et qui réintroduit dans le tableau toute l’absurdité de l’histoire en même temps que la notion d’un sacré national et non chrétien, dans beaucoup de pays voisins du nôtre — le monument aux morts des dernières guerres ?</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19620830ce_04">
         <pb n="45"/>
         <head>III. L’Europe s’unit</head>
         <p>Les organes vitaux de notre société, pris un à un, me paraissent donc en assez bon état. Reste à savoir si le sujet Europe possède encore une volonté de vivre suffisante pour remplir les fonctions nouvelles qui lui sont assignées désormais, dans le monde.</p>
@@ -287,7 +287,7 @@ intitulée <hi rend="i">Communes d’Europe</hi>. Sous les auspices du CCE, de t
         <p>Le mouvement vers l’union paraît irréversible au plan économique, où déjà les ententes industrielles spontanées anticipent sur les buts fort prudents des traités. Il semble bien que cet élan doive trouver sous peu son couronnement politique, dans quelque forme d’association, d’intégration ou de fédération. Enfin, grâce aux efforts multipliés d’une trentaine d’<hi rend="i">Instituts universitaires d’études européennes</hi> et de vastes groupements éducatifs, tels que l’<hi rend="i">Association européenne des enseignants</hi>, qui agit au niveau de l’école primaire et secondaire, dans une dizaine de nos pays, le sens de l’union s’enracine dans les nouvelles générations. Progrès décisif ! Car c’est ainsi seulement que la construction de l’Europe peut trouver son assise populaire ; c’est ainsi seulement <pb n="61"/>que pourra s’opérer la transmutation indispensable de la volonté militante de quelques groupes en consentement raisonné du grand nombre. Aujourd’hui, l’Europe des cadres. Demain, l’Europe des peuples !</p>
         <p>Tout ceci s’est passé en une quinzaine d’années, durant lesquelles les militants de l’Europe unie n’ont cessé de se plaindre de l’indifférence qui répondait à leurs appels, et de la lenteur scandaleuse des progrès vers la fédération ! Cette impatience est nécessaire. C’est l’une des conditions vitales de l’action et de la volonté d’action. Une autre condition est de savoir où l’on va, donc de mesurer d’où l’on vient. J’ai tenté de vous rappeler, par mon survol rapide de six siècles et demi de frustration, les origines lointaines et les motifs constants du mouvement vers l’union qui s’amorce et s’accélère sous nos yeux. Je voudrais vous montrer, dans ma dernière leçon, vers quoi ce grand mouvement nous mène, peut nous mener, doit nous mener. Et je crois que c’est vers le monde, vers l’unité finale du genre humain, dans le sens de la vraie vocation de l’Europe.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19620830ce_05">
         <pb n="65"/>
         <head>IV. Les nouvelles chances de l’Europe</head>
         <p>Donc l’Europe est en train de s’unir, nous avons vu pour quelles raisons, à la fois séculaires et modernes. Trois écoles, il est vrai, s’opposent encore quand il s’agit d’en venir à l’union politique. Celle de l’alliance des États, celle de l’intégration totale, et celle de la fédération. Mais une raison nouvelle doit forcer leur accord : c’est la nécessité matérielle et morale de répondre aux appels que le monde nous adresse, par sa faim, par sa peur et même par sa haine. C’est la nécessité de nous porter enfin à la hauteur de notre vocation universelle.</p>
@@ -358,7 +358,7 @@ de Lénine a passé au rang incontesté de <hi rend="i">première</hi> puissance
         <p>L’avenir de l’Europe est gagé sur de grands faits géoéconomiques d’une portée désormais mondiale. Il me paraît ensuite gagé sur une fonction universelle, qui s’enracine dans le passé de notre culture, dans les données constitutives de l’Occident, et que tout appelle dans le monde de cette seconde moitié du <num>xx<hi rend="sup">e</hi></num> siècle.</p>
         <p><pb n="80"/>Cette vocation fera notre force principale, si nous l’assumons dès maintenant, si nous prenons résolument l’initiative d’une <hi rend="i">politique mondiale de civilisation</hi>. Les vraies chances de l’Europe ne dépendent pas d’une juste prévision de ce que d’autres feront. Elles dépendent de l’esprit, agissant par nos mains. Le temps n’est plus pour nous de chercher anxieusement à <hi rend="i">deviner</hi> le cours prochain de notre histoire : c’est à la <hi rend="i">faire</hi> que nous sommes appelés.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19620830ce_06">
         <pb n="83"/>
         <head>Appendice : Sartre contre l’Europe</head>
         <p><hi rend="i">Pendant que je préparais mes conférences, l’hebdomadaire</hi> Arts<hi rend="i"> me demanda de répondre à la violente attaque contre l’Europe qu’est la préface de J.-P. Sartre au livre de Frantz Fanon</hi>, Les Damnés de la Terre<hi rend="i">. Cet article illustre un des points que je n’ai pu toucher qu’en passant dans ma IV<hi rend="sup">e</hi> leçon, et trouve donc sa place ici.</hi></p>

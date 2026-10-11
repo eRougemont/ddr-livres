@@ -79,7 +79,7 @@
   </teiHeader>
   <text>
     <body>
-      <div n="A." type="chapter">
+      <div n="A." type="chapter" xml:id="ddr19570200aoh_01">
         <pb n="9" xml:id="p9"/>
         <head>Introduction</head>
         <p>L’objet de cet ouvrage est de décrire l’aventure occidentale de l’homme, d’en chercher les principes de cohérence, et de la comparer avec d’autres dans une perspective mondiale.</p>
@@ -114,7 +114,7 @@
         <pb n="15" xml:id="p15"/>
         <head>Première partie
           <lb/>La Voie et l’Aventure</head>
-        <div n="1." type="chapter">
+        <div n="1." type="chapter" xml:id="ddr19570200aoh_02">
           <pb n="17" xml:id="p17"/>
           <head type="kicker">Chapitre I</head>
           <head>Où les voies se séparent</head>
@@ -250,7 +250,7 @@
                inciter le lecteur à des comparaisons tournant à l’avantage de l’un ou de l’autre « camp » : car il n’y a pas de camps, ni de lutte engagée, ceci soit dit ici une fois pour toutes. Il y a seulement deux expériences globales qu’il importe de déchiffrer. Mais l’infinie complexité de leurs données nous oblige à n’examiner que des prises partielles et typiques. On a vu que j’ai choisi mes exemples dans le domaine religieux, de préférence. N’est-ce pas là que l’irritante question de la « supériorité » de ceci sur cela offre le moins de sens, et de fait perd sa pointe, puisqu’on n’y dispose pas d’éléments mesurables, comme ce serait le cas au plan de l’économie ou de l’état social par exemple ? Je cherchais à cerner les options primordiales qui ont donné cours à deux voies divergentes. Il m’a semblé que c’était dans le mystique, la religion et leurs explications, que ces options pouvaient être surprises ; car on les voyait là dans leur état naissant. Qu’elles soient causes premières ou effets ; qu’elles résument une série de facteurs antécédents, ou qu’au contraire elles initient l’histoire, tout cela m’importe moins que de les avoir bien vues, et de suivre à partir d’un contraste assez simple entre deux conceptions de l’homme et de ses fins, celle dont les conséquences ont formé l’Occident.</p>
           </div>
         </div>
-        <div n="2." type="chapter">
+        <div n="2." type="chapter" xml:id="ddr19570200aoh_03">
           <pb n="42" xml:id="p42"/>
           <head type="kicker">Chapitre II</head>
           <head>Où le drame se noue</head>
@@ -307,7 +307,7 @@
         <pb n="53" xml:id="p53"/>
         <head>Deuxième partie
           <lb/>La Quête occidentale</head>
-        <div n="3." type="chapter">
+        <div n="3." type="chapter" xml:id="ddr19570200aoh_04">
           <pb n="55" xml:id="p55"/>
           <head type="kicker">Chapitre III</head>
           <head>La spire et l’axe</head>
@@ -484,7 +484,7 @@
                et celui qui crie « l’État pour tous ». Ces deux démissionnaires de la personne, ces deux fuyards devant la vocation, sont <hi rend="i">au même titre</hi> les saboteurs de l’Occident. Eux seuls, en se multipliant, seraient capables d’enliser l’Histoire, et de mettre un terme ignominieux à l’Odyssée occidentale de l’âme.</p>
           </div>
         </div>
-        <div n="4." type="chapter">
+        <div n="4." type="chapter" xml:id="ddr19570200aoh_05">
           <pb n="94" xml:id="p94"/>
           <head type="kicker">Chapitre IV</head>
           <head>Le Château aventureux</head>
@@ -611,7 +611,7 @@
                dans ce temps qui nous fuit, dans cette chair impérieuse et débile, n’a pas cessé de travailler les âmes depuis vingt siècles. Nos « erreurs » font partie de la Quête, en ce sens qu’elles procèdent de son élan et le propagent en des régions nouvelles de l’âme, même lorsqu’elles en oublient le vrai but et l’enjeu. Ainsi les hérésies jaillissent de la vraie foi, et s’en écartent, mais disséminent dans des millions d’esprits inatteints par l’orthodoxie certaines formes mentales, certains modes d’expression, certains types d’expérience spirituelle que la foi seule a pu créer, et qui l’attendront désormais de toute la force d’une inconsciente nostalgie. Et c’est pourquoi notre psyché occidentale, ayant subi durant des siècles les atteintes toujours plus pénétrantes de la passion individuelle et collective, pourrait bien se révéler à l’analyse intime comme plus et mieux « christianisée » dans ses structures qu’elle ne l’était avant le <num>xii<hi rend="sup">e</hi></num> siècle. D’où l’on ne saurait conclure, en poussant à l’absurde, que l’incroyant moderne est plus « chrétien » que ne pouvait l’être un paroissien naïf du Moyen Âge, mais seulement que la dialectique formelle de la personne est plus profondément active qu’on ne le pensait naguère dans l’âme de nos contemporains même incroyants, et ne cesse de s’étendre à des régions nouvelles de notre existence profane.</p>
           </div>
         </div>
-        <div n="5." type="chapter">
+        <div n="5." type="chapter" xml:id="ddr19570200aoh_06">
           <pb n="122" xml:id="p122"/>
           <head type="kicker">Chapitre V</head>
           <head>L’expérience du temps historique</head>
@@ -713,7 +713,7 @@
             </quote>
           </div>
         </div>
-        <div n="6." type="chapter">
+        <div n="6." type="chapter" xml:id="ddr19570200aoh_07">
           <pb n="143" xml:id="p143"/>
           <head type="kicker">Chapitre VI</head>
           <head>L’expérience de l’espace</head>
@@ -799,7 +799,7 @@
                Quant à l’homme de la foi, nous le trouvons en marche comme Abraham qui partit sans savoir où il allait. S’il nous parle d’une Inde aux cités pavées d’or, sachons qu’il pense à délivrer Jérusalem, qui est pour lui le centre du monde et l’Ithaque de son Odyssée : la patrie du salut, au-delà du temps.</p>
           </div>
         </div>
-        <div n="7." type="chapter">
+        <div n="7." type="chapter" xml:id="ddr19570200aoh_08">
           <pb n="161" xml:id="p161"/>
           <head type="kicker">Chapitre VII</head>
           <head>L’exploration de la matière</head>
@@ -893,7 +893,7 @@
             <p>L’infini et l’omniprésence, l’ordre et son principe immuable, la prescience et la totalité, ces attributs majeurs que les grandes religions avaient conçus comme ceux du Dieu suprême, la physique et la mathématique peuvent les transférer au Cosmos. Mais le Dieu que prient les chrétiens est celui qui s’est fait connaître par cela justement que la science ne connaît pas, et ne pourra jamais ni intégrer, ni réfuter comme illusoire. Et c’est la seule définition de Dieu donnée par sa révélation en Jésus-Christ : « Dieu est Amour. » (Dans le contexte ardu que l’on vient d’explorer, le mot prend un sens insolite : puisse-t-il s’en trouver purifié de ses associations pieuses et sentimentales.)</p>
           </div>
         </div>
-        <div n="8." type="chapter">
+        <div n="8." type="chapter" xml:id="ddr19570200aoh_09">
           <pb n="183" xml:id="p183"/>
           <head type="kicker">Chapitre VIII</head>
           <head>L’aventure technique</head>
@@ -1045,7 +1045,7 @@
             <p>Quant à savoir si cela représentera un progrès ou un risque nouveau, voilà qui nous oblige à reconsidérer le sens et la nature finale du Progrès.</p>
           </div>
         </div>
-        <div n="9." type="chapter">
+        <div n="9." type="chapter" xml:id="ddr19570200aoh_10">
           <pb n="216" xml:id="p216"/>
           <head type="kicker">Chapitre IX</head>
           <head>Les ambivalences du progrès</head>
@@ -1156,7 +1156,7 @@
         <pb n="239" xml:id="p239"/>
         <head>Troisième partie
           <lb/>Où allons-nous ?</head>
-        <div n="10." type="chapter">
+        <div n="10." type="chapter" xml:id="ddr19570200aoh_11">
           <pb n="241" xml:id="p241"/>
           <head type="kicker">Chapitre X</head>
           <head>Le drame occidental</head>
@@ -1228,7 +1228,7 @@
                dans leur effort de production. La grande angoisse des années de guerre froide a passé au second plan, ou bien est oubliée. La situation de l’URSS (aidée par l’Occident ?) s’est améliorée à ce point que les Russes sont désormais dans le camp des <hi rend="i">haves</hi>, confrontés à la Chine, chef du camp des <hi rend="i">have nots</hi>. Tout se ramène alors, en apparences, au dialogue millénaire de l’Orient pauvre et populeux mais religieux, et de l’Occident profane, riche et minoritaire. Mais déjà les deux termes sont en train de changer. L’Occident, découvrant le loisir, se tourne vers les religions et les divertissements de la culture. L’Orient, découvrant la technique et les moyens de surmonter sa misère, freine d’autant sa fécondité et se met à penser dans nos catégories. L’unification relative des deux moitiés de l’humanité va-t-elle désormais s’opérer sous le signe, d’ailleurs ambigu, du Progrès technique et social ?</p>
           </div>
         </div>
-        <div n="11." type="chapter">
+        <div n="11." type="chapter" xml:id="ddr19570200aoh_12">
           <pb n="256" xml:id="p256"/>
           <head type="kicker">Chapitre XI</head>
           <head>Où l’Aventure et la Voie se rejoignent</head>
@@ -1288,7 +1288,7 @@
                Je vois bien ce qui nous cache encore la pleine réalité de tels problèmes : c’est la misère encore réelle et scandaleuse des prolétaires, les contradictions économiques encore aiguës, les luttes politiques et idéologiques toujours bruyantes au sein du monde occidental. Mais on ne résout jamais un conflit dans son plan : il faut passer au-delà, soit dans le temps et l’espace, soit dans les dimensions spirituelles. L’au-delà des crises occidentales présentes, je le vois dans la confrontation de notre Aventure — prenant alors conscience d’elle-même — et de la Voie traditionnelle, soumise à la question de notre présent vivant, dans une perspective mondiale.</p>
           </div>
         </div>
-        <div n="12." type="chapter">
+        <div n="12." type="chapter" xml:id="ddr19570200aoh_13">
           <pb n="269" xml:id="p269"/>
           <head type="kicker">Chapitre XII</head>
           <head>La quête sans fin</head>

@@ -81,7 +81,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19721000mip_01">
         <pb n="7" xml:id="p7"/>
         <head>Avant-propos</head>
         <p>Le dire une bonne fois.</p>
@@ -118,7 +118,7 @@
         <p>Certains, en effet, tirent toute leur force dans les discussions de la tranquillité avec laquelle ils brouillent les faits et les principes. Tourmentés par les scrupules de leur conscience libérale, ils fuient la rigueur jusque dans leurs raisonnements. Pour moi qui cherche à démêler la vérité sans égards aux dérangements, même violents, que cela ne manque jamais de provoquer, je me propose de marquer ici la distinction classique du fait et du droit ; et c’est pourquoi je considérerai d’abord l’instruction publique dans ses réalisations actuelles, puis au terme de ce recensement lamentable, je poserai la question de savoir si tant de laideurs et d’outrages au bon sens peuvent être légitimés par le but final de notre institution-tabou.</p>
         <p/>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19721000mip_02">
         <pb n="12" xml:id="p12"/>
         <head>1. Mes prisons</head>
         <p>Il existe des gens qui s’attendrissent sur leurs souvenirs de classe. C’est qu’ils les confondent avec ceux de leur enfance et les font indûment participer de la même grâce. Voyez Péguy, quand il essaie de nous faire croire qu’ « il n’y a rien au-dessus » de la tâche des instituteurs :</p>
@@ -147,7 +147,7 @@
         <p>Mais moi, j’avais trop souffert de cette compression morale pour, une fois matériellement délivré, en supporter longtemps encore l’action. Je n’eus pas plus tôt découvert et nommé cet asservissement de l’esprit et ces mythes stériles, que je les rendis responsables de ma perte de contact avec les réalités les plus élémentaires de la vie.</p>
         <p/>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19721000mip_03">
         <pb n="18" xml:id="p18"/>
         <head>2. Description du monstre</head>
         <p>Le service militaire me permit de retrouver quelques-unes de ces réalités. J’y retrouvai aussi plusieurs têtes connues d’anciens camarades d’école primaire. Comme ils avaient changé ! On s’entendait d’autant mieux qu’on était devenu plus différents. Car ces différences sont les premières marques de la vie vécue et l’on aime à y découvrir la seule fraternité véritable. Mais c’est en caserne aussi que je devais retrouver les instituteurs. Ceux-là n’avaient pas bougé. Et pour cause : ils n’étaient jamais sortis de l’école. Rien ne ressemble plus à un bon élève qu’un instituteur : de l’un à l’autre, il n’y a pas de solution de continuité, la différence n’était qu’une question d’âge, non d’expérience vécue.</p>
@@ -167,7 +167,7 @@
         <p>Quelle peut bien être la vertu éducatrice d’un tel milieu, moral et matériel ?</p>
         <p>L’école publique, telle que nous la voyons est semblable à tous ces monuments « de la mauvaise époque » qui sont dans nos villes l’apport du <num>xix<hi rend="sup">e</hi></num> siècle. Ils ne parviennent ni à la beauté ni à l’utilité, et ils sont déjà démodés. On dit que le style 1880 n’en est pas un : mais l’absence de style est encore un style : c’est même le pire.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19721000mip_04">
         <pb n="22" xml:id="p22"/>
         <head>3. Anatomie du monstre</head>
         <p>Ayant épanché un peu de ma rancune, à seule fin de montrer pour quelles raisons j’ai entrepris de combattre l’instruction publique — on ne me contestera pas ces raisons puisqu’elles me sont absolument personnelles et qu’elles ont la valeur d’un témoignage, ni plus ni moins — il est temps que je fasse passer un petit examen aux principes de cette institution passionnément détestée. Vous allez voir comment ils bafouillent leur « par cœur non compris ».</p>
@@ -261,7 +261,7 @@
           <p/>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19721000mip_05">
         <pb n="35" xml:id="p35"/>
         <head>4. L’illusion réformiste</head>
         <p>Bien entendu, tout cela a été dit. (Un peu autrement, j’en conviens). On n’a pas attendu ma colère pour entreprendre ce travail de démolition. Il suffit pour s’en convaincre de parcourir l’abondante littérature publiée sur le « problème de l’école nouvelle ».</p>
@@ -287,7 +287,7 @@
            remarquer d’autant plus librement qu’ils trahissent le destin profond de l’instruction publique, qu’ils trahissent leur mission officielle. Ils éduquent de futurs anarchistes <note place="bottom">Voir à l’appendice le sens que je donne à ce mot, <ref target="https://www.unige.ch/rougemont/livres/ddr19721000mip/9#body-9-1">p. 57.</ref></note>, bravo ! Mais ce qu’on leur avait confié, c’était la fabrication en série de petits démocrates conscients et organisés. Je crains que ce malentendu ne soit décidément trop gros pour échapper plus longtemps à MM. les Inspecteurs des Écoles. Je le crains, dis-je ; car le monde ne progresse qu’à la faveur de malentendus (si tant est qu’il progresse.)</p>
         <p>L’école nouvelle n’échappe à l’absurdité primaire qu’à la faveur d’une équivoque. Cette équivoque frappe tout essai de réforme. Qu’il y ait là cependant une possibilité pratique d’en sortir, je ne le nie pas. Mais du point de vue de la vérité, force nous est de reconnaître que notre dilemme subsiste dans son intégrité et son urgence.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19721000mip_06">
         <pb n="40" xml:id="p40"/>
         <head>5. La machine à fabriquer des électeurs</head>
         <p>Je crois à l’absurdité de <hi rend="i">fait</hi> de l’instruction publique. Je crois aussi qu’on ne peut réformer l’absurde. Je demande seulement qu’on m’explique pourquoi il triomphe et se perpétue ; de quel droit il nous écrase.</p>
@@ -313,7 +313,7 @@
           <pb n="45" xml:id="p45"/>
            nervosité, de petites douleurs de jeune bourgeois. Essayez de venir me dire ça chez moi, n’est-ce pas, mes agneaux. C’est justement dans la mesure où je participais de l’écoeurant optimisme bourgeois que je m’accommodais d’un régime nocif pour tout ce qu’il y a d’authentiquement noble en chaque homme. Si les fils du peuple souffrent moins d’un tel régime, c’est qu’ils n’ont pas d’eux-mêmes une connaissance aussi sensible. Mais attendez, si quelques-uns allaient se réveiller… Il suffit d’un peu de chaleur d’âme pour amorcer le dégel de ces principes, et ce peut être le signal de la grande débâcle printanière. Il n’y a pas de révolution véritable que de la sensibilité. (Le jour où l’on culbutera ces Messieurs de leurs sièges, ils comprendront le sens des images.)</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19721000mip_07">
         <pb n="46" xml:id="p46"/>
         <head>6. La trahison de l’instruction publique</head>
         <p>(Ici, le procureur prit un ton plus grave).</p>
@@ -336,7 +336,7 @@
         <p>Par ce qu’elle enseigne à ignorer bien plus que par ce qu’elle enseigne à connaître, elle constitue la plus grande force antireligieuse de ce temps. L’instruction religieuse qui prend les enfants au sortir de l’école primaire, arrive trop tard. Elle sème dans un terrain que l’instituteur a méthodiquement desséché.</p>
         <p/>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19721000mip_08">
         <pb n="50" xml:id="p50"/>
         <head>7. L’instruction publique contre le progrès</head>
         <p>Un beau titre. Et qui a meilleure façon que le reste, pensez-vous. Il faut avouer qu’avec ce je ne sais quoi de déclamatoire, de… journalistique, de bedonnant creux, cela vous a un petit air démocratique, hé ! hé !… et d’ailleurs, vous aimez les idées généreuses, n’est-ce pas ? J’en étais sûr.</p>
@@ -371,7 +371,7 @@
         <p>Eh bien ! induisez de cette similitude les possibilités formidables que nous réserve le siècle à venir, et vous commencerez à comprendre que votre scepticisme à l’endroit de la forme sociale que nous appelons sans la connaître et qui s’élabore déjà secrètement, que ce mépris et ce scepticisme sont d’un ridicule écrasant, sous lequel vous ne tarderez pas à périr.</p>
         <p/>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19721000mip_09">
         <pb n="57" xml:id="p57"/>
         <head>Appendice.
           <lb/>Utopie</head>
@@ -431,7 +431,7 @@
         <label>NOTE C</label>
         <p>Vous parlez de la grande vulgarité de mes attaques. Ce qui est vulgaire, au plein sens du mot, c’est le genre distingué de la bourgeoisie qui se monte le cou.</p>
       </div>
-      <div type="chapter" when="1972">
+      <div type="chapter" when="1972" xml:id="ddr19721000mip_10">
         <pb n="69" xml:id="p69"/>
         <head>Suite des <title>Méfaits</title> (1972)</head>
         <p>Écrit d’un jeune homme en colère, aussi injuste qu’un pamphlet doit l’être, j’ai le triste plaisir de constater que mon texte n’a pas vieilli, parce que l’École n’a pas changé. C’est du moins ce que m’incitent à croire les descriptions récentes qu’on en publie, et les jugements portés sur elle par ses critiques les plus sérieux et par ses usagers, élèves et maîtres.</p>

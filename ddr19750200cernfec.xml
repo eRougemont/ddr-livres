@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="ddr-livres.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-stylesheet type="text/xsl" href="rougemont.xsl"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr19750200cernfec">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr" xml:id="ddr19750200cernfec" type="book">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -78,7 +78,7 @@
   </teiHeader>
   <text>
     <body>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19750200cernfec_01">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19750200cernfec/001.jpg/full/full/0/default.jpg" n="1"/>
         <head>Note liminaire</head>
         <p>Le Centre européen de la culture célèbre cette année son vingt-cinquième anniversaire. Dans le souvenir et dans l’espoir, comme il se doit lorsqu’on a réussi certaines entreprises, mais qu’on est encore loin des objectifs finaux.</p>
@@ -102,7 +102,7 @@
         <p>Il est clair qu’on ne peut savoir où l’on en est, que si l’on sait bien où l’on va. <ref>Le numéro sur l’<title>État de l’union et de la désunion de l’Europe</title></ref> suivra donc celui sur les régions et sur la prospective européenne.</p>
         <p rend="right">D. R.</p>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19750200cernfec_02">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19750200cernfec/003.jpg/full/full/0/default.jpg" n="3"/>
         <head>I. Préhistoire du CERN</head>
         <p>Dans les archives du Centre européen de la culture figure, datée de juin 1953, une note « confidentielle », rédigée par Jean-Paul de Dadelsen. Cette note donnera sans doute le meilleur résumé du dossier historique qui va suivre.</p>
@@ -489,7 +489,7 @@
           </quote>
         </div>
       </div>
-      <div type="chapter">
+      <div type="chapter" xml:id="ddr19750200cernfec_03">
         <pb facs="https://iiif.unige.ch/iiif/2/rougemont/ddr/ddr19750200cernfec/043.jpg/full/full/0/default.jpg" n="43"/>
         <head>II. Les débuts de la Fondation européenne de la culture</head>
         <div>
