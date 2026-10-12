@@ -82,7 +82,7 @@
 <body>
 
 
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_01">
 
 <pb n="7" xml:id="p7"/>
 <head>Introduction</head>
@@ -142,7 +142,7 @@
 <head>Première partie. Système de la crise</head>
 
 
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_02">
 
 <pb n="15" xml:id="p15"/>
 <head>1. La religion de la croissance</head>
@@ -622,7 +622,7 @@
 
 </div>
 </div>
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_03">
 
 <pb n="61" xml:id="p61"/>
 <head>2. Le grand litige</head>
@@ -974,7 +974,7 @@
 
 </div>
 </div>
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_04">
 
 <pb n="89" xml:id="p89"/>
 <head>3. La clé du système ou l’État-nation</head>
@@ -1395,7 +1395,7 @@
 <head>Deuxième partie. De la prévision</head>
 
 
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_05">
 
 <pb n="123" xml:id="p123"/>
 <head>4. Un « Essai sur l’avenir » en 1948</head>
@@ -1494,7 +1494,7 @@
 
 </div>
 </div>
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_06">
 
 <pb n="131" xml:id="p131"/>
 <head>5. Naissance de la prospective</head>
@@ -1659,7 +1659,7 @@
 
 </div>
 </div>
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_07">
 
 <pb n="145" xml:id="p145"/>
 <head>6. L’avenir sensible au cœur</head>
@@ -1882,7 +1882,7 @@
 
 </div>
 </div>
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_08">
 
 <pb n="161" xml:id="p161"/>
 <head>7. Première histoire de fous : l’auto</head>
@@ -2133,7 +2133,7 @@
 
 </div>
 </div>
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_09">
 
 <pb n="183" xml:id="p183"/>
 <head>8. Deuxième histoire de fous : Hitler</head>
@@ -2344,7 +2344,7 @@
 <head>Troisième partie. Repartir de l’homme</head>
 
 
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_10">
 
 <pb n="201" xml:id="p201"/>
 <head>9. Devenir soi-même</head>
@@ -2530,7 +2530,7 @@
 
 </div>
 </div>
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_11">
 
 <pb n="215" xml:id="p215"/>
 <head>10. Passage de la personne à la cité</head>
@@ -2863,7 +2863,7 @@
 
 </div>
 </div>
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_12">
 
 <pb n="241" xml:id="p241"/>
 <head>11. Les variétés de l’expérience communautaire</head>
@@ -3259,7 +3259,7 @@
 
 </div>
 </div>
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_13">
 
 <pb n="277" xml:id="p277"/>
 <head>12. Que tout appelle les régions</head>
@@ -3432,7 +3432,7 @@
 
 </div>
 </div>
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_14">
 
 <pb n="289" xml:id="p289"/>
 <head>13. Les variétés de l’expérience régionale</head>
@@ -3613,7 +3613,7 @@
 
 </div>
 </div>
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_15">
 
 <pb n="305" xml:id="p305"/>
 <head>14. L’autogestion politique</head>
@@ -3843,7 +3843,7 @@
 
 </div>
 </div>
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_16">
 
 <pb n="325" xml:id="p325"/>
 <head>15. Stratégie</head>
@@ -4418,7 +4418,7 @@
 </div>
 </div>
 </div>
-<div type="chapter">
+<div type="chapter" xml:id="ddr19770721aena_17">
 
 <pb n="367" xml:id="p367"/>
 <head>Conclusion. « Sentinelle, que dis-tu de la nuit ? »</head>
