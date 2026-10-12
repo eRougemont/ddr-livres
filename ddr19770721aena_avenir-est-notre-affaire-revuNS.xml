@@ -1,46 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
-  <teiHeader>
-    <fileDesc>
-      <titleStmt>
-        <title>{Title}</title>
-        <author key="{author}"/>
-      </titleStmt>
-      <editionStmt>
-        <edition>{publisher}</edition>
-        <respStmt>
-          <name>{Transcription}</name>
-          <resp>Transcription</resp>
-        </respStmt>
-      </editionStmt>
-      <publicationStmt>
-        <publisher>{publisher}</publisher>
-        <date when="2021"/>
-        <idno>{filename}</idno>
-        <availability status="restricted">
-          <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"/>
-        </availability>
-      </publicationStmt>
-      <sourceDesc>
-        <bibl>{bibl}</bibl>
-      </sourceDesc>
-    </fileDesc>
-    <profileDesc>
-      <langUsage>
-        <language ident="fr"/>
-      </langUsage>
-      <creation>
-        <date when="{date}"/>
-      </creation>
-    </profileDesc>
-  </teiHeader>
-  <text>
-    <body>
+<?xml-model href="http://oeuvres.github.io/teinte/teinte.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>{Title}</title>
+<author key="{author}"/>
+</titleStmt>
+<editionStmt>
+<edition>{publisher}</edition>
+<respStmt>
+<name>{Transcription}</name>
+<resp>Transcription</resp>
+</respStmt>
+</editionStmt>
+<publicationStmt>
+<publisher>{publisher}</publisher>
+<date when="2021"/>
+<idno>{filename}</idno>
+<availability status="restricted">
+<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr"/>
+</availability>
+</publicationStmt>
+<sourceDesc>
+<bibl>{bibl}</bibl>
+</sourceDesc>
+</fileDesc>
+<profileDesc>
+<langUsage>
+<language ident="fr"/>
+</langUsage>
+<creation>
+<date when="{date}"/>
+</creation>
+</profileDesc>
+</teiHeader>
+<text>
+<body>
 
 
 <div>
 
-<pb n="7" xml:id="p7"/><head>Introduction</head>
+<pb n="7" xml:id="p7"/>
+<head>Introduction</head>
 
 
 <div>
@@ -97,12 +99,14 @@
 </div>
 <div>
 
-<pb n="13" xml:id="p13"/><head>Première partie. Système de la crise</head>
+<pb n="13" xml:id="p13"/>
+<head>Première partie. Système de la crise</head>
 
 
 <div>
 
-<pb n="15" xml:id="p15"/><head>1. La religion de la croissance</head>
+<pb n="15" xml:id="p15"/>
+<head>1. La religion de la croissance</head>
 
 
 <div>
@@ -113,10 +117,7 @@
 
 <p>Au train où elle va, l’humanité va doubler, pour la première fois de toute l’histoire connue, en trente-cinq ans. Nous serons quelque six milliards en fin de siècle, cela paraît inévitable à la plupart des démographes tandis que j’écris. Si nous devions continuer à croître au taux actuel — supposant donc stabilisée la période de doublement, qui pourtant n’a cessé de raccourcir jusqu’à nous, passant de mille cinq cents ans vers huit mille avant notre ère, à deux cents ans dès 1650, quatre-vingts ans dès 1850, quarante-cinq ans dès 1930, trente-cinq ans dès 1970 — voici le tableau d’avenir que chacun peut dresser :</p>
 
-<p rend="right">6 milliards en 2000 
-<lb/>24 milliards en 2070 
-<lb/>192 milliards en 2175 
-<lb/>450 000 milliards en 2575</p>
+<p rend="right">6 milliards en 2000 <lb/>24 milliards en 2070 <lb/>192 milliards en 2175 <lb/>450 000 milliards en 2575</p>
 
 <p>Peu après l’an 2600, les humains se touchent tous, et là s’arrêtent forcément mes calculs. « On pourra nourrir tout le monde, m’affirme un diététicien, mais il faudra manger debout. »</p>
 
@@ -170,7 +171,8 @@
 </div>
 <div>
 
-<pb n="20" xml:id="p20"/><head>Croissance urbaine : on ne peut pas tout multiplier impunément</head>
+<pb n="20" xml:id="p20"/>
+<head>Croissance urbaine : on ne peut pas tout multiplier impunément</head>
 
 <p>L’urbanisation n’est pas seulement une conséquence de l’explosion démographique, elle en est la traduction plastique. Quand double une population, au lieu de doubler le nombre des fermes, on double tout d’abord, puis décuple le nombre des étages dans les villes autour desquelles poussent les cheminées d’usine.</p>
 
@@ -470,7 +472,8 @@
 </div>
 <div>
 
-<pb n="48" xml:id="p48"/><head>Le mythe de Prométhée</head>
+<pb n="48" xml:id="p48"/>
+<head>Le mythe de Prométhée</head>
 
 <p>Le mythe de Prométhée domine l’aventure assumée par notre culture occidentale. J’y trouve la clé de l’anxiété qui sous-tend nos essais de prospective.</p>
 
@@ -536,7 +539,8 @@
 </div>
 <div>
 
-<pb n="55" xml:id="p55"/><head>Perte du sens des limites</head>
+<pb n="55" xml:id="p55"/>
+<head>Perte du sens des limites</head>
 
 <p>Dans chacun des domaines que nous venons de survoler, nous avons retrouvé la même cause de crise, la perte du sens des limites, conditions nécessaires de toute vie, et le refus d’envisager à temps que l’illimité ne peut avoir qu’un temps très court dans le monde fini.</p>
 
@@ -581,7 +585,8 @@
 </div>
 <div>
 
-<pb n="61" xml:id="p61"/><head>2. Le grand litige</head>
+<pb n="61" xml:id="p61"/>
+<head>2. Le grand litige</head>
 
 
 <div>
@@ -639,7 +644,7 @@
 <p>Le citoyen, pour sa part, peut appliquer son bon sens à l’examen de quelques points plus précis. Par exemple, il peut protester chaque fois qu’il est question de construire des stations atomiques près d’agglomérations urbaines. Qu’arrivera-t-il de si grave s’il en résulte une hausse des coûts de distribution ? On peut dire en tout cas qu’aucune économie ne justifie une fuite nucléaire qui se produirait dans une région urbanisée et répandrait une radioactivité mortelle dans un rayon de cent kilomètres. »</p>
 
 <quote>
-  <p rend="center"/>
+<p rend="center"/>
 </quote>
 
 <p><hi>Sur la question des accidents.</hi> — Dès 1970 « des calculs faits pour un réacteur d’environ 150 MW, situé à quatre-vingts kilomètres de San Francisco, parvenaient à une prévision de 3400 morts et 43 000 blessés, avec des dégâts matériels s’élevant à 7 milliards de dollars. Des calculs analogues pour un réacteur de 300 MW à Lagoona Beach, dans le Michigan, qui partaient de l’hypothèse d’une libération totale dans des conditions d’air stagnant, ont indiqué qu’un tel accident provoquerait 133 000 morts et 181 000 blessés immédiatement, avec des dommages à retardement (cancers et raccourcissement de la vie) pour 245 000 personnes, et n’ont même pas cherché à estimer les dommages matériels. Qui plus est, on ne peut pas laisser les gros réacteurs se refroidir tout seuls ; ils exploseraient<note place="foot">Gordon <hi rend="sc">Rattray Taylor</hi>, <hi>Le Jugement dernier</hi>, New York et Calmann-Lévy, Paris, 1970. Source des calculs : Atomic Energy Commission, Rapport WASH 740, 1957.</note>.</p>
@@ -916,7 +921,8 @@
 </div>
 <div>
 
-<pb n="87" xml:id="p87"/><head>Le noyau du Pouvoir</head>
+<pb n="87" xml:id="p87"/>
+<head>Le noyau du Pouvoir</head>
 
 <p>On peut penser que les réacteurs ne seront aux yeux de l’histoire qu’un épisode, une erreur de parcours sur les voies de la recherche d’énergies différentes, en vue d’une société moins résignée au pire. Tout cela sera sans doute oublié (mais les déchets de plutonium ?) quand nous aurons maîtrisé la fusion, dans les supercentrales à enceintes électromagnétiques de l’an 2000. « N’en faites donc pas le noyau du drame politique de cette fin, déjà si proche, du <num><hi rend="sc">xx</hi></num><hi rend="sup">e</hi> siècle. »</p>
 
@@ -931,7 +937,8 @@
 </div>
 <div>
 
-<pb n="89" xml:id="p89"/><head>3. La clé du système ou l’État-nation</head>
+<pb n="89" xml:id="p89"/>
+<head>3. La clé du système ou l’État-nation</head>
 
 
 <div>
@@ -1168,7 +1175,8 @@
 
 <p><hi>g</hi>) École, Armée, Presse et Technique préparent à la guerre que les États-nations appellent, par leur formule même, et souvent consciemment. Dans un premier temps, le potentiel belliqueux ainsi dégagé va se dépenser en Afrique noire, en Éthiopie, au Maroc et au Proche-Orient où Français, Britanniques et Allemands s’affrontent avec des peuples mal armés, mais aussi et surtout entre eux, parfois directement (Fachoda, Agadir), ou par procuration, selon le scénario qui sera plus tard celui de la guerre civile d’Espagne, puis des guerres de Corée, du Vietnam et du Proche-Orient. (Grandes manœuvres, tests du matériel.)</p>
 
-<p><hi>h</hi>) L’État-nation, né de la guerre et progressant par elle, comme elle par lui, conduit nécessairement à de nouveaux conflits qu’il prépare sous le nom de défense de la Paix. Et ce seront les deux guerres mondiales. Après quoi, faute de guerres nationales importantes durant deux ou trois décennies, comme tout est disposé en vue de la guerre — esprits et corps autant qu’infrastructure industrielle — il se produit une recrudescence « inexplicable » de délinquance juvénile, de criminalité, de névroses, de psychoses, d’alcoolisme et d’usage de drogues de toute espèce, accompagnée d’une apathie civique croissante. La guerre seule — civile ou étrangère — vient mettre un terme à l’anarchie : elle est alors <hi>nationalisation du crime</hi> <pb n="108" xml:id="p108"/>et de la lutte contre le crime, ainsi récupérés d’un même mouvement pour un nouveau bond en avant du PNB.</p>
+<p><hi>h</hi>) L’État-nation, né de la guerre et progressant par elle, comme elle par lui, conduit nécessairement à de nouveaux conflits qu’il prépare sous le nom de défense de la Paix. Et ce seront les deux guerres mondiales. Après quoi, faute de guerres nationales importantes durant deux ou trois décennies, comme tout est disposé en vue de la guerre — esprits et corps autant qu’infrastructure industrielle — il se produit une recrudescence « inexplicable » de délinquance juvénile, de criminalité, de névroses, de psychoses, d’alcoolisme et d’usage de drogues de toute espèce, accompagnée d’une apathie civique croissante. La guerre seule — civile ou étrangère — vient mettre un terme à l’anarchie : elle est alors <hi>nationalisation du crime</hi>
+<pb n="108" xml:id="p108"/>et de la lutte contre le crime, ainsi récupérés d’un même mouvement pour un nouveau bond en avant du PNB.</p>
 
 <p><hi>i</hi>) Les temps d’absence de guerre sont anormaux, ne peuvent durer, dans le monde des États-nations qu’ils finiraient par priver de leur secrète mais véritable raison d’être et de leur principe organisateur. Les prochaines guerres d’envergure continentale seront provoquées par les conflits entre l’Occident et le tiers-monde ; le premier ayant exploité le second mais s’en étant du même coup rendu tributaire pour ses matières premières ; le premier ayant appris au second l’usage des armes nouvelles, et l’abus des notions de progrès matériel, de profits immédiats et de PNB dans le cadre stato-national. Le système, né de la guerre, y conduit fatalement. La boucle est bouclée — ou va l’être — et le cycle infernal se referme.</p>
 
@@ -1279,9 +1287,9 @@
 <p>Un même matin d’avril 1970, j’avais relevé dans deux journaux français ces titres que je retrouve à point nommé :</p>
 
 <quote>
-  <p rend="center"><hi rend="sc">Washington n’entend pas renoncer à sa présence dans le Pacifique</hi></p>
-
-  <p rend="center"><hi rend="sc">VI</hi><hi rend="sup">e</hi> <hi rend="sc">Plan : enrichir la France sans que les Français en souffrent</hi></p>
+<p rend="center"><hi rend="sc">Washington n’entend pas renoncer à sa présence dans le Pacifique</hi></p>
+<p rend="center"><hi rend="sc">VI</hi><hi rend="sup">e</hi>
+<hi rend="sc">Plan : enrichir la France sans que les Français en souffrent</hi></p>
 </quote>
 
 <p>L’État-nation « personnifié » par le nom de son sanctuaire ou de sa fonction principale, apparaît ici comme un dieu qui n’en fait, bien sûr, qu’à sa tête. Il exige parfois des sacrifices humains — « guerres limitées » qu’il juge indispensables pour « assurer sa présence » dans telles parties du monde, Corée, Vietnam, Proche-Orient, où bien peu de ses citoyens eussent eu l’idée que leurs droits vitaux étaient menacés. (Manque de « vision » !) Parfois aussi, il veut bien vivre en laissant vivre, c’est-à-dire sans tuer trop de paysages, de privilèges, de villes et de jeunes gens. Et même, dans le cas présent, à la sixième reprise, il dit avoir trouvé le moyen de s’enrichir lui, l’État, sans que ce soit (d’une manière sensible tout au moins) aux dépens des revenus de ses administrés et de leur environnement.</p>
@@ -1344,17 +1352,19 @@
 </div>
 <div>
 
-<pb n="121" xml:id="p121"/><head>Deuxième partie. De la prévision</head>
+<pb n="121" xml:id="p121"/>
+<head>Deuxième partie. De la prévision</head>
 
 
 <div>
 
-<pb n="123" xml:id="p123"/><head>4. Un « Essai sur l’avenir » en 1948</head>
+<pb n="123" xml:id="p123"/>
+<head>4. Un « Essai sur l’avenir » en 1948</head>
 
 <p>Au lendemain de la Seconde Guerre mondiale et de la bombe d’Hiroshima, je publiais un texte bref, qui me paraît, à le relire aujourd’hui, inaugural, et peut-être augural.</p>
 
 
-<head type="sub"><hi rend="sc">Essai sur l’avenir<note place="foot">Paru dans le recueil de mélanges pour le professeur Gerardus van der Leeuw, intitulé <hi>Pro regno, pro sanctuario</hi>, G. F. Callenbach, Nijkerk, 1948.</note></hi></head>
+<label rend="sc">Essai sur l’avenir<note place="foot">Paru dans le recueil de mélanges pour le professeur Gerardus van der Leeuw, intitulé <hi>Pro regno, pro sanctuario</hi>, G. F. Callenbach, Nijkerk, 1948.</note></label>
 
 
 <div>
@@ -1387,7 +1397,8 @@
 
 <p>1. <hi>la science a toujours raison</hi> ;</p>
 
-<pb n="126" xml:id="p126"/><p>2. <hi>le bonheur dépend de la possession de certains objets neufs</hi> ;</p>
+<pb n="126" xml:id="p126"/>
+<p>2. <hi>le bonheur dépend de la possession de certains objets neufs</hi> ;</p>
 
 <p>3. <hi>aller plus vite est un bien en soi</hi>.</p>
 
@@ -1446,7 +1457,8 @@
 </div>
 <div>
 
-<pb n="131" xml:id="p131"/><head>5. Naissance de la prospective</head>
+<pb n="131" xml:id="p131"/>
+<head>5. Naissance de la prospective</head>
 
 
 <div>
@@ -1487,7 +1499,8 @@
 </div>
 <div>
 
-<pb n="135" xml:id="p135"/><head>Nous avons voulu cela</head>
+<pb n="135" xml:id="p135"/>
+<head>Nous avons voulu cela</head>
 
 <p>La prospective qui se manifeste au lendemain de la bombe d’Hiroshima, comme première prise de conscience d’un danger mortel pour l’espèce, porte les marques de cette double origine, millénariste d’une part, catastrophique de l’autre.</p>
 
@@ -1535,7 +1548,8 @@
 </div>
 <div>
 
-<pb n="139" xml:id="p139"/><head>Budget annuel et prospectives</head>
+<pb n="139" xml:id="p139"/>
+<head>Budget annuel et prospectives</head>
 
 <p>Toute politique est autorisation de l’avenir, à la fois désirable et redouté. Ne pas manger son blé en herbe, voilà la formule primitive, le fondement symbolique et le principe probable de toute espèce de politique ou stratégie de la survie humaine. Cette prévision, d’origine agricole, est donc annuelle. L’ère moderne, qui commence autour de 1800 avec l’industrie, la finance internationale et l’État-nation, prend elle aussi l’année pour unité de base de ses prévisions : c’est le <hi>budget</hi>, terme anglais qui désigne d’abord l’ensemble des dépenses et des recettes de l’État projeté sur les douze mois qui viennent. Digne ancêtre du PNB, c’est un indicateur étonnamment abstrait, qui réduit toute la vie publique au jeu purement quantitatif de valeurs et de signes monétaires, dont il reste à prouver qu’ils traduisent, sinon toutes les réalités et <hi>qualités</hi> de la vie humaine, du moins celles qu’on juge essentielles et déterminantes pour l’ensemble. Personne n’ayant pu rien prouver quant à la primauté de l’un ou de l’autre des facteurs, matériel, spirituel ou technique — en dépit des pesantes certitudes de Marx et des théoriciens capitalistes (en remarquable convergence sur ce point : l’économique commande, et le reste suivra) — on en vient à juger réels les seuls événements mesurables, à ne tenir pour sérieux que ce qui coûte en monnaie, et à ne prévoir que d’une année à l’autre. Ces origines historiques, incontestées et contraignantes, rendent compte des pires défauts de la prospective actuelle, et posent ses limites empiriques.</p>
 
@@ -1608,7 +1622,8 @@
 </div>
 <div>
 
-<pb n="145" xml:id="p145"/><head>6. L’avenir sensible au cœur</head>
+<pb n="145" xml:id="p145"/>
+<head>6. L’avenir sensible au cœur</head>
 
 
 <div>
@@ -1709,17 +1724,17 @@
 
 <p>Je concluais à la nécessité de la construction de modèles à la manière de Forrester, tout en déplorant qu’ils échouent à prendre en compte des paramètres éventuellement décisifs pour l’évolution de notre société, tels que <hi>la peur de l’avenir</hi> en général, ou du chômage en particulier, capables de déclencher de graves troubles sociaux ; <hi>le sentiment de liberté ou de manque de liberté</hi> (« La liberté est une sensation. Cela se respire », écrivait Paul Valéry ; donc cela ne se <hi>mesure</hi> pas) ; et aussi la possibilité d’éprouver jusqu’au désespoir et à la révolte une <hi>pénurie de sens de la vie</hi> au milieu de la surabondance des machines, des objets offerts et des sollicitations de consommer. En second lieu, Forrester ne tient pas compte d’un facteur qui me paraît responsable plus que tout autre de l’expansion à outrance, je veux parler de la <hi>menace de guerre</hi>. Elle est de nature à modifier tous nos paramètres : c’est en son nom que tel ministre de la Guerre favorise une forte natalité, alors que son collègue de l’Hygiène sociale cherche à la diminuer ; c’est elle qui pousse aux investissements industriels, à l’exploitation maximale des ressources naturelles (comme le pétrole), donc à la pollution ; et finalement le seul facteur qu’elle fasse diminuer, c’est la qualité de la vie. Si bien qu’on peut se demander si le dogme de la croissance <pb n="153" xml:id="p153"/>industrielle n’est pas devenu sacro-saint dans la mesure même où il participait de la finalité guerrière de nos États-nations de modèle napoléonien<note place="foot">Cf. <hi>Les Dirigeants et les finalités de la société occidentale</hi>, Lausanne, Centre de recherches européennes, 1972, p. 27 et 28.</note>.</p>
 
-<p rend="center"/>
+<quote rend="border">
 
-<encadre>En 1974, je lis dans le <hi>Rapport de Tokyo sur l’homme et la croissance</hi>, publié par le club de Rome :</encadre>
+<p>En 1974, je lis dans le <hi>Rapport de Tokyo sur l’homme et la croissance</hi>, publié par le club de Rome :</p>
 
-<encadre>« En vérité, nous sommes comme un enfant bien doué qui se retrouverait tout à coup démuni dans le poste de pilotage d’un avion en plein vol ; le voici face aux dizaines de cadrans et de manettes du tableau de bord, et il s’efforce désespérément d’en comprendre le mécanisme, avant que l’appareil ne s’écrase sur une montagne ou ne tombe en panne sèche. »</encadre>
+<p>« En vérité, nous sommes comme un enfant bien doué qui se retrouverait tout à coup démuni dans le poste de pilotage d’un avion en plein vol ; le voici face aux dizaines de cadrans et de manettes du tableau de bord, et il s’efforce désespérément d’en comprendre le mécanisme, avant que l’appareil ne s’écrase sur une montagne ou ne tombe en panne sèche. »</p>
 
-<encadre>Première réaction devant ce texte : le gosse n’a pas une chance, sauf <hi>intuition</hi>, de deviner les manettes qu’il convient de manier. Et encore faudrait-il que le tableau de bord lui rappelle certaines choses dont il ait (ou ait eu) quelque idée… Car il est devant une mécanique incapable de se prêter au moindre échange vivant, psychique ou sympathique.</encadre>
+<p>Première réaction devant ce texte : le gosse n’a pas une chance, sauf <hi>intuition</hi>, de deviner les manettes qu’il convient de manier. Et encore faudrait-il que le tableau de bord lui rappelle certaines choses dont il ait (ou ait eu) quelque idée… Car il est devant une mécanique incapable de se prêter au moindre échange vivant, psychique ou sympathique.</p>
 
-<encadre>L’intuition peut nous informer sur le vivant par recours au savoir inconscient accumulé dans les cellules et le cerveau. Elle peut nous informer aussi sur le social, par sympathie, réaction consonante ou dissonante aux affects de l’espèce ou d’un groupe. Mais elle reste sans prises sur une mécanique : là, il s’agit de savoir ou d’avoir su ; et « l’intuition » du geste à faire ne pourrait être que réminiscence. Faute de quoi, l’on fera mieux de consulter le mode d’emploi.</encadre>
+<p>L’intuition peut nous informer sur le vivant par recours au savoir inconscient accumulé dans les cellules et le cerveau. Elle peut nous informer aussi sur le social, par sympathie, réaction consonante ou dissonante aux affects de l’espèce ou d’un groupe. Mais elle reste sans prises sur une mécanique : là, il s’agit de savoir ou d’avoir su ; et « l’intuition » du geste à faire ne pourrait être que réminiscence. Faute de quoi, l’on fera mieux de consulter le mode d’emploi.</p>
+</quote>
 
-<p rend="center"/>
 
 <p>Mais une fois reconnues ces limites à l’intuition et au calcul, il faut admettre aussi qu’une société humaine n’est pas une mécanique, ou ne l’est que partiellement, et que dans toute la mesure où elle est autre chose — ensemble <pb n="154" xml:id="p154"/>de systèmes plus ou moins intégrés, référentiel de convergences et de tensions entre déséquilibres permanents — les méthodes « scientifiques » échouent nécessairement là où les intuitions « sauvages » ont réussi.</p>
 
@@ -1752,7 +1767,7 @@
 <p>De nombreux développements collectifs du passé peuvent nous éclairer sur l’avenir. La Rome des jeux, avec ses deux cents jours fériés sous Dioclétien, offre un parallèle frappant avec l’Occident de la TV, des vacances prolongées, des retraites anticipées, choses fort bonnes en soi, mais que l’État n’accorde qu’au prix du droit d’aînesse <pb n="156" xml:id="p156"/>des citoyens sur l’appareil bureaucratique ! De même, Lewis Mumford décrit les méfaits du centralisme de Rome, incapable d’accorder l’autonomie aux colonies d’abord, puis aux régions, et les poussant de la sorte au séparatisme :</p>
 
 <quote>
-  <p><hi>Diviser pour régner</hi>, Rome ne connaissait pas d’autre formule de gouvernement. Pour empêcher l’alliance de cités vassales, elle s’efforçait d’attiser leurs rivalités, jusqu’au jour où une province entière se soulevait, et remettait en cause sa suprématie. Un régime fondé sur la coopération volontaire, qui aurait partagé équitablement les avantages et les responsabilités, n’aurait pas vu se produire ces soulèvements… Limiter une expansion malsaine n’aurait pas été moins nécessaire que d’assurer l’autonomie des centres régionaux. Au <num><hi rend="sc">v</hi></num><hi rend="sup">e</hi> siècle, par suite de l’affaiblissement général de l’Empire, la Gaule jouissait apparemment de cette indépendance. Et dans d’autres provinces, il semble que les hérésies chrétiennes, qui dressaient les fidèles contre l’autorité du pouvoir religieux, témoignaient d’une secrète aspiration à l’autonomie que l’État temporel avait obstinément refusé de satisfaire. Il était beaucoup trop tard pour que Rome, en reconnaissant ces tendances, puisse constituer un ensemble de conception nouvelle. Par suite de la faiblesse singulière de l’Empire, la charte d’indépendance devait être accordée sans contrepartie<note place="foot">Lewis <hi rend="sc">Mumford</hi>, <hi>La Cité à travers l’histoire</hi>, Paris, Le Seuil, 1964, p. 308 et 309.</note>.</p>
+<p><hi>Diviser pour régner</hi>, Rome ne connaissait pas d’autre formule de gouvernement. Pour empêcher l’alliance de cités vassales, elle s’efforçait d’attiser leurs rivalités, jusqu’au jour où une province entière se soulevait, et remettait en cause sa suprématie. Un régime fondé sur la coopération volontaire, qui aurait partagé équitablement les avantages et les responsabilités, n’aurait pas vu se produire ces soulèvements… Limiter une expansion malsaine n’aurait pas été moins nécessaire que d’assurer l’autonomie des centres régionaux. Au <num><hi rend="sc">v</hi></num><hi rend="sup">e</hi> siècle, par suite de l’affaiblissement général de l’Empire, la Gaule jouissait apparemment de cette indépendance. Et dans d’autres provinces, il semble que les hérésies chrétiennes, qui dressaient les fidèles contre l’autorité du pouvoir religieux, témoignaient d’une secrète aspiration à l’autonomie que l’État temporel avait obstinément refusé de satisfaire. Il était beaucoup trop tard pour que Rome, en reconnaissant ces tendances, puisse constituer un ensemble de conception nouvelle. Par suite de la faiblesse singulière de l’Empire, la charte d’indépendance devait être accordée sans contrepartie<note place="foot">Lewis <hi rend="sc">Mumford</hi>, <hi>La Cité à travers l’histoire</hi>, Paris, Le Seuil, 1964, p. 308 et 309.</note>.</p>
 </quote>
 
 <p>Nous retrouvons le parallèle avec notre ère totalitaire : la dépersonnalisation détruit les engagements civiques, l’expansion excessive appelle la tyrannie mais aussi la renaissance des régions, des paroisses, et de l’autonomie personnelle. Mais peut-on affirmer pour autant que tout cela annonçait le christianisme, sa spécificité religieuse, et le besoin qui, peut-être, s’en faisait sentir dans le monde romanisé du <num><hi rend="sc">iii</hi></num><hi rend="sup">e</hi> siècle ? Non, car l’appel au Christ plutôt qu’aux déités de l’Égypte ou du Proche-Orient — Isis, Mithra — ne pouvait être senti et connu, en ce temps-là comme aujourd’hui, qu’au <hi>plus intime de chaque personne</hi> et dans la seule qualité de son angoisse.</p>
@@ -1830,7 +1845,8 @@
 </div>
 <div>
 
-<pb n="161" xml:id="p161"/><head>7. Première histoire de fous : l’auto</head>
+<pb n="161" xml:id="p161"/>
+<head>7. Première histoire de fous : l’auto</head>
 
 <p>Les jeunes gens d’aujourd’hui n’imaginent pas le monde et la vie quotidienne sans l’auto, ni par suite que l’auto puisse avoir une histoire, qu’elle ait donc commencé, voire à une date récente : le centenaire de sa conception dans l’esprit d’un petit campagnard d’Amérique tombait en 1975. C’était hier, et personne ne s’en est aperçu.</p>
 
@@ -1929,7 +1945,7 @@
 
 <p>Il y a plus. Par une sorte de suprême ironie de l’histoire, qui n’aime pas qu’on prétende la deviner, c’est l’intervention même de certaines prévisions qui a déclenché la crise, posant du même coup la limite autoréglée de toute prospective.</p>
 
-<p>Car la crise de l’automne 1973 a bien sûr résulté sous nos yeux du conflit entre le monde arabe, détenteur d’un produit valorisé par le succès mondial de l’auto, et l’État d’Israël, créé en Palestine à la suite des forfaits hitlériens. Mais on sait aujourd’hui que le motif « sioniste » n’a guère servi que de prétexte. Les vrais motifs de l’embargo sur le pétrole ne sont pas là. Si l’on en croit le plénipotentiaire d’un émirat s’adressant au Premier ministre<note place="foot"><resp>(</resp><resp><hi>NdE</hi></resp><resp>)</resp><resp> </resp>Nous avons rajouté le terme « ministre », manifestement un oubli.</note> japonais, ce sont les prévisions des « savants de Harvard » qui ont convaincu les émirs de l’épuisement probable de leur or noir avant trente ans au rythme actuel du gaspillage occidental. C’était aussi ce que prévoyait le Rapport Meadows. Les gouvernants de l’Occident n’en ont tiré nulle conséquence, parce qu’ils ne veulent croire qu’à la croissance<note place="foot">À ceux qui l’avertissaient en août 1973 du danger d’une crise du pétrole dans le Proche-Orient, Nixon répondait : « Le pétrole ne peut pas être une arme pour les Arabes, il ne vaut rien s’il ne trouve pas d’acheteur. »</note>. <pb n="172" xml:id="p172"/>Les émirs ont été plus réalistes. Saisissant le prétexte de la guerre du Kippour, où pas un seul d’entre eux ne s’était engagé, ils décident l’embargo, la réduction de la production et le triplement des prix du brut, toutes choses d’ailleurs très raisonnables, puisqu’il s’agit maintenant de <hi>faire durer</hi> le pétrole, dût-on investir à cette fin dans les centrales nucléaires de l’Occident, ce que font aussi les magnats du pétrole et les grands producteurs d’énergie électrique.</p>
+<p>Car la crise de l’automne 1973 a bien sûr résulté sous nos yeux du conflit entre le monde arabe, détenteur d’un produit valorisé par le succès mondial de l’auto, et l’État d’Israël, créé en Palestine à la suite des forfaits hitlériens. Mais on sait aujourd’hui que le motif « sioniste » n’a guère servi que de prétexte. Les vrais motifs de l’embargo sur le pétrole ne sont pas là. Si l’on en croit le plénipotentiaire d’un émirat s’adressant au Premier ministre<note place="foot" resp="editor">Nous avons rajouté le terme « ministre », manifestement un oubli.</note> japonais, ce sont les prévisions des « savants de Harvard » qui ont convaincu les émirs de l’épuisement probable de leur or noir avant trente ans au rythme actuel du gaspillage occidental. C’était aussi ce que prévoyait le Rapport Meadows. Les gouvernants de l’Occident n’en ont tiré nulle conséquence, parce qu’ils ne veulent croire qu’à la croissance<note place="foot">À ceux qui l’avertissaient en août 1973 du danger d’une crise du pétrole dans le Proche-Orient, Nixon répondait : « Le pétrole ne peut pas être une arme pour les Arabes, il ne vaut rien s’il ne trouve pas d’acheteur. »</note>. <pb n="172" xml:id="p172"/>Les émirs ont été plus réalistes. Saisissant le prétexte de la guerre du Kippour, où pas un seul d’entre eux ne s’était engagé, ils décident l’embargo, la réduction de la production et le triplement des prix du brut, toutes choses d’ailleurs très raisonnables, puisqu’il s’agit maintenant de <hi>faire durer</hi> le pétrole, dût-on investir à cette fin dans les centrales nucléaires de l’Occident, ce que font aussi les magnats du pétrole et les grands producteurs d’énergie électrique.</p>
 
 <p>Et voilà la raison majeure de l’incapacité où nous étions de prévoir la crise du pétrole : nul ne peut prévoir aujourd’hui quelles prévisions seront faites demain, et encore moins dans quelle mesure elles seront crues, et dans quels délais, et par qui.</p>
 
@@ -2080,7 +2096,8 @@
 </div>
 <div>
 
-<pb n="183" xml:id="p183"/><head>8. Deuxième histoire de fous : Hitler</head>
+<pb n="183" xml:id="p183"/>
+<head>8. Deuxième histoire de fous : Hitler</head>
 
 <p>Individu quelconque et quasi nul en soi, phénomène d’envergure mondiale, tel fut l’homme, tel demeure son mystère. Les effets fracassants déclenchés dans le siècle par son apparition sont bien connus : on n’y retrouve pas à l’analyse la moindre trace spécifique de sa personne. Il fut ces effets et rien d’autre. Démontrer qu’il n’a pas existé serait un jeu : père inconnu, cadavre disparu, témoignages vagues ou contradictoires de ceux qui l’ont approché ou servi. (Et ses photos donnent toutes l’impression d’un truquage.) La catastrophe du <num><hi rend="sc">xx</hi></num><hi rend="sup">e</hi> siècle européen atteste seule sa réalité.</p>
 
@@ -2223,7 +2240,8 @@
 </div>
 <div>
 
-<pb n="194" xml:id="p194"/><head>Les temps sont proches</head>
+<pb n="194" xml:id="p194"/>
+<head>Les temps sont proches</head>
 
 <p>« <hi>Heureux celui qui lit et ceux qui entendent les paroles de la prophétie… car les temps sont proches</hi>. » (Apoc. 1. 3.)</p>
 
@@ -2283,12 +2301,14 @@
 </div>
 <div>
 
-<pb n="199" xml:id="p199"/><head>Troisième partie. Repartir de l’homme</head>
+<pb n="199" xml:id="p199"/>
+<head>Troisième partie. Repartir de l’homme</head>
 
 
 <div>
 
-<pb n="201" xml:id="p201"/><head>9. Devenir soi-même</head>
+<pb n="201" xml:id="p201"/>
+<head>9. Devenir soi-même</head>
 
 
 <div>
@@ -2390,7 +2410,7 @@
 <p>À vingt ans, je me répétais avec enthousiasme ces vers de Laurent Tailhade :</p>
 
 <quote>
-  <l>Vienne ton jour, déesse aux yeux si beaux Par un matin vermeil de Salamine, Anarchie ! ô porteuse de flambeaux !</l>
+<l>Vienne ton jour, déesse aux yeux si beaux Par un matin vermeil de Salamine, Anarchie ! ô porteuse de flambeaux !</l>
 </quote>
 
 <p>Mais les flambeaux que j’allais voir un peu plus tard défiler dans les rues de Francfort étaient portés par des <pb n="209" xml:id="p209"/>hommes aux chemises brunes qui chantaient le <hi>Horst-Wessel-Lied</hi>.</p>
@@ -2415,17 +2435,17 @@
 
 <p><hi>Distingué</hi> de la masse par une vocation dont l’exercice concret le <hi>relie</hi> à ses prochains. <hi>Solitaire</hi> parce qu’il est unique physiologiquement et spirituellement, mais <hi>solidaire</hi> parce que tous sont uniques, subissent les mêmes pressions égalisantes et affrontent, chacun dans sa quête, des risques par définition sans précédent ; à la fois libre et responsable, à la fois autonome et relié ; capable de se concentrer sur soi, sur son lieu, sur les siens, mais aussi de s’ouvrir au monde des autres ; capable de durer mais aussi de changer sans perdre son identité profonde — tel est l’homme personnel dans sa vitalité. Il trouve sa réalité dans le conflit comme il trouve son bonheur dans l’alternance ou, s’il en reçoit la grâce, dans l’équilibre des pulsions contraires qui l’animent.</p>
 
-<p/>
+<quote rend="border">
 
-<encadre rend="center"><hi>Tous sont uniques</hi></encadre>
+<p rend="center i">Tous sont uniques</p>
 
-<encadre>Les chances mathématiques que deux hommes soient pareils sont évaluées à une sur 250 milliards. Pratiquement nulles.</encadre>
+<p>Les chances mathématiques que deux hommes soient pareils sont évaluées à une sur 250 milliards. Pratiquement nulles.</p>
 
-<encadre>Or, pour aller à « Dieu », au but ultime de son être, chacun part d’une réalité sans précédent : lui-même. Il doit donc inventer son chemin vers ce But qui est aussi celui de tous les autres.</encadre>
+<p>Or, pour aller à « Dieu », au but ultime de son être, chacun part d’une réalité sans précédent : lui-même. Il doit donc inventer son chemin vers ce But qui est aussi celui de tous les autres.</p>
 
-<encadre>« Chacun pour soi et Dieu pour tous » dans le sens littéral et fort de l’expression, devient ainsi la devise des vrais croyants, de leur risque mais aussi de leur foi, de leur solitude au départ, mais de leur solidarité dans l’espérance.</encadre>
+<p>« Chacun pour soi et Dieu pour tous » dans le sens littéral et fort de l’expression, devient ainsi la devise des vrais croyants, de leur risque mais aussi de leur foi, de leur solitude au départ, mais de leur solidarité dans l’espérance.</p>
 
-<p/>
+</quote>
 
 <p>Que cet homme du conflit, en tension dialectique, soit aussi « <hi>la mesure de toutes choses</hi> », comme le voulaient les anciens Grecs, c’est l’évidence : si ce n’est lui, quelle serait la mesure d’un monde qui n’est pas naturel mais fait par lui, monde de l’histoire et de l’économie, de la technique, des villes, des cultures, des paysages…</p>
 
@@ -2443,27 +2463,28 @@
 
 <p>On m’objecte parfois que la personne, si elle existe, n’est guère qu’un modèle élitaire et très rarement réalisé par quelques vrais artistes et quelques spirituels, mais que la masse n’est pas faite de personnes. Illusion typiquement bourgeoise, d’ailleurs partagée par le peuple « éduqué » à l’école bourgeoise. Car s’il est vrai que la masse est une grande nuée grise qui résulte de la non-vision des personnes et des visages, ce n’est rien qu’une image en nous<note place="foot"><hi>Personne n’a jamais vu la masse.</hi> Mais la « massification » des individus détachés de toute communauté n’est que trop vérifiable : c’est l’aliénation primordiale, qui livre l’homme à toutes les manipulations par la publicité, la mode, les partis politiques et l’État. Personne non plus n’a jamais dénombré, mesuré, vérifié, l’existence de ces « masses » dont les chefs communistes, socialistes ou fascistes invoquent rituellement la volonté et les élans irrésistibles, mais qui ne sont qu’une figure de rhétorique signifiant la seule volonté des dirigeants du comité central. Si les masses existaient, les communistes gagneraient toutes les élections dans nos pays industrialisés. En fait, ils n’ont jamais gagné que des majorités comme les nazis proches de 100 %, disqualifiant l’idée même d’élections. On voit alors clairement ce que l’expression désigne : « les masses » sont la tendance régnante dans le Parti qui s’est arrogé le pouvoir — une négation brutale de la démocratie.</note>.</p>
 
-<p rend="center"/>
+<pb n="212" xml:id="p212"/>
+<quote rend="border">
 
-<encadre rend="center"><hi><pb n="212" xml:id="p212"/>L’homme qui prétend ne pas être là</hi></encadre>
+<p rend="center i">L’homme qui prétend ne pas être là</p>
 
-<encadre>La philosophie contemporaine, en France, est dominée par un contorsionnisme intellectuel parfois baptisé « dialectique » par ses tenants. Tout son effort vise à supprimer l’homme, l’identité du sujet homme, la personne, et à faire rentrer « ça » dans la nature, ou la matière, ou les structures d’on ne sait quoi.</encadre>
+<p>La philosophie contemporaine, en France, est dominée par un contorsionnisme intellectuel parfois baptisé « dialectique » par ses tenants. Tout son effort vise à supprimer l’homme, l’identité du sujet homme, la personne, et à faire rentrer « ça » dans la nature, ou la matière, ou les structures d’on ne sait quoi.</p>
 
-<encadre>Ce qui exige un parti pris constant d’aller contre tout ce que les hommes ont jusqu’ici pensé « naturellement », contre tout ce qu’ils ont jusqu’ici trouvé « naturel » de penser ; contre toute croyance « naturelle ».</encadre>
+<p>Ce qui exige un parti pris constant d’aller contre tout ce que les hommes ont jusqu’ici pensé « naturellement », contre tout ce qu’ils ont jusqu’ici trouvé « naturel » de penser ; contre toute croyance « naturelle ».</p>
 
-<encadre>Sartre avait naguère décidé qu’il n’y a pas de « nature humaine ». Il se trompait sans doute : l’homme n’est rien que nature, nous dit-on.</encadre>
+<p>Sartre avait naguère décidé qu’il n’y a pas de « nature humaine ». Il se trompait sans doute : l’homme n’est rien que nature, nous dit-on.</p>
 
-<encadre>Il faudra donc en venir à identifier et spécifier l’homme :</encadre>
+<p>Il faudra donc en venir à identifier et spécifier l’homme :</p>
 
-<encadre>— comme le seul animal qui éprouve le besoin de déclarer qu’il fait partie de la nature et de rien d’autre ;</encadre>
+<p>— comme le seul animal qui éprouve le besoin de déclarer qu’il fait partie de la nature et de rien d’autre ;</p>
 
-<encadre>— et comme la seule espèce qui se montre capable, par quelques-uns de ses individus, de se déclarer illusoire.</encadre>
+<p>— et comme la seule espèce qui se montre capable, par quelques-uns de ses individus, de se déclarer illusoire.</p>
 
-<encadre>L’homme serait le seul animal capable de se renier, de nier les évidences, et de mentir. Et ceux qui nient sa spécificité se réfutent donc par là même.</encadre>
+<p>L’homme serait le seul animal capable de se renier, de nier les évidences, et de mentir. Et ceux qui nient sa spécificité se réfutent donc par là même.</p>
 
-<encadre>Ils n’en ouvrent pas moins les voies aux tyrannies totalitaires, communistes, fascistes ou technocratiques dont les personnalistes ont montré depuis longtemps qu’elles résultaient d’une fatale « erreur sur la personne ». Derrière tout cela, la peur panique de l’homme moderne : s’avouer responsable du monde qu’il a fait. Comme Adam lorsque Dieu l’interpelle ; il se cache, il n’est plus <hi>personne</hi>, il n’est plus là…</encadre>
+<p>Ils n’en ouvrent pas moins les voies aux tyrannies totalitaires, communistes, fascistes ou technocratiques dont les personnalistes ont montré depuis longtemps qu’elles résultaient d’une fatale « erreur sur la personne ». Derrière tout cela, la peur panique de l’homme moderne : s’avouer responsable du monde qu’il a fait. Comme Adam lorsque Dieu l’interpelle ; il se cache, il n’est plus <hi>personne</hi>, il n’est plus là…</p>
 
-<p rend="center"/>
+</quote>
 
 <p><pb n="213" xml:id="p213"/>Mais chez les hommes de chair et sang, la personne est toujours instante, c’est une <hi>virtualité universelle</hi>, encore qu’elle ne se réalise que par et dans les actes qui l’engagent, ou dans l’œuvre qu’elle crée, qui l’exprime et la forme, et qui est la preuve de son existence. Or, tout homme est capable d’une œuvre, et presque tout homme en fait une, en conduit même plusieurs de front, le plus souvent à son insu. Son mariage. Son métier. Sa carrière. Le visage de sa maturité. Un certain équilibre entre soi et le monde, un déséquilibre orienté, ou assumé. Une manière de regarder ou d’être fasciné. Un rythme, un effort acharné, le réseau des approches d’une découverte, un certain style de vie, soi-même enfin, ma personne même en train de se faire, et cela c’est le grand-œuvre, l’œuvre par excellence — le salut. C’est ce jeu qu’il est sacrilège d’interrompre, sous prétexte d’une « simple vérification », de saccager ou de prétendre organiser. Or, c’est exactement ce que font nos États, et qu’ils feront toujours plus grossièrement, tant que la société ne sera pas reconstruite en vue de cet homme créateur.</p>
 
@@ -2472,7 +2493,8 @@
 </div>
 <div>
 
-<pb n="215" xml:id="p215"/><head>10. Passage de la personne à la cité</head>
+<pb n="215" xml:id="p215"/>
+<head>10. Passage de la personne à la cité</head>
 
 
 <div>
@@ -2491,21 +2513,21 @@
 
 <p>La devise « gouverner c’est contraindre » avoue la réalité de l’État-nation : car contraindre est le fait de la Police à l’intérieur et de l’Armée à l’extérieur. Cette situation paradoxale de l’État, à la fois gendarme au-dedans contre son peuple, et gangster au-dehors contre les autres peuples, force de l’ordre et fauteur arrogant du désordre international, voilà qui ne laisse plus le moindre doute : l’État-nation est là pour faire la guerre.</p>
 
-<p rend="center"/>
+<quote rend="border">
 
-<encadre rend="center"><hi>Impôts et service militaire</hi></encadre>
+<p rend="center i">Impôts et service militaire</p>
 
-<encadre>On peut et l’on doit dire de ces deux « nécessités » ce que Renan dit des nations : elles ne sont pas quelque chose d’éternel, elles ont commencé, elles finiront.</encadre>
+<p>On peut et l’on doit dire de ces deux « nécessités » ce que Renan dit des nations : elles ne sont pas quelque chose d’éternel, elles ont commencé, elles finiront.</p>
+<pb n="217" xml:id="p217"/>
+<p>« Les rois capétiens ne pouvaient lever l’impôt, les Bourbons ne pouvaient exiger le service militaire. » (B. de Jouvenel, <hi>Du pouvoir</hi>.)</p>
 
-<encadre>« <pb n="217" xml:id="p217"/>Les rois capétiens ne pouvaient lever l’impôt, les Bourbons ne pouvaient exiger le service militaire. » (B. de Jouvenel, <hi>Du pouvoir</hi>.)</encadre>
+<p>Les Bourbons, ce n’est pas si vieux. La conscription universelle et obligatoire, tout comme l’école primaire, ne remonte guère dans nos pays européens qu’aux années 1875 à 1885.</p>
 
-<encadre>Les Bourbons, ce n’est pas si vieux. La conscription universelle et obligatoire, tout comme l’école primaire, ne remonte guère dans nos pays européens qu’aux années 1875 à 1885.</encadre>
+<p>Après trois décennies de guerres coloniales, période de mises au point, de banc d’essai, la conscription universelle a rendu possibles et aussitôt « inévitables » les deux guerres mondiales du <hi rend="sc">xx</hi><hi rend="sup">e</hi> siècle. Il est permis de préférer la suppression des armées à l’éventualité d’une Troisième Guerre mondiale, dût en souffrir la théorie classique du pouvoir.</p>
 
-<encadre>Après trois décennies de guerres coloniales, période de mises au point, de banc d’essai, la conscription universelle a rendu possibles et aussitôt « inévitables » les deux guerres mondiales du <hi rend="sc">xx</hi><hi rend="sup">e</hi> siècle. Il est permis de préférer la suppression des armées à l’éventualité d’une Troisième Guerre mondiale, dût en souffrir la théorie classique du pouvoir.</encadre>
+<p>Le budget de l’État diminué des dépenses d’armements, les impôts seraient réduits d’un tiers. Sans impôts excessifs, moins de fraudes et d’activités judiciaires. L’interdiction des ventes d’armes diminuerait la délinquance et la criminalité, et par suite les activités policières : l’antisystème serait amorcé.</p>
 
-<encadre>Le budget de l’État diminué des dépenses d’armements, les impôts seraient réduits d’un tiers. Sans impôts excessifs, moins de fraudes et d’activités judiciaires. L’interdiction des ventes d’armes diminuerait la délinquance et la criminalité, et par suite les activités policières : l’antisystème serait amorcé.</encadre>
-
-<p rend="center"/>
+</quote>
 
 <p>J’imagine au contraire que gouverner, dans le nouveau style que j’appelle, devienne l’art d’arbitrer entre les intérêts, les projets, les techniques nouvelles, et de les adopter, amender ou exclure selon leur convenance ou non avec les objectifs de la Cité, toujours considérés comme les moyens de l’épanouissement des personnes. J’imagine donc que gouverner ne soit plus synonyme de contraindre, mais de prévoir et d’orienter en conséquence. Le problème désormais n’est plus de forcer les individus reluctants ni d’obtenir leur reddition, mais d’expliquer les situations et les problèmes et d’obtenir l’assentiment des citoyens. Ce n’est plus de violer mais de séduire. Ce n’est plus de « tenir son monde » mais de servir les habitants de la Cité.</p>
 
@@ -2539,7 +2561,9 @@
 
 <p>Rien ne vit par le cadre, l’extérieur, rien non plus ne se nourrit du centre géométrique. Et rien d’universel n’existe qu’au secret de l’individu. « Le Royaume des cieux est au-dedans de vous. » L’Église elle-même, « universelle » <pb n="220" xml:id="p220"/>selon le <hi>Credo</hi> de Nicée, ne vit vraiment que dans la vie de ses paroisses et s’enracine en fin de compte dans la seule existence individuelle des convertis.</p>
 
-<p>Ainsi de la communauté sociale : elle prend racine dans la condition même de l’homme et pas ailleurs, dans ses besoins fondamentaux et ses fins les plus personnelles. Elle préexiste à l’individu en ce sens que chacun naît d’une union formée dans le réseau des relations sociales, et elle dure au-delà de la personne dans les répercussions à l’infini de sa vocation unique vécue parmi les autres. Nul homme ne naît de soi, ni ne peut vivre seul, sans l’aide qu’il reçoit et qu’il donne, <hi>sans l’amour qu’il reçoit et qu’il donne</hi>. Tout homme est par sa condition en communauté symbiotique, tout homme est « symbiote » (selon le grec) ou « convive » (selon le latin), participant d’une vie commune, et destiné à vivre en « convivialité » — <hi>consociatio symbiotica</hi>, ainsi que l’écrivait Althusius au début du <num><hi rend="sc">xvii</hi></num><hi rend="sup">e</hi> siècle<note place="foot">Johannes Althaus, dit <hi>Althusius</hi>, 1557-1638, fut d’abord professeur de droit et recteur de l’Université de Herborn, en Westphalie. En 1603, il publie son grand œuvre, <hi>Politica methodice digesta</hi>. L’année suivante, il est nommé syndic de la cité-État d’Emden, et jusqu’à sa mort, il y mettra en pratique ses doctrines de juriste articulant le droit public des <hi>communautés autonomes</hi> sur le droit privé des <hi>personnes responsables</hi>, et sa théologie calviniste, soucieuse d’organiser la société des hommes pécheurs, afin qu’ils puissent y devenir responsables de leur vocation. Althusius peut être vu comme le fondateur de la politique fédéraliste. Voir aussi sur Althusius l’indispensable et richissime ouvrage de Pierre <hi rend="sc">Mesnard</hi>, <hi>L’Essor de la philosophie politique au</hi> <num><hi><hi rend="sc">xvi</hi></hi></num><hi rend="sup">e</hi> <hi>siècle</hi>, Paris, Boivin, 1936, p. 567 et 616, dont s’inspire également, sur ce sujet l’<hi>Histoire de l’idée fédéraliste</hi>, de Bernard <hi rend="sc">Voyenne</hi>, Paris, Presses d’Europe, 1976.</note>. Il tirait de là des conséquences politiques dont l’extrême importance se révèle aujourd’hui comme on va le voir.</p>
+<p>Ainsi de la communauté sociale : elle prend racine dans la condition même de l’homme et pas ailleurs, dans ses besoins fondamentaux et ses fins les plus personnelles. Elle préexiste à l’individu en ce sens que chacun naît d’une union formée dans le réseau des relations sociales, et elle dure au-delà de la personne dans les répercussions à l’infini de sa vocation unique vécue parmi les autres. Nul homme ne naît de soi, ni ne peut vivre seul, sans l’aide qu’il reçoit et qu’il donne, <hi>sans l’amour qu’il reçoit et qu’il donne</hi>. Tout homme est par sa condition en communauté symbiotique, tout homme est « symbiote » (selon le grec) ou « convive » (selon le latin), participant d’une vie commune, et destiné à vivre en « convivialité » — <hi>consociatio symbiotica</hi>, ainsi que l’écrivait Althusius au début du <num><hi rend="sc">xvii</hi></num><hi rend="sup">e</hi> siècle<note place="foot">Johannes Althaus, dit <hi>Althusius</hi>, 1557-1638, fut d’abord professeur de droit et recteur de l’Université de Herborn, en Westphalie. En 1603, il publie son grand œuvre, <hi>Politica methodice digesta</hi>. L’année suivante, il est nommé syndic de la cité-État d’Emden, et jusqu’à sa mort, il y mettra en pratique ses doctrines de juriste articulant le droit public des <hi>communautés autonomes</hi> sur le droit privé des <hi>personnes responsables</hi>, et sa théologie calviniste, soucieuse d’organiser la société des hommes pécheurs, afin qu’ils puissent y devenir responsables de leur vocation. Althusius peut être vu comme le fondateur de la politique fédéraliste. Voir aussi sur Althusius l’indispensable et richissime ouvrage de Pierre <hi rend="sc">Mesnard</hi>, <hi>L’Essor de la philosophie politique au</hi>
+<num><hi><hi rend="sc">xvi</hi></hi></num><hi rend="sup">e</hi>
+<hi>siècle</hi>, Paris, Boivin, 1936, p. 567 et 616, dont s’inspire également, sur ce sujet l’<hi>Histoire de l’idée fédéraliste</hi>, de Bernard <hi rend="sc">Voyenne</hi>, Paris, Presses d’Europe, 1976.</note>. Il tirait de là des conséquences politiques dont l’extrême importance se révèle aujourd’hui comme on va le voir.</p>
 
 
 </div>
@@ -2577,7 +2601,8 @@
 </div>
 <div>
 
-<pb n="223" xml:id="p223"/><head>Triomphe de Jean Bodin : « L’État c’est moi ! »</head>
+<pb n="223" xml:id="p223"/>
+<head>Triomphe de Jean Bodin : « L’État c’est moi ! »</head>
 
 <p>Si Louis XIV a vraiment dit : « L’État c’est moi ! », c’est qu’on lui aura lu Jean Bodin. Dans <hi>La République</hi>, ouvrage en six livres paru en 1576, ce fondateur français de la science politique donne, en effet, pour évidence, que la pleine souveraineté appartient au monarque, à qui le peuple en a fait <hi>abandon, une fois pour toutes</hi>, et <hi>sans condition</hi>. La souveraineté est définie par « le pouvoir de donner et casser la loy », par celui de lever des impôts ou d’en exempter les sujets, de « connaître en dernier ressort des jugements de tous magistrats », de « hausser ou baisser le titre des monnoyes », et surtout, de « décerner la guerre ou faire la paix ». Elle n’est donc limitée par rien au monde, si ce n’est la « volonté de Dieu », dont on nous déclare aussitôt que le souverain seul est l’interprète autorisé.</p>
 
@@ -2785,7 +2810,8 @@
 
 <p>L’enfer, c’est l’absence des autres.</p>
 
-<pb n="238" xml:id="p238"/><p>2. La société occidentale, ayant passé en quelques siècles de l’organisation tribale aux entassements mégalopolitains, par les étapes de la Cité libre, de la tyrannie, des empires, des principautés féodales et des Communes, puis de la Nation étatisée, est entrée avec nous dans sa crise décisive. Voici un siècle encore, <hi>quatre cinquièmes de l’humanité</hi> vivaient dans des communautés villageoises millénaires, où l’existence entière était réglée par des coutumes impératives, magiques, sexuelles, économiques. Mais déjà, dans les mégalopoles dont on calcule qu’elles enfermeront vers la fin de ce siècle <hi>quatre cinquièmes de l’humanité</hi>, les relations se dégradent avec une dramatique rapidité.</p>
+<pb n="238" xml:id="p238"/>
+<p>2. La société occidentale, ayant passé en quelques siècles de l’organisation tribale aux entassements mégalopolitains, par les étapes de la Cité libre, de la tyrannie, des empires, des principautés féodales et des Communes, puis de la Nation étatisée, est entrée avec nous dans sa crise décisive. Voici un siècle encore, <hi>quatre cinquièmes de l’humanité</hi> vivaient dans des communautés villageoises millénaires, où l’existence entière était réglée par des coutumes impératives, magiques, sexuelles, économiques. Mais déjà, dans les mégalopoles dont on calcule qu’elles enfermeront vers la fin de ce siècle <hi>quatre cinquièmes de l’humanité</hi>, les relations se dégradent avec une dramatique rapidité.</p>
 
 <p>Les modes, les magazines sur la sexualité, et la TV, offrent des palliatifs dérisoires à ce qui fut la base de toute culture, celle des mœurs, autrefois fonction de l’Église et des grands mythes transmis par nos littératures. Le phénomène décisif en ce domaine reste celui de la désécration de la vie sexuelle, de plus en plus « libérée », nous dit-on, des disciplines rigoureuses du clan et des rituels d’intégration sociale, mais dès lors livrée sans défense à la tyrannie des névroses (par anomie, ou frustration de ses fins éthico-sociales autant que génériques).</p>
 
@@ -2800,7 +2826,8 @@
 </div>
 <div>
 
-<pb n="241" xml:id="p241"/><head>11. Les variétés de l’expérience communautaire</head>
+<pb n="241" xml:id="p241"/>
+<head>11. Les variétés de l’expérience communautaire</head>
 
 
 <div>
@@ -2844,8 +2871,8 @@
 <p>Or, ces traits sont communs également à la plupart des sectes, écoles mystiques, ordres secrets et mouvements spirituels hétérodoxes apparus en Occident pendant notre ère, des Frères du Libre-Esprit jusqu’aux hippies ; et toutes ces tentatives, qui sont nées d’une inspiration millénariste, ont en commun ce trait supplémentaire d’avoir échoué dans de rapides débâcles, comme celles des phalanstères fouriéristes ou de la New Harmony de Robert Owen — quand ce n’est pas dans l’humiliante défaite d’une lente et sûre adaptation au « monde », comme ce fut le cas d’Oneida : passant par étapes du régime de la communauté des biens et des personnes (avec le « complex marriage »), à celui d’une firme comme les autres.</p>
 
 <p>Cette faible durée qui semble être la loi, ou plus rarement ces échecs à moyen terme, contrastent avec la longue durée des grands ordres européens, dont certains ont plus de mille ans, tous plusieurs siècles. Faut-il en inférer que la durée d’une communauté fermée serait proportionnelle à la rigueur de sa règle, et qu’à l’inverse, l’orgueil libertaire irait devant l’écrasement ? À ce critère de moralité plus philistine que chrétienne, on opposera l’observation suivante : Oneida qui réussit à pratiquer pendant une trentaine d’années « le mariage de tous avec tous, personne n’étant la propriété de quiconque<note place="foot">
-    <p>Cf. H. <hi rend="sc">Desroches</hi>, « Oneida, puritaine et libertaire », <hi>Archives de sociologie des religions</hi>, tome 36, 1973. Voici en bref ce que signifie « complex marriage ». J. H. Noyes, le fondateur, eut un jour la révélation « que la sexualité pouvait être distincte de la reproduction » et qu’un <hi>self-control</hi> (« pas difficile », dit-il) permettait à l’homme « une jouissance accrue », mais qui n’entraînait pas « la terreur d’une procréation involontaire ». C’était redécouvrir le <hi>coitus reservatus</hi> du tantrisme hindou et chinois, promesse d’immortalité dans ces religions. Et cela ouvrait la voie au « mariage complexe », c’est-à-dire aux échanges entre 2, 4, 6… <hi>x</hi> couples ; et finalement, à la procréation volontaire (eugénique). Noyes devint ainsi à plus de 60 ans, le père de 9 enfants de mères différentes dans la communauté. Tout cela fondé sur d’abondantes exégèses du Nouveau Testament. Des arbitres, Aînés respectés, réglaient les difficultés nées de choix divergents, ou du non-choix de tel ou telle. En règle générale, les jeunes gens devaient être initiés par une femme ayant fait sa ménopause, les jeunes filles par des « dignitaires mâles ». C’est sur ces privilèges de génération que le système vint se briser en 1880, obligeant Noyes à en revenir à la doctrine de saint Paul : « Celui qui se marie (en monogamie, s’entend !) fait bien, celui qui ne se marie pas fait mieux. » Toute cette problématique et son évolution restent indépassées de nos jours, pour dire le moins.</p>
-    <p>Voir aussi Robert Allerton Parker, <hi>A Yankee Saint, J. H. Noyes and the Oneida Community</hi>, Putnam, New York, 1935.</p>
+<p>Cf. H. <hi rend="sc">Desroches</hi>, « Oneida, puritaine et libertaire », <hi>Archives de sociologie des religions</hi>, tome 36, 1973. Voici en bref ce que signifie « complex marriage ». J. H. Noyes, le fondateur, eut un jour la révélation « que la sexualité pouvait être distincte de la reproduction » et qu’un <hi>self-control</hi> (« pas difficile », dit-il) permettait à l’homme « une jouissance accrue », mais qui n’entraînait pas « la terreur d’une procréation involontaire ». C’était redécouvrir le <hi>coitus reservatus</hi> du tantrisme hindou et chinois, promesse d’immortalité dans ces religions. Et cela ouvrait la voie au « mariage complexe », c’est-à-dire aux échanges entre 2, 4, 6… <hi>x</hi> couples ; et finalement, à la procréation volontaire (eugénique). Noyes devint ainsi à plus de 60 ans, le père de 9 enfants de mères différentes dans la communauté. Tout cela fondé sur d’abondantes exégèses du Nouveau Testament. Des arbitres, Aînés respectés, réglaient les difficultés nées de choix divergents, ou du non-choix de tel ou telle. En règle générale, les jeunes gens devaient être initiés par une femme ayant fait sa ménopause, les jeunes filles par des « dignitaires mâles ». C’est sur ces privilèges de génération que le système vint se briser en 1880, obligeant Noyes à en revenir à la doctrine de saint Paul : « Celui qui se marie (en monogamie, s’entend !) fait bien, celui qui ne se marie pas fait mieux. » Toute cette problématique et son évolution restent indépassées de nos jours, pour dire le moins.</p>
+<p>Voir aussi Robert Allerton Parker, <hi>A Yankee Saint, J. H. Noyes and the Oneida Community</hi>, Putnam, New York, 1935.</p>
 </note> » fut sans doute la plus « libertaire » (au sens actuel) de toutes les communautés de <pb n="245" xml:id="p245"/>l’époque moderne, mais aussi la plus rigoriste et puritaine dans l’exercice des libertés reconnues bonnes. Sous sa forme extrémiste, elle dura trente-deux ans (1848-1880), sous sa forme atténuée, cinquante-cinq ans. Plaçons en regard le tableau des durées atteintes par les « phalanxes » fouriéristes aux USA : « Le tiers environ n’a pas duré plus d’un an. Une dizaine s’est prolongée d’un à deux ans. Une demi-douzaine est allée de trois à dix ans. Une seule a dépassé la décennie, la fameuse <hi>North American Phalanx</hi>, qui est parvenue jusqu’à treize ans<note place="foot"><hi rend="sc">H. Desroches</hi>, <hi>op. cit.</hi>, p. 11.</note> ». D’ailleurs, l’idée de la brièveté de vie d’une communauté est comme préformée dans les esprits. Huizinga note<note place="foot"><hi rend="sc">J. Huizinga</hi>, <hi>Le Déclin du Moyen Âge</hi>, trad. fr. Payot, Paris, 1932.</note> que les <hi>toutes premières mentions</hi> des ordres de chevalerie dans les chroniques médiévales parlent déjà de l’état de décadence où ils se trouvent. De même, Noyes parle d’un Anglais venu aux USA « dans les années 1840 » du <num><hi rend="sc">xix</hi></num><hi rend="sup">e</hi> siècle et qui avait trouvé « l’owénisme en ruine et le fouriérisme allant à la ruine » — or si l’expérience de Robert Owen à New Harmony s’était terminée en effet une quinzaine d’années auparavant, celle des phalanxes fouriéristes avait à peine commencé. (Elle s’étend de 1841 à 1860 environ.) Quant aux shakers, leur épopée américaine commencée en 1774 s’est terminée en 1912 par la vente de leur maison mère, Mount Lebanon. (En 1936, ils n’avaient plus que trois églises et quatre-vingt-douze membres.)</p>
 
 <p>Ce qui distingue les deux communautés relativement durables qu’on vient de citer, des trente-cinq phalanstères éphémères, ce n’est pas leur degré de liberté, fût-elle sexuelle, mais leur degré de motivation religieuse. Fourier se fût bien moqué des puritains d’Oneida et de Mount Lebanon, mais eux seuls ont réalisé, l’espace d’une génération, ce que les obsessions systématiques et la Partouse universelle de Fourier n’ont jamais inspiré à ses lecteurs. <pb n="246" xml:id="p246"/>Peu d’exemples pour notre temps, me paraissent plus chargés de sens nombreux.</p>
@@ -3013,9 +3040,9 @@
 <head>« Small is beautiful »</head>
 
 <epigraph>
-  <p>« Grandeur des nations, étendue des États, première et principale cause des malheurs du genre humain. »</p>
+<p>« Grandeur des nations, étendue des États, première et principale cause des malheurs du genre humain. »</p>
 
-  <p rend="right">J.-J. <hi rend="sc">Rousseau</hi>.</p>
+<p rend="right">J.-J. <hi rend="sc">Rousseau</hi>.</p>
 </epigraph>
 
 <p rend="center"/>
@@ -3024,19 +3051,21 @@
 
 <p>J’ai marqué le rôle décisif que jouent dans toute société les <hi>dimensions</hi> politiques ou techniques, physiques ou financières des tâches données et des cadres où elles peuvent s’accomplir. Certaines tâches, telles que la construction d’une autoroute, ou d’une centrale nucléaire, ou l’entretien d’une université excèdent notoirement le cadre local d’un village, d’un bourg ou d’un canton. C’est une communauté plus vaste — région, nation, fédération — qui devra donc les prendre en charge. Mais à l’inverse, certains ensembles, comme les mégalopoles (qui ne méritent plus le nom de communautés) sont trop vastes pour assurer l’exercice des tâches de tous ordres qui relèveraient normalement des compétences municipales. Les villes de plus d’un million d’habitants commencent à devenir mal habitables, et celles de plus de dix millions sont proprement ingouvernables, et — je l’ai dit plus haut — non gouvernées.</p>
 
-<p rend="center"/>
+<pb n="261"/>
 
-<encadre rend="center"><hi><pb n="261"/>La loi de Jean-Jacques</hi></encadre>
+<quote rend="border">
+  
+<p rend="center i">La loi de Jean-Jacques</p>
 
-<encadre>Les dimensions des communautés sont de deux sortes, que Rousseau dénommait « nombre du peuple » et « étendue de l’État ». De l’une et l’autre dimensions dépend directement la participation politique des citoyens : au très petit État correspond le maximum de liberté civique, mais « plus l’État s’agrandit, plus la liberté diminue », tandis que « le gouvernement doit être plus fort à mesure que le peuple est plus nombreux » et qu’en revanche « plus les magistrats sont nombreux, plus le gouvernement est faible ». Ou encore : « Le plus actif des gouvernements est celui d’un seul » ; « Le nombre des chefs diminue en raison de l’augmentation du peuple. » Ou enfin : « Si […] le nombre des magistrats suprêmes doit être en raison inverse de celui des citoyens, il s’ensuit qu’en général le gouvernement démocratique convient aux petits États », ceux où « le peuple est facile à rassembler » (<hi>Contrat social</hi>, III, 1 à 3).</encadre>
+<p>Les dimensions des communautés sont de deux sortes, que Rousseau dénommait « nombre du peuple » et « étendue de l’État ». De l’une et l’autre dimensions dépend directement la participation politique des citoyens : au très petit État correspond le maximum de liberté civique, mais « plus l’État s’agrandit, plus la liberté diminue », tandis que « le gouvernement doit être plus fort à mesure que le peuple est plus nombreux » et qu’en revanche « plus les magistrats sont nombreux, plus le gouvernement est faible ». Ou encore : « Le plus actif des gouvernements est celui d’un seul » ; « Le nombre des chefs diminue en raison de l’augmentation du peuple. » Ou enfin : « Si […] le nombre des magistrats suprêmes doit être en raison inverse de celui des citoyens, il s’ensuit qu’en général le gouvernement démocratique convient aux petits États », ceux où « le peuple est facile à rassembler » (<hi>Contrat social</hi>, III, 1 à 3).</p>
 
-<encadre>Jean-Jacques en vient ainsi à formuler une <hi>loi de la participation</hi> qu’illustrent les exemples des petits cantons suisses à <hi>Landsgemeinde</hi>, ou de Genève, et avant eux des cités grecques où l’on comptait presque autant de magistrats (prenant charge par rotation) que de citoyens : — <hi>Plus une communauté est petite, plus le gouvernement peut y être démocratique</hi> ; plus un État est populeux et étendu, et plus le pouvoir doit être concentré. (À la limite, il faudra donc un dictateur.)</encadre>
+<p>Jean-Jacques en vient ainsi à formuler une <hi>loi de la participation</hi> qu’illustrent les exemples des petits cantons suisses à <hi>Landsgemeinde</hi>, ou de Genève, et avant eux des cités grecques où l’on comptait presque autant de magistrats (prenant charge par rotation) que de citoyens : — <hi>Plus une communauté est petite, plus le gouvernement peut y être démocratique</hi> ; plus un État est populeux et étendu, et plus le pouvoir doit être concentré. (À la limite, il faudra donc un dictateur.)</p>
 
-<encadre>De là le conseil de Rousseau aux patriotes polonais : « Si vous voulez réformer votre gouvernement, commencez par resserrer vos limites. » (Il ajoute : « Certains penseront peut-être à vous y aider… »)</encadre>
+<p>De là le conseil de Rousseau aux patriotes polonais : « Si vous voulez réformer votre gouvernement, commencez par resserrer vos limites. » (Il ajoute : « Certains penseront peut-être à vous y aider… »)</p>
 
-<encadre>Le représentant Thouret, principal auteur, avec Sieyès, du plan de centralisation de la France via sa départementalisation, avait fort bien compris la vraie leçon de Rousseau. Il estimait, en effet, que « la France périrait par la démocratie, qui ne convient ni à ses mœurs, ni à la grandeur de son territoire, ni à l’étendue de sa population ».</encadre>
+<p>Le représentant Thouret, principal auteur, avec Sieyès, du plan de centralisation de la France via sa départementalisation, avait fort bien compris la vraie leçon de Rousseau. Il estimait, en effet, que « la France périrait par la démocratie, qui ne convient ni à ses mœurs, ni à la grandeur de son territoire, ni à l’étendue de sa population ».</p>
 
-<p rend="center"/>
+</quote>
 
 <p><pb n="262" xml:id="p262"/>Alors que la Suisse compte environ 40 000 élus pour une population de 6 600 000, soit un élu par 165 habitants, Los Angeles ne compte guère que 300 élus pour une population de 13 000 000, soit un élu pour plus de 43 000 habitants.</p>
 
@@ -3068,7 +3097,8 @@
 
 <p rend="center"/>
 
-<pb n="263" xml:id="p263"/><p>Le grand État unifié offre-t-il à ses habitants plus et mieux que le petit État ? se demandait Herman Kahn en 1973<note place="foot">Herman <hi rend="sc">Kahn</hi>, <hi>Things to Come</hi> (trad. française sous le titre naïf <hi>À l’assaut du futur</hi>, Paris, Robert Laffont, 1973).</note>. Et de constater que « la France n’a pas une économie nécessairement plus saine que la Belgique, et aucune des deux n’a une économie plus saine que le Luxembourg ». Et de même : « la France n’est pas plus en sécurité que la Belgique, et aucune des deux n’est plus en sécurité que le Luxembourg (lequel d’ailleurs a dissous son armée) ».</p>
+<pb n="263" xml:id="p263"/>
+<p>Le grand État unifié offre-t-il à ses habitants plus et mieux que le petit État ? se demandait Herman Kahn en 1973<note place="foot">Herman <hi rend="sc">Kahn</hi>, <hi>Things to Come</hi> (trad. française sous le titre naïf <hi>À l’assaut du futur</hi>, Paris, Robert Laffont, 1973).</note>. Et de constater que « la France n’a pas une économie nécessairement plus saine que la Belgique, et aucune des deux n’a une économie plus saine que le Luxembourg ». Et de même : « la France n’est pas plus en sécurité que la Belgique, et aucune des deux n’est plus en sécurité que le Luxembourg (lequel d’ailleurs a dissous son armée) ».</p>
 
 <p>Qu’il s’agisse de culture ou d’industrie, de créativité, de taux de change ou d’emploi, et surtout de contrôle de l’État par le peuple, le petit État européen fonctionne mieux que le grand à tous égards sauf un : il ne peut pas faire de grandes guerres, c’est-à-dire de bêtises démesurées.</p>
 
@@ -3096,15 +3126,17 @@
 
 <p>Repartir à neuf, c’est aussi repartir des racines, du sol, avec l’immense puissance imperceptible nuit et jour du blé qui lève brin par brin. C’est donc avant tout recréer de petites unités compréhensibles par le moyen de <hi>petites actions multipliées</hi>, celles que peuvent accomplir, et accomplissent déjà, des centaines, des milliers d’associations qui existent dans chacune de nos régions et de nos villes, associations de militants de toutes croyances, chrétiens ou socialistes, écologistes, agrobiologistes ou artisans, éducateurs ou méditants, fédéralistes européens ou mondiaux… Cet immense potentiel d’activités ne trouve pas à se réaliser au niveau national que pourtant la plupart sont tentés de croire seul valable, cependant qu’ils y dépérissent visiblement, faute d’y trouver à faire rien de concret. C’est au niveau local et régional, c’est pratiquement dans les communes, au sens municipal du terme, que la petite association devient active, électoralement efficace, et redoutable aux yeux des clients de l’État.</p>
 
-<p rend="center"/>
+<quote rend="border">
 
-<encadre>« <hi>Les petits ruisseaux font les grandes rivières</hi> » et semblent y trouver leur justification dans l’esprit des adorateurs du grand et du violent. Mais non, les petits ruisseaux ont mieux à faire ! Les grandes rivières emportent tout, brutalisent tout sur leur passage. Elles ne créent pas la vie mais réveillent la violence. Les grandes rivières, Rhin, Vistule ou Danube, sont avant tout des lignes de démarcation entre États-nations belliqueux. « Frontières naturelles » que le plus fort annule. Séparations des races, par exemple entre Francs et autres Germains. Ou, au contraire, lien de parenté — comme entre Languedoc et Provence… Les grandes rivières sont des catégories d’état-major.</encadre>
+<p>« <hi>Les petits ruisseaux font les grandes rivières</hi> » et semblent y trouver leur justification dans l’esprit des adorateurs du grand et du violent. Mais non, les petits ruisseaux ont mieux à faire ! Les grandes rivières emportent tout, brutalisent tout sur leur passage. Elles ne créent pas la vie mais réveillent la violence. Les grandes rivières, Rhin, Vistule ou Danube, sont avant tout des lignes de démarcation entre États-nations belliqueux. « Frontières naturelles » que le plus fort annule. Séparations des races, par exemple entre Francs et autres Germains. Ou, au contraire, lien de parenté — comme entre Languedoc et Provence… Les grandes rivières sont des catégories d’état-major.</p>
 
-<encadre>Mais les petits ruisseaux, si l’on veut qu’ils arrosent les territoires qu’ils traversent, il s’agit non de les réunir en une seule masse, mais, au contraire, de les diviser en millions et en milliards de gouttelettes, et cela s’appelle <hi>arroser</hi> — qui est une technologie douce et porteuse de vie.</encadre>
+<p>Mais les petits ruisseaux, si l’on veut qu’ils arrosent les territoires qu’ils traversent, il s’agit non de les réunir en une seule masse, mais, au contraire, de les diviser en millions et en milliards de gouttelettes, et cela s’appelle <hi>arroser</hi> — qui est une technologie douce et porteuse de vie.</p>
 
-<p rend="center"/>
+</quote>
 
-<p><pb n="266" xml:id="p266"/>C’est là, dans les communes, que tout se joue, et que va se jouer le sort de notre société occidentale ; là, non pas dans les capitales où se calculent le PNB, la balance commerciale et les rapports de forces nucléaires, indicateurs de la puissance de l’État, mais qui ne disent rien sur la vitalité ni le bonheur de la nation.</p>
+<pb n="266" xml:id="p266"/>
+
+<p>C’est là, dans les communes, que tout se joue, et que va se jouer le sort de notre société occidentale ; là, non pas dans les capitales où se calculent le PNB, la balance commerciale et les rapports de forces nucléaires, indicateurs de la puissance de l’État, mais qui ne disent rien sur la vitalité ni le bonheur de la nation.</p>
 
 
 </div>
@@ -3149,8 +3181,8 @@
 <p>Que font les CPB ? Que font les GAM ?</p>
 
 <p>Les premiers, dont les membres (trente-cinq par quartier) sont nommés et choisis dans la population par la très officielle Commission de planification urbaine, ne représentent que l’Opinion, mais on sait qu’elle est reine aux USA. Ils s’opposent à l’établissement d’une industrie ou d’une commune qui risquerait de bouleverser l’équilibre socio-économique du quartier. Ils interdisent aux promoteurs la destruction de logements pour y faire des parkings. Ils revendiquent le droit d’initiative et ils l’exercent. Ils exigent l’accès aux dossiers et ils l’obtiennent. Ils imposent aux experts leur vision d’usagers ; contre eux, ils élaborent l’urbanisme réel, celui dont les GAM français diront qu’il est fondé non plus sur la rentabilité du seul capital investi, mais sur une rentabilité sociale. Et que doit-elle mesurer ? « Tout ce qui fait avantage ou gêne, gain ou perte, amélioration de l’existence ou détérioration du cadre de vie, augmentation de la justice ou accroissement de l’inégalité<note place="foot">
-    <p><hi>Op. cit.</hi>, p. 32. Créés « pour faire pièce à toutes les formes du pouvoir (État, administration, promoteurs, entreprises, municipalités morcelées) qui contribuent à la désagrégation de la ville », les GAM se caractérisent par les principes suivants :</p>
-    <p>« Volonté d’action à partir des préoccupations quotidiennes des gens, liée à un souci pédagogique, qu’on retrouve dans leur terminologie : “intervention directe du citoyen”, “problèmes posés au ras du bitume”, etc. — Perception globale de la ville qui n’exclut pas les opérations localisées mais qui ne fait pas d’une victoire de détail une fin en soi. — Refus affirmé d’un système économique et financier qui opprime l’homme et l’aliène dans toutes ses dimensions et particulièrement dans son cadre de vie. — Idéal de démocratie authentique et non plus formelle, fondée sur la participation des citoyens à tous les niveaux où se prennent les décisions. »</p>
+<p><hi>Op. cit.</hi>, p. 32. Créés « pour faire pièce à toutes les formes du pouvoir (État, administration, promoteurs, entreprises, municipalités morcelées) qui contribuent à la désagrégation de la ville », les GAM se caractérisent par les principes suivants :</p>
+<p>« Volonté d’action à partir des préoccupations quotidiennes des gens, liée à un souci pédagogique, qu’on retrouve dans leur terminologie : “intervention directe du citoyen”, “problèmes posés au ras du bitume”, etc. — Perception globale de la ville qui n’exclut pas les opérations localisées mais qui ne fait pas d’une victoire de détail une fin en soi. — Refus affirmé d’un système économique et financier qui opprime l’homme et l’aliène dans toutes ses dimensions et particulièrement dans son cadre de vie. — Idéal de démocratie authentique et non plus formelle, fondée sur la participation des citoyens à tous les niveaux où se prennent les décisions. »</p>
 </note>. » Et cela, au profit de qui ? De tous les groupes concernés par une décision, et pas seulement de l’entreprise privée chargée des équipements publics.</p>
 
 <p>Les CPB ou les GAM font-ils de la politique ? Bien sûr ! et même au sens originel du terme, qui désignait la conduite des affaires d’une <hi>polis</hi>, d’une cité grecque. Les animateurs des GAM écrivent très judicieusement : « Contrôler l’activité du technicien, choisir les actions de <pb n="272" xml:id="p272"/>la collectivité entre toutes les actions possibles, c’est proprement le domaine de la politique. » L’instauration d’une démocratie nouvelle signifie, à tous les niveaux de la vie publique, « <hi>la formation et la maîtrise d’un projet par ceux qui sont concernés</hi> ». Et de conclure : « La voie du changement est longue et difficile. Ce qui a déjà été fait montre qu’elle n’est pas impossible. »</p>
@@ -3190,7 +3222,8 @@
 </div>
 <div>
 
-<pb n="277" xml:id="p277"/><head>12. Que tout appelle les régions</head>
+<pb n="277" xml:id="p277"/>
+<head>12. Que tout appelle les régions</head>
 
 
 <div>
@@ -3362,7 +3395,8 @@
 </div>
 <div>
 
-<pb n="289" xml:id="p289"/><head>13. Les variétés de l’expérience régionale</head>
+<pb n="289" xml:id="p289"/>
+<head>13. Les variétés de l’expérience régionale</head>
 
 <p>Alors que les Communautés de Bruxelles abordaient la région, au départ<note place="foot">Cf. <hi>Documents de la Conférence sur les économies régionales, Bruxelles, 6-8 décembre 1961</hi>, Communauté économique européenne, 2 vol., 1963.</note>, comme un problème de <hi>développement</hi>, j’en parle ici comme d’un problème décisif de <hi>participation</hi> civique et <hi>d’animation</hi>, ou réanimation <hi>in extremis</hi> — d’une société menacée à la fois d’anémie politique (mal compensée par ses fièvres politiciennes), de désertion civique, et de colonisation économique.</p>
 
@@ -3427,7 +3461,7 @@
 
 <p>« Le patriotisme actuel consiste en une équation entre le bien et une collectivité correspondant à un espace territorial, à savoir la France ; quiconque change dans sa pensée le terme territorial de l’équation, et met à la place un terme plus petit, comme la Bretagne, ou plus grand, comme l’Europe, est regardé comme un traître. Pourquoi cela ? C’est tout à fait arbitraire. » (<hi>L’Enracinement</hi>.)</p>
 
-<p>Plus près de nous, Herman Kahn (qui n’avait pas même mentionné le terme de région dans son fameux <hi>An 2000</hi>, daté de 1967) découvre le phénomène en 1972, et y consacre dans l’un de ses derniers ouvrages<note place="foot">Herman <hi rend="sc">Kahn</hi> et B. Bruce <hi rend="sc">Briggs</hi>, <hi>Things to Come</hi>, Londres, <alistitem>Collier Macmillan</alistitem>, 1972. Traduction française : <hi>À l’assaut du futur</hi>, Paris, Robert Laffont, 1973.</note> des pages d’une objectivité et d’un bon sens impitoyables :</p>
+<p>Plus près de nous, Herman Kahn (qui n’avait pas même mentionné le terme de région dans son fameux <hi>An 2000</hi>, daté de 1967) découvre le phénomène en 1972, et y consacre dans l’un de ses derniers ouvrages<note place="foot">Herman <hi rend="sc">Kahn</hi> et B. Bruce <hi rend="sc">Briggs</hi>, <hi>Things to Come</hi>, Londres, Collier Macmillan, 1972. Traduction française : <hi>À l’assaut du futur</hi>, Paris, Robert Laffont, 1973.</note> des pages d’une objectivité et d’un bon sens impitoyables :</p>
 
 <p>« Aujourd’hui nous tenons pour acquise la légitimité des États-nations existant en Europe occidentale… Certains d’entre eux remontent à plusieurs siècles. L’existence de ces États-nations nous paraît tellement normale qu’il nous arrive d’oublier que leurs frontières actuelles… sont fondées sur <pb n="295" xml:id="p295"/>une longue série d’accidents et de coïncidences historiques… Chacun s’est forgé une histoire nationale qui démontre que son développement était inévitable, et son destin arrangé par la Providence, comme le mythe français des “frontières naturelles”… »</p>
 
@@ -3443,19 +3477,21 @@
 
 <p>Cependant, dans d’autres contrées, comme le Mezzogiorno toujours cité, le Sud-Ouest de la France ou certaines contrées du Nord de la RFA, faute de conflit en milieu homogène, les facteurs ethniques demeurent nuls. Les structures géographiques, des problèmes brûlants d’économie agricole, d’emploi, ou d’environnement, manifestent alors un pouvoir plus actif de mobilisation communautaire — pour un temps de crise du moins : car une analyse historique et psychologique des jugements et des motivations conscientes ou non, dans le climat social et culturel de telles régions, peut très bien révéler — et révèle en effet dans la plupart des cas — l’influence de facteurs ethniques <hi>effacés</hi> par l’action de l’État central, mais régnant au secret de la psyché collective. L’école aux trois degrés, principal agent colonisateur de l’ethnie dominante dans la Capitale, n’a pas mal réussi en moins de deux siècles. On peut s’en assurer si l’on se reporte à cette déclaration de l’abbé Grégoire qui date de 1793, et selon laquelle plus de treize millions de Français — soit un peu plus de la moitié de la population d’alors — « ignorent totalement la langue de la nation ». Voilà qui a changé, certes, selon toutes apparences… Mais deux siècles, c’est peu pour l’âme d’un peuple, pour ces réalités irréductibles à l’analyse rationaliste et que C. G. Jung voyait vivre dans ce qu’il nomme l’Inconscient collectif. De même que l’analyse par radiation ultraviolette fait reparaître sous la peinture visible une première exécution — parfois la meilleure — de tel tableau célèbre, une radioscopie historique de nos régions révélerait des « états antérieurs » linguistiques, culturels, et socioéconomiques dont nul ordinateur jamais n’abolira les leçons surprenantes.</p>
 
-<p rend="center"/>
+<quote rend="border">
 
-<encadre rend="center"><hi>Un triangle magique</hi></encadre>
+<p rend="center i">Un triangle magique</p>
 
-<encadre>La collaboration entre les universités cantonales de la Suisse romande, Neuchâtel, Fribourg, Lausanne et Genève, s’avère déjà très difficile et très ténue, mais elle est quasi nulle ou négative entre universités suisses et françaises. Les professeurs français peuvent être <pb n="297" xml:id="p297"/>nommés en Suisse, mais non l’inverse. La mobilité des étudiants, un peu plus égale en droit, se voit limitée en fait par l’absence d’équivalence des diplômes. Quant au droit d’exercice d’une profession libérale (<hi>effectus civilis</hi>) pour les diplômés d’une université « étrangère », il est quasi nul. Pourtant, l’extraordinaire densité des établissements d’enseignement supérieur dans la région lémano-alpine (seize pour le moment, dans une région qui va de Saint-Étienne à l’ouest, à Besançon au nord et à Aoste à l’est<note place="foot">La création à Aoste d’une université régionale a été votée par le Parlement italien en 1972.</note>), invite à imaginer la richesse des possibilités de coopération qu’ouvrirait l’organisation d’une région universitaire. Englobant celles déjà citées plus haut, cette nouvelle région fonctionnelle contribuerait à former la conscience d’une entité transfrontalière réunissant la Franche-Comté, la Suisse romande, le Val d’Aoste et plusieurs départements de Rhône-Alpes. Entité que je croyais accidentelle d’ailleurs, mais je me trompais. Car la région universitaire dont j’avais esquissé la possibilité devant plusieurs recteurs suisses et présidents d’universités françaises, se trouve coïncider très exactement, comme le fit observer l’un d’entre eux, avec l’aire du franco-provençal, qui y fut parlé, écrit et chanté du <num><hi rend="sc">ix</hi></num><hi rend="sup">e</hi> siècle jusqu’aux débuts du <num><hi rend="sc">xix</hi></num><hi rend="sup">e</hi> (Pictet de Rochemont, négociateur en 1815 des actuelles frontières franco-genevoises, avait écrit trois opuscules dans cette langue, dont ne sont plus utilisés que quelques mots mêlés au parler quotidien, mais qui a sans aucun doute marqué toute la culture de la région et laissé des traces profondes dans l’inconscient de ses habitants.)</encadre>
+<p>La collaboration entre les universités cantonales de la Suisse romande, Neuchâtel, Fribourg, Lausanne et Genève, s’avère déjà très difficile et très ténue, mais elle est quasi nulle ou négative entre universités suisses et françaises. Les professeurs français peuvent être <pb n="297" xml:id="p297"/>nommés en Suisse, mais non l’inverse. La mobilité des étudiants, un peu plus égale en droit, se voit limitée en fait par l’absence d’équivalence des diplômes. Quant au droit d’exercice d’une profession libérale (<hi>effectus civilis</hi>) pour les diplômés d’une université « étrangère », il est quasi nul. Pourtant, l’extraordinaire densité des établissements d’enseignement supérieur dans la région lémano-alpine (seize pour le moment, dans une région qui va de Saint-Étienne à l’ouest, à Besançon au nord et à Aoste à l’est<note place="foot">La création à Aoste d’une université régionale a été votée par le Parlement italien en 1972.</note>), invite à imaginer la richesse des possibilités de coopération qu’ouvrirait l’organisation d’une région universitaire. Englobant celles déjà citées plus haut, cette nouvelle région fonctionnelle contribuerait à former la conscience d’une entité transfrontalière réunissant la Franche-Comté, la Suisse romande, le Val d’Aoste et plusieurs départements de Rhône-Alpes. Entité que je croyais accidentelle d’ailleurs, mais je me trompais. Car la région universitaire dont j’avais esquissé la possibilité devant plusieurs recteurs suisses et présidents d’universités françaises, se trouve coïncider très exactement, comme le fit observer l’un d’entre eux, avec l’aire du franco-provençal, qui y fut parlé, écrit et chanté du <num><hi rend="sc">ix</hi></num><hi rend="sup">e</hi> siècle jusqu’aux débuts du <num><hi rend="sc">xix</hi></num><hi rend="sup">e</hi> (Pictet de Rochemont, négociateur en 1815 des actuelles frontières franco-genevoises, avait écrit trois opuscules dans cette langue, dont ne sont plus utilisés que quelques mots mêlés au parler quotidien, mais qui a sans aucun doute marqué toute la culture de la région et laissé des traces profondes dans l’inconscient de ses habitants.)</p>
 
-<encadre>J’ajoute que cette plus grande région se trouve être aussi celle où l’on produit 85 % de l’horlogerie européenne, et celle de la clientèle principale de l’aéroport de Genève. Elle fut aussi le deuxième royaume de Bourgogne de 888 à 1032, avant son rattachement au Saint-Empire.</encadre>
+<p>J’ajoute que cette plus grande région se trouve être aussi celle où l’on produit 85 % de l’horlogerie européenne, et celle de la clientèle principale de l’aéroport de Genève. Elle fut aussi le deuxième royaume de Bourgogne de 888 à 1032, avant son rattachement au Saint-Empire.</p>
 
-<encadre>Je ne puis que constater toutes ces coïncidences. Elles détiennent le mystère de la région.</encadre>
+<p>Je ne puis que constater toutes ces coïncidences. Elles détiennent le mystère de la région.</p>
 
-<p rend="center"/>
+</quote>
 
-<p><pb n="298" xml:id="p298"/>L’âme de la Bretagne est sans nul doute dans la forêt de Brocéliande, auprès de la fontaine Barenton, qui fut le lieu, dans le temps légendaire, de la rencontre de Merlin et de Viviane. Mais la Bretagne bretonnante ne vivra pas sans le pays gallo, sans Rennes et Nantes ; sans un corps et qui parle français dès qu’il compte, pèse et mesure, ou lève des taxes pour la capitale…</p>
+<pb n="298" xml:id="p298"/>
+
+<p>L’âme de la Bretagne est sans nul doute dans la forêt de Brocéliande, auprès de la fontaine Barenton, qui fut le lieu, dans le temps légendaire, de la rencontre de Merlin et de Viviane. Mais la Bretagne bretonnante ne vivra pas sans le pays gallo, sans Rennes et Nantes ; sans un corps et qui parle français dès qu’il compte, pèse et mesure, ou lève des taxes pour la capitale…</p>
 
 
 </div>
@@ -3511,7 +3547,8 @@
 
 <p>1. <hi>Nulle pollution n’a jamais été arrêtée par une frontière nationale</hi> : ni les tempêtes, ni les contagions, ni le déversement du mercure dans nos lacs et du pétrole dans nos eaux territoriales, ni les ondes des radios et TV, ni les insinuations ni les éclats des fanatismes idéologiques. (Les enfants des écoles sont très sensibles à cette impuissance des frontières que leurs atlas tendaient à présenter comme des barrières absolues.)</p>
 
-<pb n="302" xml:id="p302"/><p>2. En revanche, <hi>l’application des mesures écologiques est nécessairement locale</hi> et régionale dans la grande majorité des cas : choix du site d’une centrale nucléaire, option pour d’autres sources d’énergie, tracé des autoroutes et des canaux, grands travaux potentiellement destructeurs de forêts, d’humus et de paysages ; implantation d’usines ; monocultures. Le traitement de ces problèmes demande que les régions soient dotées de pouvoirs de décision, c’est-à-dire d’un régime d’autogestion.</p>
+<pb n="302" xml:id="p302"/>
+<p>2. En revanche, <hi>l’application des mesures écologiques est nécessairement locale</hi> et régionale dans la grande majorité des cas : choix du site d’une centrale nucléaire, option pour d’autres sources d’énergie, tracé des autoroutes et des canaux, grands travaux potentiellement destructeurs de forêts, d’humus et de paysages ; implantation d’usines ; monocultures. Le traitement de ces problèmes demande que les régions soient dotées de pouvoirs de décision, c’est-à-dire d’un régime d’autogestion.</p>
 
 <p>3. Quant aux <hi>problèmes dont l’ordre de grandeur s’annonce continental</hi> (climats, matières premières, monnaies, grandes voies de communication), ou planétaire (océans, stratosphère, couche d’ozone protectrice de la vie sur la Terre, certes plus rares, mais non moins vitaux), ils demandent l’intervention d’autorités continentales, dont on a vu qu’elles ne pourront se constituer que sur la base des régions, non des États-nations actuels.</p>
 
@@ -3525,7 +3562,8 @@
 </div>
 <div>
 
-<pb n="303" xml:id="p303"/><head>Hiérarchie des motifs</head>
+<pb n="303" xml:id="p303"/>
+<head>Hiérarchie des motifs</head>
 
 <p>Le motif ethnique ou linguistique a servi ici ou là de détonateur, souvent au sens technique du terme. Les motifs économiques se sont révélés partout actifs et nécessaires mais nulle part suffisants ni durables. C’est donc le besoin d’une communauté nouvelle, structurée par et pour la <hi>participation civique</hi>, qui s’avère le motif le plus sérieux, le plus profond et le plus général de la création des régions.</p>
 
@@ -3538,7 +3576,8 @@
 </div>
 <div>
 
-<pb n="305" xml:id="p305"/><head>14. L’autogestion politique</head>
+<pb n="305" xml:id="p305"/>
+<head>14. L’autogestion politique</head>
 
 
 <div>
@@ -3635,7 +3674,8 @@
 
 <p rend="center"/>
 
-<pb n="314" xml:id="p314"/><p>3. « <hi>La taille européenne.</hi> » C’est au Technocrate inconnu que l’on doit cette expression. Beaucoup l’emploient, l’air entendu, mais nul ne sait ce qu’elle signifie. Les régions, nous dit-on, doivent être de « taille européenne ». Quelle est cette taille ? Qui en décide ? Au nom de quoi ? Que veut-on dire ?</p>
+<pb n="314" xml:id="p314"/>
+<p>3. « <hi>La taille européenne.</hi> » C’est au Technocrate inconnu que l’on doit cette expression. Beaucoup l’emploient, l’air entendu, mais nul ne sait ce qu’elle signifie. Les régions, nous dit-on, doivent être de « taille européenne ». Quelle est cette taille ? Qui en décide ? Au nom de quoi ? Que veut-on dire ?</p>
 
 <p>On me répond qu’il s’agit de « découper » des régions qui soient assez grandes, assez peuplées, assez industrialisées et bétonnées pour être « compétitives à l’échelle européenne ». Mais « compétitives » avec quoi ? — Avec les Länder allemands, me dit-on. Encore faudrait-il savoir lesquels : la Bavière, 71 000 km<hi rend="sup">2</hi> et douze millions d’habitants, ou Hambourg, 747 km<hi rend="sup">2</hi> et moins de deux millions d’habitants ?</p>
 
@@ -3766,7 +3806,8 @@
 </div>
 <div>
 
-<pb n="325" xml:id="p325"/><head>15. Stratégie</head>
+<pb n="325" xml:id="p325"/>
+<head>15. Stratégie</head>
 
 
 <div>
@@ -3790,7 +3831,7 @@
 <p>L’histoire rend compte de l’antithèse. La vraie fédération des Suisses n’a pas pris neuf mois pour se faire, mais cinq siècles. La Suisse est le produit d’un passé, auquel se réfèrent sans défaut actes et pactes fondateurs. L’Amérique est l’exemple mémorable, unique au monde, d’une nation qui s’est constituée en rupture de passé et pour l’avenir<note place="foot">Les colons qui ont fait l’Amérique <hi>fuyaient</hi> l’Europe et ses intolérances sociales autant que religieuses. Et la célèbre invocation du préambule de la Déclaration d’indépendance, posant le droit fondamental à « la poursuite du bonheur » est un appel à ce qu’il faut instaurer, non le rappel de ce qui doit être sauvegardé.</note>. Goethe l’en félicitait dans un poème fameux :</p>
 
 <quote>
-  <l>Amérique, à toi le meilleur Sur notre continent, l’ancien. Tu n’as pas de châteaux en ruine Pas de basalte. Et tu n’es pas, au plus intime Des heures vitales Troublée par de vains souvenirs, Par tant de vieux conflits en vain… Saisis les chances du Présent !</l>
+<l>Amérique, à toi le meilleur Sur notre continent, l’ancien. Tu n’as pas de châteaux en ruine Pas de basalte. Et tu n’es pas, au plus intime Des heures vitales Troublée par de vains souvenirs, Par tant de vieux conflits en vain… Saisis les chances du Présent !</l>
 </quote>
 
 <p><pb n="327" xml:id="p327"/>Si les Suisses se sont fédérés pas à pas, dans une astucieuse lenteur, à travers la dense forêt des coutumes et des allégeances féodales, c’était à seule fin de <hi>rester</hi> libres « comme les pères le furent<note place="foot"><hi>Guillaume Tell</hi> de Friedrich von Schiller.</note> ». Mais les Américains en rupture de passé n’ont pu faire autrement que d’improviser sur table rase. Les deux constructions fédéralistes les plus réussies jusqu’ici portent les traces universelles de leur genèse.</p>
@@ -4151,7 +4192,8 @@
 </div>
 <div>
 
-<pb n="352" xml:id="p352"/><head>Rien n’empêchera…</head>
+<pb n="352" xml:id="p352"/>
+<head>Rien n’empêchera…</head>
 
 <p>Et d’abord, par souci de précision, je répondrai à ces questions que je voudrais que le lecteur me pose pour s’assurer qu’il m’a compris.</p>
 
@@ -4339,7 +4381,8 @@
 </div>
 <div>
 
-<pb n="367" xml:id="p367"/><head>Conclusion. « Sentinelle, que dis-tu de la nuit ? »</head>
+<pb n="367" xml:id="p367"/>
+<head>Conclusion. « Sentinelle, que dis-tu de la nuit ? »</head>
 
 <p>Il y a quelques années, ayant écrit que l’action politique par excellence allait consister désormais à prendre des mesures conservatoires de l’Humain, quelqu’un demanda : « Pourquoi voulez-vous donc que ça dure ? » Question morbide, mais lucide, et qu’on ne peut simplement écarter.</p>
 
@@ -4385,5 +4428,5 @@
 
 </div>
 </body>
-  </text>
+</text>
 </TEI>
