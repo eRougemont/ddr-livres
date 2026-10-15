@@ -28,7 +28,7 @@
 		<ptr target="https://www.unige.ch/rougemont/livres/ddr19750200cernfec"/>
 		<idno type="callNumber">ddr19750200cernfec</idno>
 		<imprint>
-			<date when="1975">1975</date>
+			<date when="1975-02">1975</date>
 			<publisher>Bulletin du Centre européen de la culture</publisher>
 			<pubPlace>Genève</pubPlace>
 		</imprint>
@@ -43,7 +43,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1975"/>
+        <date when="1975-02"/>
       </creation>
       <langUsage>
         <language ident="fr"/>

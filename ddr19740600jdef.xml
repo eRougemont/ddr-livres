@@ -28,7 +28,7 @@
 		<ptr target="https://www.unige.ch/rougemont/livres/ddr19740600jdef"/>
 		<idno type="callNumber">ddr19740600jdef</idno>
 		<imprint>
-			<date when="1974">1974</date>
+			<date when="1974-06">1974</date>
 			<publisher>Bulletin du Centre européen de la culture</publisher>
 			<pubPlace>Genève</pubPlace>
 		</imprint>
@@ -43,7 +43,7 @@
     </fileDesc>
     <profileDesc>
       <creation>
-        <date when="1974"/>
+        <date when="1974-06"/>
       </creation>
       <langUsage>
         <language ident="fr"/>
